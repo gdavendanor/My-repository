@@ -844,17 +844,6 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 \f@ncyO@olf=\skip60
 \f@ncyO@orf=\skip61
 )
-Runaway argument?
-{\includegraphics [height=12pt]{Images/logo-colegio.png} \fancyhead [\ETC.
-! Paragraph ended before \f@ncyhf was complete.
-<to be read again> 
-                   \par 
-l.20 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
 (./8AlgGuia03IntExpAlg.aux)
 \openout1 = `8AlgGuia03IntExpAlg.aux'.
 
