@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 17:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 17:59
 entering extended mode
  %&-line parsing enabled.
 **8AlgGuia03IntExpAlg.tex
@@ -830,7 +830,7 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 \Gm@even@mp=\dimen172
 \Gm@dimlist=\toks39
 )
-No file 8AlgGuia03IntExpAlg.aux.
+(./8AlgGuia03IntExpAlg.aux)
 \openout1 = `8AlgGuia03IntExpAlg.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -848,7 +848,7 @@ LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 33.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
@@ -875,6 +875,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
+
+(./8AlgGuia03IntExpAlg.out) (./8AlgGuia03IntExpAlg.out)
 \@outlinefile=\write4
 \openout4 = `8AlgGuia03IntExpAlg.out'.
 
@@ -978,18 +980,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 35.
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--63
-[]\T1/lmr/m/n/10.95 Expresa, in-di-can-do las ope-ra-cio-nes que
- []
-
-
-Underfull \hbox (badness 7851) in paragraph at lines 39--63
-\T1/lmr/m/n/10.95 de-bes ha-cer y cal-cu-lan-do el re-sul-ta-do:
- []
-
-
-Overfull \hbox (109.77213pt too wide) in paragraph at lines 39--63
-[] 
+Overfull \hbox (109.77213pt too wide) in paragraph at lines 41--64
+[][] 
  []
 
 [1
@@ -997,8 +989,8 @@ Overfull \hbox (109.77213pt too wide) in paragraph at lines 39--63
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>] (./8AlgGuia03IntExpAlg.aux) ) 
 Here is how much of TeX's memory you used:
- 14840 strings out of 494999
- 253921 string characters out of 1180816
+ 14846 strings out of 494999
+ 254065 string characters out of 1180816
  319912 words of memory out of 3000000
  17688 multiletter control sequences out of 15000+50000
  44664 words of font info for 58 fonts, out of 3000000 for 9000
@@ -1011,7 +1003,7 @@ mf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/font
 s/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
 
-Output written on 8AlgGuia03IntExpAlg.pdf (1 page, 168584 bytes).
+Output written on 8AlgGuia03IntExpAlg.pdf (1 page, 168597 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
