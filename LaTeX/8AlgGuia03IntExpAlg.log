@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 18:42
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 18:47
 entering extended mode
  %&-line parsing enabled.
 **8AlgGuia03IntExpAlg.tex
@@ -1009,26 +1009,31 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] [3] (./8AlgGuia03IntExpAlg.aux) ) 
+[2]
+Overfull \hbox (49.86252pt too wide) in paragraph at lines 187--200
+ [] 
+ []
+
+[3] (./8AlgGuia03IntExpAlg.aux) ) 
 Here is how much of TeX's memory you used:
  15885 strings out of 494999
  271886 string characters out of 1180816
- 354325 words of memory out of 3000000
+ 355325 words of memory out of 3000000
  18660 multiletter control sequences out of 15000+50000
  51990 words of font info for 57 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,430b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
-thit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts
-/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</us
-r/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/pu
-blic/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmsy7.pfb>
-Output written on 8AlgGuia03IntExpAlg.pdf (3 pages, 241996 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit
+.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc
+/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sh
+are/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/te
+xmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
+12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmsy7.pfb>
+Output written on 8AlgGuia03IntExpAlg.pdf (3 pages, 243393 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
