@@ -981,7 +981,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 35.
 
 Overfull \hbox (109.77213pt too wide) in paragraph at lines 41--64
-[][] 
+ [] 
  []
 
 [1
@@ -995,7 +995,7 @@ Here is how much of TeX's memory you used:
  17688 multiletter control sequences out of 15000+50000
  44664 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,7n,55p,430b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,7n,55p,430b,368s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/
 usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/
 lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/tex
