@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:31
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:32
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -1021,9 +1021,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2] (./11ProbGuia03Introd.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
