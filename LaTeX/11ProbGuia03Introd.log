@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:30
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -996,38 +996,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
-
-! LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.50 \begin{table}[h!]
-                      
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-\caption@ORI@xfloat ... \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.50 \begin{table}[h!]
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.50 \begin{table}[h!]
-                      
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
 ! Misplaced \omit.
 \multispan ->\omit 
                    \@multispan 
@@ -1073,11 +1041,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15830 strings out of 494999
- 271535 string characters out of 1180816
- 346325 words of memory out of 3000000
+ 15831 strings out of 494999
+ 271550 string characters out of 1180816
+ 344325 words of memory out of 3000000
  18664 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -1089,9 +1060,9 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (3 pages, 221991 bytes).
+Output written on 11ProbGuia03Introd.pdf (3 pages, 223233 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 65 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
