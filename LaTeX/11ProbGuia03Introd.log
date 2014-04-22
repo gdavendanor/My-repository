@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:26
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -1028,6 +1028,19 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
+! Misplaced \omit.
+\multispan ->\omit 
+                   \@multispan 
+l.52 ...icolumn{2}{c}{Colores M\&M's por cantidad}
+                                                   \\ \hline
+I expect to see \omit only after tab marks or the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (12.26738pt too wide) in paragraph at lines 51--63
+[][] 
+ []
+
 
 LaTeX Warning: Reference `tab1' on page 1 undefined on input line 81.
 
@@ -1064,7 +1077,7 @@ LaTeX Warning: There were undefined references.
 Here is how much of TeX's memory you used:
  15830 strings out of 494999
  271535 string characters out of 1180816
- 345325 words of memory out of 3000000
+ 346325 words of memory out of 3000000
  18664 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
