@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:20
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -997,17 +997,49 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
 
-LaTeX Warning: Reference `tab1' on page 1 undefined on input line 63.
+! LaTeX Error: Not in outer par mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \begin
+           {tabular}{c|c}
+You've lost some text.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\caption@ORI@xfloat ... \global \setbox \@currbox 
+                                                  \color@vbox \normalcolor \...
+l.51 \begin
+           {tabular}{c|c}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \vbox 
+l.51 \begin
+           {tabular}{c|c}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
 
-LaTeX Warning: Reference `tab2' on page 1 undefined on input line 66.
+LaTeX Warning: Reference `tab1' on page 1 undefined on input line 79.
+
+
+LaTeX Warning: Reference `tab2' on page 1 undefined on input line 82.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
 
-LaTeX Warning: Reference `tab2' on page 2 undefined on input line 76.
+LaTeX Warning: Reference `tab2' on page 2 undefined on input line 92.
 
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
@@ -1023,10 +1055,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 15825 strings out of 494999
- 271469 string characters out of 1180816
- 342325 words of memory out of 3000000
- 18661 multiletter control sequences out of 15000+50000
+ 15827 strings out of 494999
+ 271506 string characters out of 1180816
+ 343325 words of memory out of 3000000
+ 18663 multiletter control sequences out of 15000+50000
  50722 words of font info for 57 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,429b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1037,7 +1069,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (2 pages, 202961 bytes).
+Output written on 11ProbGuia03Introd.pdf (2 pages, 202977 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
