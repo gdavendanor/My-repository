@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:34
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -997,20 +997,34 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+! Package caption Error: \caption outside float.
+
+See the caption package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 \caption
+             {Tabla 1}\label{tab1}
+If you do not understand this error, please take a closer look
+at the documentation of the `caption' package, especially the
+section about errors.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `tab2' on page 1 undefined on input line 85.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Warning: Reference `tab2' on page 1 undefined on input line 95.
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
-File: Images/logo-colegio.png Graphic file (type png)
 
+LaTeX Warning: Reference `tab2' on page 2 undefined on input line 83.
+
+
+LaTeX Warning: Reference `tab2' on page 2 undefined on input line 93.
+
+File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1018,29 +1032,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./11ProbGuia03Introd.aux)
+[2] [3] (./11ProbGuia03Introd.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15828 strings out of 494999
- 271521 string characters out of 1180816
+ 15829 strings out of 494999
+ 271513 string characters out of 1180816
  346325 words of memory out of 3000000
- 18663 multiletter control sequences out of 15000+50000
- 50722 words of font info for 57 fonts, out of 3000000 for 9000
+ 18662 multiletter control sequences out of 15000+50000
+ 54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,15n,55p,429b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
-/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (2 pages, 204395 bytes).
+ 56i,15n,55p,429b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{table.caption.2} has been referenced but does not
+ exist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/t
+exmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 11ProbGuia03Introd.pdf (3 pages, 223363 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
