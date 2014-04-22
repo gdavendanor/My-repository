@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:04
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:07
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -996,12 +996,20 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
+
+LaTeX Warning: Reference `tab1' on page 1 undefined on input line 63.
+
+
+LaTeX Warning: Reference `tab2' on page 1 undefined on input line 66.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
-File: Images/logo-colegio.png Graphic file (type png)
 
+LaTeX Warning: Reference `tab2' on page 2 undefined on input line 76.
+
+File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1009,25 +1017,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./11ProbGuia03Introd.aux) ) 
+[2] (./11ProbGuia03Introd.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 15817 strings out of 494999
- 271382 string characters out of 1180816
- 344325 words of memory out of 3000000
- 18654 multiletter control sequences out of 15000+50000
- 47727 words of font info for 56 fonts, out of 3000000 for 9000
+ 15825 strings out of 494999
+ 271469 string characters out of 1180816
+ 342325 words of memory out of 3000000
+ 18661 multiletter control sequences out of 15000+50000
+ 50722 words of font info for 57 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,429b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.
-enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/l
-m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7
-.pfb>
-Output written on 11ProbGuia03Introd.pdf (2 pages, 178714 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmsy7.pfb>
+Output written on 11ProbGuia03Introd.pdf (2 pages, 202961 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  4 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
