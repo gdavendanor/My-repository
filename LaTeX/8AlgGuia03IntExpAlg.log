@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 18:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 19:02
 entering extended mode
  %&-line parsing enabled.
 **8AlgGuia03IntExpAlg.tex
@@ -1013,8 +1013,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/logo-colegio.png Graphic file (type png)
  <use Images/logo-colegio.png> [4] (./8AlgGuia03IntExpAlg.aux) ) 
 Here is how much of TeX's memory you used:
- 15886 strings out of 494999
- 271892 string characters out of 1180816
+ 15889 strings out of 494999
+ 271913 string characters out of 1180816
  355325 words of memory out of 3000000
  18660 multiletter control sequences out of 15000+50000
  51990 words of font info for 57 fonts, out of 3000000 for 9000
@@ -1030,9 +1030,9 @@ texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 8AlgGuia03IntExpAlg.pdf (4 pages, 244419 bytes).
+Output written on 8AlgGuia03IntExpAlg.pdf (4 pages, 245816 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
