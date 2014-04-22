@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:31
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -996,18 +996,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.52 ...icolumn{2}{c}{Colores M\&M's por cantidad}
-                                                   \\ \hline
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
 
-
-Overfull \hbox (12.26738pt too wide) in paragraph at lines 51--63
-[][] 
- []
+Package caption Warning: \label before \caption on input line 51.
+See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `tab1' on page 1 undefined on input line 81.
@@ -1060,9 +1051,9 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (3 pages, 223233 bytes).
+Output written on 11ProbGuia03Introd.pdf (3 pages, 223412 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
