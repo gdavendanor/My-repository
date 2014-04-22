@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:38
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 20:39
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -1020,12 +1020,15 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 15828 strings out of 494999
- 271498 string characters out of 1180816
+ 15829 strings out of 494999
+ 271501 string characters out of 1180816
  347325 words of memory out of 3000000
- 18662 multiletter control sequences out of 15000+50000
+ 18663 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,429b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
