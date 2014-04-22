@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 21:39
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.10)  21 APR 2014 21:48
 entering extended mode
  %&-line parsing enabled.
 **11ProbGuia03Introd.tex
@@ -1009,25 +1009,39 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] [3] (./11ProbGuia03Introd.aux) ) 
+[2]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 150.
+
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+File: Images/logo-colegio.png Graphic file (type png)
+
+<use Images/logo-colegio.png> [4] (./11ProbGuia03Introd.aux) ) 
 Here is how much of TeX's memory you used:
- 15845 strings out of 494999
- 271656 string characters out of 1180816
- 344325 words of memory out of 3000000
- 18668 multiletter control sequences out of 15000+50000
- 54988 words of font info for 58 fonts, out of 3000000 for 9000
+ 15893 strings out of 494999
+ 272337 string characters out of 1180816
+ 345325 words of memory out of 3000000
+ 18707 multiletter control sequences out of 15000+50000
+ 64281 words of font info for 62 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,15n,55p,429b,333s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.
-enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/
-enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-msy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (3 pages, 207119 bytes).
+ 56i,15n,55p,429b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf
+/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.en
+c}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/
+public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
+are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
+Output written on 11ProbGuia03Introd.pdf (4 pages, 292468 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
+ 104 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
