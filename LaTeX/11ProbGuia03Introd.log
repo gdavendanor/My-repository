@@ -996,6 +996,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
+
+LaTeX Warning: Reference `tab1' on page 1 undefined on input line 78.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1008,7 +1012,11 @@ LaTeX Warning: Reference `tab2' on page 2 undefined on input line 82.
 
 LaTeX Warning: Reference `tab2' on page 2 undefined on input line 92.
 
+
+Underfull \vbox (badness 1803) has occurred while \output is active []
+
 File: Images/logo-colegio.png Graphic file (type png)
+
 <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1019,6 +1027,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2] [3] (./11ProbGuia03Introd.aux)
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
@@ -1036,9 +1047,9 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11ProbGuia03Introd.pdf (3 pages, 223104 bytes).
+Output written on 11ProbGuia03Introd.pdf (3 pages, 222928 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
