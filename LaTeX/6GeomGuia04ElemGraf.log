@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.26)  27 APR 2014 17:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.27)  27 APR 2014 17:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **6GeomGuia04ElemGraf.tex
 (./6GeomGuia04ElemGraf.tex
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 5 languages loaded.
+Babel <3.9h> and hyphenation patterns for 7 languages loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
@@ -347,20 +347,8 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
-)
-! Font T1/cmr/m/n/10.95=ecrm1095 at 10.95pt not loadable: Metric (TFM) file not
- found.
-<to be read again> 
-                   relax 
-l.100 \fontencoding\encodingdefault\selectfont
-                                              
-I wasn't able to read the size data for this font,
-so I will ignore the font specification.
-[Wizards can fix TFM files using TFtoPL/PLtoTF.]
-You might try inserting a different font spec;
-e.g., type `I\font<same font id>=<substitute font name>'.
-
-) (/usr/share/texmf/tex/latex/lm/lmodern.sty
+))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -1044,12 +1032,12 @@ Package rerunfilecheck Info: File `6GeomGuia04ElemGraf.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 15964 strings out of 494966
- 272212 string characters out of 6179559
- 349434 words of memory out of 5000000
- 18850 multiletter control sequences out of 15000+600000
- 43895 words of font info for 57 fonts, out of 8000000 for 9000
- 40 hyphenation exceptions out of 8191
+ 15964 strings out of 494925
+ 272212 string characters out of 6178544
+ 349584 words of memory out of 5000000
+ 18857 multiletter control sequences out of 15000+600000
+ 44664 words of font info for 58 fonts, out of 8000000 for 9000
+ 62 hyphenation exceptions out of 8191
  56i,6n,55p,430b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
