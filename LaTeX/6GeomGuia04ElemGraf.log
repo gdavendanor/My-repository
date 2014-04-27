@@ -1028,9 +1028,9 @@ File: Images/Fig_abiertas_cerradas.png Graphic file (type png)
 <use Images/Fig_abiertas_cerradas.png>
 Package pdftex.def Info: Images/Fig_abiertas_cerradas.png used on input line 90
 .
-(pdftex.def)             Requested size: 401.89673pt x 164.4123pt.
+(pdftex.def)             Requested size: 309.15424pt x 126.47218pt.
 
-Overfull \hbox (153.95174pt too wide) in paragraph at lines 90--93
+Overfull \hbox (61.20924pt too wide) in paragraph at lines 90--93
 []
  []
 
@@ -1042,9 +1042,9 @@ Overfull \hbox (153.95174pt too wide) in paragraph at lines 90--93
 File: Images/corrales.png Graphic file (type png)
  <use Images/corrales.png>
 Package pdftex.def Info: Images/corrales.png used on input line 103.
-(pdftex.def)             Requested size: 289.07928pt x 127.22498pt.
+(pdftex.def)             Requested size: 250.53302pt x 110.2606pt.
 
-Overfull \hbox (41.1343pt too wide) in paragraph at lines 103--104
+Overfull \hbox (2.58803pt too wide) in paragraph at lines 103--104
  [] 
  []
 
@@ -1076,18 +1076,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
 Here is how much of TeX's memory you used:
  16013 strings out of 494925
  273474 string characters out of 6178544
- 354584 words of memory out of 5000000
+ 353584 words of memory out of 5000000
  18901 multiletter control sequences out of 15000+600000
  44664 words of font info for 58 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 56i,15n,55p,430b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,55p,430b,529s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 6GeomGuia04ElemGraf.pdf (2 pages, 213091 bytes).
+Output written on 6GeomGuia04ElemGraf.pdf (2 pages, 213081 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream
