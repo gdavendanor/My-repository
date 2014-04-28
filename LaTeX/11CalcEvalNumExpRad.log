@@ -478,7 +478,7 @@ File: Images/logo-sed.png Graphic file (type png)
 Here is how much of TeX's memory you used:
  2837 strings out of 494999
  34309 string characters out of 1180816
- 96727 words of memory out of 3000000
+ 95727 words of memory out of 3000000
  5995 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -495,7 +495,7 @@ fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
 are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-te
 xlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11CalcEvalNumExpRad.pdf (3 pages, 188332 bytes).
+Output written on 11CalcEvalNumExpRad.pdf (3 pages, 188267 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
