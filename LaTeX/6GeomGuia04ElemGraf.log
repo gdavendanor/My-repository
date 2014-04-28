@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.27)  27 APR 2014 19:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.27)  27 APR 2014 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1050,155 +1050,6 @@ Overfull \hbox (224.06729pt too wide) in paragraph at lines 124--125
  [] 
  []
 
-! Argument of \tikz@next has an extra }.
-<inserted text> 
-                \par 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-\filldraw [gray] (0,0) rectangle (1.2,1) \unskip \hfil 
-! Paragraph ended before \tikz@next was complete.
-<to be read again> 
-                   \par 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (6.0pt too wide) detected at line 138
-            []  | 
- []
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.138 ...\filldraw[gray] (0,0) rectangle (1.2,1) &
-                                                    &  &  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 <Images/pentagono.png, id=27, 57.21375pt x 54.2025pt>
 File: Images/pentagono.png Graphic file (type png)
 
@@ -1257,10 +1108,10 @@ Package rerunfilecheck Info: File `6GeomGuia04ElemGraf.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 151.
  ) 
 Here is how much of TeX's memory you used:
- 16051 strings out of 494925
- 274191 string characters out of 6178544
- 367584 words of memory out of 5000000
- 18931 multiletter control sequences out of 15000+600000
+ 16052 strings out of 494925
+ 274208 string characters out of 6178544
+ 364584 words of memory out of 5000000
+ 18932 multiletter control sequences out of 15000+600000
  44664 words of font info for 58 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  56i,15n,55p,430b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1270,7 +1121,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 6GeomGuia04ElemGraf.pdf (2 pages, 235680 bytes).
+Output written on 6GeomGuia04ElemGraf.pdf (2 pages, 235707 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
