@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  27 APR 2014 22:33
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  27 APR 2014 22:56
 entering extended mode
  %&-line parsing enabled.
 **11CalcEvalNumExpRad.tex
@@ -459,49 +459,35 @@ File: Images/logo-colegio.png Graphic file (type png)
 \MPscratchDim=\dimen121
 \MPnumerator=\count110
 \everyMPtoPDFconversion=\toks25
-) [1
+) AED: lastpage setting LastPage [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
- copy)> <./Images/logo-colegio.png (PNG copy)>]
-File: Images/logo-sed.png Graphic file (type png)
- <use Images/logo-sed.png>
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 19.60004pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2] AED: lastpage setting LastPage
-File: Images/logo-sed.png Graphic file (type png)
- <use Images/logo-sed.png> [3]
-(./11CalcEvalNumExpRad.aux)
+ copy)> <./Images/logo-colegio.png (PNG copy)>] (./11CalcEvalNumExpRad.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 2837 strings out of 494999
- 34309 string characters out of 1180816
- 96823 words of memory out of 3000000
- 5995 multiletter control sequences out of 15000+50000
- 8459 words of font info for 31 fonts, out of 3000000 for 9000
+ 2835 strings out of 494999
+ 34287 string characters out of 1180816
+ 98821 words of memory out of 3000000
+ 5994 multiletter control sequences out of 15000+50000
+ 8151 words of font info for 30 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 28i,14n,45p,236b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb>
-Output written on 11CalcEvalNumExpRad.pdf (3 pages, 188071 bytes).
+ 28i,8n,45p,236b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1
+/public/amsfonts/cm/cmti10.pfb>
+Output written on 11CalcEvalNumExpRad.pdf (1 page, 163878 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
