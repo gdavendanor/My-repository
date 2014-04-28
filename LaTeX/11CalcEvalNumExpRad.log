@@ -383,7 +383,7 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 \Gin@req@height=\dimen118
 \Gin@req@width=\dimen119
 )
-No file 11CalcEvalNumExpRad.aux.
+(./11CalcEvalNumExpRad.aux)
 \openout1 = `11CalcEvalNumExpRad.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -398,6 +398,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
 -------------------- Geometry parameters
@@ -465,9 +466,6 @@ File: Images/logo-colegio.png Graphic file (type png)
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
 
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 38.
-
-
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 19.60004pt.
  We now make it that large for the rest of the document.
@@ -475,39 +473,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
- <use Images/logo-sed.png>
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 43.
-
-[3] (./11CalcEvalNumExpRad.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ <use Images/logo-sed.png> [3]
+(./11CalcEvalNumExpRad.aux) ) 
 Here is how much of TeX's memory you used:
- 2835 strings out of 494999
- 34261 string characters out of 1180816
- 96720 words of memory out of 3000000
+ 2837 strings out of 494999
+ 34309 string characters out of 1180816
+ 96727 words of memory out of 3000000
  5995 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  28i,14n,45p,236b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb>
-Output written on 11CalcEvalNumExpRad.pdf (3 pages, 188435 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcs
+c10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 11CalcEvalNumExpRad.pdf (3 pages, 188332 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
