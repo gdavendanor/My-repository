@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 17:59
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 18:03
 entering extended mode
  %&-line parsing enabled.
 **11SustRecomIA.tex
@@ -459,27 +459,12 @@ File: Images/logo-colegio.png Graphic file (type png)
 \MPscratchDim=\dimen121
 \MPnumerator=\count110
 \everyMPtoPDFconversion=\toks25
-)
-! Undefined control sequence.
-<recently read> \noin 
-                      
-l.24 ...siguiente tabla escribiendo $\in$ o $\noin
-                                                  $
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png (PNG copy)>]
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 54.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 19.60004pt.
@@ -488,39 +473,29 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
- <use Images/logo-sed.png>
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 59.
-
-[3] (./11SustRecomIA.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ <use Images/logo-sed.png> [3]
+(./11SustRecomIA.aux) ) 
 Here is how much of TeX's memory you used:
- 2839 strings out of 494999
- 34267 string characters out of 1180816
- 99765 words of memory out of 3000000
- 5997 multiletter control sequences out of 15000+50000
+ 2838 strings out of 494999
+ 34263 string characters out of 1180816
+ 99772 words of memory out of 3000000
+ 5996 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  28i,14n,45p,230b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/typ
-e1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/am
-sfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-ti10.pfb>
-Output written on 11SustRecomIA.pdf (3 pages, 190124 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/te
+xmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on 11SustRecomIA.pdf (3 pages, 190178 bytes).
 PDF statistics:
  66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
