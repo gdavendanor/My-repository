@@ -1,0 +1,44 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} %Asignatura $Curso^{\circ}$}
+\ExamName{%Sample Exam}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{36pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+%Please show \textbf{all} your work! Answers without supporting work will not be given credit. Write answers in spaces provided. You have 1 hour and 50 minutes to complete this exam.}
+\LineaNombre
+\begin{enumerate}
+   \item Calculate the following limits.  If a limit is $\infty$ or $-\infty$,
+      please say so.  Make sure you show all your work and justify all your
+      answers.  
+      \begin{enumerate}
+	 \item $\ds{\lim_{x\rightarrow3}\frac{\sqrt{x+1} - 2}{x-3}}$\answer
+	 \item $\ds{\lim_{x\rightarrow0}\frac{\sin(4x)}{8x}}$\answer
+      \end{enumerate}
+   \item Use the $\varepsilon$-$\delta$ definition of limit to prove that 
+      \[\lim_{x\rightarrow 2} x^2 - 3x + 2 = 0\]\noanswer[2.5in]
+      \newpage
+   \item If $h(x) = \sqrt{x^2 + 2} - 1$, find a \textbf{non-trivial} decomposition of $h$ into $f$ and $g$ such that $h = f\circ g$.
+      \answer*{$f(x)=$}\addanswer*{$g(x)=$}
+   \item Find the first two derivatives of the function $f(x) = x^2\cos(x)$.  Simplify
+      your answers as much as possible.  Show all your work.
+      \answer*{$f'(x)=$}\answer*{$f''(x)=$}
+      \newpage
+   \item Find the derivative of the function $\ds{f(x) = \int_{x^2}^2
+      \frac{\cos(t)}{t} \,dt}$.\answer[1in plus 1fill]
+   \item Set up, but do not evaluate, the integral for the volume of the solid obtained by rotating the area between the curves $y = x$ and $y = \sqrt{x}$ about the $x$-axis.\noanswer
+\end{enumerate}
+\end{document}
