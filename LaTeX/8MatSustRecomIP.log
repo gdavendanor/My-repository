@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 22:10
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 22:11
 entering extended mode
  %&-line parsing enabled.
 **8MatSustRecomIP.tex
@@ -100,8 +100,7 @@ File: babel.def 2008/07/06 v3.8l Babel common definitions
 \es@datefmt=\count88
 \es@quottoks=\toks17
 \es@quotdepth=\count89
-))
-No file 8MatSustRecomIP.aux.
+)) (./8MatSustRecomIP.aux)
 \openout1 = `8MatSustRecomIP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -116,7 +115,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
 \scratchdimen=\dimen111
@@ -274,9 +273,9 @@ If that doesn't work, type  X <return>  to quit.
 
 [2 <./8MatSustRecomIA.pdf>] (./8MatSustRecomIP.aux) ) 
 Here is how much of TeX's memory you used:
- 2354 strings out of 494999
- 32662 string characters out of 1180816
- 91138 words of memory out of 3000000
+ 2356 strings out of 494999
+ 32702 string characters out of 1180816
+ 91161 words of memory out of 3000000
  5552 multiletter control sequences out of 15000+50000
  3808 words of font info for 15 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
