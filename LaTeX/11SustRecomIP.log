@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:36
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:37
 entering extended mode
  %&-line parsing enabled.
 **11SustRecomIP.tex
@@ -178,7 +178,7 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-<11SustRecomIA.pdf, id=8, page=1, 469.755pt x 614.295pt>
+<11SustRecomIA.pdf, id=9, page=1, 469.755pt x 614.295pt>
 File: 11SustRecomIA.pdf Graphic file (type pdf)
 
 <use 11SustRecomIA.pdf, page 1>
@@ -189,7 +189,7 @@ File: 11SustRecomIA.pdf Graphic file (type pdf)
 <use 11SustRecomIA.pdf, page 1>
 File: 11SustRecomIA.pdf Graphic file (type pdf)
  <use 11SustRecomIA.pdf, page 1>
-<11SustRecomIB.pdf, id=9, page=1, 469.755pt x 614.295pt>
+<11SustRecomIB.pdf, id=10, page=1, 469.755pt x 614.295pt>
 File: 11SustRecomIB.pdf Graphic file (type pdf)
 
 <use 11SustRecomIB.pdf, page 1>
@@ -200,44 +200,45 @@ File: 11SustRecomIA.pdf Graphic file (type pdf)
 <use 11SustRecomIA.pdf, page 1>
 File: 11SustRecomIB.pdf Graphic file (type pdf)
  <use 11SustRecomIB.pdf, page 1> [1 <./11SustRecomIA.pdf{/var/lib/texmf/fonts/m
-ap/pdftex/updmap/pdftex.map}> <./11SustRecomIB.pdf>] <11SustRecomIA.pdf, id=76,
+ap/pdftex/updmap/pdftex.map}> <./11SustRecomIB.pdf>] <11SustRecomIA.pdf, id=77,
  page=2, 469.755pt x 614.295pt>
 File: 11SustRecomIA.pdf Graphic file (type pdf)
 
 <use 11SustRecomIA.pdf, page 2>
 File: 11SustRecomIA.pdf Graphic file (type pdf)
  <use 11SustRecomIA.pdf, page 2>
+<11SustRecomIB.pdf, id=78, page=2, 469.755pt x 614.295pt>
+File: 11SustRecomIB.pdf Graphic file (type pdf)
+
+<use 11SustRecomIB.pdf, page 2>
+File: 11SustRecomIB.pdf Graphic file (type pdf)
+ <use 11SustRecomIB.pdf, page 2>
 File: 11SustRecomIA.pdf Graphic file (type pdf)
 
 <use 11SustRecomIA.pdf, page 2>
-File: 11SustRecomIA.pdf Graphic file (type pdf)
- <use 11SustRecomIA.pdf, page 2>
-File: 11SustRecomIA.pdf Graphic file (type pdf)
-
-<use 11SustRecomIA.pdf, page 2>
-File: 11SustRecomIA.pdf Graphic file (type pdf)
- <use 11SustRecomIA.pdf, page 2> [2 <./11SustRecomIA.pdf>] (./11SustRecomIP.aux
-) ) 
+File: 11SustRecomIB.pdf Graphic file (type pdf)
+ <use 11SustRecomIB.pdf, page 2> [2 <./11SustRecomIA.pdf> <./11SustRecomIB.pdf>
+] (./11SustRecomIP.aux) ) 
 Here is how much of TeX's memory you used:
- 2358 strings out of 494999
- 32735 string characters out of 1180816
+ 2361 strings out of 494999
+ 32808 string characters out of 1180816
  91161 words of memory out of 3000000
- 5555 multiletter control sequences out of 15000+50000
+ 5558 multiletter control sequences out of 15000+50000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  32i,16n,37p,275b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/s
-hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-
-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
-m/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/
-texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texliv
-e/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11SustRecomIP.pdf (2 pages, 228937 bytes).
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 11SustRecomIP.pdf (2 pages, 231257 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 117 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
