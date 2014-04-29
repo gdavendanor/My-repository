@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 21:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 21:59
 entering extended mode
  %&-line parsing enabled.
 **8MatSustRecomIA.tex
@@ -622,8 +622,7 @@ File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
 hs.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-)))
-No file 8MatSustRecomIA.aux.
+))) (./8MatSustRecomIA.aux)
 \openout1 = `8MatSustRecomIA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -638,6 +637,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
+
 <Images/logo-sed.png, id=4, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
@@ -707,64 +707,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png (PNG copy)>]
-
-LaTeX Warning: File `./recta.png' not found on input line 48.
-
-
-! Package pdftex.def Error: File `./recta.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48  \includegraphics{./recta.png}
-                                   
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 52.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 19.60004pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./8MatSustRecomIA.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[2] (./8MatSustRecomIA.aux) ) 
 Here is how much of TeX's memory you used:
- 11085 strings out of 494999
- 198136 string characters out of 1180816
- 249179 words of memory out of 3000000
- 14049 multiletter control sequences out of 15000+50000
- 8627 words of font info for 32 fonts, out of 3000000 for 9000
+ 11168 strings out of 494999
+ 200307 string characters out of 1180816
+ 249186 words of memory out of 3000000
+ 14133 multiletter control sequences out of 15000+50000
+ 8151 words of font info for 30 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,15n,55p,405b,327s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/shar
-e/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texl
-ive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-texlive/fonts/type1/public/
-amsfonts/cm/cmtt10.pfb>
-Output written on 8MatSustRecomIA.pdf (2 pages, 179726 bytes).
+ 56i,15n,55p,405b,675s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmcsc10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cme
+x10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 8MatSustRecomIA.pdf (2 pages, 160024 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
