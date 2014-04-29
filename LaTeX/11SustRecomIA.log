@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:07
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:08
 entering extended mode
  %&-line parsing enabled.
 **11SustRecomIA.tex
@@ -476,7 +476,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  2839 strings out of 494999
  34271 string characters out of 1180816
- 100866 words of memory out of 3000000
+ 99866 words of memory out of 3000000
  5997 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -491,7 +491,7 @@ ic/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb
 ></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share
 /texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11SustRecomIA.pdf (2 pages, 170603 bytes).
+Output written on 11SustRecomIA.pdf (2 pages, 170599 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
