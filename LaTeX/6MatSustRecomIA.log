@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 21:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 21:21
 entering extended mode
  %&-line parsing enabled.
 **6MatSustRecomIA.tex
@@ -459,28 +459,42 @@ File: Images/logo-colegio.png Graphic file (type png)
 \MPscratchDim=\dimen121
 \MPnumerator=\count110
 \everyMPtoPDFconversion=\toks25
-) AED: lastpage setting LastPage [1
+) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
- copy)> <./Images/logo-colegio.png (PNG copy)>] (./6MatSustRecomIA.aux) ) 
+ copy)> <./Images/logo-colegio.png (PNG copy)>]
+AED: lastpage setting LastPage
+File: Images/logo-sed.png Graphic file (type png)
+ <use Images/logo-sed.png>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 19.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] (./6MatSustRecomIA.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  2838 strings out of 494999
  34276 string characters out of 1180816
- 98839 words of memory out of 3000000
+ 97839 words of memory out of 3000000
  5997 multiletter control sequences out of 15000+50000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 28i,6n,45p,232b,198s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/
-share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texm
-f-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10
-.pfb>
-Output written on 6MatSustRecomIA.pdf (1 page, 127279 bytes).
+ 28i,14n,45p,232b,312s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
+are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb
+>
+Output written on 6MatSustRecomIA.pdf (2 pages, 136034 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
