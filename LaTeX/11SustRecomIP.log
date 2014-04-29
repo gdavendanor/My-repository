@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 19:30
 entering extended mode
  %&-line parsing enabled.
 **11SustRecomIP.tex
@@ -100,8 +100,7 @@ File: babel.def 2008/07/06 v3.8l Babel common definitions
 \es@datefmt=\count88
 \es@quottoks=\toks17
 \es@quotdepth=\count89
-))
-No file 11SustRecomIP.aux.
+)) (./11SustRecomIP.aux)
 \openout1 = `11SustRecomIP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -116,6 +115,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
+
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
@@ -219,9 +219,9 @@ File: 11SustRecomIA.pdf Graphic file (type pdf)
  <use 11SustRecomIA.pdf, page 2> [2 <./11SustRecomIA.pdf>] (./11SustRecomIP.aux
 ) ) 
 Here is how much of TeX's memory you used:
- 2356 strings out of 494999
- 32699 string characters out of 1180816
- 91138 words of memory out of 3000000
+ 2358 strings out of 494999
+ 32735 string characters out of 1180816
+ 91161 words of memory out of 3000000
  5555 multiletter control sequences out of 15000+50000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
