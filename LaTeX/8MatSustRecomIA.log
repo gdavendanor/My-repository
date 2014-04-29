@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 22:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  28 APR 2014 22:04
 entering extended mode
  %&-line parsing enabled.
 **8MatSustRecomIA.tex
@@ -361,8 +361,20 @@ Package ifvtex Info: VTeX not detected.
 \Gm@odd@mp=\dimen116
 \Gm@even@mp=\dimen117
 \Gm@dimlist=\toks23
-)
-(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+
+
+! Package keyval Error: pagesize undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.856 \ProcessOptionsKV[p]{Gm}
+                              %
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
@@ -707,29 +719,26 @@ Missing character: There is no n in font nullfont!
  AED: lastpage setting LastPage [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
- copy)> <./Images/logo-colegio.png (PNG copy)>] (./8MatSustRecomIA.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ copy)> <./Images/logo-colegio.png (PNG copy)>] (./8MatSustRecomIA.aux) ) 
 Here is how much of TeX's memory you used:
- 11169 strings out of 494999
- 200323 string characters out of 1180816
- 250186 words of memory out of 3000000
- 14134 multiletter control sequences out of 15000+50000
+ 11170 strings out of 494999
+ 200337 string characters out of 1180816
+ 249209 words of memory out of 3000000
+ 14135 multiletter control sequences out of 15000+50000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,7n,55p,405b,658s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
-are/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-t
-exlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
-cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share
-/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texli
-ve/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 8MatSustRecomIA.pdf (1 page, 158082 bytes).
+ 56i,7n,55p,405b,656s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texm
+f-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-texlive/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/type1/
+public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-t
+exlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 8MatSustRecomIA.pdf (1 page, 157881 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
