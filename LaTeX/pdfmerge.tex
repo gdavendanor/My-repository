@@ -1,0 +1,7 @@
+\documentclass{minimal}
+\usepackage[final]{pdfpages}
+\usepackage[papersize={8.5in,13in}]{geometry}
+\usepackage[spanish,es-noshorthands]{babel}
+\begin{document}
+\includepdfmerge[nup=1x2, landscape]{%doc1.pdf,1-3,doc2.pdf, 3, 5, 9,doc3.pdf, 3-5, 7}
+\end{document}
