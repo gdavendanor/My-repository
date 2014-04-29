@@ -426,4 +426,78 @@ driver: pdftex
 \textheight 523.24629pt
 \oddsidemargin  -43.81725pt
 \evensidemargin -43.81725pt
-\topmargin  -66.
+\topmargin  -66.59087pt
+\headheight 12.0pt
+\headsep    25.0pt
+\footskip   30.0pt
+\marginparwidth 65.0pt
+\marginparsep   11.0pt
+\columnsep  10.0pt
+\skip\footins  9.0pt plus 4.0pt minus 2.0pt
+\hoffset 0.0pt
+\voffset 0.0pt
+\mag 1000
+
+(1in=72.27pt, 1cm=28.45pt)
+-----------------------
+<Images/logo-sed.png, id=1, 136.51pt x 156.585pt>
+File: Images/logo-sed.png Graphic file (type png)
+ <use Images/logo-sed.png>
+<Images/logo-colegio.png, id=2, 165.61874pt x 141.52875pt>
+File: Images/logo-colegio.png Graphic file (type png)
+
+<use Images/logo-colegio.png>
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen120
+\scratchbox=\box28
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen121
+\MPnumerator=\count110
+\everyMPtoPDFconversion=\toks25
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
+ copy)> <./Images/logo-colegio.png (PNG copy)>]
+File: Images/logo-sed.png Graphic file (type png)
+ <use Images/logo-sed.png>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 19.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] AED: lastpage setting LastPage
+File: Images/logo-sed.png Graphic file (type png)
+ <use Images/logo-sed.png> [3]
+(./6MatSustRecomIA.aux) ) 
+Here is how much of TeX's memory you used:
+ 2838 strings out of 494999
+ 34280 string characters out of 1180816
+ 96839 words of memory out of 3000000
+ 5996 multiletter control sequences out of 15000+50000
+ 8459 words of font info for 31 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 28i,14n,45p,232b,394s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmcsc10.
+pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/s
+hare/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-
+texlive/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-texlive/font
+s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
+cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb><
+/usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
+texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type
+1/public/amsfonts/cm/cmti10.pfb>
+Output written on 6MatSustRecomIA.pdf (3 pages, 188214 bytes).
+PDF statistics:
+ 66 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
