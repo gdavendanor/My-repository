@@ -1021,10 +1021,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] [3] (./6AritGuia07MultN.aux) ) 
 Here is how much of TeX's memory you used:
- 15915 strings out of 494999
- 273328 string characters out of 1180816
+ 15913 strings out of 494999
+ 273276 string characters out of 1180816
  348524 words of memory out of 3000000
- 18738 multiletter control sequences out of 15000+50000
+ 18736 multiletter control sequences out of 15000+50000
  64978 words of font info for 65 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,427b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
