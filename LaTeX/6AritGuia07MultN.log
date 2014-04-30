@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.29)  29 APR 2014 19:58
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.29)  29 APR 2014 19:59
 entering extended mode
  %&-line parsing enabled.
 **6AritGuia07MultN.tex
@@ -1020,12 +1020,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-! Too many }'s.
-l.192 ¿Cuánto es}
-                   
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 ! Missing number, treated as zero.
 <to be read again> 
                    \unhbox 
