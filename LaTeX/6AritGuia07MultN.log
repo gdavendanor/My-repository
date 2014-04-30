@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.29)  29 APR 2014 19:27
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.29)  29 APR 2014 19:32
 entering extended mode
  %&-line parsing enabled.
 **6AritGuia07MultN.tex
@@ -1019,27 +1019,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./6AritGuia07MultN.aux) ) 
+[2] [3] (./6AritGuia07MultN.aux) ) 
 Here is how much of TeX's memory you used:
- 15905 strings out of 494999
- 273147 string characters out of 1180816
- 347524 words of memory out of 3000000
- 18730 multiletter control sequences out of 15000+50000
- 60715 words of font info for 64 fonts, out of 3000000 for 9000
+ 15908 strings out of 494999
+ 273176 string characters out of 1180816
+ 348524 words of memory out of 3000000
+ 18731 multiletter control sequences out of 15000+50000
+ 64978 words of font info for 65 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,427b,556s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.en
-c}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
-/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
-/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts
-/symbols/msbm10.pfb>
-Output written on 6AritGuia07MultN.pdf (2 pages, 189896 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.en
+c}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/s
+hare/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pf
+b></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on 6AritGuia07MultN.pdf (3 pages, 209745 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 8 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
