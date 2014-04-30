@@ -1020,8 +1020,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Overfull \hbox (28.02109pt too wide) in paragraph at lines 168--178
-[]\T1/lmr/m/n/10 En el cua-derno. Con-te-mos los pun-tos. $[]$
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 170--179
+[]$[]$ $[]$ 
  []
 
 [3] (./6AritGuia07MultN.aux) ) 
@@ -1042,7 +1042,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></
 usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 6AritGuia07MultN.pdf (3 pages, 210380 bytes).
+Output written on 6AritGuia07MultN.pdf (3 pages, 210382 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
