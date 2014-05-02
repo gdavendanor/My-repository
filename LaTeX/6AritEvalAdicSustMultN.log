@@ -533,11 +533,6 @@ File: Images/logo-colegio.png Graphic file (type png)
 <Images/sudoku02.png, id=15, 578.16pt x 576.1525pt>
 File: Images/sudoku02.png Graphic file (type png)
  <use Images/sudoku02.png>
-Overfull \hbox (71.31915pt too wide) in paragraph at lines 71--72
-[][] 
- []
-
-
 Overfull \hbox (21.6429pt too wide) in paragraph at lines 67--73
 []$[]$ $[]$ 
  []
@@ -551,10 +546,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-File: Images/logo-sed.png Graphic file (type png)
- <use Images/logo-sed.png> [3 <./Images/sudoku02.png (PNG copy)>]
-(./6AritEvalAdicSustMultN.aux)
+[2 <./Images/sudoku02.png (PNG copy)>] (./6AritEvalAdicSustMultN.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -575,9 +567,9 @@ c/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 6AritEvalAdicSustMultN.pdf (3 pages, 177736 bytes).
+Output written on 6AritEvalAdicSustMultN.pdf (2 pages, 177024 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
