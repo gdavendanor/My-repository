@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:18
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:19
 entering extended mode
  %&-line parsing enabled.
 **6AritEvalAdicSustMultN.tex
@@ -454,20 +454,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-! Package keyval Error: heiconfirmed your subscription. You can always request 
-a mail-back of your password when you edit your personal options. ght undefined
-.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \begin{document}
-                     
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 <Images/logo-colegio.png, id=2, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
@@ -536,10 +522,10 @@ and I'll forget about whatever was undefined.
 
 [3] (./6AritEvalAdicSustMultN.aux) ) 
 Here is how much of TeX's memory you used:
- 2857 strings out of 494999
- 34762 string characters out of 1180816
- 98904 words of memory out of 3000000
- 6012 multiletter control sequences out of 15000+50000
+ 2856 strings out of 494999
+ 34631 string characters out of 1180816
+ 98798 words of memory out of 3000000
+ 6011 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  28i,14n,45p,239b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -556,7 +542,7 @@ cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb><
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmti10.pfb>
-Output written on 6AritEvalAdicSustMultN.pdf (3 pages, 196736 bytes).
+Output written on 6AritEvalAdicSustMultN.pdf (3 pages, 196729 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
