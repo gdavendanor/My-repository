@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 21:39
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 21:40
 entering extended mode
  %&-line parsing enabled.
 **6AritEvalAdicSustMultN.tex
@@ -533,12 +533,8 @@ File: Images/logo-colegio.png Graphic file (type png)
 <Images/sudoku02.png, id=15, 706.64pt x 706.64pt>
 File: Images/sudoku02.png Graphic file (type png)
  <use Images/sudoku02.png>
-Overfull \hbox (201.35817pt too wide) in paragraph at lines 66--68
-[]\OT1/cmr/bx/n/10 Punto de bo-ni-fi-ca-ci^^Son \OT1/cmr/m/n/10 Com-ple-te el s
-i-guien-te su-do-ku [] 
- []
-
 File: Images/logo-sed.png Graphic file (type png)
+
 <use Images/logo-sed.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
