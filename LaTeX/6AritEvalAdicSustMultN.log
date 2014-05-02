@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:33
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:34
 entering extended mode
  %&-line parsing enabled.
 **6AritEvalAdicSustMultN.tex
@@ -443,6 +443,17 @@ driver: pdftex
 <Images/logo-sed.png, id=1, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
+! Undefined control sequence.
+<recently read> \mathbb 
+                        
+l.19 \begin{document}
+                     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 <Images/logo-colegio.png, id=2, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
@@ -473,10 +484,10 @@ AED: lastpage setting LastPage [1
  copy)> <./Images/logo-colegio.png (PNG copy)>] (./6AritEvalAdicSustMultN.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 2853 strings out of 494999
- 34604 string characters out of 1180816
- 98889 words of memory out of 3000000
- 6009 multiletter control sequences out of 15000+50000
+ 2854 strings out of 494999
+ 34610 string characters out of 1180816
+ 98837 words of memory out of 3000000
+ 6010 multiletter control sequences out of 15000+50000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  28i,7n,45p,239b,231s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -487,7 +498,7 @@ xlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-texlive/fonts
 c/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/c
 m/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 ></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 6AritEvalAdicSustMultN.pdf (1 page, 140166 bytes).
+Output written on 6AritEvalAdicSustMultN.pdf (1 page, 139836 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
