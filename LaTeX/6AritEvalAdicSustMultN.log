@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:25
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.4.27)  1 MAY 2014 20:27
 entering extended mode
  %&-line parsing enabled.
 **6AritEvalAdicSustMultN.tex
@@ -402,13 +402,13 @@ LaTeX Font Info:    ... okay on input line 19.
 *geometry auto-detecting driver*
 *geometry detected driver: pdftex*
 -------------------- Geometry parameters
-paper: class default
+paper: user defined
 landscape: --
 twocolumn: --
 twoside: --
 asymmetric: --
-h-parts: 28.45274pt, 557.38951pt, 28.45274pt
-v-parts: 42.67912pt, 703.92128pt, 48.36958pt
+h-parts: 28.45274pt, 412.8495pt, 28.45274pt
+v-parts: 42.67912pt, 523.24629pt, 48.36958pt
 hmarginratio: --
 vmarginratio: --
 lines: --
@@ -420,10 +420,10 @@ includefoot: --
 includemp: --
 driver: pdftex
 -------------------- Page layout dimensions and switches
-\paperwidth  614.295pt
-\paperheight 794.96999pt
-\textwidth  557.38951pt
-\textheight 703.92128pt
+\paperwidth  469.75499pt
+\paperheight 614.295pt
+\textwidth  412.8495pt
+\textheight 523.24629pt
 \oddsidemargin  -43.81725pt
 \evensidemargin -43.81725pt
 \topmargin  -66.59087pt
@@ -477,13 +477,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
-
-Overfull \hbox (62.72684pt too wide) in paragraph at lines 29--41
-[]\OT1/cmr/m/n/10 Complete el si-guien-te cua-dro, con los nom-bres de ca-da t^
-^Sermino in-vo-lu-cra-do seg^^Sun la ope-ra-ci^^Son: [] 
- []
-
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png (PNG copy)>]
@@ -524,7 +518,7 @@ and I'll forget about whatever was undefined.
 Here is how much of TeX's memory you used:
  2856 strings out of 494999
  34631 string characters out of 1180816
- 98798 words of memory out of 3000000
+ 98892 words of memory out of 3000000
  6011 multiletter control sequences out of 15000+50000
  8459 words of font info for 31 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -542,7 +536,7 @@ cm/cmr5.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmr7.pfb><
 texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-texliv
 e/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-texlive/fonts/type
 1/public/amsfonts/cm/cmti10.pfb>
-Output written on 6AritEvalAdicSustMultN.pdf (3 pages, 196729 bytes).
+Output written on 6AritEvalAdicSustMultN.pdf (3 pages, 196774 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
