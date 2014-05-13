@@ -967,19 +967,13 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen175
 ))
-Overfull \hbox (95.96007pt too wide) in paragraph at lines 86--107
-\T1/lmr/m/n/10 Sigue los pa-sos y res-pon-de en ca-da ca-so. $[]$ $[]$ 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
 File: Images/logo-colegio.png Graphic file (type png)
- <use Images/logo-colegio.png>
+
+<use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 15.60004pt.
@@ -990,19 +984,19 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  15108 strings out of 494999
  261705 string characters out of 1180816
- 315955 words of memory out of 3000000
+ 314955 words of memory out of 3000000
  17946 multiletter control sequences out of 15000+50000
  53720 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,15n,55p,429b,582s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/sha
+ 56i,15n,55p,429b,586s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.
+enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/
+dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6GeomTaller05Polig.pdf (2 pages, 202068 bytes).
+Output written on 6GeomTaller05Polig.pdf (2 pages, 202038 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
