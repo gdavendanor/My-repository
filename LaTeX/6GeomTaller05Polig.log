@@ -994,10 +994,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] [3] (./6GeomTaller05Polig.aux) ) 
 Here is how much of TeX's memory you used:
- 15117 strings out of 494999
- 261826 string characters out of 1180816
+ 15118 strings out of 494999
+ 261840 string characters out of 1180816
  325955 words of memory out of 3000000
- 17953 multiletter control sequences out of 15000+50000
+ 17954 multiletter control sequences out of 15000+50000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,16n,55p,429b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
