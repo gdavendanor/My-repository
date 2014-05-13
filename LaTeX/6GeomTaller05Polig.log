@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:03
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -844,7 +844,7 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 \f@ncyO@olf=\skip60
 \f@ncyO@orf=\skip61
 )
-No file 6GeomTaller05Polig.aux.
+(./6GeomTaller05Polig.aux)
 \openout1 = `6GeomTaller05Polig.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -862,7 +862,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
@@ -889,6 +889,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
+
+(./6GeomTaller05Polig.out) (./6GeomTaller05Polig.out)
 \@outlinefile=\write4
 \openout4 = `6GeomTaller05Polig.out'.
 
@@ -1002,29 +1004,25 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen182
 ))
-Overfull \hbox (6.12239pt too wide) in paragraph at lines 78--79
-[][] 
- []
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>] (./6GeomTaller05Polig.aux) ) 
 Here is how much of TeX's memory you used:
- 16125 strings out of 494999
- 279750 string characters out of 1180816
+ 16135 strings out of 494999
+ 279972 string characters out of 1180816
  339325 words of memory out of 3000000
- 18963 multiletter control sequences out of 15000+50000
+ 18967 multiletter control sequences out of 15000+50000
  47727 words of font info for 56 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,6n,55p,429b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,6n,55p,429b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/u
 sr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/l
 m/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texm
 f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 6GeomTaller05Polig.pdf (1 page, 165547 bytes).
+Output written on 6GeomTaller05Polig.pdf (1 page, 165552 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
