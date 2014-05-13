@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 20:54
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 20:56
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -980,7 +980,11 @@ Overfull \hbox (38.90782pt too wide) in paragraph at lines 151--163
 []$[]$ $[]$ 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 File: Images/logo-colegio.png Graphic file (type png)
+
 <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -988,27 +992,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./6GeomTaller05Polig.aux) ) 
+[2] [3] (./6GeomTaller05Polig.aux) ) 
 Here is how much of TeX's memory you used:
- 15110 strings out of 494999
- 261735 string characters out of 1180816
- 320955 words of memory out of 3000000
- 17948 multiletter control sequences out of 15000+50000
- 53720 words of font info for 58 fonts, out of 3000000 for 9000
+ 15113 strings out of 494999
+ 261764 string characters out of 1180816
+ 321955 words of memory out of 3000000
+ 17949 multiletter control sequences out of 15000+50000
+ 57983 words of font info for 59 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,16n,55p,429b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.
-enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/
-enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/sha
-re/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
-12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
-s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-
-Output written on 6GeomTaller05Polig.pdf (2 pages, 209474 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.
+enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/
+enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr
+/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 6GeomTaller05Polig.pdf (3 pages, 228922 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
+ 73 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
