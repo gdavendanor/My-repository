@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 20:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 20:54
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -975,6 +975,11 @@ Overfull \hbox (2.8652pt too wide) in paragraph at lines 120--121
 [][] 
  []
 
+
+Overfull \hbox (38.90782pt too wide) in paragraph at lines 151--163
+[]$[]$ $[]$ 
+ []
+
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 
@@ -987,7 +992,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  15110 strings out of 494999
  261735 string characters out of 1180816
- 319955 words of memory out of 3000000
+ 320955 words of memory out of 3000000
  17948 multiletter control sequences out of 15000+50000
  53720 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -1001,7 +1006,7 @@ xmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
 
-Output written on 6GeomTaller05Polig.pdf (2 pages, 209334 bytes).
+Output written on 6GeomTaller05Polig.pdf (2 pages, 209474 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
