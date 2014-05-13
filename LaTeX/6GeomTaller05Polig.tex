@@ -86,7 +86,10 @@ color los lados y con otro los ángulos.
 Consigue un cuadrado de papel de diez centímetros de lado.
 Sigue los pasos y responde en cada caso.
 \begin{minipage}{.45\textwidth}
-\tikz \filldraw[gray!10] (0,0)--(2,2)--(0,4)--(-2,2)--cycle;
+\begin{tikzpicture}
+\filldraw[gray!15] (0,0)--(2,2)--(0,4)--(-2,2)--cycle;
+\draw (0,0)--(0,4);
+\end{tikzpicture}
 \end{minipage}
 \begin{minipage}{.5\textwidth}
 Dobla el cuadrado por cada una de sus diagonales.\\
