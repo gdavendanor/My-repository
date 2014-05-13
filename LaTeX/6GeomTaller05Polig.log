@@ -994,10 +994,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] [3] (./6GeomTaller05Polig.aux) ) 
 Here is how much of TeX's memory you used:
- 15116 strings out of 494999
- 261814 string characters out of 1180816
+ 15115 strings out of 494999
+ 261795 string characters out of 1180816
  321955 words of memory out of 3000000
- 17952 multiletter control sequences out of 15000+50000
+ 17951 multiletter control sequences out of 15000+50000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,16n,55p,429b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1010,7 +1010,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6GeomTaller05Polig.pdf (3 pages, 228949 bytes).
+Output written on 6GeomTaller05Polig.pdf (3 pages, 228948 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
