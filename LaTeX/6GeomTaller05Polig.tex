@@ -1,0 +1,79 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Geometría $6^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 05, Polígonos \\
+Geometría $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Evaluaci\'on}
+\begin{itemize}
+\item Observa el grupo de figuras y resuelve.
+\end{itemize}
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{zzttqq}{rgb}{0.27,0.27,0.27}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.45,-1.38) rectangle (12.24,3.39);
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (-2,-1) -- (-1,-1) -- (-0.16,-0.46) -- (0.26,0.45) -- (0.11,1.44) -- (-0.54,2.2) -- (-1.5,2.48) -- (-2.46,2.2) -- (-3.11,1.44) -- (-3.26,0.45) -- (-2.84,-0.46) -- cycle;
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (2,-1) -- (4,-1) -- (5,0.73) -- (4,2.46) -- (2,2.46) -- (1,0.73) -- cycle;
+\draw [color=zzttqq] (-2,-1)-- (-1,-1);
+\draw [color=zzttqq] (-1,-1)-- (-0.16,-0.46);
+\draw [color=zzttqq] (-0.16,-0.46)-- (0.26,0.45);
+\draw [color=zzttqq] (0.26,0.45)-- (0.11,1.44);
+\draw [color=zzttqq] (0.11,1.44)-- (-0.54,2.2);
+\draw [color=zzttqq] (-0.54,2.2)-- (-1.5,2.48);
+\draw [color=zzttqq] (-1.5,2.48)-- (-2.46,2.2);
+\draw [color=zzttqq] (-2.46,2.2)-- (-3.11,1.44);
+\draw [color=zzttqq] (-3.11,1.44)-- (-3.26,0.45);
+\draw [color=zzttqq] (-3.26,0.45)-- (-2.84,-0.46);
+\draw [color=zzttqq] (-2.84,-0.46)-- (-2,-1);
+\draw [color=zzttqq] (2,-1)-- (4,-1);
+\draw [color=zzttqq] (4,-1)-- (5,0.73);
+\draw [color=zzttqq] (5,0.73)-- (4,2.46);
+\draw [color=zzttqq] (4,2.46)-- (2,2.46);
+\draw [color=zzttqq] (2,2.46)-- (1,0.73);
+\draw [color=zzttqq] (1,0.73)-- (2,-1);
+\draw (6,3)-- (8,2);
+\draw (5.5,1.98)-- (7,-1);
+\draw (7,-1)-- (8,2);
+\draw (9.87,2.74)-- (8.76,1.87);
+\draw (10.35,2.71)-- (11.7,2.35);
+\draw (11.7,2.35)-- (11.97,1.36);
+\draw (11.97,1.36)-- (11.01,-0.77);
+\draw (11.01,-0.77)-- (9.06,-0.8);
+\draw (9.06,-0.8)-- (8.76,1.87);
+\endtikzpicture
+\end{document}
