@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:05
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:11
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -967,27 +967,39 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen175
 ))
-[1
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
-(PNG copy)> <./Images/logo-sed.png (PNG copy)>] (./6GeomTaller05Polig.aux) ) 
+(PNG copy)> <./Images/logo-sed.png (PNG copy)>]
+File: Images/logo-colegio.png Graphic file (type png)
+ <use Images/logo-colegio.png>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2] (./6GeomTaller05Polig.aux) ) 
 Here is how much of TeX's memory you used:
- 15091 strings out of 494999
- 261434 string characters out of 1180816
- 313955 words of memory out of 3000000
- 17933 multiletter control sequences out of 15000+50000
- 47727 words of font info for 56 fonts, out of 3000000 for 9000
+ 15097 strings out of 494999
+ 261497 string characters out of 1180816
+ 314955 words of memory out of 3000000
+ 17935 multiletter control sequences out of 15000+50000
+ 53720 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,6n,55p,429b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/u
-sr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texm
-f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
-0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 6GeomTaller05Polig.pdf (1 page, 167889 bytes).
+ 56i,15n,55p,429b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/
+dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
+0.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 6GeomTaller05Polig.pdf (2 pages, 201935 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 58 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
