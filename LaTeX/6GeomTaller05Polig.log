@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 21:04
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 21:08
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -996,7 +996,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  15116 strings out of 494999
  261812 string characters out of 1180816
- 323955 words of memory out of 3000000
+ 324955 words of memory out of 3000000
  17952 multiletter control sequences out of 15000+50000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -1009,10 +1009,11 @@ lic/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6GeomTaller05Polig.pdf (3 pages, 230699 bytes).
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf-texliv
+e/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on 6GeomTaller05Polig.pdf (3 pages, 238157 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
