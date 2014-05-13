@@ -996,11 +996,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: Images/Figuras.png Graphic file (type png)
 
 <use Images/Figuras.png>
-Overfull \hbox (40.05528pt too wide) in paragraph at lines 218--219
- [] 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
@@ -1026,7 +1021,7 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 6GeomTaller05Polig.pdf (4 pages, 255740 bytes).
+Output written on 6GeomTaller05Polig.pdf (4 pages, 255742 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
