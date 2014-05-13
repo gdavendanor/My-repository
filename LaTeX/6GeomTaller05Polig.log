@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:44
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.5.12)  12 MAY 2014 19:45
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller05Polig.tex
@@ -971,8 +971,11 @@ File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
-File: Images/logo-colegio.png Graphic file (type png)
+Overfull \hbox (2.8652pt too wide) in paragraph at lines 120--121
+[][] 
+ []
 
+File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -997,7 +1000,8 @@ lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/font
 s/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6GeomTaller05Polig.pdf (2 pages, 206851 bytes).
+
+Output written on 6GeomTaller05Polig.pdf (2 pages, 206925 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
