@@ -1126,53 +1126,6 @@ LaTeX Info: Redefining \. on input line 47.
 LaTeX Info: Redefining \% on input line 47.
 
 (./Charla_Alejandro_Alvarez.nav)
-! Illegal parameter number in definition of \test.
-<to be read again> 
-                    
-l.99 \end{frame}
-                
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \iterate.
-<to be read again> 
-                    
-l.99 \end{frame}
-                
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \iterate.
-<to be read again> 
-                    
-l.99 \end{frame}
-                
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \beamer@doifinframe.
-<to be read again> 
-                    
-l.99 \end{frame}
-                
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! You can't use `macro parameter character #' in horizontal mode.
-\beamer@doifinframe ...Auditorio FECODE Cra 13A ##
-                                                   34-34\\ Hora y fecha: 2:0...
-l.99 \end{frame}
-                
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
 Overfull \vbox (16.0201pt too high) detected at line 99
  []
 
@@ -1213,7 +1166,7 @@ Here is how much of TeX's memory you used:
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_Alvarez.pdf (1 page, 59773 bytes).
+Output written on Charla_Alejandro_Alvarez.pdf (1 page, 60030 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
