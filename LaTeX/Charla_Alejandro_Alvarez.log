@@ -981,14 +981,14 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(14.22636pt, 321.51625pt, 28.45274pt)
+* h-part:(L,W,R)=(11.38092pt, 324.3617pt, 28.45274pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=321.51625pt
+* \textwidth=324.3617pt
 * \textheight=244.6939pt
-* \oddsidemargin=-58.04362pt
-* \evensidemargin=-58.04362pt
+* \oddsidemargin=-60.88907pt
+* \evensidemargin=-60.88907pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -1158,7 +1158,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
 Here is how much of TeX's memory you used:
  16254 strings out of 494997
  296649 string characters out of 3180092
- 374722 words of memory out of 3000000
+ 374718 words of memory out of 3000000
  19047 multiletter control sequences out of 15000+200000
  21661 words of font info for 23 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1166,7 +1166,7 @@ Here is how much of TeX's memory you used:
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_Alvarez.pdf (1 page, 60030 bytes).
+Output written on Charla_Alejandro_Alvarez.pdf (1 page, 60017 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
