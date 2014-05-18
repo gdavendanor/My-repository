@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 MAY 2014 19:27
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 MAY 2014 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1139,18 +1139,18 @@ LaTeX Info: Redefining \% on input line 47.
 \tf@snm=\write8
 \openout8 = `Charla_Alejandro_Alvarez.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
  (./Charla_Alejandro_Alvarez.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `Charla_Alejandro_Alvarez.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
  16267 strings out of 494997
