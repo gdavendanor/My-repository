@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 MAY 2014 19:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 MAY 2014 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -949,6 +949,18 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 
+     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 (./Charla_Alejandro_Alvarez.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
@@ -1129,6 +1141,10 @@ LaTeX Info: Redefining \% on input line 47.
 Overfull \vbox (55.69098pt too high) detected at line 99
  []
 
+
+Overfull \vbox (13.37401pt too high) has occurred while \output is active []
+
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -1158,18 +1174,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 100.
 Here is how much of TeX's memory you used:
  16254 strings out of 494997
  296649 string characters out of 3180092
- 375718 words of memory out of 3000000
+ 375719 words of memory out of 3000000
  19047 multiletter control sequences out of 15000+200000
  21661 words of font info for 23 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,14n,57p,413b,559s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
-public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_Alvarez.pdf (1 page, 62989 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc} </home/german/.texmf-var/font
+s/pk/ljfour/jknappen/ec/ecss1095.600pk></usr/share/texmf/fonts/type1/public/lm/
+lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmss9.pfb>
+Output written on Charla_Alejandro_Alvarez.pdf (1 page, 63339 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
