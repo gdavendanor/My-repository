@@ -599,10 +599,7 @@ File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
 hs.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (./Ejerciciof.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-)
+))) (./Ejerciciof.aux)
 \openout1 = `Ejerciciof.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
