@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,32 +456,6 @@ Overfull \hbox (50.04205pt too wide) in paragraph at lines 23--23
 [] 
  []
 
-
-! LaTeX Error: Environment multicols undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 \begin{multicols}
-                      {2}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 \end{multicols}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Ejerciciof.aux
@@ -489,10 +463,10 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3161 strings out of 494997
- 40005 string characters out of 3180092
+ 3159 strings out of 494997
+ 39984 string characters out of 3180092
  101864 words of memory out of 3000000
- 6311 multiletter control sequences out of 15000+200000
+ 6309 multiletter control sequences out of 15000+200000
  6549 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  37i,9n,27p,257b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
