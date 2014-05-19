@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -452,39 +452,25 @@ Overfull \hbox (50.04205pt too wide) in paragraph at lines 23--23
 [] 
  []
 
-
-LaTeX Warning: File `Images/funci\IeC {\'o}n.png' not found on input line 44.
-
-
-! Package pdftex.def Error: File `Images/funci\penalty \@M \hskip \z@skip \unhb
-ox \voidb@x \bgroup \let \unhbox \voidb@x \setbox \@tempboxa \hbox {o\global \m
-athchardef \accent@spacefactor \spacefactor }\accent 19 o\egroup \spacefactor \
-accent@spacefactor \penalty \@M \hskip \z@skip \setbox \@tempboxa \hbox {o\glob
-al \mathchardef \accent@spacefactor \spacefactor }\spacefactor \accent@spacefac
-tor n.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 ...ludegraphics[scale=1]{Images/función.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<Images/funcion.png, id=1, 267.399pt x 225.4824pt>
+File: Images/funcion.png Graphic file (type png)
+ <use Images/funcion.png>
+Package pdftex.def Info: Images/funcion.png used on input line 44.
+(pdftex.def)             Requested size: 267.39835pt x 225.48184pt.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Ejerciciof.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./Images/funcion.png>]
+ (./Ejerciciof.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 3064 strings out of 494997
- 38565 string characters out of 3180092
+ 3067 strings out of 494997
+ 38645 string characters out of 3180092
  100360 words of memory out of 3000000
- 6211 multiletter control sequences out of 15000+200000
- 6717 words of font info for 27 fonts, out of 3000000 for 9000
+ 6214 multiletter control sequences out of 15000+200000
+ 6549 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  37i,9n,26p,257b,201s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
@@ -493,12 +479,11 @@ re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmtt10.pfb>
-Output written on Ejerciciof.pdf (1 page, 79726 bytes).
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Ejerciciof.pdf (2 pages, 77598 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 42 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
