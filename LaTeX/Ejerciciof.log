@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,26 +455,6 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 Overfull \hbox (50.04205pt too wide) in paragraph at lines 23--23
 [] 
  []
-
-! Misplaced alignment tab character &.
-l.25 \[x^{1/3}-4&
-                 =0 \qquad \mbox{ó} \qquad x^{1/3}+2&=0\]
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-l.25 ...3}-4&=0 \qquad \mbox{ó} \qquad x^{1/3}+2&
-                                                  =0\]
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
 
 ! Misplaced \cr.
 \math@cr@@@ ->\cr 
