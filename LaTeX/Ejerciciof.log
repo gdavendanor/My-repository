@@ -450,6 +450,7 @@ File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 ))
+(./Ejerciciof.pgf)
 \pgfutil@auxout=\write4
 )
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
@@ -1904,8 +1905,8 @@ l.28 \maketitle
                
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 7802 strings out of 494997
- 138951 string characters out of 3180092
+ 7804 strings out of 494997
+ 138981 string characters out of 3180092
  167393 words of memory out of 3000000
  10861 multiletter control sequences out of 15000+200000
  7194 words of font info for 28 fonts, out of 3000000 for 9000
