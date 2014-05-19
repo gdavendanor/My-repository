@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  19 MAY 2014 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,103 +328,66 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 )
-(./Ejerciciof.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-)
-\openout1 = `Ejerciciof.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-LaTeX Font Info:    Try loading font information for U+msa on input line 12.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 12.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-Overfull \hbox (50.04205pt too wide) in paragraph at lines 22--22
-[] 
- []
-
-(/usr/share/texmf/tex/plain/pgf/basiclayer/pgf.tex
-(/usr/share/texmf/tex/plain/pgf/utilities/pgfrcs.tex
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks22
 )
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-plain.def
-\pgfutil@tempcnta=\count102
-\pgfutil@tempcntb=\count103
-\pgfutil@tempboxa=\box28
-\pgfutil@tempdima=\dimen113
-\pgfutil@tempdimb=\dimen114
-\pgfutil@abb=\box29
-)
-(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box28
 
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...,v 1.24 2010/10/25 20:57:06 ludewich Exp $
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
 
-! LaTeX Error: Can be used only in preamble.
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 ...ex,v 1.10 2008/01/15 17:17:22 tantau Exp $
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf/tex/plain/pgf/basiclayer/pgfcore.tex
-(/usr/share/texmf/tex/plain/pgf/systemlayer/pgfsys.tex
-(/usr/share/texmf/tex/plain/pgf/utilities/pgfrcs.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...,v 1.37 2010/06/30 13:06:37 ludewich Exp $
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
 
 (/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks23
-\pgfkeys@temptoks=\toks24
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
 
 (/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks25
+\pgfkeys@tmptoks=\toks26
 ))
 \pgf@x=\dimen115
 \pgf@y=\dimen116
@@ -436,55 +399,60 @@ or  <return>  to continue without it.
 \pgf@yc=\dimen122
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count104
-\c@pgf@countb=\count105
-\c@pgf@countc=\count106
-\c@pgf@countd=\count107
+\c@pgf@counta=\count103
+\c@pgf@countb=\count104
+\c@pgf@countc=\count105
+\c@pgf@countd=\count106
 
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
-))
-(./Ejerciciof.pgf)
-\pgfutil@auxout=\write4
-)
+)))
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
-\pgfsyssoftpath@smallbuffer@items=\count108
-\pgfsyssoftpath@bigbuffer@items=\count109
+\pgfsyssoftpath@smallbuffer@items=\count107
+\pgfsyssoftpath@bigbuffer@items=\count108
 )
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...x,v 1.7 2010/04/11 07:09:19 ludewich Exp $
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
 
 (/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen123
-\pgfmath@count=\count110
-\pgfmath@box=\box30
-\pgfmath@toks=\toks26
-\pgfmath@stack@operand=\toks27
-\pgfmath@stack@operation=\toks28
+\pgfmath@count=\count109
+\pgfmath@box=\box29
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
 )
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
@@ -495,7 +463,7 @@ or  <return>  to continue without it.
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
 (/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count111
+\c@pgfmathroundto@lastzeros=\count110
 ))
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
@@ -526,10 +494,10 @@ File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
 )
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
-\pgfpic=\box31
-\pgf@hbox=\box32
-\pgf@layerbox@main=\box33
-\pgf@picture@serial@count=\count112
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count111
 )
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
@@ -556,14 +524,14 @@ File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
 \pgf@max=\dimen146
-\pgf@sys@shading@range@num=\count113
+\pgf@sys@shading@range@num=\count112
 )
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
 
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
-\pgfexternal@startupbox=\box34
+\pgfexternal@startupbox=\box33
 ))
 (/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
@@ -576,1341 +544,1096 @@ File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
 )))
 (/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
-\pgfnodeparttextbox=\box35
+\pgfnodeparttextbox=\box34
 )
 (/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
-)) (./tikz.tex
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen147
+\pgf@nodesepend=\dimen148
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen149
+\pgffor@skip=\dimen150
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
 
-! LaTeX Error: Can be used only in preamble.
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count113
+\pgfplotmarksize=\dimen151
+)
+\tikz@lastx=\dimen152
+\tikz@lasty=\dimen153
+\tikz@lastxsaved=\dimen154
+\tikz@lastysaved=\dimen155
+\tikzleveldistance=\dimen156
+\tikzsiblingdistance=\dimen157
+\tikz@figbox=\box35
+\tikz@tempbox=\box36
+\tikztreelevel=\count114
+\tikznumberofchildren=\count115
+\tikznumberofcurrentchild=\count116
+\tikz@fig@count=\count117
 
-See the LaTeX manual or LaTeX Companion for explanation.
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count118
+\pgfmatrixcurrentcolumn=\count119
+\pgf@matrix@numberofcolumns=\count120
+)
+\tikz@expandcount=\count121
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))) (./Ejerciciof.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `Ejerciciof.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ ABD: EveryShipout initializing macros
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen158
+\scratchbox=\box37
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen159
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (50.04205pt too wide) in paragraph at lines 23--23
+[] 
+ []
+
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen160
+))
+! Argument of \language@active@arg> has an extra }.
+<inserted text> 
+                \par 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \language@active@arg> was complete.
+<to be read again> 
+                   \par 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+! Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
+
+See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \documentclass
-                  [10pt,twoside]{article}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.51 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Argument of \language@active@arg> has an extra }.
+<inserted text> 
+                \par 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \language@active@arg> was complete.
+<to be read again> 
+                   \par 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.52 \draw[->,color=black]
+                           (-13.73,0) -- (72.57,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 \usepackage
-               [utf8]{inputenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.52 ...w[->,color=black] (-13.73,0) -- (72.57,0);
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Argument of \language@active@arg> has an extra }.
+<inserted text> 
+                \par 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \language@active@arg> was complete.
+<to be read again> 
+                   \par 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.55 \draw[->,color=black]
+                           (0,-8.05) -- (0,14.73);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package xcolor Error: Undefined color `\advance \par@deathcycles \@ne '.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the xcolor package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 \usepackage
-               {amsmath,amsfonts,amssymb,latexsym}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.55 \draw[->,color=black] (0,-8.05) -- (0,14.73);
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-13.72705' (in '
+{2*(-13.72705)^(1/3)-(-13.72705)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 \usepackage
-               [spanish,es-noshorthands]{babel}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-13.72705' (in '
+{2*(-13.72705)^(1/3)-(-13.72705)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5 \usepackage
-               [T1]{fontenc}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-13.72705' (in '
+{2*(-13.72705)^(1/3)-(-13.72705)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6 \usepackage
-               {lmodern}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-13.72705' (in '
+{2*(-13.72705)^(1/3)-(-13.72705)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7 \usepackage
-               {graphicx,hyperref}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-12.85542' (in '
+{2*(-12.85542)^(1/3)-(-12.85542)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 \usepackage
-               {pgf,tikz}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-12.85542' (in '
+{2*(-12.85542)^(1/3)-(-12.85542)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 \usepackage
-               {multicol}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-12.85542' (in '
+{2*(-12.85542)^(1/3)-(-12.85542)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 \usepackage
-                {subfig}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-12.85542' (in '
+{2*(-12.85542)^(1/3)-(-12.85542)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \usepackage
-                [papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.9838' (in '{
+2*(-11.9838)^(1/3)-(-11.9838)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 \usepackage
-                {fancyhdr}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
 
-! Undefined control sequence.
-<argument> \undefinedpagestyle 
-                               
-l.13 \pagestyle{fancy}
-                      
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
 
-! Undefined control sequence.
-l.14 \fancyhead
-               [LE]{\url{http://germandario.byethost4.com}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.14 \fancyhead[LE]{\url
-                        {http://germandario.byethost4.com}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.15 \fancyhead
-               [RE]{}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.16 \fancyhead
-               [RO]{\textit{Germ\'an Dar\'io Avenda\~no Ram\'irez, Lic - M.S...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.17 \fancyhead
-               [LO]{}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.18 \usetikzlibrary
-                    {arrows}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
 
 
-! LaTeX Error: Can be used only in preamble.
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.9838' (in '{
+2*(-11.9838)^(1/3)-(-11.9838)^(2/3)+8}').
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the PGF Math package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 \begin{document}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
-\openout4 = `Ejerciciof.pgf'.
-
-]
-! Undefined control sequence.
-\@title ...page}{0.15\textwidth }\includegraphics 
-                                                  [height=1.7cm]{Images/logo...
-l.28 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-
-pdfTeX warning (\pdfobj): invalid object number being ignored
-! Use of \@iminipage doesn't match its definition.
-<argument> \def \reserved@a {
-                             \def \@currenvir {quoting}\edef \@currenvline {...
-l.28 \maketitle
-               
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@iminipage doesn't match its definition.
-<inserted text> ...gf@sys@pgf@resource@list@extgs 
-                                                  >>}\immediate \pdfobj useo...
-l.28 \maketitle
-               
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.9838' (in '{
+2*(-11.9838)^(1/3)-(-11.9838)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.9838' (in '{
+2*(-11.9838)^(1/3)-(-11.9838)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+! Dimension too large.
+<recently read> \pgfmath@x 
+                           
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't work with sizes bigger than about 19 feet.
+Continue and I'll use the largest value I can.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.11217' (in '
+{2*(-11.11217)^(1/3)-(-11.11217)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.11217' (in '
+{2*(-11.11217)^(1/3)-(-11.11217)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.11217' (in '
+{2*(-11.11217)^(1/3)-(-11.11217)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-11.11217' (in '
+{2*(-11.11217)^(1/3)-(-11.11217)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-10.24054' (in '
+{2*(-10.24054)^(1/3)-(-10.24054)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-10.24054' (in '
+{2*(-10.24054)^(1/3)-(-10.24054)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-10.24054' (in '
+{2*(-10.24054)^(1/3)-(-10.24054)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-10.24054' (in '
+{2*(-10.24054)^(1/3)-(-10.24054)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-9.36891' (in '{
+2*(-9.36891)^(1/3)-(-9.36891)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-9.36891' (in '{
+2*(-9.36891)^(1/3)-(-9.36891)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+I can't carry out that multiplication or division,
+since the result is out of range.
+
+
+! Package PGF Math Error: I cannot calculate the logarithm of `-9.36891' (in '{
+2*(-9.36891)^(1/3)-(-9.36891)^(2/3)+8}').
+
+See the PGF Math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
+(That was another \errmessage.)
+
+! Arithmetic overflow.
+<to be read again> 
+                   \relax 
+l.60 ...1826] plot(\x,{2*(\x)^(1/3)-(\x)^(2/3)+8})
+                                                  ;
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 7804 strings out of 494997
- 138981 string characters out of 3180092
- 167393 words of memory out of 3000000
- 10861 multiletter control sequences out of 15000+200000
- 7194 words of font info for 28 fonts, out of 3000000 for 9000
+ 11752 strings out of 494997
+ 212902 string characters out of 3180092
+ 252862 words of memory out of 3000000
+ 14706 multiletter control sequences out of 15000+200000
+ 6549 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 156i,9n,47p,430b,5447s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,9n,55p,435b,862s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
