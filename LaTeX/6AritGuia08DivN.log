@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,45 +1043,9 @@ Package pdftex.def Info: Images/dividendo.png used on input line 64.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/terreno.png> <./Images/division.p
 ng> <./Images/divison02.png> <./Images/dividendo.png>]
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 $45\div 5$ \>
-                   $83\div 9$ \> $108\div 12$ \> $96\div 15$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 $45\div 5$ \> $83\div 9$ \>
-                                 $108\div 12$ \> $96\div 15$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 $45\div 5$ \> $83\div 9$ \> $108\div 12$ \>
-                                                 $96\div 15$
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
 File: Images/logo-colegio.png Graphic file (type png)
-<use Images/logo-colegio.png>
+ <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 100.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
 
@@ -1119,7 +1083,7 @@ fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 6AritGuia08DivN.pdf (2 pages, 252640 bytes).
+Output written on 6AritGuia08DivN.pdf (2 pages, 252637 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
