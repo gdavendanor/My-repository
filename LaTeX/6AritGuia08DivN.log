@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,9 +1016,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: Images/terreno.png Graphic file (type png)
  <use Images/terreno.png>
 Package pdftex.def Info: Images/terreno.png used on input line 42.
-(pdftex.def)             Requested size: 478.78758pt x 291.08678pt.
+(pdftex.def)             Requested size: 239.39378pt x 145.54338pt.
 
-Overfull \hbox (247.84259pt too wide) in paragraph at lines 42--43
+Overfull \hbox (8.44879pt too wide) in paragraph at lines 42--43
 [][] 
  []
 
@@ -1046,7 +1046,7 @@ Here is how much of TeX's memory you used:
  18639 multiletter control sequences out of 15000+200000
  44664 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,6n,55p,426b,754s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,6n,55p,426b,462s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
@@ -1054,7 +1054,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on 6AritGuia08DivN.pdf (1 page, 171911 bytes).
+Output written on 6AritGuia08DivN.pdf (1 page, 171930 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
