@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 22:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 22:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1049,33 +1049,6 @@ Overfull \hbox (45.4978pt too wide) detected at line 100
 L/lmm/m/it/10.95 RESIDUO
  []
 
-
-! Package inputenc Error: Unicode char \u8:̧ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 \item ¿Es lo mismo $14 \div ̧
-                                     1$ que $1 \div ̧14$? Expliquen su resp...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:̧ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 ...�Es lo mismo $14 \div ̧1$ que $1 \div ̧
-                                                  14$? Expliquen su respuesta.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
@@ -1101,10 +1074,10 @@ Package rerunfilecheck Info: File `6AritGuia08DivN.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 15817 strings out of 494997
- 270115 string characters out of 3180092
+ 15816 strings out of 494997
+ 270110 string characters out of 3180092
  357207 words of memory out of 3000000
- 18677 multiletter control sequences out of 15000+200000
+ 18676 multiletter control sequences out of 15000+200000
  48927 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,426b,523s stack positions out of 5000i,500n,10000p,200000b,50000s
