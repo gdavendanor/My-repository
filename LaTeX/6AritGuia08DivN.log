@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 MAY 2014 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1068,13 +1068,13 @@ Package rerunfilecheck Info: File `6AritGuia08DivN.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
  ) 
 Here is how much of TeX's memory you used:
- 15792 strings out of 494997
- 269472 string characters out of 3180092
+ 15812 strings out of 494997
+ 270022 string characters out of 3180092
  346207 words of memory out of 3000000
- 18652 multiletter control sequences out of 15000+200000
+ 18672 multiletter control sequences out of 15000+200000
  48927 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,426b,523s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,426b,529s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
@@ -1083,7 +1083,7 @@ fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 6AritGuia08DivN.pdf (2 pages, 254504 bytes).
+Output written on 6AritGuia08DivN.pdf (2 pages, 254547 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
