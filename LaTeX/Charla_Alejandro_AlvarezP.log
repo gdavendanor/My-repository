@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -246,6 +246,18 @@ e
 
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
+
+! Package keyval Error: 1 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...df[pages=1,1]{Charla_Alejandro_Alvarez.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 <Charla_Alejandro_Alvarez.pdf, id=3, page=1, 364.19562pt x 273.14648pt>
 File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 
@@ -253,66 +265,78 @@ File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
 (pdftex.def)             Requested size: 364.19473pt x 273.14581pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 
+
+! Package keyval Error: 1 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...df[pages=1,1]{Charla_Alejandro_Alvarez.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 <use Charla_Alejandro_Alvarez.pdf, page 1>
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+(pdftex.def)             Requested size: 614.62306pt x 460.96689pt.
 
+
+! Package keyval Error: 1 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...df[pages=1,1]{Charla_Alejandro_Alvarez.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 <use Charla_Alejandro_Alvarez.pdf, page 1>
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+(pdftex.def)             Requested size: 614.62306pt x 460.96689pt.
 
+
+! Package keyval Error: 1 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...df[pages=1,1]{Charla_Alejandro_Alvarez.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 <use Charla_Alejandro_Alvarez.pdf, page 1>
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+(pdftex.def)             Requested size: 614.62306pt x 460.96689pt.
 
+
+! Package keyval Error: 1 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...df[pages=1,1]{Charla_Alejandro_Alvarez.pdf}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 <use Charla_Alejandro_Alvarez.pdf, page 1>
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
-File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
-
-<use Charla_Alejandro_Alvarez.pdf, page 1>
-Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
- 6.
-(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
+(pdftex.def)             Requested size: 614.62306pt x 460.96689pt.
  [1 <./Charla_Alejandro_Alvarez.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdft
 ex.map}>]
 (./Charla_Alejandro_AlvarezP.aux
@@ -320,16 +344,16 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 3519 strings out of 494997
- 49925 string characters out of 3180092
+ 3520 strings out of 494997
+ 49933 string characters out of 3180092
  118167 words of memory out of 3000000
- 6685 multiletter control sequences out of 15000+200000
+ 6686 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 40i,18n,46p,287b,419s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,18n,45p,287b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66709 bytes).
+Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66715 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
