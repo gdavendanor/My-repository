@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -133,7 +133,10 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \es@quottoks=\toks17
 \es@quotdepth=\count89
 ))
-No file Charla_Alejandro_AlvarezP.aux.
+(./Charla_Alejandro_AlvarezP.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
 \openout1 = `Charla_Alejandro_AlvarezP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -149,6 +152,7 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 \AtBeginShipoutBox=\box28
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
@@ -285,6 +289,30 @@ File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
 (pdftex.def)             Requested size: 36.14938pt x 27.11201pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 36.14938pt x 27.11201pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 36.14938pt x 27.11201pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 36.14938pt x 27.11201pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 36.14938pt x 27.11201pt.
  [1 <./Charla_Alejandro_Alvarez.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdft
 ex.map}>]
 (./Charla_Alejandro_AlvarezP.aux
@@ -292,16 +320,16 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 3517 strings out of 494997
- 49865 string characters out of 3180092
- 118132 words of memory out of 3000000
+ 3519 strings out of 494997
+ 49925 string characters out of 3180092
+ 118155 words of memory out of 3000000
  6685 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  40i,18n,46p,286b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66728 bytes).
+Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66724 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
