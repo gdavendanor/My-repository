@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 MAY 2014 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -246,13 +246,25 @@ e
 
 LaTeX Info: Redefining \. on input line 5.
 LaTeX Info: Redefining \% on input line 5.
-<Charla_Alejandro_Alvarez.pdf, id=4, page=1, 364.19562pt x 273.14648pt>
+<Charla_Alejandro_Alvarez.pdf, id=6, page=1, 364.19562pt x 273.14648pt>
 File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 
 <use Charla_Alejandro_Alvarez.pdf, page 1>
 Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
  6.
 (pdftex.def)             Requested size: 364.19473pt x 273.14581pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
+File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
+
+<use Charla_Alejandro_Alvarez.pdf, page 1>
+Package pdftex.def Info: Charla_Alejandro_Alvarez.pdf, page1 used on input line
+ 6.
+(pdftex.def)             Requested size: 307.31152pt x 230.48344pt.
 File: Charla_Alejandro_Alvarez.pdf Graphic file (type pdf)
 
 <use Charla_Alejandro_Alvarez.pdf, page 1>
@@ -328,17 +340,17 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  3519 strings out of 494997
  49925 string characters out of 3180092
- 118167 words of memory out of 3000000
+ 119167 words of memory out of 3000000
  6685 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 40i,18n,46p,287b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,18n,46p,287b,417s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmss8.pfb></usr/share/texmf/fonts/type1/public/lm/lmss9.pfb>
-Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66719 bytes).
+Output written on Charla_Alejandro_AlvarezP.pdf (1 page, 66740 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
