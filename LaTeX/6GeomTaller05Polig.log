@@ -824,7 +824,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
 )
-No file 6GeomTaller05Polig.aux.
+(./6GeomTaller05Polig.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `6GeomTaller05Polig.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -842,7 +845,7 @@ LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 33.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 33.
@@ -890,6 +893,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
+
+(./6GeomTaller05Polig.out) (./6GeomTaller05Polig.out)
 \@outlinefile=\write4
 \openout4 = `6GeomTaller05Polig.out'.
 
@@ -929,7 +934,7 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<Images/logo-colegio.png, id=7, 165.61874pt x 141.52875pt>
+<Images/logo-colegio.png, id=15, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
@@ -972,7 +977,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-<Images/logo-sed.png, id=8, 136.51pt x 156.585pt>
+<Images/logo-sed.png, id=16, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
 Package pdftex.def Info: Images/logo-sed.png used on input line 35.
@@ -1022,26 +1027,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <Images/Figuras.png, id=31, 412.54124pt x 338.26375pt>
+[2] <Images/Figuras.png, id=39, 412.54124pt x 338.26375pt>
 File: Images/Figuras.png Graphic file (type png)
 
 <use Images/Figuras.png>
 Package pdftex.def Info: Images/Figuras.png used on input line 237.
-(pdftex.def)             Requested size: 288.7769pt x 236.78299pt.
+(pdftex.def)             Requested size: 268.14864pt x 219.86882pt.
 
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
  [3]
-Underfull \vbox (badness 6559) has occurred while \output is active []
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 281.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
  [4 <./Images/Figuras.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
- [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
 
 (./6GeomTaller05Polig.aux
@@ -1050,22 +1052,15 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 281.
-
-
-Package rerunfilecheck Warning: File `6GeomTaller05Polig.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `6GeomTaller05Polig.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  633C8B24077CAF4A95EA0844EACB216E;123.
+Package rerunfilecheck Info: File `6GeomTaller05Polig.out' has not changed.
+(rerunfilecheck)             Checksum: 633C8B24077CAF4A95EA0844EACB216E;123.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
  ) 
 Here is how much of TeX's memory you used:
- 16060 strings out of 494997
- 276926 string characters out of 3180092
- 356012 words of memory out of 3000000
- 18909 multiletter control sequences out of 15000+200000
+ 16068 strings out of 494997
+ 277092 string characters out of 3180092
+ 356130 words of memory out of 3000000
+ 18912 multiletter control sequences out of 15000+200000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,16n,55p,429b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1079,10 +1074,10 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 /usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /symbols/msam10.pfb>
-Output written on 6GeomTaller05Polig.pdf (5 pages, 242181 bytes).
+Output written on 6GeomTaller05Polig.pdf (4 pages, 241720 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
+ 44 words of extra memory for PDF output out of 10000 (max. 10000000)
 
