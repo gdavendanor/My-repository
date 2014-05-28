@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  27 MAY 2014 22:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  27 MAY 2014 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ga
 lician, catalan, spanish, loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -937,12 +937,12 @@ ABD: EveryShipout initializing macros
 * \topmargin=-68.79898pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=121.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1010,9 +1010,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 35.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <10.95> on input line 35.
+
+Underfull \hbox (badness 5274) in paragraph at lines 39--41
+\T1/lmr/m/n/10.95 se en-cuen-tran los si-guien-tes
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
@@ -1030,40 +1033,39 @@ Overfull \hbox (16.62157pt too wide) in paragraph at lines 50--51
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 37--54
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 37--54
 []$[]$ $[]$ 
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 79--106
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 79--106
 []$[]$ $[]$ 
- []
-
-<Images/terreno_a.png, id=10, 125.46875pt x 164.615pt>
-File: Images/terreno_a.png Graphic file (type png)
-
-<use Images/terreno_a.png>
-Package pdftex.def Info: Images/terreno_a.png used on input line 121.
-(pdftex.def)             Requested size: 125.46843pt x 164.6146pt.
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 112--125
-[]$[]$ $[]$
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/productos.png>]
+<Images/terreno_a.png, id=24, 125.46875pt x 164.615pt>
+File: Images/terreno_a.png Graphic file (type png)
+
+<use Images/terreno_a.png>
+Package pdftex.def Info: Images/terreno_a.png used on input line 121.
+(pdftex.def)             Requested size: 125.46843pt x 164.6146pt.
+
+Overfull \hbox (16.99998pt too wide) in paragraph at lines 112--125
+[]$[]$ $[]$
+ []
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
 File: Images/logo-colegio.png Graphic file (type png)
-
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 138.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 15.60004pt.
+ Make it at least 16.08003pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
@@ -1080,22 +1082,22 @@ Package rerunfilecheck Info: File `6AritGuia09DivN.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
  ) 
 Here is how much of TeX's memory you used:
- 15798 strings out of 494997
- 269352 string characters out of 3180092
- 353203 words of memory out of 3000000
- 18650 multiletter control sequences out of 15000+200000
- 51464 words of font info for 64 fonts, out of 3000000 for 9000
+ 15782 strings out of 494997
+ 269263 string characters out of 3180092
+ 348224 words of memory out of 3000000
+ 18644 multiletter control sequences out of 15000+200000
+ 47659 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,426b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,426b,369s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on 6AritGuia09DivN.pdf (2 pages, 272026 bytes).
+Output written on 6AritGuia09DivN.pdf (2 pages, 272165 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
