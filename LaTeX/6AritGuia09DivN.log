@@ -1046,34 +1046,9 @@ Overfull \hbox (16.99998pt too wide) in paragraph at lines 79--106
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/productos.png>]
-
-! LaTeX Error: \begin{itemize} on input line 106 ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 \end{multicols}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{multicols} on input line 105 ended by \end{itemize}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.111 \end{itemize}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
 File: Images/logo-colegio.png Graphic file (type png)
+
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 112.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
