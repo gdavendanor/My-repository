@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  27 MAY 2014 22:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  27 MAY 2014 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -926,15 +926,15 @@ ABD: EveryShipout initializing macros
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(40.47101pt, 513.11743pt, 60.70656pt)
-* v-part:(T,H,B)=(40.47101pt, 693.79243pt, 60.70654pt)
+* h-part:(L,W,R)=(43.362pt, 505.89pt, 65.043pt)
+* v-part:(T,H,B)=(43.362pt, 686.56499pt, 65.043pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=513.11743pt
-* \textheight=693.79243pt
-* \oddsidemargin=-31.79898pt
-* \evensidemargin=-11.56343pt
-* \topmargin=-68.79898pt
+* \textwidth=505.89pt
+* \textheight=686.56499pt
+* \oddsidemargin=-28.90799pt
+* \evensidemargin=-7.22699pt
+* \topmargin=-65.90799pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1012,7 +1012,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 35.
 
-Underfull \hbox (badness 4531) in paragraph at lines 39--41
+Underfull \hbox (badness 3492) in paragraph at lines 39--41
 []\T1/lmr/m/n/10.95 En la tien-da de do-ña
  []
 
@@ -1079,7 +1079,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 138.
 Here is how much of TeX's memory you used:
  15782 strings out of 494997
  269263 string characters out of 3180092
- 348224 words of memory out of 3000000
+ 348207 words of memory out of 3000000
  18644 multiletter control sequences out of 15000+200000
  47659 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1092,7 +1092,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on 6AritGuia09DivN.pdf (2 pages, 272173 bytes).
+Output written on 6AritGuia09DivN.pdf (2 pages, 272178 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
