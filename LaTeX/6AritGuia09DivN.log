@@ -926,15 +926,15 @@ ABD: EveryShipout initializing macros
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(43.362pt, 505.89pt, 65.043pt)
-* v-part:(T,H,B)=(43.362pt, 686.56499pt, 65.043pt)
+* h-part:(L,W,R)=(40.47101pt, 513.11743pt, 60.70656pt)
+* v-part:(T,H,B)=(40.47101pt, 693.79243pt, 60.70654pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=505.89pt
-* \textheight=686.56499pt
-* \oddsidemargin=-28.90799pt
-* \evensidemargin=-7.22699pt
-* \topmargin=-65.90799pt
+* \textwidth=513.11743pt
+* \textheight=693.79243pt
+* \oddsidemargin=-31.79898pt
+* \evensidemargin=-11.56343pt
+* \topmargin=-68.79898pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1049,7 +1049,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 98.
 Here is how much of TeX's memory you used:
  15777 strings out of 494997
  269151 string characters out of 3180092
- 346207 words of memory out of 3000000
+ 346224 words of memory out of 3000000
  18640 multiletter control sequences out of 15000+200000
  47659 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1062,7 +1062,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/symbols/msbm10.pfb>
-Output written on 6AritGuia09DivN.pdf (2 pages, 242722 bytes).
+Output written on 6AritGuia09DivN.pdf (2 pages, 242745 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
