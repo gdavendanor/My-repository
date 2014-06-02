@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 18:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -836,8 +836,8 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@dimlist=\toks37
 )
 (./8MatPruebaBim2.aux
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `8MatPruebaBim2.aux'.
 
@@ -1031,59 +1031,90 @@ me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.125 \choice
-              14 [2pdfTeX warning (ext4): destination with the same identifier 
-(name{choice.1}) has been already used, duplicate ignored
+              14 <Images/moldes.png, id=26, 670.505pt x 106.3975pt>
+File: Images/moldes.png Graphic file (type png)
+
+<use Images/moldes.png>
+Package pdftex.def Info: Images/moldes.png used on input line 129.
+(pdftex.def)             Requested size: 670.50337pt x 106.39723pt.
+
+Overfull \hbox (182.39119pt too wide) in paragraph at lines 129--130
+ [] 
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.134 \choice
+              El molde 1pdfTeX warning (ext4): destination with the same identi
+fier (name{choice.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 \choice
+              El molde 2pdfTeX warning (ext4): destination with the same identi
+fier (name{choice.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.136 \CorrectChoice
+                     El molde 3pdfTeX warning (ext4): destination with the same
+ identifier (name{choice.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.137 \choice
+              El molde 4 [2pdfTeX warning (ext4): destination with the same ide
+ntifier (name{choice.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.132 \end{document}
+l.144 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.132 \end{document}
+l.144 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.132 \end{document}
+l.144 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.132 \end{document}
-                    ]
-This exam contains 4 questions with 0 parts, 0 subparts, and 0 subsubparts.
+l.144 \end{document}
+                     <./Images/moldes.png>]
+This exam contains 5 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 
 Class exam Warning: Point totals have changed. Rerun to get point totals right.
 
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
 (./8MatPruebaBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 132.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
 Package rerunfilecheck Info: File `8MatPruebaBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
  ) 
 Here is how much of TeX's memory you used:
- 16302 strings out of 494997
- 276575 string characters out of 3180092
- 368425 words of memory out of 3000000
- 19202 multiletter control sequences out of 15000+200000
+ 16317 strings out of 494997
+ 276830 string characters out of 3180092
+ 370470 words of memory out of 3000000
+ 19215 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,425b,627s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1094,10 +1125,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 8MatPruebaBim2.pdf (2 pages, 182436 bytes).
+Output written on 8MatPruebaBim2.pdf (2 pages, 187398 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 64 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
