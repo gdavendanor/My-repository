@@ -962,14 +962,14 @@ File: Images/logo-sed.png Graphic file (type png)
 Package pdftex.def Info: Images/logo-sed.png used on input line 29.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
 
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 37--55
-[]$[]$ $[]$ 
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 37--56
+[]$[]$ $[]$
  []
 
 <Images/cajas.png, id=9, 607.26875pt x 164.615pt>
 File: Images/cajas.png Graphic file (type png)
  <use Images/cajas.png>
-Package pdftex.def Info: Images/cajas.png used on input line 56.
+Package pdftex.def Info: Images/cajas.png used on input line 57.
 (pdftex.def)             Requested size: 455.45045pt x 123.46094pt.
 
 [1
@@ -979,17 +979,17 @@ Package pdftex.def Info: Images/cajas.png used on input line 56.
 This exam contains 1 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
 (./8MatPruebaBim2.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `8MatPruebaBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
  16255 strings out of 494997
@@ -1003,7 +1003,7 @@ Here is how much of TeX's memory you used:
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 8MatPruebaBim2.pdf (1 page, 117990 bytes).
+Output written on 8MatPruebaBim2.pdf (1 page, 118644 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
