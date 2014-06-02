@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 17:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 17:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -987,7 +987,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
  ) 
 Here is how much of TeX's memory you used:
  16240 strings out of 494997
- 275526 string characters out of 3180092
+ 275538 string characters out of 3180092
  363335 words of memory out of 3000000
  19151 multiletter control sequences out of 15000+200000
  11530 words of font info for 46 fonts, out of 3000000 for 9000
