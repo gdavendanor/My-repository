@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 18:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 18:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1147,46 +1147,58 @@ dentifier (name{choice.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 \end{questions}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{choice.2}) has been already used, duplicate ignored
+l.198 \question E
+                 n una sala de cine se organiza una rifa entre los asistente...
+pdfTeX warning (ext4): destination with the same identifier (name{choice.2}) ha
+s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 \end{questions}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{choice.3}) has been already used, duplicate ignored
+l.198 \question E
+                 n una sala de cine se organiza una rifa entre los asistente...
+pdfTeX warning (ext4): destination with the same identifier (name{choice.3}) ha
+s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 \end{questions}
-                     pdfTeX warning (ext4): destination with the same identifie
-r (name{choice.4}) has been already used, duplicate ignored
+l.198 \question E
+                 n una sala de cine se organiza una rifa entre los asistente...
+pdfTeX warning (ext4): destination with the same identifier (name{choice.4}) ha
+s been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.198 \end{questions}
-                      <./Images/moldes.png>] [3 <./Images/ajedrez.png>]
-This exam contains 8 questions with 0 parts, 0 subparts, and 0 subsubparts.
+l.198 \question E
+                 n una sala de cine se organiza una rifa entre los asistente...
+ <./Images/moldes.png>] [3 <./Images/ajedrez.png>]
+This exam contains 9 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
 (./8MatPruebaBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
 Package rerunfilecheck Info: File `8MatPruebaBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 203.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
  ) 
 Here is how much of TeX's memory you used:
- 16354 strings out of 494997
- 277432 string characters out of 3180092
- 379638 words of memory out of 3000000
- 19247 multiletter control sequences out of 15000+200000
+ 16360 strings out of 494997
+ 277512 string characters out of 3180092
+ 379650 words of memory out of 3000000
+ 19252 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,425b,627s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1197,10 +1209,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 8MatPruebaBim2.pdf (3 pages, 197805 bytes).
+Output written on 8MatPruebaBim2.pdf (3 pages, 198695 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 74 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
