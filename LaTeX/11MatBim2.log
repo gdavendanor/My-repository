@@ -1009,52 +1009,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
-! Undefined control sequence.
-<argument> .65\textwi 
-                      
-l.183 \begin{minipage}{.65\textwi}
-                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.183 \begin{minipage}{.65\textwi}
-                                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Undefined control sequence.
-<argument> .65\textwi 
-                      
-l.206 \end{minipage}
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.206 \end{minipage}
-                    
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 
 Overfull \hbox (144.2536pt too wide) in paragraph at lines 178--207
 []$[]$ $[]$ 
@@ -1077,10 +1031,10 @@ Package rerunfilecheck Info: File `11MatBim2.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  ) 
 Here is how much of TeX's memory you used:
- 17457 strings out of 494997
- 302040 string characters out of 3180092
+ 17456 strings out of 494997
+ 302034 string characters out of 3180092
  419990 words of memory out of 3000000
- 20325 multiletter control sequences out of 15000+200000
+ 20324 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,420b,1020s stack positions out of 5000i,500n,10000p,200000b,50000s
