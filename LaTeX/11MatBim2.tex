@@ -120,6 +120,37 @@ Sean\\
 \choice $ x-3y=2 $
 \choice $ 5x-4y=10 $
 \end{oneparchoices}
+\question Una raíz real de una función $ f $ es un número real $ r $ que satisface $ f(r)=0 $. Observando las siguientes gráficas, de las raíces de las funciones $ f$, $g $ y $ h $ se puede afirmar que
+\begin{minipage}{.5\textwidth}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-2.01,0) -- (3.32,0);
+\foreach \x in {-2,-1,1,2,3}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.77) -- (0,3.51);
+\foreach \y in {-1,1,2,3}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2.01,-1.77) rectangle (3.32,3.51);
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{(\x)*((\x)-1)*((\x)+1)});
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{0-((\x)*((\x)-2))});
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{((\x)-1)^2+1});
+\draw[color=black] (-1.48,-0.73) node {$g$};
+\draw[color=black] (-0.68,-1.31) node {$f$};
+\draw[color=black] (-0.59,2.99) node {$h$};
+\endtikzpicture
+\end{minipage}\hfill
+\begin{minipage}{.5\textwidth}
+\begin{choices}
+\choice $ f $ y $ h $ tienen una raíz real en común
+\choice $ g $ tiene cuatros raíces reales
+\CorrectChoice $ f $ y $ g $ tienen una raíz real en común
+\choice $ h $ tiene una raíz real
+\end{choices}
+\end{minipage}
 %\answerline
 \end{questions}
 %cuadro de puntajes
