@@ -970,19 +970,6 @@ Overfull \hbox (60.40742pt too wide) in paragraph at lines 39--40
  [] 
  []
 
-
-! LaTeX Error: \begin{questions} on input line 41 ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.59 \end{multicols}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -991,46 +978,33 @@ This exam contains 1 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 
-! LaTeX Error: \begin{multicols} on input line 36 ended by \end{document}.
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
 (./6MatBim2.aux
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `6MatBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 36 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 16203 strings out of 494997
- 274591 string characters out of 3180092
+ 16205 strings out of 494997
+ 274618 string characters out of 3180092
  366329 words of memory out of 3000000
- 19109 multiletter control sequences out of 15000+200000
+ 19111 multiletter control sequences out of 15000+200000
  11530 words of font info for 46 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,7n,55p,419b,604s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+ 56i,7n,55p,419b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 Output written on 6MatBim2.pdf (1 page, 129614 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
