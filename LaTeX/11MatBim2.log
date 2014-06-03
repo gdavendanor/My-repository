@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 21:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 21:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1000,10 +1000,8 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen182
 ))
-Overfull \hbox (186.30267pt too wide) in paragraph at lines 123--155
-\OT1/cmr/m/n/10 ra^^S^^Pces de las fun-cio-nes $\OML/cmm/m/it/10 f$\OT1/cmr/m/n
-/10 , $\OML/cmm/m/it/10 g$ \OT1/cmr/m/n/10 y $\OML/cmm/m/it/10 h$ \OT1/cmr/m/n/
-10 se pue-de afir-mar que $[]$
+Overfull \hbox (220.13402pt too wide) in paragraph at lines 125--156
+[]$[]$ $[]$ 
  []
 
 [2pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) 
@@ -1011,54 +1009,46 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.160 \end{document}
+l.161 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.160 \end{document}
+l.161 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.160 \end{document}
+l.161 \end{document}
                     pdfTeX warning (ext4): destination with the same identifier
  (name{choice.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.160 \end{document}
+l.161 \end{document}
                      <./Images/grafica-taxi.png> <./Images/grafica-taxi-2.png>]
 This exam contains 7 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
 (./11MatBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `11MatBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
- 17009 strings out of 494997
- 292914 string characters out of 3180092
- 416824 words of memory out of 3000000
- 19884 multiletter control sequences out of 15000+200000
+ 17008 strings out of 494997
+ 292905 string characters out of 3180092
+ 416867 words of memory out of 3000000
+ 19883 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,420b,1022s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1069,7 +1059,7 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatBim2.pdf (2 pages, 167136 bytes).
+Output written on 11MatBim2.pdf (2 pages, 167129 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
