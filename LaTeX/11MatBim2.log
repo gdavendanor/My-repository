@@ -1000,7 +1000,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen182
 ))
-Overfull \hbox (222.35623pt too wide) in paragraph at lines 125--155
+Overfull \hbox (220.13402pt too wide) in paragraph at lines 125--155
 []$[]$ $[]$ 
  []
 
@@ -1018,17 +1018,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 163.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 163.
 Package rerunfilecheck Info: File `11MatBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 163.
  ) 
 Here is how much of TeX's memory you used:
- 17019 strings out of 494997
- 293026 string characters out of 3180092
+ 17018 strings out of 494997
+ 293018 string characters out of 3180092
  418930 words of memory out of 3000000
- 19889 multiletter control sequences out of 15000+200000
+ 19888 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,420b,1022s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1039,7 +1035,7 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatBim2.pdf (2 pages, 167906 bytes).
+Output written on 11MatBim2.pdf (2 pages, 167914 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
