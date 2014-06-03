@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 22:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 22:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1074,35 +1074,55 @@ he same identifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.249 \choice
-              $ \frac{5}{36} $ [3]
-This exam contains 11 questions with 0 parts, 0 subparts, and 0 subsubparts.
+              $ \frac{5}{36} $pdfTeX warning (ext4): destination with the same 
+identifier (name{choice.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.254 \CorrectChoice
+                     blanca - azulpdfTeX warning (ext4): destination with the s
+ame identifier (name{choice.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.255 \choice
+              azul - blancapdfTeX warning (ext4): destination with the same ide
+ntifier (name{choice.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.256 \choice
+              roja - azulpdfTeX warning (ext4): destination with the same ident
+ifier (name{choice.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.257 \choice
+              azul - roja [3]
+This exam contains 12 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 
 Class exam Warning: Point totals have changed. Rerun to get point totals right.
 
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 256.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 256.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 264.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 264.
 (./11MatBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 256.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 256.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 264.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 264.
 Package rerunfilecheck Info: File `11MatBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 256.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 264.
  ) 
 Here is how much of TeX's memory you used:
- 17481 strings out of 494997
- 302457 string characters out of 3180092
- 420050 words of memory out of 3000000
- 20347 multiletter control sequences out of 15000+200000
+ 17492 strings out of 494997
+ 302635 string characters out of 3180092
+ 420097 words of memory out of 3000000
+ 20357 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,420b,1020s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1113,10 +1133,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatBim2.pdf (3 pages, 178845 bytes).
+Output written on 11MatBim2.pdf (3 pages, 179176 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
- 39 named destinations out of 1000 (max. 500000)
+ 103 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 40 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
