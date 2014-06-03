@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 18:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  2 JUN 2014 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**8MatPruebaBim2.tex
-(./8MatPruebaBim2.tex
+**11MatBim2.tex
+(./11MatBim2.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ga
 lician, catalan, spanish, loaded.
@@ -835,11 +835,11 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen179
 \Gm@dimlist=\toks37
 )
-(./8MatPruebaBim2.aux
+(./11MatBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-\openout1 = `8MatPruebaBim2.aux'.
+\openout1 = `11MatBim2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -859,10 +859,8 @@ LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 \AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring OFF on input line 13.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
-
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
@@ -872,9 +870,9 @@ LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
 
-(./8MatPruebaBim2.out) (./8MatPruebaBim2.out)
+(./11MatBim2.out) (./11MatBim2.out)
 \@outlinefile=\write4
-\openout4 = `8MatPruebaBim2.out'.
+\openout4 = `11MatBim2.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
@@ -962,314 +960,57 @@ File: Images/logo-sed.png Graphic file (type png)
 Package pdftex.def Info: Images/logo-sed.png used on input line 29.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 1629) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/10 El si-guien-te gr^^Safi-co re-pre-sen-ta la po-si-ci^^Son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 36--57
-[]$[]$ $[]$ 
- []
-
-<Images/cajas.png, id=9, 607.26875pt x 164.615pt>
-File: Images/cajas.png Graphic file (type png)
- <use Images/cajas.png>
-Package pdftex.def Info: Images/cajas.png used on input line 58.
-(pdftex.def)             Requested size: 455.45045pt x 123.46094pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-<Images/juego_dados.png, id=10, 490.83376pt x 368.37625pt>
-File: Images/juego_dados.png Graphic file (type png)
-
-<use Images/juego_dados.png>
-Package pdftex.def Info: Images/juego_dados.png used on input line 72.
-(pdftex.def)             Requested size: 245.41628pt x 184.18767pt.
-
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 60--75
-$[]$ $[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 83--110
+Overfull \hbox (17.7778pt too wide) in paragraph at lines 37--62
 []$[]$ $[]$ 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/logo-sed.png (PNG copy)> <./Images/cajas.png> <./Images/juego_dados.
-png>]pdfTeX warning (ext4): destination with the same identifier (name{choice.1
-}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.122 \choice
-              6pdfTeX warning (ext4): destination with the same identifier (nam
-e{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.123 \CorrectChoice
-                     7pdfTeX warning (ext4): destination with the same identifi
-er (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.124 \choice
-              13pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.125 \choice
-              14 <Images/moldes.png, id=26, 670.505pt x 106.3975pt>
-File: Images/moldes.png Graphic file (type png)
-
-<use Images/moldes.png>
-Package pdftex.def Info: Images/moldes.png used on input line 129.
-(pdftex.def)             Requested size: 502.87752pt x 79.79791pt.
-
-Overfull \hbox (14.76534pt too wide) in paragraph at lines 129--130
- [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.134 \choice
-              El molde 1pdfTeX warning (ext4): destination with the same identi
-fier (name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.135 \choice
-              El molde 2pdfTeX warning (ext4): destination with the same identi
-fier (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.136 \CorrectChoice
-                     El molde 3pdfTeX warning (ext4): destination with the same
- identifier (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.137 \choice
-              El molde 4
-Overfull \hbox (25.3631pt too wide) in paragraph at lines 142--155
- [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.159 \choice
-              JuanpdfTeX warning (ext4): destination with the same identifier (
-name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.160 \choice
-              PedropdfTeX warning (ext4): destination with the same identifier 
-(name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.161 \CorrectChoice
-                     CarlospdfTeX warning (ext4): destination with the same ide
-ntifier (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.162 \choice
-              JorgepdfTeX warning (ext4): destination with the same identifier 
-(name{choice.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.175 \choice
-              11pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.176 \choice
-              13pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.177 \CorrectChoice
-                     14pdfTeX warning (ext4): destination with the same identif
-ier (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.178 \choice
-              15
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
-
- []
-
-<Images/ajedrez.png, id=27, 241.90375pt x 240.9pt>
-File: Images/ajedrez.png Graphic file (type png)
- <use Images/ajedrez.png>
-Package pdftex.def Info: Images/ajedrez.png used on input line 188.
-(pdftex.def)             Requested size: 169.33147pt x 168.62883pt.
-
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 181--191
-[]$[]$ $[]$ 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.193 \CorrectChoice
-                     $2^{14}$pdfTeX warning (ext4): destination with the same i
-dentifier (name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.194 \choice
-              $2^{16}$pdfTeX warning (ext4): destination with the same identifi
-er (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.195 \choice
-              $15^{2}$pdfTeX warning (ext4): destination with the same identifi
-er (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.196 \choice
-              $2\times 15$ [2pdfTeX warning (ext4): destination with the same i
-dentifier (name{choice.1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.198 \question E
-                 n una sala de cine se organiza una rifa entre los asistente...
-pdfTeX warning (ext4): destination with the same identifier (name{choice.2}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.198 \question E
-                 n una sala de cine se organiza una rifa entre los asistente...
-pdfTeX warning (ext4): destination with the same identifier (name{choice.3}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.198 \question E
-                 n una sala de cine se organiza una rifa entre los asistente...
-pdfTeX warning (ext4): destination with the same identifier (name{choice.4}) ha
-s been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.198 \question E
-                 n una sala de cine se organiza una rifa entre los asistente...
- <./Images/moldes.png>]pdfTeX warning (ext4): destination with the same identif
-ier (name{choice.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.201 \choice
-              una niñapdfTeX warning (ext4): destination with the same identif
-ier (name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.202 \choice
-              un niñopdfTeX warning (ext4): destination with the same identifi
-er (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.203 \choice
-              una mujer adultapdfTeX warning (ext4): destination with the same 
-identifier (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.204 \CorrectChoice
-                     un hombre adulto
-Underfull \hbox (badness 10000) in paragraph at lines 206--207
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.211 \choice
-              10pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.212 \CorrectChoice
-                     12pdfTeX warning (ext4): destination with the same identif
-ier (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.213 \choice
-              100pdfTeX warning (ext4): destination with the same identifier (n
-ame{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.214 \choice
-              120pdfTeX warning (ext4): destination with the same identifier (n
-ame{choice.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.228 \choice
-              En el paso 1pdfTeX warning (ext4): destination with the same iden
-tifier (name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.229 \choice
-              En el paso 2pdfTeX warning (ext4): destination with the same iden
-tifier (name{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.230 \CorrectChoice
-                     En el paso 3pdfTeX warning (ext4): destination with the sa
-me identifier (name{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.231 \choice
-              En el paso 4 [3 <./Images/ajedrez.png>]
-This exam contains 11 questions with 0 parts, 0 subparts, and 0 subsubparts.
+ <./Images/logo-sed.png (PNG copy)>]
+This exam contains 3 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 239.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 239.
-(./8MatPruebaBim2.aux
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
+(./11MatBim2.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 239.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 239.
-Package rerunfilecheck Info: File `8MatPruebaBim2.out' has not changed.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+Package rerunfilecheck Info: File `11MatBim2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 239.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 16384 strings out of 494997
- 277933 string characters out of 3180092
- 379790 words of memory out of 3000000
- 19274 multiletter control sequences out of 15000+200000
- 11838 words of font info for 47 fonts, out of 3000000 for 9000
+ 16459 strings out of 494997
+ 279844 string characters out of 3180092
+ 369471 words of memory out of 3000000
+ 19356 multiletter control sequences out of 15000+200000
+ 11530 words of font info for 46 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,10n,55p,489b,627s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 8MatPruebaBim2.pdf (3 pages, 201250 bytes).
+ 56i,8n,55p,420b,642s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on 11MatBim2.pdf (1 page, 125053 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
