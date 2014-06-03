@@ -175,6 +175,28 @@ Sean\\
   \end{tikzpicture}
   \end{center}
 \question Observe las gráficas de las funciones $ f $ y $ g $ que se presentan a continuación.
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-6.19,-4.57) grid (4.46,4.33);
+\draw[->,color=black] (-6.19,0) -- (4.46,0);
+\foreach \x in {-6,-5,-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt);
+\draw[->,color=black] (0,-4.57) -- (0,4.33);
+\foreach \y in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt);
+\clip(-6.19,-4.57) rectangle (4.46,4.33);
+\draw[smooth,samples=100,domain=-6.193922262088143:4.457583017244411] plot(\x,{4/9*((\x)^2-9)});
+\draw[smooth,samples=100,domain=-6.193922262088143:4.457583017244411] plot(\x,{(-3)/16*((\x)-3)*((\x)+5)});
+\draw (0.91,-0.14) node[anchor=north west] {1};
+\draw[color=black] (-3.95,3.7) node {$f$};
+\draw[color=black] (-5.48,-1.3) node {g};
+\endtikzpicture
+\end{center}
 %\answerline
 \end{questions}
 %cuadro de puntajes
