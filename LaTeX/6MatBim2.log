@@ -988,7 +988,7 @@ Overfull \hbox (13.12796pt too wide) in paragraph at lines 114--114
 File: Images/caja.png Graphic file (type png)
  <use Images/caja.png>
 Package pdftex.def Info: Images/caja.png used on input line 124.
-(pdftex.def)             Requested size: 161.10147pt x 97.11255pt.
+(pdftex.def)             Requested size: 139.61996pt x 84.16342pt.
 
 <Images/figura06_03.png, id=43, 127.47626pt x 112.42pt>
 File: Images/figura06_03.png Graphic file (type png)
@@ -1104,7 +1104,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 6MatBim2.pdf (3 pages, 327994 bytes).
+Output written on 6MatBim2.pdf (3 pages, 327999 bytes).
 PDF statistics:
  152 PDF objects out of 1000 (max. 8388607)
  126 compressed objects within 2 object streams
