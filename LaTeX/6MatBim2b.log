@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  3 JUN 2014 22:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  3 JUN 2014 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -960,167 +960,126 @@ File: Images/logo-sed.png Graphic file (type png)
 Package pdftex.def Info: Images/logo-sed.png used on input line 29.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
 
-<Images/carro_diana.png, id=9, 464.73625pt x 140.525pt>
-File: Images/carro_diana.png Graphic file (type png)
-
-<use Images/carro_diana.png>
-Package pdftex.def Info: Images/carro_diana.png used on input line 40.
-(pdftex.def)             Requested size: 232.36755pt x 70.26231pt.
-
-Overfull \hbox (2.20038pt too wide) in paragraph at lines 40--41
- [] 
- []
-
-<Images/recorridos_diana.png, id=10, 589.20125pt x 245.91875pt>
-File: Images/recorridos_diana.png Graphic file (type png)
-
-<use Images/recorridos_diana.png>
-Package pdftex.def Info: Images/recorridos_diana.png used on input line 44.
-(pdftex.def)             Requested size: 235.67632pt x 98.36575pt.
-
-Overfull \hbox (5.50914pt too wide) in paragraph at lines 44--45
- [] 
- []
-
-<Images/relojes.png, id=11, 385.44pt x 225.84375pt>
+<Images/relojes.png, id=9, 385.44pt x 225.84375pt>
 File: Images/relojes.png Graphic file (type png)
  <use Images/relojes.png>
-Package pdftex.def Info: Images/relojes.png used on input line 48.
+Package pdftex.def Info: Images/relojes.png used on input line 39.
 (pdftex.def)             Requested size: 173.4464pt x 101.62874pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
+ []
+
+<Images/grafica.png, id=11, 580.1675pt x 303.1325pt>
+File: Images/grafica.png Graphic file (type png)
+ <use Images/grafica.png>
+Package pdftex.def Info: Images/grafica.png used on input line 114.
+(pdftex.def)             Requested size: 261.07295pt x 136.40836pt.
+
+Overfull \hbox (13.12796pt too wide) in paragraph at lines 114--114
+ [] 
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/logo-sed.png (PNG copy)> <./Images/carro_diana.png> <./Images/recorr
-idos_diana.png> <./Images/relojes.png>]
-<Images/grafica.png, id=38, 580.1675pt x 303.1325pt>
-File: Images/grafica.png Graphic file (type png)
- <use Images/grafica.png>
-Package pdftex.def Info: Images/grafica.png used on input line 122.
-(pdftex.def)             Requested size: 261.07295pt x 136.40836pt.
-
-Overfull \hbox (13.12796pt too wide) in paragraph at lines 122--122
- [] 
- []
-
-<Images/caja.png, id=39, 214.8025pt x 129.48375pt>
+ <./Images/logo-sed.png (PNG copy)> <./Images/relojes.png>]
+<Images/caja.png, id=42, 214.8025pt x 129.48375pt>
 File: Images/caja.png Graphic file (type png)
  <use Images/caja.png>
-Package pdftex.def Info: Images/caja.png used on input line 132.
+Package pdftex.def Info: Images/caja.png used on input line 124.
 (pdftex.def)             Requested size: 107.40099pt x 64.7417pt.
 
-<Images/figura06_03.png, id=40, 127.47626pt x 112.42pt>
+<Images/figura06_03.png, id=43, 127.47626pt x 112.42pt>
 File: Images/figura06_03.png Graphic file (type png)
 
 <use Images/figura06_03.png>
-Package pdftex.def Info: Images/figura06_03.png used on input line 143.
+Package pdftex.def Info: Images/figura06_03.png used on input line 135.
 (pdftex.def)             Requested size: 95.60695pt x 84.31479pt.
 
-<Images/figuras_06_03.png, id=41, 303.1325pt x 250.9375pt>
+<Images/figuras_06_03.png, id=44, 303.1325pt x 250.9375pt>
 File: Images/figuras_06_03.png Graphic file (type png)
 
 <use Images/figuras_06_03.png>
-Package pdftex.def Info: Images/figuras_06_03.png used on input line 147.
+Package pdftex.def Info: Images/figuras_06_03.png used on input line 139.
 (pdftex.def)             Requested size: 197.03378pt x 163.10742pt.
 
 
-LaTeX Warning: Reference `1-03' on page 2 undefined on input line 155.
+LaTeX Warning: Reference `1-03' on page 2 undefined on input line 147.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
 
  []
 
-<Images/dulces.png, id=43, 493.845pt x 200.75pt>
+<Images/dulces.png, id=46, 493.845pt x 200.75pt>
 File: Images/dulces.png Graphic file (type png)
  <use Images/dulces.png>
-Package pdftex.def Info: Images/dulces.png used on input line 155.
+Package pdftex.def Info: Images/dulces.png used on input line 147.
 (pdftex.def)             Requested size: 246.92189pt x 100.37474pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 178.
 
-[2 <./Images/grafica.png> <./Images/caja.png> <./Images/figura06_03.png> <./Ima
-ges/figuras_06_03.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 186.
 
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 186.
- <Images/sillas.png, id=65, 229.85875pt x 268.00125pt>
-File: Images/sillas.png Graphic file (type png)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 178.
 
-<use Images/sillas.png>
-Package pdftex.def Info: Images/sillas.png used on input line 201.
+<Images/sillas.png, id=47, 229.85875pt x 268.00125pt>
+File: Images/sillas.png Graphic file (type png)
+ <use Images/sillas.png>
+Package pdftex.def Info: Images/sillas.png used on input line 193.
 (pdftex.def)             Requested size: 172.39362pt x 201.00043pt.
- <Images/claveles.png, id=66, 277.035pt x 237.88875pt>
+
+[2 <./Images/grafica.png> <./Images/caja.png> <./Images/figura06_03.png> <./Ima
+ges/figuras_06_03.png> <./Images/dulces.png>]
+<Images/claveles.png, id=74, 277.035pt x 237.88875pt>
 File: Images/claveles.png Graphic file (type png)
 
 <use Images/claveles.png>
-Package pdftex.def Info: Images/claveles.png used on input line 230.
+Package pdftex.def Info: Images/claveles.png used on input line 222.
 (pdftex.def)             Requested size: 124.6646pt x 107.04893pt.
 
-<Images/habitacion.png, id=67, 374.39874pt x 262.9825pt>
+<Images/habitacion.png, id=75, 374.39874pt x 262.9825pt>
 File: Images/habitacion.png Graphic file (type png)
 
 <use Images/habitacion.png>
-Package pdftex.def Info: Images/habitacion.png used on input line 243.
+Package pdftex.def Info: Images/habitacion.png used on input line 235.
 (pdftex.def)             Requested size: 187.19891pt x 131.49092pt.
- [3 <./Images/dulces.png> <./Images/sillas.png> <./Images/claveles.png>]
-Overfull \vbox (37.49092pt too high) has occurred while \output is active []
 
+<Images/carro_diana.png, id=76, 464.73625pt x 140.525pt>
+File: Images/carro_diana.png Graphic file (type png)
 
-Overfull \vbox (36.49092pt too high) has occurred while \output is active []
+<use Images/carro_diana.png>
+Package pdftex.def Info: Images/carro_diana.png used on input line 248.
+(pdftex.def)             Requested size: 232.36755pt x 70.26231pt.
 
+Overfull \hbox (2.20038pt too wide) in paragraph at lines 248--249
+ [] 
+ []
 
-Overfull \vbox (35.49092pt too high) has occurred while \output is active []
+<Images/recorridos_diana.png, id=77, 589.20125pt x 245.91875pt>
+File: Images/recorridos_diana.png Graphic file (type png)
 
+<use Images/recorridos_diana.png>
+Package pdftex.def Info: Images/recorridos_diana.png used on input line 252.
+(pdftex.def)             Requested size: 235.67632pt x 98.36575pt.
 
-Overfull \vbox (34.49092pt too high) has occurred while \output is active []
+Overfull \hbox (5.50914pt too wide) in paragraph at lines 252--253
+ [] 
+ []
 
-
-Overfull \vbox (33.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (32.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (31.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (30.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (29.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (28.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (27.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (26.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (25.49092pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (24.49092pt too high) has occurred while \output is active []
-
-
-[4 <./Images/habitacion.png>]
+[3 <./Images/sillas.png> <./Images/claveles.png> <./Images/habitacion.png> <./I
+mages/carro_diana.png> <./Images/recorridos_diana.png>]
 This exam contains 16 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
 (./6MatBim2b.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
@@ -1130,26 +1089,29 @@ Package rerunfilecheck Info: File `6MatBim2b.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  ) 
 Here is how much of TeX's memory you used:
- 16525 strings out of 494997
- 279773 string characters out of 3180092
- 385076 words of memory out of 3000000
- 19347 multiletter control sequences out of 15000+200000
+ 16532 strings out of 494997
+ 279928 string characters out of 3180092
+ 384076 words of memory out of 3000000
+ 19355 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,10n,55p,420b,708s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,10n,55p,420b,718s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 6MatBim2b.pdf (4 pages, 328404 bytes).
+Output written on 6MatBim2b.pdf (3 pages, 328010 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 76 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
