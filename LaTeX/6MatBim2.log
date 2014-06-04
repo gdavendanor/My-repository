@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  3 JUN 2014 22:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  3 JUN 2014 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -964,7 +964,7 @@ Package pdftex.def Info: Images/logo-sed.png used on input line 29.
 File: Images/relojes.png Graphic file (type png)
  <use Images/relojes.png>
 Package pdftex.def Info: Images/relojes.png used on input line 39.
-(pdftex.def)             Requested size: 211.99265pt x 124.21443pt.
+(pdftex.def)             Requested size: 173.4464pt x 101.62874pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 76--76
 
@@ -984,25 +984,25 @@ Overfull \hbox (13.12796pt too wide) in paragraph at lines 114--114
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/relojes.png>]
-<Images/caja.png, id=38, 214.8025pt x 129.48375pt>
+<Images/caja.png, id=42, 214.8025pt x 129.48375pt>
 File: Images/caja.png Graphic file (type png)
  <use Images/caja.png>
 Package pdftex.def Info: Images/caja.png used on input line 124.
 (pdftex.def)             Requested size: 161.10147pt x 97.11255pt.
 
-<Images/figura06_03.png, id=39, 127.47626pt x 112.42pt>
+<Images/figura06_03.png, id=43, 127.47626pt x 112.42pt>
 File: Images/figura06_03.png Graphic file (type png)
 
 <use Images/figura06_03.png>
 Package pdftex.def Info: Images/figura06_03.png used on input line 135.
 (pdftex.def)             Requested size: 95.60695pt x 84.31479pt.
 
-<Images/figuras_06_03.png, id=40, 303.1325pt x 250.9375pt>
+<Images/figuras_06_03.png, id=44, 303.1325pt x 250.9375pt>
 File: Images/figuras_06_03.png Graphic file (type png)
 
 <use Images/figuras_06_03.png>
 Package pdftex.def Info: Images/figuras_06_03.png used on input line 139.
-(pdftex.def)             Requested size: 227.34882pt x 188.20265pt.
+(pdftex.def)             Requested size: 197.03378pt x 163.10742pt.
 
 
 LaTeX Warning: Reference `1-03' on page 2 undefined on input line 147.
@@ -1012,7 +1012,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--147
 
  []
 
-<Images/dulces.png, id=42, 493.845pt x 200.75pt>
+<Images/dulces.png, id=46, 493.845pt x 200.75pt>
 File: Images/dulces.png Graphic file (type png)
  <use Images/dulces.png>
 Package pdftex.def Info: Images/dulces.png used on input line 147.
@@ -1026,28 +1026,28 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 178.
  [2 <./Images/grafica.png> <./Images/caja.png> <./Images/figura06_03.png> <./Im
-ages/figuras_06_03.png> <./Images/dulces.png>] <Images/sillas.png, id=68, 229.8
+ages/figuras_06_03.png> <./Images/dulces.png>] <Images/sillas.png, id=73, 229.8
 5875pt x 268.00125pt>
 File: Images/sillas.png Graphic file (type png)
 
 <use Images/sillas.png>
 Package pdftex.def Info: Images/sillas.png used on input line 193.
 (pdftex.def)             Requested size: 172.39362pt x 201.00043pt.
- <Images/claveles.png, id=69, 277.035pt x 237.88875pt>
+ <Images/claveles.png, id=74, 277.035pt x 237.88875pt>
 File: Images/claveles.png Graphic file (type png)
 
 <use Images/claveles.png>
 Package pdftex.def Info: Images/claveles.png used on input line 222.
-(pdftex.def)             Requested size: 138.51715pt x 118.94408pt.
+(pdftex.def)             Requested size: 124.6646pt x 107.04893pt.
 
-<Images/habitacion.png, id=70, 374.39874pt x 262.9825pt>
+<Images/habitacion.png, id=75, 374.39874pt x 262.9825pt>
 File: Images/habitacion.png Graphic file (type png)
 
 <use Images/habitacion.png>
 Package pdftex.def Info: Images/habitacion.png used on input line 235.
 (pdftex.def)             Requested size: 187.19891pt x 131.49092pt.
 
-<Images/carro_diana.png, id=71, 464.73625pt x 140.525pt>
+<Images/carro_diana.png, id=76, 464.73625pt x 140.525pt>
 File: Images/carro_diana.png Graphic file (type png)
 
 <use Images/carro_diana.png>
@@ -1058,19 +1058,19 @@ Overfull \hbox (2.20038pt too wide) in paragraph at lines 248--249
  [] 
  []
 
-<Images/recorridos_diana.png, id=72, 589.20125pt x 245.91875pt>
+<Images/recorridos_diana.png, id=77, 589.20125pt x 245.91875pt>
 File: Images/recorridos_diana.png Graphic file (type png)
 
 <use Images/recorridos_diana.png>
 Package pdftex.def Info: Images/recorridos_diana.png used on input line 252.
-(pdftex.def)             Requested size: 294.5999pt x 122.95906pt.
+(pdftex.def)             Requested size: 235.67632pt x 98.36575pt.
 
-Overfull \hbox (64.43272pt too wide) in paragraph at lines 252--253
+Overfull \hbox (5.50914pt too wide) in paragraph at lines 252--253
  [] 
  []
 
 [3 <./Images/sillas.png> <./Images/claveles.png> <./Images/habitacion.png> <./I
-mages/carro_diana.png>] [4 <./Images/recorridos_diana.png>]
+mages/carro_diana.png> <./Images/recorridos_diana.png>]
 This exam contains 16 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
@@ -1091,9 +1091,9 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  ) 
 Here is how much of TeX's memory you used:
- 16524 strings out of 494997
- 279748 string characters out of 3180092
- 382074 words of memory out of 3000000
+ 16523 strings out of 494997
+ 279742 string characters out of 3180092
+ 385074 words of memory out of 3000000
  19346 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1104,10 +1104,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 6MatBim2.pdf (4 pages, 328258 bytes).
+Output written on 6MatBim2.pdf (3 pages, 327994 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 77 named destinations out of 1000 (max. 500000)
+ 152 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 76 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
