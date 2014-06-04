@@ -1045,16 +1045,16 @@ File: Images/habitacion.png Graphic file (type png)
 
 <use Images/habitacion.png>
 Package pdftex.def Info: Images/habitacion.png used on input line 235.
-(pdftex.def)             Requested size: 224.64098pt x 157.7907pt.
+(pdftex.def)             Requested size: 187.19891pt x 131.49092pt.
 
 <Images/carro_diana.png, id=71, 464.73625pt x 140.525pt>
 File: Images/carro_diana.png Graphic file (type png)
 
 <use Images/carro_diana.png>
 Package pdftex.def Info: Images/carro_diana.png used on input line 248.
-(pdftex.def)             Requested size: 278.84389pt x 84.31564pt.
+(pdftex.def)             Requested size: 232.36755pt x 70.26231pt.
 
-Overfull \hbox (48.67671pt too wide) in paragraph at lines 248--249
+Overfull \hbox (2.20038pt too wide) in paragraph at lines 248--249
  [] 
  []
 
@@ -1063,9 +1063,9 @@ File: Images/recorridos_diana.png Graphic file (type png)
 
 <use Images/recorridos_diana.png>
 Package pdftex.def Info: Images/recorridos_diana.png used on input line 252.
-(pdftex.def)             Requested size: 382.97627pt x 159.84528pt.
+(pdftex.def)             Requested size: 294.5999pt x 122.95906pt.
 
-Overfull \hbox (152.8091pt too wide) in paragraph at lines 252--253
+Overfull \hbox (64.43272pt too wide) in paragraph at lines 252--253
  [] 
  []
 
@@ -1074,10 +1074,6 @@ mages/carro_diana.png>] [4 <./Images/recorridos_diana.png>]
 This exam contains 16 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
 (./6MatBim2.aux
@@ -1092,16 +1088,13 @@ Package rerunfilecheck Info: File `6MatBim2.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
  ) 
 Here is how much of TeX's memory you used:
- 16525 strings out of 494997
- 279757 string characters out of 3180092
- 382039 words of memory out of 3000000
- 19347 multiletter control sequences out of 15000+200000
+ 16524 strings out of 494997
+ 279748 string characters out of 3180092
+ 382074 words of memory out of 3000000
+ 19346 multiletter control sequences out of 15000+200000
  11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,419b,718s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1111,7 +1104,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 6MatBim2.pdf (4 pages, 328329 bytes).
+Output written on 6MatBim2.pdf (4 pages, 328258 bytes).
 PDF statistics:
  156 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
