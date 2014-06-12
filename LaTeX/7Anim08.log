@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  11 JUN 2014 20:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  11 JUN 2014 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1055,8 +1055,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ! Undefined control sequence.
-\f@ncyelh ->Álgebra 8$^{\cir 
-                              }$\strut 
+\f@ncyelh ->\'{A}lgebra 8$^{\cir 
+                                 }$\strut 
 l.171 \end{center}
                   
 The control sequence at the end of the top line
@@ -1088,7 +1088,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
 Here is how much of TeX's memory you used:
  17104 strings out of 494997
  292624 string characters out of 3180092
- 386320 words of memory out of 3000000
+ 386322 words of memory out of 3000000
  19917 multiletter control sequences out of 15000+200000
  52732 words of font info for 64 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
