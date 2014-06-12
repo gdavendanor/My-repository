@@ -1054,17 +1054,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-! Undefined control sequence.
-\f@ncyelh ->\'{A}lgebra $8^{\cir 
-                                 }$\strut 
-l.171 \end{center}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 12.80502pt.
@@ -1086,25 +1075,26 @@ Package rerunfilecheck Info: File `7Anim08.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
  ) 
 Here is how much of TeX's memory you used:
- 17104 strings out of 494997
- 292624 string characters out of 3180092
+ 17103 strings out of 494997
+ 292621 string characters out of 3180092
  386322 words of memory out of 3000000
- 19917 multiletter control sequences out of 15000+200000
+ 19916 multiletter control sequences out of 15000+200000
  52732 words of font info for 64 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,13n,53p,417b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 7Anim08.pdf (3 pages, 171793 bytes).
+sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmsy7.pfb>
+Output written on 7Anim08.pdf (3 pages, 174730 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
  36 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
