@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.29)  3 JUL 2014 11:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.29)  3 JUL 2014 11:29
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller06.tex
@@ -984,9 +984,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>] (./6GeomTaller06.aux) ) 
 Here is how much of TeX's memory you used:
- 14844 strings out of 494999
- 253966 string characters out of 1180816
- 317912 words of memory out of 3000000
+ 14845 strings out of 494999
+ 253976 string characters out of 1180816
+ 324912 words of memory out of 3000000
  17686 multiletter control sequences out of 15000+50000
  44664 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -997,9 +997,9 @@ mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fon
 ts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type
 1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 6GeomTaller06.pdf (1 page, 172141 bytes).
+Output written on 6GeomTaller06.pdf (1 page, 174944 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 44 PDF objects out of 1000 (max. 8388607)
+ 5 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
