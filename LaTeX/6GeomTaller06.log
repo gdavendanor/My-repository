@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.29)  3 JUL 2014 12:15
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.6.29)  3 JUL 2014 12:16
 entering extended mode
  %&-line parsing enabled.
 **6GeomTaller06.tex
@@ -997,12 +997,8 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
 File: Images/regla.png Graphic file (type png)
 
 <use Images/regla.png>
-Overfull \hbox (6.00313pt too wide) in paragraph at lines 167--168
- [] 
- []
-
 File: Images/logo-colegio.png Graphic file (type png)
-<use Images/logo-colegio.png>
+ <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 16.08003pt.
@@ -1013,7 +1009,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  14871 strings out of 494999
  254374 string characters out of 1180816
- 338912 words of memory out of 3000000
+ 341912 words of memory out of 3000000
  17705 multiletter control sequences out of 15000+50000
  47659 words of font info for 59 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -1027,7 +1023,7 @@ m/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb>
-Output written on 6GeomTaller06.pdf (2 pages, 245198 bytes).
+Output written on 6GeomTaller06.pdf (2 pages, 245201 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
