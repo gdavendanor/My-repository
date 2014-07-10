@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 17:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 17:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -856,7 +856,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-No file 6AritTaller11.aux.
+(./6AritTaller11.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `6AritTaller11.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -874,7 +877,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 34.
@@ -922,6 +925,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./6AritTaller11.out) (./6AritTaller11.out)
 \@outlinefile=\write4
 \openout4 = `6AritTaller11.out'.
 
@@ -1034,32 +1039,25 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
-
-
-Package rerunfilecheck Warning: File `6AritTaller11.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `6AritTaller11.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `6AritTaller11.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
  ) 
 Here is how much of TeX's memory you used:
- 16882 strings out of 494997
- 289593 string characters out of 3180092
- 362699 words of memory out of 3000000
+ 16888 strings out of 494997
+ 289701 string characters out of 3180092
+ 362803 words of memory out of 3000000
  19749 multiletter control sequences out of 15000+200000
  47727 words of font info for 56 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,12n,55p,424b,1069s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,55p,424b,1077s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
 pfb>
-Output written on 6AritTaller11.pdf (1 page, 160141 bytes).
+Output written on 6AritTaller11.pdf (1 page, 160155 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
