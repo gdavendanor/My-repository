@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 20:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 20:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1086,27 +1086,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 559--561
  []
 
 
-Overfull \hbox (96.71472pt too wide) in paragraph at lines 566--604
-\T1/lmr/m/n/10 pli-quen su res-pues-ta. $[]$ $[]$ 
+Overfull \hbox (5.12456pt too wide) in paragraph at lines 568--605
+[]$[]$ $[]$ 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 615.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 616.
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 615.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 616.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
  [4 <./Images/diagramadel24.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 615.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 616.
 
 (./6AritTaller11.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 615.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 615.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 616.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 616.
 Package rerunfilecheck Info: File `6AritTaller11.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 615.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 616.
  ) 
 Here is how much of TeX's memory you used:
  17292 strings out of 494997
@@ -1124,7 +1124,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 6AritTaller11.pdf (4 pages, 300204 bytes).
+Output written on 6AritTaller11.pdf (4 pages, 300180 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
