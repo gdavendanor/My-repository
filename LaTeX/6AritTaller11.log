@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 19:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  10 JUL 2014 19:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1068,24 +1068,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2 <./Images/culebras.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 490.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 496.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 490.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 496.
  (./6AritTaller11.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 490.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 490.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 496.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 496.
 Package rerunfilecheck Info: File `6AritTaller11.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 490.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 496.
  ) 
 Here is how much of TeX's memory you used:
- 16957 strings out of 494997
- 291095 string characters out of 3180092
+ 16993 strings out of 494997
+ 291923 string characters out of 3180092
  368796 words of memory out of 3000000
- 19809 multiletter control sequences out of 15000+200000
+ 19845 multiletter control sequences out of 15000+200000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,75p,424b,1205s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1096,7 +1096,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller11.pdf (3 pages, 251225 bytes).
+Output written on 6AritTaller11.pdf (3 pages, 251899 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
