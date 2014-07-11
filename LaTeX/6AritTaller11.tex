@@ -456,4 +456,43 @@ criaderos se encuentran diferentes especies de culebras, lagartos, tortugas, coc
 \includegraphics[scale=.5]{Images/culebras.png} 
 \end{minipage}
 \end{itemize}
+\section*{Aprendo algo nuevo}
+Responde en tu cuaderno
+\begin{itemize}
+\item ¿Qué procedimiento seguiste para completar la
+secuencia anterior?
+\item ¿Qué relación hay entre los números que escribiste?
+\item ¿Cuántos huevos hay en el sexto terrario?
+\item ¿Cuántos huevos hay en el noveno terrario?
+\item ¿Cómo hallaste ese resultado?
+\item ¿En qué terrario hay 42 huevos?
+\item ¿Cómo hallaste la respuesta?
+\end{itemize}
+Completa en tu cuaderno el siguiente diagrama
+\begin{tikzpicture}
+[level distance=10mm,
+every node/.style={fill=red!60,circle,inner sep=1pt},
+level 1/.style={sibling distance=20mm,nodes={fill=red!45}},
+level 2/.style={sibling distance=10mm,nodes={fill=red!30}},
+level 3/.style={sibling distance=5mm,nodes={fill=red!25}}]
+\node {31}
+child {node {30}
+child {node {20}
+child {node {5}}
+child {node {4}}
+}
+child {node {10}
+child {node {9}}
+child {node {1}}
+}
+}
+child {node {20}
+child {node {19}
+child {node {1}}
+child[missing]
+}
+child {node {18}}
+};
+\end{tikzpicture}
+
 \end{document}
