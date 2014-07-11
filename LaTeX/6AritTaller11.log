@@ -1066,11 +1066,11 @@ Package rerunfilecheck Info: File `6AritTaller11.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 440.
  ) 
 Here is how much of TeX's memory you used:
- 16871 strings out of 494997
- 289133 string characters out of 3180092
+ 16872 strings out of 494997
+ 289150 string characters out of 3180092
  367796 words of memory out of 3000000
- 19730 multiletter control sequences out of 15000+200000
- 47723 words of font info for 56 fonts, out of 3000000 for 9000
+ 19731 multiletter control sequences out of 15000+200000
+ 50722 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,424b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
@@ -1080,7 +1080,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller11.pdf (2 pages, 193182 bytes).
+Output written on 6AritTaller11.pdf (2 pages, 193191 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
