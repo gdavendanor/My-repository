@@ -1086,7 +1086,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 559--561
  []
 
 
-Overfull \hbox (5.12456pt too wide) in paragraph at lines 568--605
+Overfull \hbox (25.00002pt too wide) in paragraph at lines 568--605
 []$[]$ $[]$ 
  []
 
@@ -1124,7 +1124,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 6AritTaller11.pdf (4 pages, 300180 bytes).
+Output written on 6AritTaller11.pdf (4 pages, 300169 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
