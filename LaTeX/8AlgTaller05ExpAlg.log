@@ -1026,45 +1026,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
-
-! Misplaced \noalign.
-<recently read> \noalign 
-                         
-l.48 $-\frac{4}{3}x^{3}$ &  &  &  \hline
-                                        
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.48 $-\frac{4}{3}x^{3}$ &  &  &  \hline
-                                        
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.48 $-\frac{4}{3}x^{3}$ &  &  &  \hline
-                                        
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.48 $-\frac{4}{3}x^{3}$ &  &  &  \hline
-                                        
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 57.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -1095,7 +1058,7 @@ ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
 f/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 8AlgTaller05ExpAlg.pdf (1 page, 182177 bytes).
+Output written on 8AlgTaller05ExpAlg.pdf (1 page, 181844 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
