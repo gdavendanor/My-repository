@@ -34,24 +34,6 @@ Taller 05, Expresiones algebraicas Nivel II \\
 \begin{document}
 \maketitle
 Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
-\begin{enumerate}
- \item Copie y complete la tabla:
- \begin{center}
-{%
-\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
-\begin{center}
-\begin{tabular}{llll}
-\mc{1}{c}{\textbf{M}} & \mc{1}{c}{\textbf{Coeficiente}} & \mc{1}{c}{\textbf{Parte literal}} & \mc{1}{c}{\textbf{Grado}}\\
-$-a^{5}$ &  &  & \\
-+8 &  &  & \\
-$-m$ &  &  & \\
-$-$ & × & × & ×
-\end{tabular}
-\end{center}
-}%
-
- \end{center}
-\end{enumerate}
 
 
 \end{document}
