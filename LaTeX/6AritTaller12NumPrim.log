@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1037,40 +1037,76 @@ File: ./Images/galletas.png Graphic file (type png)
 <use ./Images/galletas.png>
 Package pdftex.def Info: ./Images/galletas.png used on input line 45.
 (pdftex.def)             Requested size: 295.85458pt x 100.12381pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+<./Images/cubeta.png, id=10, 158.84344pt x 85.82062pt>
+File: ./Images/cubeta.png Graphic file (type png)
+
+<use ./Images/cubeta.png>
+Package pdftex.def Info: ./Images/cubeta.png used on input line 61.
+(pdftex.def)             Requested size: 158.84305pt x 85.82039pt.
+
+Overfull \hbox (19.72089pt too wide) in paragraph at lines 61--63
+ [] 
+ []
+
+
+Overfull \hbox (141.35701pt too wide) in paragraph at lines 55--66
+\T1/lmr/m/n/10 la-gar-to ar-le-quín que po-ne en-tre 30 y 40 hue-vos de for-ma 
+alar-ga-da. $[]$
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/galletas.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
+File: Images/logo-colegio.png Graphic file (type png)
+
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 67.
+(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <./Images/cubeta.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
  (./6AritTaller12NumPrim.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
 Package rerunfilecheck Info: File `6AritTaller12NumPrim.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 16822 strings out of 494997
- 287978 string characters out of 3180092
- 362789 words of memory out of 3000000
- 19678 multiletter control sequences out of 15000+200000
- 45993 words of font info for 55 fonts, out of 3000000 for 9000
+ 16835 strings out of 494997
+ 288169 string characters out of 3180092
+ 363789 words of memory out of 3000000
+ 19685 multiletter control sequences out of 15000+200000
+ 54988 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,6n,55p,431b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
-/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/
-lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
-pfb>
-Output written on 6AritTaller12NumPrim.pdf (1 page, 173780 bytes).
+ 56i,15n,55p,431b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmsy7.pfb>
+Output written on 6AritTaller12NumPrim.pdf (2 pages, 212638 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
