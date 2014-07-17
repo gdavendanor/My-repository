@@ -116,7 +116,30 @@ Compara lo que escribiste con lo que aparece a continuación:
 
 Este enunciado se conoce como criterio de divisibilidad entre 2.
 \begin{itemize}
- \item 
+\begin{multicols}{2}
+ \item  ¿596 es divisible por 2? ¿Por qué?
+ \item ¿129 es divisible por 2? ¿Por qué? 
+ \end{multicols}
+ \item Ahora analiza cuándo un número es divisible por 3.
+ \begin{multicols}{2}
+ \item ¿18 es múltiplo de 3?
+ \item ¿18 es divisible entre 3?
+ \item ¿24 es múltiplo de 3?
+ \item ¿24 es divisible entre 3?
+ \item ¿Cuáles cifras forman el número 18?
+ \item ¿Cuál es la suma de esas cifras?
+ \item ¿Es 9 divisible por 3?
+ \item ¿Cuáles cifras forman el número 24?
+ \item ¿Cuál es la suma de esas cifras?
+ \item ¿Es 6 divisible por 3?
+ \end{multicols}
 \end{itemize}
+Responde en tu cuaderno, en general, ¿cuándo un número es divisible por 3?\\
 
+Compara lo que escribiste con lo que aparece a
+continuación.
+
+\textbf{\emph{Un número es divisible por 3, si la suma de sus dígitos es un
+múltiplo de 3. Este es el criterio de divisibilidad por 3.
+}}
 \end{document}
