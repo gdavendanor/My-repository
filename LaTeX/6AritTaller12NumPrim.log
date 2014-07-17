@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,10 +1038,6 @@ File: ./Images/galletas.png Graphic file (type png)
 Package pdftex.def Info: ./Images/galletas.png used on input line 45.
 (pdftex.def)             Requested size: 295.85458pt x 100.12381pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
 <./Images/cubeta.png, id=10, 158.84344pt x 85.82062pt>
 File: ./Images/cubeta.png Graphic file (type png)
 
@@ -1089,7 +1085,7 @@ Here is how much of TeX's memory you used:
  19685 multiletter control sequences out of 15000+200000
  54988 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,431b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,431b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
@@ -1097,7 +1093,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (2 pages, 212639 bytes).
+Output written on 6AritTaller12NumPrim.pdf (2 pages, 212631 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
