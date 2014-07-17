@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 18:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1102,32 +1102,9 @@ File: ./Images/minicubeta.png Graphic file (type png)
 Package pdftex.def Info: ./Images/minicubeta.png used on input line 154.
 (pdftex.def)             Requested size: 76.03386pt x 47.42706pt.
  [3 <./Images/minicubeta.png>]
-Runaway argument?
-{multicol \end {itemize} \subsubsection *{Criterios de divisibilidad}\ETC.
-! Paragraph ended before \end was complete.
-<to be read again> 
-                   \par 
-l.183 
-      
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-
-! LaTeX Error: \begin{multicols} on input line 175 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.184 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 184.
 File: Images/logo-colegio.png Graphic file (type png)
+
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 184.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
@@ -1142,46 +1119,27 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 184.
 Package rerunfilecheck Info: File `6AritTaller12NumPrim.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 184.
-
-
-! Package multicol Error: Document end inside multicols environment.
-
-See the multicol package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.184 \end{document}
-                    
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
- )
-(\end occurred inside a group at level 3)
-
-### semi simple group (level 3) entered at line 176 (\begingroup)
-### semi simple group (level 2) entered at line 175 (\begingroup)
-### semi simple group (level 1) entered at line 174 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 16852 strings out of 494997
- 288484 string characters out of 3180092
+ 16854 strings out of 494997
+ 288504 string characters out of 3180092
  371789 words of memory out of 3000000
  19695 multiletter control sequences out of 15000+200000
  62254 words of font info for 60 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,431b,517s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texm
-f/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.e
-nc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></
-usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (4 pages, 260611 bytes).
+ 56i,15n,55p,431b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/tex
+mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
+2.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 6AritTaller12NumPrim.pdf (4 pages, 284375 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 63 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
