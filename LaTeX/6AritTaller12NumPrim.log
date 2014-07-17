@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1080,18 +1080,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
  (./6AritTaller12NumPrim.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
 Package rerunfilecheck Info: File `6AritTaller12NumPrim.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 136.
  ) 
 Here is how much of TeX's memory you used:
  16842 strings out of 494997
@@ -1108,7 +1108,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (3 pages, 239850 bytes).
+Output written on 6AritTaller12NumPrim.pdf (3 pages, 239852 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
