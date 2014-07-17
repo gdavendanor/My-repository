@@ -36,7 +36,6 @@ Taller 05, Expresiones algebraicas Nivel II \\
 Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
 \begin{enumerate}
  \item Copie y complete la tabla:
- \begin{center}
 {%
 \newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
 \begin{center}
@@ -49,8 +48,27 @@ $-\frac{4}{3}x^{3}$ &  &  & \\ \hline
 \end{tabular}
 \end{center}
 }%
-
- \end{center}
+\item Copia y completa la tabla, señalando con una X las clases a que pertenece el polinomio:
+{%
+\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
+\begin{table}[h!]
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|c|}\hline
+\mc{1}{|c|}{Polinomio} & Ordenado & Desordenado & Completo & Incompleto & Grado & Faltan grados\\ \hline
+$2x^{2}-5x+1$ & X &  & X &  & 2 & \\ \hline
+$-m+6m^{3}+2$ &  &  &  &  &  & \\ \hline
+$h^{5}-2h$ &  &  &  &  &  & \\ \hline 
+$b^{4}-b^{2}$ &  &  &  &  &  & \\ \hline
+\end{tabular}
+\end{center}\caption{Tabla 2}
+            \end{table} 
+}%
+\item Dados los polinomios $P=(2x^{2}-5x+1)$; $R=(-x^{2}-2+6x)$; $T=(-4+6x^{2}-5x)$, realiza con ellos las siguientes operaciones:
+\begin{tabbing}
+ \hspace{3.5cm}\=\hspace{3.5cm}\=\hspace{3.5cm}\=\hspace{3.5cm}\=\kill
+ $P-R$; \> $3R-2P$; \> $3T-2R$; \> $2\cdot (P-T-R)$; \\
+ $-4\cdot (T+R-P)$; \> $P^{2}+R^{2}$; \> $R^{2}-T^{2}$;\>
+\end{tabbing}
 \end{enumerate}
 
 
