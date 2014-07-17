@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:20
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1046,24 +1046,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
 File: ./Images/cubeta.png Graphic file (type png)
 
 <use ./Images/cubeta.png>
-Package pdftex.def Info: ./Images/cubeta.png used on input line 61.
+Package pdftex.def Info: ./Images/cubeta.png used on input line 62.
 (pdftex.def)             Requested size: 158.84305pt x 85.82039pt.
 
-Overfull \hbox (19.72089pt too wide) in paragraph at lines 61--63
+Overfull \hbox (19.72089pt too wide) in paragraph at lines 62--64
  [] 
  []
 
 
-Overfull \hbox (141.35701pt too wide) in paragraph at lines 55--66
-\T1/lmr/m/n/10 la-gar-to ar-le-quín que po-ne en-tre 30 y 40 hue-vos de for-ma 
-alar-ga-da. $[]$
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 57--66
+[]$[]$  $[]$ 
  []
 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)> <./Images/galletas.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
@@ -1103,7 +1102,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (2 pages, 212638 bytes).
+Output written on 6AritTaller12NumPrim.pdf (2 pages, 212641 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
