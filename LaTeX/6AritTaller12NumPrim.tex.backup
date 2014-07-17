@@ -45,8 +45,23 @@ Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{
  \includegraphics{./Images/galletas.png}
  % galletas.png: 393x133 pixel, 96dpi, 10.40x3.52 cm, bb=0 0 295 100
 \end{center}
-
-
+\item  ¿Cuáles serían las posibles distribuciones si las cajas contienen
+40 galletas? Represéntalas
 \end{enumerate}
+\section*{¿Conoces los números primos?}
+\subsection*{Lo que sé}
+Resuelve individualmente
+
+\begin{minipage}[]{.55\textwidth}
+En el criadero de reptiles también tienen lagartos de diferentes especies. Uno de ellas es el lagarto arlequín que pone entre 30 y 40 huevos de forma alargada.
+
+Una mañana Juan recogió huevos de dos hembras de esta especie. Una de ellas tenía 36 huevos y la otra 37. Cada grupo de huevos debía acomodarse en una cubeta como la de la figura. 
+\end{minipage} \hfill
+\begin{minipage}{.35\textwidth}
+ \begin{center}
+ \includegraphics{./Images/cubeta.png}
+ % cubeta.png: 211x114 pixel, 96dpi, 5.58x3.02 cm, bb=0 0 158 85
+\end{center}
+\end{minipage}
 
 \end{document}
