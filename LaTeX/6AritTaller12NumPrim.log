@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 18:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 18:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1085,24 +1085,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
+
+ []
+
+<./Images/minicubeta.png, id=38, 76.03406pt x 47.42719pt>
+File: ./Images/minicubeta.png Graphic file (type png)
+
+<use ./Images/minicubeta.png>
+Package pdftex.def Info: ./Images/minicubeta.png used on input line 154.
+(pdftex.def)             Requested size: 76.03386pt x 47.42706pt.
+ [3 <./Images/minicubeta.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 176.
+File: Images/logo-colegio.png Graphic file (type png)
+
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 176.
+(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 176.
  (./6AritTaller12NumPrim.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 176.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 176.
 Package rerunfilecheck Info: File `6AritTaller12NumPrim.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 176.
  ) 
 Here is how much of TeX's memory you used:
- 16846 strings out of 494997
- 288353 string characters out of 3180092
- 370789 words of memory out of 3000000
- 19691 multiletter control sequences out of 15000+200000
+ 16852 strings out of 494997
+ 288484 string characters out of 3180092
+ 371789 words of memory out of 3000000
+ 19695 multiletter control sequences out of 15000+200000
  62254 words of font info for 60 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,431b,421s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1113,10 +1135,10 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 f/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (3 pages, 256416 bytes).
+Output written on 6AritTaller12NumPrim.pdf (4 pages, 260038 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
