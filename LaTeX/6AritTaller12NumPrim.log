@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  17 JUL 2014 17:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -856,7 +856,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-No file 6AritTaller12NumPrim.aux.
+(./6AritTaller12NumPrim.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `6AritTaller12NumPrim.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -874,7 +877,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 34.
@@ -922,6 +925,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./6AritTaller12NumPrim.out) (./6AritTaller12NumPrim.out)
 \@outlinefile=\write4
 \openout4 = `6AritTaller12NumPrim.out'.
 
@@ -1026,57 +1031,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
+<./Images/galletas.png, id=9, 295.85532pt x 100.12407pt>
+File: ./Images/galletas.png Graphic file (type png)
 
-LaTeX Warning: File `../home/german/SparkleShare/My-repository/LaTeX/Images/gal
-letas.jpg' not found on input line 45.
-
-
-! Package pdftex.def Error: File `../home/german/SparkleShare/My-repository/LaT
-eX/Images/galletas.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.45 ...e/My-repository/LaTeX/Images/galletas.jpg}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 45.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
+<use ./Images/galletas.png>
+Package pdftex.def Info: ./Images/galletas.png used on input line 45.
+(pdftex.def)             Requested size: 295.85458pt x 100.12381pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 52.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
+ <./Images/logo-sed.png (PNG copy)> <./Images/galletas.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 52.
  (./6AritTaller12NumPrim.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
-
-
-Package rerunfilecheck Warning: File `6AritTaller12NumPrim.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `6AritTaller12NumPrim.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 51.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
+Package rerunfilecheck Info: File `6AritTaller12NumPrim.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 16853 strings out of 494997
- 288380 string characters out of 3180092
- 362685 words of memory out of 3000000
- 19710 multiletter control sequences out of 15000+200000
- 46312 words of font info for 56 fonts, out of 3000000 for 9000
+ 16822 strings out of 494997
+ 287978 string characters out of 3180092
+ 362789 words of memory out of 3000000
+ 19678 multiletter control sequences out of 15000+200000
+ 45993 words of font info for 55 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,6n,55p,431b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1084,11 +1066,11 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 6AritTaller12NumPrim.pdf (1 page, 173512 bytes).
+pfb>
+Output written on 6AritTaller12NumPrim.pdf (1 page, 173780 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
