@@ -1057,10 +1057,10 @@ Overfull \hbox (19.72089pt too wide) in paragraph at lines 62--64
 File: ./Images/huevos_01.png Graphic file (type png)
 
 <use ./Images/huevos_01.png>
-Package pdftex.def Info: ./Images/huevos_01.png used on input line 84.
+Package pdftex.def Info: ./Images/huevos_01.png used on input line 83.
 (pdftex.def)             Requested size: 150.56212pt x 86.57321pt.
 
-Overfull \hbox (11.43996pt too wide) in paragraph at lines 84--86
+Overfull \hbox (11.43996pt too wide) in paragraph at lines 83--85
  [] 
  []
 
@@ -1103,7 +1103,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
 type1/public/lm/lmsy7.pfb>
-Output written on 6AritTaller12NumPrim.pdf (2 pages, 228043 bytes).
+Output written on 6AritTaller12NumPrim.pdf (2 pages, 228038 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream
