@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 JUL 2014 22:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  20 JUL 2014 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -938,16 +938,16 @@ Package caption Info: End \AtBeginDocument code.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: custom
+* paper: letterpaper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
-* v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
-* \paperwidth=469.75499pt
-* \paperheight=614.295pt
-* \textwidth=397.48499pt
-* \textheight=505.89pt
+* h-part:(L,W,R)=(28.90799pt, 542.025pt, 43.36201pt)
+* v-part:(T,H,B)=(43.362pt, 686.56499pt, 65.043pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=542.025pt
+* \textheight=686.56499pt
 * \oddsidemargin=-43.362pt
 * \evensidemargin=-28.90797pt
 * \topmargin=-65.90799pt
@@ -1054,10 +1054,10 @@ Package rerunfilecheck Info: File `10anim01.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 76.
  ) 
 Here is how much of TeX's memory you used:
- 16878 strings out of 494997
- 288642 string characters out of 3180092
- 370781 words of memory out of 3000000
- 19704 multiletter control sequences out of 15000+200000
+ 16880 strings out of 494997
+ 288693 string characters out of 3180092
+ 367643 words of memory out of 3000000
+ 19706 multiletter control sequences out of 15000+200000
  47727 words of font info for 56 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,419b,561s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1070,7 +1070,7 @@ f/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10
 type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/publ
 ic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 10anim01.pdf (2 pages, 214552 bytes).
+Output written on 10anim01.pdf (2 pages, 214466 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  97 compressed objects within 1 object stream
