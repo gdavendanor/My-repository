@@ -34,24 +34,6 @@ Taller, Animaplano 02 \\
 \begin{document}
 \maketitle
 Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
-\section*{Cuestionario}
-\begin{enumerate}
- \item Reste a $10^{2}$, la suma de los 4 primeros números primos.
- \item En unidades, 1 centena, menos 2 docenas, menos 2 unidades
- \item ¿Cuánto le falta a 27, para que de 100?
- \item Al producto entre 20 y 4, reste el producto entre 9 y 2
- \item Multiplique la tercera parte de 63, por el número 2
- \item ¿Cuánto le sobra a 98, para que de 50?
- \item Multiplique por 2, el doble de 4.5
- \item Los años en 4 lustros
- \item La equivalencia en años de 5 décadas
- \item Halle $7\times \sqrt{49}$
- \item Tres veces veintitrés
- \item Halle $(3^{2})^{2}-3^{1}=$
- \item Si $23+m=100$, luego $m=$?
- \item ¿Cuánto le restamos a 110 para que de 22?
- \item En unidades cuadradas, al área del cuadrado de lado 9 unidades, sume $2^{3}$ unidades cuadradas.
- \item $\sqrt{10\,000}-10^{2}+(10\times $
-\end{enumerate}
+
 
 \end{document}
