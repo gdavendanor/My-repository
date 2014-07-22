@@ -6,8 +6,8 @@
 \usepackage{amsmath}
 \usepackage{graphicx}
 
-\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Aritmética $6^{\circ}$}
-\ExamName{Evaluación Operaciones en $\mathbb{N}$}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} %Asig $^{\circ}$}
+\ExamName{%}
 \ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
 \newcommand{\LineaNombre}{%
 \par
@@ -18,14 +18,9 @@ Nombre:\hrulefill \; Curso: \underline{\hspace*{48}} \; Fecha: \underline{\hspac
 
 \begin{document}
 \ExamInstrBox{
-Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+%Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
 \LineaNombre
-\begin{tikzpicture}
- \draw (0,0) rectangle (3,4);
- \node (
-\end{tikzpicture}
-
 \begin{enumerate}
-   \item
+   \item 
 \end{enumerate}
 \end{document}
