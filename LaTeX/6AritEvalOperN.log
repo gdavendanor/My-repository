@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 JUL 2014 18:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 JUL 2014 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -780,18 +780,6 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hskip 
-l.23 \LineaNombre
-                 
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 ! Use of \@next doesn't match its definition.
 l.28  \node[below]{12m} at
                            (2,0);
@@ -934,7 +922,7 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  11808 strings out of 494997
  210694 string characters out of 3180092
- 264377 words of memory out of 3000000
+ 264379 words of memory out of 3000000
  14743 multiletter control sequences out of 15000+200000
  7805 words of font info for 29 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
