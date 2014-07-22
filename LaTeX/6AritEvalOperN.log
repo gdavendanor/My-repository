@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 JUL 2014 18:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.5.17)  22 JUL 2014 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,7 +793,7 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 ! Use of \@next doesn't match its definition.
-l.26  \node[below]{12m} at
+l.27  \node[below]{12m} at
                            (2,0);
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -807,7 +807,7 @@ Missing character: There is no 0 in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no ; in font nullfont!
 ! Use of \@next doesn't match its definition.
-l.27  \node[right]{9m} at
+l.28  \node[right]{9m} at
                           (4,1.5);
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -825,7 +825,7 @@ Missing character: There is no ; in font nullfont!
 ! Extra }, or forgotten \endgroup.
 \endpgfpicture ... \pgf@x }\endgroup \hss \egroup 
                                                   \pgf@insertlayers \endgrou...
-l.28 \end{tikzpicture}
+l.29 \end{tikzpicture}
                       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -836,7 +836,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.28 \end{tikzpicture}
+l.29 \end{tikzpicture}
                       
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -847,7 +847,7 @@ my insertion and my current dilemma will both disappear.
 ! Extra }, or forgotten \endgroup.
 \endpgfpicture ...dpicture \endgroup \hss \egroup 
                                                   \pgfsys@typesetpicturebox ...
-l.28 \end{tikzpicture}
+l.29 \end{tikzpicture}
                       
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -862,7 +862,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end
+l.33 \end
          {enumerate}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -874,7 +874,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end
+l.33 \end
          {enumerate}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -886,7 +886,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end
+l.33 \end
          {enumerate}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -898,7 +898,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end{enumerate}
+l.33 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -910,7 +910,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end{enumerate}
+l.33 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -922,7 +922,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.32 \end{enumerate}
+l.33 \end{enumerate}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -932,7 +932,7 @@ AED: lastpage setting LastPage
 ! Missing } inserted.
 <inserted text> 
                 }
-l.33 \end{document}
+l.34 \end{document}
                    
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -945,13 +945,13 @@ my insertion and my current dilemma will both disappear.
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png>]
 
-! LaTeX Error: \begin{tikzpicture} on input line 24 ended by \end{document}.
+! LaTeX Error: \begin{tikzpicture} on input line 25 ended by \end{document}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 \end{document}
+l.34 \end{document}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -963,8 +963,8 @@ LaTeX Info: Redefining \% on input line 2.
 ) )
 (\end occurred inside a group at level 2)
 
-### semi simple group (level 2) entered at line 25 (\begingroup)
-### semi simple group (level 1) entered at line 24 (\begingroup)
+### semi simple group (level 2) entered at line 26 (\begingroup)
+### semi simple group (level 1) entered at line 25 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  11808 strings out of 494997
