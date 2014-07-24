@@ -395,8 +395,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
+) (./mathexam.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
 )
-No file mathexam.aux.
 \openout1 = `mathexam.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -413,6 +415,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -523,21 +526,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \hskip 
-l.22 \LineaNombre
-                 
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Package lastpage Warning: Rerun to get the references right on input line 53.
-
 
 AED: lastpage setting LastPage
 [1
@@ -546,26 +534,22 @@ AED: lastpage setting LastPage
 NG copy)> <./Images/logo-colegio.png>] (./mathexam.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 3609 strings out of 493315
- 45865 string characters out of 6145893
- 127253 words of memory out of 5000000
+ 3611 strings out of 493315
+ 45891 string characters out of 6145893
+ 127267 words of memory out of 5000000
  6999 multiletter control sequences out of 15000+600000
  8459 words of font info for 31 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,8n,45p,234b,301s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf
-/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texm
+f/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xmf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 Output written on mathexam.pdf (1 page, 146852 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
