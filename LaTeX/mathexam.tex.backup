@@ -6,8 +6,8 @@
 \usepackage{amsmath}
 \usepackage{graphicx}
 
-\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} %Asig $^{\circ}$}
-\ExamName{%}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Álgebra $8^{\circ}$}
+\ExamName{Expresiones algebraicas}
 \ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
 \newcommand{\LineaNombre}{%
 \par
@@ -18,9 +18,17 @@ Nombre:\hrulefill \; Curso: \underline{\hspace*{48}} \; Fecha: \underline{\hspac
 
 \begin{document}
 \ExamInstrBox{
-%Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
 \LineaNombre
 \begin{enumerate}
-   \item 
+   \item Exprese en lenguaje algebraico las siguientes expresiones:
+   \begin{enumerate}
+    \item El triple de un número:
+    \item El triple de la diferencia de dos números:
+    \item La suma del triple de un número y el cuádruple de otro:
+    \item La raíz cuadrada de la diferencia de dos números:
+    \item La diferencia entre el triple de un número y el quíntuple de otro:
+   \end{enumerate}
+
 \end{enumerate}
 \end{document}
