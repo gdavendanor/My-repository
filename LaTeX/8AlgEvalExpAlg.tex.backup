@@ -1,7 +1,7 @@
 \documentclass[fleqn]{article}
 \usepackage[spanish,es-noshorthands]{babel}
 \usepackage[utf8]{inputenc} 
-\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
 \usepackage{mathexam}
 \usepackage{amsmath}
 \usepackage{graphicx}
@@ -31,10 +31,10 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
    \end{enumerate}
   \item Traduce al lenguaje verbal las siguientes expresiones algebraicas:
   \begin{enumerate}
-   \item $\dfrac{b}{3}$
-   \item $(x-2y)^{2}$
-   \item $3c+5$
-   \item $2n^{2}-3m$
+   \item $\dfrac{b}{3}$\noanswer[15pt]
+   \item $(x-2y)^{2}$\noanswer[15pt]
+   \item $3c+5$\noanswer[15pt]
+   \item $2n^{2}-3m$\noanswer
   \end{enumerate}
   \item Complete la siguiente tabla, calculando el valor numérico de la expresión dada:
   {%
@@ -48,18 +48,20 @@ $-3$ & $-2$ & $-1$ & $2x^{2}-3y+4z$ & \\\hline
   \end{tabular}
   \end{center}
 }%
+\noanswer
+\newpage
   \item Si $A=(x+4)$ y $B=(2x-3)$, halle lo siguiente:
   \begin{enumerate}
-   \item $A+B=$
-   \item $A-B=$
-   \item $2\cdot A=$
-   \item $-5B=$
+   \item $A+B=$\noanswer[25pt]
+   \item $A-B=$\noanswer[25pt]
+   \item $2\cdot A=$\noanswer[25pt]
+   \item $-5B=$\noanswer[25pt]
   \end{enumerate}
   \item Resuelve los siguientes problemas, planteando la ecuación y resolviéndola. Compruebe sus resultados
   \begin{enumerate}
    \item ¿Qué número aumentado en 32 da 59?\noanswer
    \item Entre Antonio y Mario tienen 970 dólares. Sabiendo que Antonio tiene 75 dólares más que Mario, calcular los dólares que tiene cada uno\noanswer
+   \item Repartir 688 dólares entre Juan, Pedro y Kevin, sabiendo que Juan debe recibir 38 dólares más que Pedro y 12 dólares menos que Kevin.
   \end{enumerate}
-
 \end{enumerate}
 \end{document}
