@@ -1,0 +1,173 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Estadística $6^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 01, Recolección e interpretación de datos\\
+Estadística $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Explora tus conocimientos}
+Para la despedida del año escolar los estudiantes de grado sexto realizaron entre sus compañeros una encuesta, para decidir qué actividad podrían realizar.
+
+Estas fueron las respuestas obtenidas al realizar la pregunta: ¿qué actividad te gustaría realizar para el cierre del año escolar?
+ \begin{tabbing}
+ \hspace{4.5cm}\=\hspace{4.5cm}\=\kill
+ Tarde en el río \> Visita al museo \> Tarde en el río \\ 
+ Almuerzo campestre \> Almuerzo campestre \> Almuerzo campestre\\ 
+ Almuerzo campestre \> Visita al museo \> Almuerzo campestre\\ 
+ Tarde en el río \> Tarde en el río \> Tarde en el río\\ 
+ Almuerzo campestre \> Visita al museo \> Almuerzo campestre
+                   \end{tabbing}
+\begin{enumerate}
+ \item[a.]  ¿Cuáles fuerons las actividades propuestas por los estudiantes de sexto grado?
+ \item[b.] ¿A cuántos estudiantes se les realizó la pregunta?
+ \item[c.] ¿De qué manera se puede organizar esa información?
+ \item[d.] ¿Qué actividad realizaron para la despedida del año escolar?
+ \item[e.] ¿Por qué sabes que esa fue la elegida?
+\end{enumerate}
+\section*{Lo que sé}
+Por parejas, pregunten a sus compañeros y compañeras de curso sobre el uso que hacen del tiempo libre. Para ello se sugieren algunas preguntas, que pueden ser complementadas por otras:
+\begin{itemize}
+ \item  ¿Qué actividades realizan en su tiempo libre?
+ \item ¿Cuánto tiempo a la semana le dedican a esa actividad?
+\end{itemize}
+Organicen la información recolectada en el cuaderno, y preséntenla al grupo.
+\section*{Aprendo algo nuevo}
+Realiza una clasificación según el tipo de preguntas formuladas anteriormente a los compañeros. Estas pueden ser entre otras:
+\begin{itemize}
+ \item De identificación, cuando se preguntan sobre características propias de las personas. Ej. Nombre, Edad, documento de identificación, entre otros. 
+ \item De acción, cuando se indaga sobre alguna actividad que realiza la persona. Ej. ¿Habla inglés?, ¿Fuma? 
+ \item De intención, cuando se explora sobre la intenciones de los encuestados. Ej. ¿Va a votar? ¿Viajará en vacaciones? 
+ \item De opinión, cuando pregunto sobre la opinión sobre
+determinados temas. Ej. ¿Qué piensa sobre...?  
+ \item De información, si se indaga sobre el grado de conocimiento de los encuestados sobre determinados temas. Ej. ¿Sabe usted que es...? 
+ \item De motivos, tratan de saber el porqué de determinadas opiniones o actos.
+\end{itemize}
+Según los datos recolectados acerca de las actividades del tiempo libre:
+\begin{itemize}
+ \item ¿Cuál es la actividad que prefiere realizar la mayoría de estudiantes? ¿Cuál es la de menos preferencia? 
+ \item ¿De qué manera tu grupo organizó las respuestas obtenidas en la actividad anterior? Explica. 
+ \item ¿Todos los grupos organizaron la información de la
+misma manera? 
+ \item ¿Todos los grupos de trabajo presentaron la misma información? Justifica.
+\end{itemize}
+La información anterior resulta muy útil al momento de tomar decisiones de grupo ya sea para realizar una actividad extraescolar, para comprar un regalo para un compañero, para definir la realización de un evento social entre otras \ldots
+
+Ahora contesta desde lo que conoces:
+\begin{itemize}
+ \item ¿De qué manera podemos obtener información sobre las preferencias de los
+colombianos? 
+ \item ¿Cuáles personas o empresas conoces que se dediquen a conseguir información de preferencias de las personas? 
+ \item ¿Cómo crees que recoge información un científico?
+ \item Comparte tus respuestas con alguno de tus compañeros
+\end{itemize}
+Como resulta muy usual y necesario organizar información para analizarla y tomar decisiones a partir de ella, se estudiará a continuación algunas maneras de hacerlo.
+
+Veamos dos ejemplos de recolección de la información elaborada por los estudiantes que indagaron por las actividades desarrolladas en el tiempo libre:
+{%
+\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
+\begin{center}
+\begin{tabular}{|l|ll|l|l}\cline{1-2}\cline{4-5}
+\mc{2}{|l|}{Datos recogidos por Pedro} &  & \mc{2}{l|}{Datos recogidos por María}\\\cline{1-2}\cline{4-5}
+Nombre & \mc{1}{l|}{Actividades} &  & Nombre & \mc{1}{l|}{Actividades}\\\cline{1-2}\cline{4-5}
+Juan & \mc{1}{l|}{Nadar y montar bicicleta} &  & Ana & \mc{1}{l|}{Montar bicicleta y pintar}\\\cline{1-2}\cline{4-5}
+Luis & \mc{1}{l|}{Caminar y nadar} &  & Pedro & \mc{1}{l|}{Escuchar música y nadar}\\\cline{1-2}\cline{4-5}
+Ángela & \mc{1}{l|}{Pintar y escuchar música} &  & Jaime & \mc{1}{l|}{Nadar y montar bicicleta}\\\cline{1-2}\cline{4-5}
+Jorge & \mc{1}{l|}{Montar bicicleta y caminar} &  & Andrés & \mc{1}{l|}{Montar bicicleta y escuchar música}\\\cline{1-2}\cline{4-5}
+María & \mc{1}{l|}{Nadar y escuchar música} &  & Diana & \mc{1}{l|}{Nadar y escuchar música}\\\cline{1-2}\cline{4-5}
+\end{tabular}
+\end{center}
+}%
+\begin{itemize}
+ \item ¿Cuál actividad, desarrollada en el tiempo libre, es la preferida por los estudiantes encuestados por Pedro?
+ \item ¿Cuál la de los estudiantes encuestados por María?
+ \item ¿De qué manera podemos reunir y presentar los datos recogidos por Pedro y María? Discute con tus compañeros.
+\end{itemize}
+Una vez se consolida la información de los datos de Pedro y María, contesta:
+\begin{itemize}
+ \item ¿Cuál es la actividad preferida por las mujeres consultadas?
+ \item ¿Cuál es la actividad preferida por los hombres encuestados?
+ \item ¿Qué otras conclusiones puedes sacar de la totalidad de los datos?
+ \item ¿Te resulta fácil dar respuesta a las preguntas anteriores con las tablas que nos presentan los datos? Explica tu respuesta.
+\end{itemize}
+Observa dos representaciones realizadas para organizar las
+actividades desarrolladas en el tiempo libre por estudiantes
+de posprimaria:
+{%
+\newcommand{\mc}[3]{\multicolumn{#1}{#2}{#3}}
+\begin{center}
+\begin{tabular}{|l|l|l|l|l|}\cline{1-2}\cline{4-5}
+\mc{1}{|p{4cm}|}{Actividad realizada en el tiempo libre} & \mc{1}{p{2cm}|}{Cantidad de personas} &  & \mc{1}{p{4cm}|}{Actividad realizada en el tiempo libre} & \mc{1}{p{2cm}|}{Cantidad de personas}\\\cline{1-2}\cline{4-5}
+Nadar & ///// // &  & Nadar & 7\\\cline{1-2}\cline{4-5}
+Pintar & /// &  & Pintar & 3\\\cline{1-2}\cline{4-5}
+Montar bicicleta & ///// /// &  & Montar bicicleta & 8\\\cline{1-2}\cline{4-5}
+Escuchar música & ///// / &  & Escuchar música& 6\\\cline{1-2}\cline{4-5}
+Caminar en la montaña & // &  & Caminar en la montaña & 2\\\cline{1-2}\cline{4-5}
+\end{tabular}
+\end{center}
+}%
+\begin{itemize}
+ \item  ¿Qué actividad prefieren realizar la mayoría de
+estudiantes?,
+ \item ¿Cuál es la de menos preferencia?
+ \item ¿Qué prefieren más las personas, caminar en la montaña o escuchar música?
+ \item Si cada una de las personas encuestadas informó las dos actividades preferidas para realizar en su tiempo libre,¿cuántas personas se encuestaron en total?
+ \item ¿Qué tienen en común las tablas anteriores?
+ \item ¿Hay algo diferente en ellas?
+ \item ¿Alguna de esas tablas es más fácil de Interpretar? ¿Por qué?
+\end{itemize}
+\fbox{Para organizar información resulta muy útil hacerlo por medio
+de tablas}\\
+
+Las tablas permiten hacer un resumen de la información, para que pueda ser ordenada e interpretada fácilmente.
+
+Explica:
+\begin{itemize}
+ \item  ¿Qué tipo de tablas conoces?
+ \item ¿Para qué se utilizan las tablas?
+\end{itemize}
+\fbox{\begin{minipage}{\textwidth}
+La información que se recoge, organiza y analiza a partir del resultado de encuestas o consultas a diversas fuentes se
+denomina datos.       
+      \end{minipage}
+}\\
+
+En la información anterior, cada una de las respuestas dada
+por los estudiantes sobre las actividades que realizan en el
+tiempo libre es un dato.
+
+Según lo anterior
+\begin{itemize}
+ \item  ¿Cuáles datos de tus compañeros pudiste recoger?
+ \item ¿Cómo son esos datos? ¿Son números? ¿Son texto?
+\end{itemize}
+
+\end{document}
