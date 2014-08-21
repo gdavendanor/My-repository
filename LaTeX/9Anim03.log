@@ -1061,13 +1061,13 @@ Package rerunfilecheck Info: File `9Anim03.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 17253 strings out of 493315
- 293650 string characters out of 6145893
- 395433 words of memory out of 5000000
- 20330 multiletter control sequences out of 15000+600000
+ 17254 strings out of 493315
+ 293667 string characters out of 6145893
+ 394751 words of memory out of 5000000
+ 20331 multiletter control sequences out of 15000+600000
  51990 words of font info for 57 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,15n,55p,418b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,55p,418b,556s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -1079,7 +1079,7 @@ s/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb><
 public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9Anim03.pdf (3 pages, 243458 bytes).
+Output written on 9Anim03.pdf (3 pages, 243347 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
