@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 17:43
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 17:45
 entering extended mode
  %&-line parsing enabled.
 **11CalcTallLimFunc.tex
@@ -1017,7 +1017,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  16024 strings out of 494999
  275815 string characters out of 1180816
- 344325 words of memory out of 3000000
+ 345325 words of memory out of 3000000
  18848 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
@@ -1033,7 +1033,7 @@ onts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/s
 ymbols/msbm10.pfb>
-Output written on 11CalcTallLimFunc.pdf (3 pages, 246698 bytes).
+Output written on 11CalcTallLimFunc.pdf (3 pages, 246946 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
