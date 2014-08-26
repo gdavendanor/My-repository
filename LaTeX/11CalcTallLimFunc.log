@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 17:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 17:25
 entering extended mode
  %&-line parsing enabled.
 **11CalcTallLimFunc.tex
@@ -1002,13 +1002,8 @@ Underfull \vbox (badness 5985) has occurred while \output is active []
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
 (PNG copy)> <./Images/logo-sed.png (PNG copy)>]
-Overfull \hbox (13.00027pt too wide) in paragraph at lines 77--88
-\T1/lmr/m/n/10 de ^^P$\OML/lmm/m/it/10 x$\T1/lmr/m/n/10 ^^Q se es-tán acer-can-
-do a 1: [] 
- []
-
 File: Images/logo-colegio.png Graphic file (type png)
-<use Images/logo-colegio.png>
+ <use Images/logo-colegio.png>
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 15.60004pt.
@@ -1035,7 +1030,7 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbo
 ls/msbm10.pfb>
-Output written on 11CalcTallLimFunc.pdf (2 pages, 236878 bytes).
+Output written on 11CalcTallLimFunc.pdf (2 pages, 236861 bytes).
 PDF statistics:
  85 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
