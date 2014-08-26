@@ -1012,10 +1012,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] (./11CalcTallLimFunc.aux) ) 
 Here is how much of TeX's memory you used:
- 15907 strings out of 494999
- 273409 string characters out of 1180816
+ 15913 strings out of 494999
+ 273543 string characters out of 1180816
  343325 words of memory out of 3000000
- 18735 multiletter control sequences out of 15000+50000
+ 18741 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,428b,677s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1030,7 +1030,7 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/symbo
 ls/msbm10.pfb>
-Output written on 11CalcTallLimFunc.pdf (2 pages, 232876 bytes).
+Output written on 11CalcTallLimFunc.pdf (2 pages, 232924 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
