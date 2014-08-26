@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 18:34
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  26 AUG 2014 18:37
 entering extended mode
  %&-line parsing enabled.
 **11CalcTallLimFunc.tex
@@ -1021,10 +1021,10 @@ Overfull \hbox (5.02884pt too wide) in paragraph at lines 146--147
 
 [3] (./11CalcTallLimFunc.aux) ) 
 Here is how much of TeX's memory you used:
- 16039 strings out of 494999
- 276067 string characters out of 1180816
+ 16042 strings out of 494999
+ 276134 string characters out of 1180816
  349325 words of memory out of 3000000
- 18860 multiletter control sequences out of 15000+50000
+ 18863 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,428b,758s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1039,7 +1039,7 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 11CalcTallLimFunc.pdf (3 pages, 275318 bytes).
+Output written on 11CalcTallLimFunc.pdf (3 pages, 275309 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
