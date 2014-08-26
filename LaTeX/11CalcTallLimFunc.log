@@ -1015,7 +1015,7 @@ Overfull \hbox (5.02884pt too wide) in paragraph at lines 132--133
  []
 
 
-Overfull \hbox (90.38705pt too wide) in paragraph at lines 148--149
+Overfull \hbox (5.02884pt too wide) in paragraph at lines 148--149
  [] 
  []
 
@@ -1023,11 +1023,11 @@ Overfull \hbox (90.38705pt too wide) in paragraph at lines 148--149
 Here is how much of TeX's memory you used:
  16040 strings out of 494999
  276070 string characters out of 1180816
- 350325 words of memory out of 3000000
+ 349325 words of memory out of 3000000
  18861 multiletter control sequences out of 15000+50000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
- 56i,15n,55p,428b,768s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,428b,758s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{
 /usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/shar
@@ -1039,7 +1039,7 @@ mf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/shar
 e/texmf-texlive/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on 11CalcTallLimFunc.pdf (3 pages, 275697 bytes).
+Output written on 11CalcTallLimFunc.pdf (3 pages, 275355 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
