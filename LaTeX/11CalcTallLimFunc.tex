@@ -173,7 +173,7 @@ En ocasiones se escribe $j(x) \rightarrow 3$ cuando $x\rightarrow 1$
 \draw [<->](-2.3,0)--(2.3,0);
 \foreach \x in {-2,-1,1,2}
 \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
-\draw plot [domain=-1.7:1.7] (\x, {(\x)^2*((\x)-1)});
+\draw plot [domain=-1.5:2.2] (\x, {(\x)^2*((\x)-1)});
 \node at (0,-0.5)[below] {"$x$ esté próximo a $2$"};
 \end{tikzpicture}
 \end{center}
