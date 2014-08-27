@@ -962,4 +962,1123 @@ LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 36.
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 36.
+
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 36.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 36.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+<Images/logo-sed.png, id=7, 136.51pt x 156.585pt>
+File: Images/logo-sed.png Graphic file (type png)
+ <use Images/logo-sed.png>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 36.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 36.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 36.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png 
+(PNG copy)> <./Images/logo-sed.png (PNG copy)>]
+File: Images/logo-colegio.png Graphic file (type png)
+
+<use Images/logo-colegio.png>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Overfull \hbox (5.02884pt too wide) in paragraph at lines 132--133
+ [] 
+ []
+
+
+Overfull \hbox (5.02884pt too wide) in paragraph at lines 146--147
+ [] 
+ []
+
+! Undefined control sequence.
+l.151 En ocasiones se escribe $j(x) \rightaw
+                                             3$ cuando $x\rightarrow 1$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   {
+l.174 ... [domain=-1.7:1.7] (\x, \x*{\x-1}*{\x-1})
+                                                  ;
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 16196 strings out of 494999
+ 279397 string characters out of 1180816
+ 349325 words of memory out of 3000000
+ 19021 multiletter control sequences out of 15000+50000
+ 54985 words of font info for 58 fonts, out of 3000000 for 9000
+ 54 hyphenation exceptions out of 8191
+ 56i,15n,55p,428b,758s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+!  ==> Fatal error occurred, no output PDF file produced!
