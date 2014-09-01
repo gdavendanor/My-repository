@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  31 AUG 2014 21:12
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.8.25)  31 AUG 2014 21:14
 entering extended mode
  %&-line parsing enabled.
 **9EticaTall06CultivHabitos.tex
@@ -1020,10 +1020,10 @@ File: Images/logo-colegio.png Graphic file (type png)
  <use Images/logo-colegio.png>
 [4] (./9EticaTall06CultivHabitos.aux) ) 
 Here is how much of TeX's memory you used:
- 15893 strings out of 494999
- 272499 string characters out of 1180816
+ 15900 strings out of 494999
+ 272556 string characters out of 1180816
  343325 words of memory out of 3000000
- 18703 multiletter control sequences out of 15000+50000
+ 18704 multiletter control sequences out of 15000+50000
  67276 words of font info for 63 fonts, out of 3000000 for 9000
  54 hyphenation exceptions out of 8191
  56i,15n,55p,436b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1037,9 +1037,9 @@ m/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on 9EticaTall06CultivHabitos.pdf (4 pages, 374858 bytes).
+Output written on 9EticaTall06CultivHabitos.pdf (4 pages, 376649 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 114 PDF objects out of 1000 (max. 8388607)
+ 27 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
