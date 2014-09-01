@@ -1017,10 +1017,10 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2 <./Images/liebra_tortuga.png (PNG copy)>]
 ! Undefined control sequence.
-<argument> ...treve a entrar en ella.”\footcite 
-                                                  {Benjamín Franklin }
-l.154 }}
-        
+<recently read> \footcite 
+                          
+l.153 ... se atreve a entrar en ella.”}\footcite
+                                                  {Benjamín Franklin
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1046,7 +1046,7 @@ m/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on 9EticaTall06CultivHabitos.pdf (3 pages, 370736 bytes).
+Output written on 9EticaTall06CultivHabitos.pdf (3 pages, 370148 bytes).
 PDF statistics:
  101 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
