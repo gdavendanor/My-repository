@@ -844,7 +844,7 @@ Package: geometry 2008/12/21 v4.2 Page Geometry
 \f@ncyO@olf=\skip60
 \f@ncyO@orf=\skip61
 )
-No file 9EticaTall06CultivHabitos.aux.
+(./9EticaTall06CultivHabitos.aux)
 \openout1 = `9EticaTall06CultivHabitos.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -862,7 +862,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
@@ -889,6 +889,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
+
+(./9EticaTall06CultivHabitos.out) (./9EticaTall06CultivHabitos.out)
 \@outlinefile=\write4
 \openout4 = `9EticaTall06CultivHabitos.out'.
 
@@ -998,11 +1000,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 File: Images/liebra_tortuga.png Graphic file (type png)
 
 <use Images/liebra_tortuga.png>
-Overfull \hbox (17.31367pt too wide) in paragraph at lines 52--53
- [] 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1025,8 +1022,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [2 <./Images/liebra_tortuga.png (PNG copy)>] [3]
 (./9EticaTall06CultivHabitos.aux) ) 
 Here is how much of TeX's memory you used:
- 15883 strings out of 494999
- 272282 string characters out of 1180816
+ 15889 strings out of 494999
+ 272462 string characters out of 1180816
  342325 words of memory out of 3000000
  18703 multiletter control sequences out of 15000+50000
  67276 words of font info for 63 fonts, out of 3000000 for 9000
@@ -1042,7 +1039,7 @@ r6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on 9EticaTall06CultivHabitos.pdf (3 pages, 367049 bytes).
+Output written on 9EticaTall06CultivHabitos.pdf (3 pages, 367075 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
