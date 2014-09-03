@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 20:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 20:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -833,8 +833,23 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box62
 \multicol@sort@counter=\count137
 )
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count138
+\Gm@cntv=\count139
+\c@Gm@tempcnt=\count140
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
+\Gm@dimlist=\toks31
+)
 
-! LaTeX Error: File `subfig.sty' not found.
+! LaTeX Error: File `fancyhdr.sty' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: sty)
@@ -843,16 +858,16 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.13 \usepackage
-                [papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}^^M
+l.14 \pagestyle
+               {fancy}^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 14122 strings out of 493315
- 244575 string characters out of 6145894
- 313852 words of memory out of 5000000
- 17347 multiletter control sequences out of 15000+600000
+ 14558 strings out of 493315
+ 250841 string characters out of 6145894
+ 326866 words of memory out of 5000000
+ 17779 multiletter control sequences out of 15000+600000
  4403 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,0n,55p,428b,63s stack positions out of 5000i,500n,10000p,200000b,80000s
