@@ -94,5 +94,23 @@ Por último debemos recordar que si olvidamos un producto notable o éste no apl
 &=2x^3-8x^2+12x-x^2+4x-6\\
 &=2x^3-9x^2+16x-6
 \end{align*}
+\subsection*{Conexión con la geometr\'{i}a:}
+Como se puede esperar, hay interpretaciones geométricas para muchos de los conceptos algebraicos. Tendremos la oportunidad de ver la conexión entre álgebra y geometría en la solución del siguiente problema.
+\subsubsection*{Problema}
+De un rectángulo de 16 pulgadas por 12 pulgadas se quita un cuadrado de lado $x$ en cada esquina del rectángulo para luego doblar las pestañas hacia arriba y construir así una caja como se muestra en la figura. Encuentre los polinomios que representan el volumen y la superficie exterior de la caja.
+\begin{center}
+\includegraphics[scale=1]{Images/caja_12in.png} 
+\end{center}
+\paragraph*{Solución:}
 
+El largo de la caja será $15-2x$, el ancho $12-2x$ y la altura $x$. Por tanto su volumen será ($V=largo\times ancho \times alto$):
+\begin{align*}
+(16-2x)(12-2x)x&=16(12x-2x^2)-2x(12x-2x^2)\\
+&=192x-32x^2-24x^2+4x^3\\
+&=4x^3-56x^2+192x
+\end{align*}
+Ésta última expresión $4x^3-56x^2+192x$ representa el volumen de la caja.
+
+Ahora para calcular la superficie externa de la caja basta con restar al área del rectángulo original las cuatro esquinas que se cortaron. Luego el polinomio que representa la superficie externa de la caja es: 
+$16(12)-4x^2=192-4x^2$
 \end{document}
