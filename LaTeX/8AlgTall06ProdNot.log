@@ -1007,7 +1007,7 @@ Package pdftex.def Info: Images/caja_12in.png used on input line 102.
 LaTeX Warning: Citation `ej01' on page 4 undefined on input line 130.
 
 
-LaTeX Warning: Citation `32' on page 4 undefined on input line 130.
+LaTeX Warning: Citation `ej32' on page 4 undefined on input line 130.
 
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
@@ -1038,7 +1038,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
  ) 
 Here is how much of TeX's memory you used:
  15674 strings out of 493315
- 266144 string characters out of 6145894
+ 266146 string characters out of 6145894
  352142 words of memory out of 5000000
  18733 multiletter control sequences out of 15000+600000
  57983 words of font info for 59 fonts, out of 8000000 for 9000
