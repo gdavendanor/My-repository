@@ -1034,15 +1034,12 @@ Package rerunfilecheck Info: File `8AlgTall06ProdNot.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 172.
  ) 
 Here is how much of TeX's memory you used:
  15674 strings out of 493315
  266144 string characters out of 6145894
- 352111 words of memory out of 5000000
+ 352142 words of memory out of 5000000
  18733 multiletter control sequences out of 15000+600000
  57983 words of font info for 59 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
