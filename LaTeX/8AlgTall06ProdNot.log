@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 20:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 20:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -826,8 +826,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@erf=\skip55
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
+) (./8AlgTall06ProdNot.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
-No file 8AlgTall06ProdNot.aux.
 \openout1 = `8AlgTall06ProdNot.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -845,6 +847,7 @@ LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 33.
+
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -880,6 +883,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
+
+(./8AlgTall06ProdNot.out) (./8AlgTall06ProdNot.out)
 \@outlinefile=\write4
 \openout4 = `8AlgTall06ProdNot.out'.
 
@@ -988,21 +993,14 @@ LaTeX Info: Redefining \% on input line 19.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 52.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 52.
-
-
-Package rerunfilecheck Warning: File `8AlgTall06ProdNot.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `8AlgTall06ProdNot.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `8AlgTall06ProdNot.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 52.
  ) 
 Here is how much of TeX's memory you used:
- 15591 strings out of 493315
- 265362 string characters out of 6145894
- 347983 words of memory out of 5000000
+ 15595 strings out of 493315
+ 265474 string characters out of 6145894
+ 347078 words of memory out of 5000000
  18721 multiletter control sequences out of 15000+600000
  53720 words of font info for 58 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1015,10 +1013,10 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 8AlgTall06ProdNot.pdf (1 page, 206339 bytes).
+Output written on 8AlgTall06ProdNot.pdf (1 page, 206272 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 61 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
