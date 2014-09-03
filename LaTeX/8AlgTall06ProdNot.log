@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 22:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  2 SEP 2014 22:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,7 +981,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 35.
 
-[1
+Underfull \vbox (badness 3019) has occurred while \output is active []
+
+ [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
 g> <./Images/logo-sed.png (PNG copy)>]
@@ -1048,7 +1050,7 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 /type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/p
 ublic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 8AlgTall06ProdNot.pdf (5 pages, 259105 bytes).
+Output written on 8AlgTall06ProdNot.pdf (5 pages, 259083 bytes).
 PDF statistics:
  166 PDF objects out of 1000 (max. 8388607)
  143 compressed objects within 2 object streams
