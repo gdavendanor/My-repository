@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  4 SEP 2014 14:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  4 SEP 2014 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,8 +844,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layouthoffset=\dimen176
 \Gm@layoutvoffset=\dimen177
 \Gm@dimlist=\toks38
+) (./11ProbTallProbEmp.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
-No file 11ProbTallProbEmp.aux.
 \openout1 = `11ProbTallProbEmp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -863,6 +865,7 @@ LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 33.
+
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -911,6 +914,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
+
+(./11ProbTallProbEmp.out) (./11ProbTallProbEmp.out)
 \@outlinefile=\write4
 \openout4 = `11ProbTallProbEmp.out'.
 
@@ -1047,9 +1052,16 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-
-Overfull \hbox (42.29132pt too wide) in paragraph at lines 57--70
- [] 
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 47.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 47.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 47.
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (47.04132pt too wide) in paragraph at lines 57--70
+ [][][][] 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
@@ -1064,35 +1076,30 @@ LaTeX Info: Redefining \% on input line 19.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
-
-
-Package rerunfilecheck Warning: File `11ProbTallProbEmp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11ProbTallProbEmp.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 15956 strings out of 493315
- 270313 string characters out of 6145894
- 366916 words of memory out of 5000000
- 19072 multiletter control sequences out of 15000+600000
- 42930 words of font info for 57 fonts, out of 8000000 for 9000
+ 16034 strings out of 493315
+ 271363 string characters out of 6145894
+ 368011 words of memory out of 5000000
+ 19125 multiletter control sequences out of 15000+600000
+ 60451 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,6n,55p,428b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,8n,55p,428b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
-pfb>
-Output written on 11ProbTallProbEmp.pdf (1 page, 156414 bytes).
+onts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmtt9.pfb>
+Output written on 11ProbTallProbEmp.pdf (1 page, 240520 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
