@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  4 SEP 2014 14:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  4 SEP 2014 14:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -925,18 +925,18 @@ ABD: EveryShipout initializing macros
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(43.362pt, 505.89pt, 65.043pt)
-* v-part:(T,H,B)=(43.362pt, 686.56499pt, 65.043pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=505.89pt
-* \textheight=686.56499pt
-* \oddsidemargin=-28.90799pt
-* \evensidemargin=-7.22699pt
+* h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
+* v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
+* \paperwidth=469.75499pt
+* \paperheight=614.295pt
+* \textwidth=397.48499pt
+* \textheight=505.89pt
+* \oddsidemargin=-43.362pt
+* \evensidemargin=-28.90797pt
 * \topmargin=-65.90799pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -1014,71 +1014,63 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 35.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 35.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 49.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 48.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
-\T1/lmr/m/n/10.95 Pas-sen-gers []$\T1/lmtt/m/n/10.95 http : / / www . infopleas
-e . com / ipa /
+Underfull \hbox (badness 1077) in paragraph at lines 48--48
+[]\T1/lmr/m/n/10.95 Cuadro 1: []Fuente: Na-tio-na As-so-cia-tion of Rail-road P
+as-sen-gers []$\T1/lmtt/m/n/10.95 http : / / www .
  []
 
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
-environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
-environment!.
-
-
-Overfull \hbox (14.91626pt too wide) in paragraph at lines 60--73
- [] 
- []
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
-environment!.
-
-
-Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
-environment!.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
 [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
 g> <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
+File: Images/logo-colegio.png Graphic file (type png)
+ <use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 87.
+(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 16.08003pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (./11ProbTallProbEmp.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 16003 strings out of 493315
- 271068 string characters out of 6145894
- 364011 words of memory out of 5000000
- 19109 multiletter control sequences out of 15000+600000
+ 16004 strings out of 493315
+ 271048 string characters out of 6145894
+ 356155 words of memory out of 5000000
+ 19108 multiletter control sequences out of 15000+600000
  43249 words of font info for 58 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,9n,55p,428b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+ 56i,15n,55p,428b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.
-pfb>
-Output written on 11ProbTallProbEmp.pdf (1 page, 154597 bytes).
+pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmtt10.pfb>
+Output written on 11ProbTallProbEmp.pdf (2 pages, 183947 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
