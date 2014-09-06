@@ -801,10 +801,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 12162 strings out of 493315
- 218216 string characters out of 6145894
+ 12163 strings out of 493315
+ 218233 string characters out of 6145894
  278362 words of memory out of 5000000
- 15350 multiletter control sequences out of 15000+600000
+ 15351 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  49i,15n,53p,484b,1032s stack positions out of 5000i,500n,10000p,200000b,80000s
