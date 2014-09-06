@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  6 SEP 2014 11:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  6 SEP 2014 11:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -764,6 +764,7 @@ File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 ))
+(./6MatBim3.pgf)
 \pgfutil@auxout=\write4
 )
 (/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
@@ -2606,12 +2607,12 @@ l.134  \fill (
               10,-4) node[right]{50} circle (0.2ex);
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 9548 strings out of 493315
- 164614 string characters out of 6145894
- 213721 words of memory out of 5000000
+ 9550 strings out of 493315
+ 164640 string characters out of 6145894
+ 213709 words of memory out of 5000000
  12780 multiletter control sequences out of 15000+600000
  9289 words of font info for 34 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,11n,47p,428b,5687s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,47p,428b,5685s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
