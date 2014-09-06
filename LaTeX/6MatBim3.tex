@@ -56,23 +56,27 @@ $x_{i}$ & $f_{i}$\\\hline
   \item Determine la mediana \answer*[12pt]{Mediana:}
   \item Determine la media (promedio) \answer*[50pt]{Media: $\overline{x}=$}
   \item Haga el diagrama de barras
-  \begin{center}
+  %Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+
+\begin{center}
+\input pgf.tex
+\input tikz.tex
 \usetikzlibrary{arrows}
 \baselineskip=10pt
 \hsize=6.3truein
 \vsize=8.7truein
-\tikzpicture[scale=.5,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-\draw[->,color=black] (-4.22,0) -- (3.82,0);
-\foreach \x in {-4,-2,2}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-2.77,0) -- (61.31,0);
+\foreach \x in {,5,10,15,20,25,30,35,40,45,50,55,60}
 \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
-\draw[->,color=black] (0,-2.8) -- (0,1.66);
-\foreach \y in {-2}
+\draw[->,color=black] (0,-0.32) -- (0,7.21);
+\foreach \y in {,1,2,3,4,5,6,7}
 \draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
 \draw[color=black] (0pt,-10pt) node[right] {$0$};
-\clip(-4.22,-2.8) rectangle (3.82,1.66);
-\draw[smooth,samples=100,domain=-4.220000000000001:3.8200000000000007] plot(\x,{sin(((\x))*180/pi)});
-\endtikzpicture
-\end{center}
+\clip(-2.77,-0.32) rectangle (61.31,7.21);
+\endtikzpicture               \end{center}
+
  \end{enumerate}
  \end{enumerate}
 \end{document}
