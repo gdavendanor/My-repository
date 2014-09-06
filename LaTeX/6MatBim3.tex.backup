@@ -28,21 +28,34 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
  \noanswer
  \[\text{Divisores de }54=\{\]
  \item Encuentre el m.c.m (mínimo común múltiplo) de los números 12 y 15
- \noanswer
+ \answer*{$m.c.m(12,15)=$}
  \item Encuentre el M.C.D. (Máximo Común Divisor) de los números 36 y 48
- \noanswer
+ \answer*{$M.C.D.(36,48)=$}
+ \newpage
  \item Los siguientes datos corresponden al número de minutos que dedican los estudiantes de un curso a hacer tareas
  
  0, 15, 10, 20, 0, 20, 30, 40, 50, 0, 20, 30, 15, 15, 20, 15, 20, 15, 15, 12, 20, 0, 25, 30, 24, 20, 20, 30, 40, 50
  \begin{enumerate}
   \item Haga la tabla de frecuencias correspondiente
-  
-  \item Determine la moda\noanswer
-  \item Determine la mediana \noanswer
-  \item Determine la media (promedio) \noanswer
+  \begin{center}
+\begin{tabular}{c|c}\hline
+Dato & Frecuencia\\
+$x_{i}$ & $f_{i}$\\\hline
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & 
+  \end{tabular}
+  \end{center}
+  \item Determine la moda\answer*[0pt]{Moda:}
+  \item Determine la mediana \answer*[12pt]{Mediana:}
+  \item Determine la media (promedio) \answer*[50pt]{Media: $\overline{x}=$}
+  \item Haga el diagrama de barras\noanswer
  \end{enumerate}
-
- 
  \end{enumerate}
-
 \end{document}
