@@ -526,11 +526,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-
-Package amsmath Warning: Foreign command \over;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 25.
-
 ! Extra }, or forgotten $.
 l.27  \[\{54}
              \]
@@ -559,14 +554,12 @@ Here is how much of TeX's memory you used:
  37i,6n,45p,234b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 mf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/publi
-c/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr7.p
-fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texm
-f/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmsy8.pfb>
-Output written on 6MatBim3.pdf (1 page, 121851 bytes).
+c/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on 6MatBim3.pdf (1 page, 107105 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 30 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
