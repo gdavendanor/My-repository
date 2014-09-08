@@ -23,10 +23,10 @@ Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Form: \underline{A} \;
 Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 70 minutos para contestar esta prueba.}
 \LineaNombre
 \begin{enumerate}
- \item Encuentre los siguientes 3 términos de las progresiones y encuentre el término n-ésimo
+ \item Encuentre los siguientes 5 términos de las progresiones y encuentre el término n-ésimo
  \begin{enumerate}
-  \item -3,1,5,\ldots \answer*[12pt]{$a_{n}=$}
-  \item 18, 6, 2, $\dfrac{2}{3}$, \ldots \answer*[12pt]{$b_{n}=$}
+  \item -3,1,5,\ldots \addanswer*[0pt]{5 términos siguientes:}\answer*[0pt]{$a_{n}=$}
+  \item 18, 6, 2, $\dfrac{2}{3}$, \ldots \addanswer*[0pt]{5 términos siguientes:} \answer*[0pt]{$b_{n}=$}
  \end{enumerate}
 \item Encuentre los 10 primeros términos de las progresiones cuyo término general se da:
 \begin{enumerate}
@@ -58,7 +58,19 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
 \clip(-3.82,-6.64) rectangle (3.68,4.1);
 \endtikzpicture
 \end{center}
-
+\newpage
+\item Se lanzan al aires tres monedas y se registra el número de caras observadas. Encuentre la probabilidad para cada uno de los posibles resultados:
+\begin{enumerate}
+ \item ``0 caras observadas'': \answer*[0pt]{$P(0C)=$}
+ \item ``1 cara observada'': \answer*[0pt]{$P(1C)=$}
+ \item ``2 caras observadas'': \answer*[0pt]{$P(2C)=$}
+ \item ``3 caras observadas'': \answer*[0pt]{$P(3C)=$}
+\end{enumerate}
+\item Una computadora genera (de manera aleatoria) pares de enteros. El primer entero es entre 1 y 5, inclusive, y el segundo es entre 1 y 4, inclusive.
+\begin{enumerate}
+ \item Represente el espacio muestral $S$ como un diagrama de árbol \noanswer
+ \item Haga una lista de sus resultados como pares ordenados, con $x$ como el primer entero y $y$ como el segundo entero.\noanswer
+\end{enumerate}
 
 \end{enumerate}
 
