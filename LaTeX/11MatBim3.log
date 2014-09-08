@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,14 +712,14 @@ LaTeX Info: Redefining \% on input line 21.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
-* v-part:(T,H,B)=(42.67912pt, 703.92128pt, 48.36958pt)
+* v-part:(T,H,B)=(39.83368pt, 709.61172pt, 45.52458pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=557.38951pt
-* \textheight=703.92128pt
+* \textheight=709.61172pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
-* \topmargin=-66.59087pt
+* \topmargin=-69.43631pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -877,78 +877,4 @@ l.70 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
 ! Package pgf Error: Arrow end type ``tikze@>>@triangle 45'' unknown.
 
 See the pgf package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-                                                  
-(That was another \errmessage.)
-
-
-! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
-
-See the pgf package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.72 \draw[->,color=black]
-                           (-3.08,0) -- (3.26,0);
-(That was another \errmessage.)
-
-
-! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
-
-See the pgf package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.75 \draw[->,color=black]
-                           (0,-3.78) -- (0,4.74);
-(That was another \errmessage.)
-
-File: Images/logo-sed.png Graphic file (type png)
-<use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 102.
-(pdftex.def)             Requested size: 13.94757pt x 16.0pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 19.60004pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2] 
-AED: lastpage setting LastPage
-File: Images/logo-sed.png Graphic file (type png)
-<use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 111.
-(pdftex.def)             Requested size: 13.94757pt x 16.0pt.
- [3] (./11MatBim3.aux
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
-) ) 
-Here is how much of TeX's memory you used:
- 12808 strings out of 493315
- 231214 string characters out of 6145894
- 304777 words of memory out of 5000000
- 15991 multiletter control sequences out of 15000+600000
- 8151 words of font info for 30 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 56i,15n,55p,420b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
-/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/
-amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.p
-fb>
-Output written on 11MatBim3.pdf (3 pages, 177690 bytes).
-PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+Type  H <re
