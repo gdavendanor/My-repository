@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 21:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -528,7 +528,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
-g>] [2] [3]
+g>]
+Overfull \hbox (23.91983pt too wide) in paragraph at lines 86--97
+\OT1/cmr/m/n/10 sig-ne al la-do de sus res-pues-tas pa-ra que con-sig-ne en la 
+otra ta-bla: $[]$
+ []
+
+[2] [3]
 This exam contains 20 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 100 points.
 This exam has a total of 0 bonus points.
@@ -539,15 +545,15 @@ LaTeX Info: Redefining \% on input line 25.
 Here is how much of TeX's memory you used:
  4333 strings out of 493315
  54839 string characters out of 6145894
- 136904 words of memory out of 5000000
+ 137904 words of memory out of 5000000
  7723 multiletter control sequences out of 15000+600000
  10283 words of font info for 41 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,10n,26p,243b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,10n,26p,331b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
 amsfonts/cm/cmr17.pfb>
-Output written on Autoevaluacion.pdf (3 pages, 65858 bytes).
+Output written on Autoevaluacion.pdf (3 pages, 65788 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
