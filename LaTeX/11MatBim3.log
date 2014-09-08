@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -825,11 +825,36 @@ File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (P
-NG copy)> <./Images/logo-colegio.png>] 
+NG copy)> <./Images/logo-colegio.png>]
+
+! Package xcolor Error: Undefined color `cqcqcq'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...tep=1.0cm,ystep=1.0cm] (-3,-3) grid (3,4);
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xcolor Error: Undefined color `tikz@color'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...tep=1.0cm,ystep=1.0cm] (-3,-3) grid (3,4);
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
 AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 100.
+Package pdftex.def Info: Images/logo-sed.png used on input line 101.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -858,7 +883,7 @@ mf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy7.
 pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texm
 f/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11MatBim3.pdf (2 pages, 156202 bytes).
+Output written on 11MatBim3.pdf (2 pages, 156311 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
