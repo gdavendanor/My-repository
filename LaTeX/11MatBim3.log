@@ -907,7 +907,7 @@ l.77 \draw[->,color=black]
 (That was another \errmessage.)
 
 
-Overfull \hbox (203.82869pt too wide) in paragraph at lines 64--100
+Overfull \hbox (201.60648pt too wide) in paragraph at lines 64--100
 []$[]$ $[]$ 
  []
 
@@ -946,7 +946,7 @@ fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.p
 fb>
-Output written on 11MatBim3.pdf (2 pages, 175824 bytes).
+Output written on 11MatBim3.pdf (2 pages, 175819 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
