@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,11 +906,9 @@ l.75 \draw[->,color=black]
                            (0,-3.78) -- (0,4.74);
 (That was another \errmessage.)
 
-
-AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 108.
+Package pdftex.def Info: Images/logo-sed.png used on input line 104.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -919,10 +917,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (./11MatBim3.aux
+[2] 
+AED: lastpage setting LastPage
+File: Images/logo-sed.png Graphic file (type png)
+<use Images/logo-sed.png>
+Package pdftex.def Info: Images/logo-sed.png used on input line 110.
+(pdftex.def)             Requested size: 13.94757pt x 16.0pt.
+ [3] (./11MatBim3.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-) ) 
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  12808 strings out of 493315
  231214 string characters out of 6145894
@@ -931,18 +939,20 @@ Here is how much of TeX's memory you used:
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,15n,55p,420b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy7.
-pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texm
-f/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11MatBim3.pdf (2 pages, 162333 bytes).
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texm
+f/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.
+pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texm
+f/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.pf
+b>
+Output written on 11MatBim3.pdf (3 pages, 177348 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
