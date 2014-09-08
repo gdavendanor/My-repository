@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -843,10 +843,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 12402 strings out of 493315
- 222782 string characters out of 6145894
+ 12427 strings out of 493315
+ 223308 string characters out of 6145894
  282144 words of memory out of 5000000
- 15585 multiletter control sequences out of 15000+600000
+ 15610 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,15n,55p,420b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -858,7 +858,7 @@ mf/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy7.
 pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texm
 f/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11MatBim3.pdf (2 pages, 156219 bytes).
+Output written on 11MatBim3.pdf (2 pages, 156202 bytes).
 PDF statistics:
  56 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
