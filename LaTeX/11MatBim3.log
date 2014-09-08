@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  7 SEP 2014 19:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -908,7 +908,7 @@ l.75 \draw[->,color=black]
 
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 104.
+Package pdftex.def Info: Images/logo-sed.png used on input line 102.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -930,7 +930,7 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  12808 strings out of 493315
  231214 string characters out of 6145894
- 305777 words of memory out of 5000000
+ 304777 words of memory out of 5000000
  15991 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -945,7 +945,7 @@ fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.p
 fb>
-Output written on 11MatBim3.pdf (3 pages, 177680 bytes).
+Output written on 11MatBim3.pdf (3 pages, 177690 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
