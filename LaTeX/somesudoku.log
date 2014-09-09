@@ -174,6 +174,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 42.
+
+LaTeX Warning: Citation `SSBL' on page 1 undefined on input line 51.
+
+
+LaTeX Warning: Citation `DT2' on page 1 undefined on input line 52.
+
+
+LaTeX Warning: Citation `SUDOKUBUNDLE' on page 1 undefined on input line 55.
+
+
+LaTeX Warning: Citation `SUDOKUBUNDLE' on page 1 undefined on input line 59.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -200,7 +212,7 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--114
 ! Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.117 \renewcommand
+l.118 \renewcommand
                    *{\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -213,7 +225,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 \renewcommand
+l.118 \renewcommand
                    *{\puzzlefile}{se15.sud}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -221,7 +233,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing number, treated as zero.
 <to be read again> 
                    <
-l.117 \renewcommand
+l.118 \renewcommand
                    *{\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -229,19 +241,19 @@ look up `weird error' in the index to The TeXbook.)
 
 
 Package multicol Warning: Using `0' columns doesn't seem a good idea.
- I therefore use two columns instead on input line 117.
+ I therefore use two columns instead on input line 118.
 
 ! Extra \fi.
 \multicols ...olumns instead}\col@number \tw@ \fi 
                                                   \ifnum \col@number >10 \Pa...
-l.117 \renewcommand
+l.118 \renewcommand
                    *{\puzzlefile}{se15.sud}
 I'm ignoring this; it doesn't match any \if.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -250,14 +262,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -266,7 +278,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Extra \else.
 \addpenalty ...skip \@tempskipb \fi \fi \fi \else 
                                                   \@noitemerr \fi 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I'm ignoring this; it doesn't match any \if.
 
@@ -277,7 +289,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -285,7 +297,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -294,14 +306,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -310,7 +322,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -319,14 +331,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -335,7 +347,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Extra \else.
 \addvspace ... #1\relax \@xaddvskip \fi \fi \else 
                                                   \@noitemerr \fi 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I'm ignoring this; it doesn't match any \if.
 
@@ -346,7 +358,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -354,7 +366,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing number, treated as zero.
 <to be read again> 
                    \advance 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -363,14 +375,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \advance 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \advance 
-l.117 \renewcommand*
+l.118 \renewcommand*
                     {\puzzlefile}{se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -381,7 +393,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \def 
-l.124 \begin{minipage}{0.95\linewidth}
+l.125 \begin{minipage}{0.95\linewidth}
                                       \begin{center}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -390,14 +402,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \def 
-l.124 \begin{minipage}{0.95\linewidth}
+l.125 \begin{minipage}{0.95\linewidth}
                                       \begin{center}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \def 
-l.124 \begin{minipage}{0.95\linewidth}
+l.125 \begin{minipage}{0.95\linewidth}
                                       \begin{center}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -406,7 +418,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.124 ...n{minipage}{0.95\linewidth}\begin{center}
+l.125 ...n{minipage}{0.95\linewidth}\begin{center}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -415,14 +427,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \let 
-l.124 ...n{minipage}{0.95\linewidth}\begin{center}
+l.125 ...n{minipage}{0.95\linewidth}\begin{center}
                                                   
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \let 
-l.124 ...n{minipage}{0.95\linewidth}\begin{center}
+l.125 ...n{minipage}{0.95\linewidth}\begin{center}
                                                   
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -431,7 +443,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    S
-l.125 S
+l.126 S
        E15 (easy) \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -440,14 +452,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    S
-l.125 S
+l.126 S
        E15 (easy) \\
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    S
-l.125 S
+l.126 S
        E15 (easy) \\
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -456,7 +468,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.126 \sudoku
+l.127 \sudoku
              {se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -465,14 +477,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \relax 
-l.126 \sudoku
+l.127 \sudoku
              {se15.sud}
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.126 \sudoku
+l.127 \sudoku
              {se15.sud}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -481,7 +493,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Extra \else.
 \addvspace ... #1\relax \@xaddvskip \fi \fi \else 
                                                   \@noitemerr \fi 
-l.126 \sudoku
+l.127 \sudoku
              {se15.sud}
 I'm ignoring this; it doesn't match any \if.
 
@@ -492,7 +504,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.126 \sudoku
+l.127 \sudoku
              {se15.sud}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -500,7 +512,7 @@ If that doesn't work, type  X <return>  to quit.
 ! Missing number, treated as zero.
 <to be read again> 
                    \def 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -509,14 +521,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \def 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \def 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -525,7 +537,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \ignorespaces 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -534,14 +546,14 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \ignorespaces 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \ignorespaces 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -550,32 +562,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing number, treated as zero.
 <to be read again> 
                    \raise 
-l.126 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \raise 
-l.126 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.126 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -584,14 +571,39 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    \raise 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    \raise 
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \raise 
+l.127 \sudoku{se15.sud}
+                       
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Missing = inserted for \ifnum.
+<to be read again> 
+                   \raise 
+l.127 \sudoku{se15.sud}
+                       
+I was expecting to see `<', `=', or `>'. Didn't.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \raise 
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -600,35 +612,35 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    0
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    1
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing = inserted for \ifnum.
 <to be read again> 
                    .
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 I was expecting to see `<', `=', or `>'. Didn't.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    .
-l.126 \sudoku{se15.sud}
+l.127 \sudoku{se15.sud}
                        
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
 )
-! Incomplete \ifnum; all text was ignored after line 126.
+! Incomplete \ifnum; all text was ignored after line 127.
 <inserted text> 
                 \fi 
 <*> somesudoku.tex
@@ -644,11 +656,11 @@ the matching `\fi'. I've inserted a `\fi'; this might work.
 
  
 Here is how much of TeX's memory you used:
- 1009 strings out of 493315
- 13435 string characters out of 6145894
- 112666 words of memory out of 5000000
+ 1010 strings out of 493315
+ 13451 string characters out of 6145894
+ 112641 words of memory out of 5000000
  4496 multiletter control sequences out of 15000+600000
- 7494 words of font info for 27 fonts, out of 8000000 for 9000
+ 7802 words of font info for 28 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,19p,173b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,21p,173b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
