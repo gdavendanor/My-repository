@@ -286,4 +286,159 @@ increase \maxdeadcycles if you want me to be more patient!
 <to be read again> 
                    \unhbox 
 l.242 \begin{minipage}{0.95\linewidth}
-                                      \begin{ce
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st0206.sud'.
+
+\openout4 = `st0213.sud'.
+
+\openout4 = `cs1.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.278 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `cs2.sud'.
+
+\openout4 = `cs3.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+\newpage ...erypar {}\fi \par \vfil \penalty -\@M 
+                                                  
+l.309 \clearpage
+                
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `sm5.sud'.
+
+\openout4 = `sm10.sud'.
+
+\openout4 = `sm15.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.343 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `sm20.sud'.
+
+\openout4 = `sm25.sud'.
+
+\openout4 = `sm30.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.379 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tm35.sud'.
+
+\openout4 = `tm40.sud'.
+
+\openout4 = `tm45.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.415 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tm50.sud'.
+
+\openout4 = `tm55.sud'.
+
+\openout4 = `tm60.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.451 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st0914.sud'.
+
+\openout4 = `st0207.sud'.
+
+\openout4 = `cs4.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.487 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `cs5.sud'.
+
+\openout4 = `cs6.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+\newpage ...erypar {}\fi \par \vfil \penalty -\@M 
+                                                  
+l.518 \clearpage
+                
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `sh5.sud'.
+
+\openout4 = `sh10.sud'.
+
+\openout4 = `sh15.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.552 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `sh20.s
