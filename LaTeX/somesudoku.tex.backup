@@ -32,7 +32,6 @@
 \usepackage{url}
 \usepackage{printsudoku}
 \usepackage{multicol}
-\usepackage{}
 \newcommand*{\Lpack}[1]{\textsf{#1}}
 \title{Example Sudoku Puzzles}
 \author{Peter Wilson}
