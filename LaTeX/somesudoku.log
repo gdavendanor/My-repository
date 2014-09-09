@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 06:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 06:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -142,15 +142,15 @@ LaTeX Font Info:    ... okay on input line 41.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(21.33955pt, 571.61589pt, 21.33955pt)
-* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=571.61589pt
-* \textheight=709.61174pt
-* \oddsidemargin=-50.93044pt
-* \evensidemargin=-50.93044pt
-* \topmargin=-66.59087pt
+* \textwidth=557.38951pt
+* \textheight=556.47656pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -186,36 +186,36 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `se5.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 98--102
+Overfull \hbox (1.31442pt too wide) in paragraph at lines 98--102
 []$[]$ 
  []
 
 \openout4 = `se10.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--114
+Overfull \hbox (1.31442pt too wide) in paragraph at lines 110--114
 []$[]$ 
  []
 
 \openout4 = `se15.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 125--129
+Overfull \hbox (1.31442pt too wide) in paragraph at lines 125--129
 []$[]$ 
  []
 
 \openout4 = `se20.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
+Overfull \hbox (1.31442pt too wide) in paragraph at lines 137--141
 []$[]$ 
  []
 
+[3]
 \openout4 = `se25.sud'.
 
 \openout4 = `se30.sud'.
 
-[3]
 \openout4 = `tg5.sud'.
 
 \openout4 = `tg10.sud'.
@@ -365,14 +365,14 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `tg20.ans'.
 
-\openout4 = `tg25.ans'.
-
-\openout4 = `tg30.ans'.
-
  [31
 
 
 ]
+\openout4 = `tg25.ans'.
+
+\openout4 = `tg30.ans'.
+
 \openout4 = `st1226.ans'.
 
 \openout4 = `st0206.ans'.
@@ -381,6 +381,7 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `cs1.ans'.
 
+ [32]
 \openout4 = `cs2.ans'.
 
 \openout4 = `cs3.ans'.
@@ -389,11 +390,11 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `sm10.ans'.
 
- [32]
 \openout4 = `sm15.ans'.
 
 \openout4 = `sm20.ans'.
 
+ [33]
 \openout4 = `sm25.ans'.
 
 \openout4 = `sm30.ans'.
@@ -406,7 +407,8 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `tm50.ans'.
 
- [33]
+
+[34]
 \openout4 = `tm55.ans'.
 
 \openout4 = `tm60.ans'.
@@ -419,12 +421,11 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `cs5.ans'.
 
+ [35]
 \openout4 = `cs6.ans'.
 
 \openout4 = `sh5.ans'.
 
-
-[34]
 \openout4 = `sh10.ans'.
 
 \openout4 = `sh15.ans'.
@@ -433,6 +434,7 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `sh25.ans'.
 
+ [36]
 \openout4 = `sh30.ans'.
 
 \openout4 = `tt100.ans'.
@@ -441,11 +443,11 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `tt110.ans'.
 
- [35]
 \openout4 = `tt115.ans'.
 
 \openout4 = `tt120.ans'.
 
+ [37]
 \openout4 = `st1130.ans'.
 
 \openout4 = `st1207.ans'.
@@ -458,7 +460,7 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `st0126.ans'.
 
- [36]
+ [38]
 \openout4 = `st0127.ans'.
 
 \openout4 = `st0204.ans'.
@@ -467,28 +469,28 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
 
 \openout4 = `st0209.ans'.
 
- [37] [38
+ [39] [40] [41
 
-] [39] (./somesudoku.aux) ) 
+] (./somesudoku.aux) ) 
 Here is how much of TeX's memory you used:
  1070 strings out of 493315
  13769 string characters out of 6145894
- 136662 words of memory out of 5000000
+ 124631 words of memory out of 5000000
  4499 multiletter control sequences out of 15000+600000
  8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,19p,171b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cms
-l10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on somesudoku.pdf (39 pages, 140637 bytes).
+ 23i,8n,19p,161b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.p
+fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texm
+f/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb>
+Output written on somesudoku.pdf (41 pages, 141779 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 170 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
