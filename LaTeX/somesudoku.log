@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 06:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 06:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -87,32 +87,98 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \mult@nat@firstbox=\box50
 \colbreak@box=\box51
 \multicol@sort@counter=\count99
+)
+(/usr/share/texmf/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texmf/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texmf/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texmf/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texmf/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen111
+\Gm@wd@mp=\dimen112
+\Gm@odd@mp=\dimen113
+\Gm@even@mp=\dimen114
+\Gm@layoutwidth=\dimen115
+\Gm@layoutheight=\dimen116
+\Gm@layouthoffset=\dimen117
+\Gm@layoutvoffset=\dimen118
+\Gm@dimlist=\toks15
 ) (./somesudoku.aux)
 \openout1 = `somesudoku.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(21.33955pt, 571.61589pt, 21.33955pt)
+* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=571.61589pt
+* \textheight=738.0645pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=121.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <12> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
+(Font)              <6> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 71.
+(Font)              <7> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 71.
- [1
+(Font)              <5> on input line 72.
+[1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
@@ -120,24 +186,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout4 = `se5.sud'.
 
 
-Overfull \hbox (83.87552pt too wide) in paragraph at lines 99--100
- [][] 
- []
-
-
-Overfull \hbox (6.62448pt too wide) in paragraph at lines 97--101
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 98--102
 []$[]$ 
  []
 
 \openout4 = `se10.sud'.
 
 
-Overfull \hbox (83.87552pt too wide) in paragraph at lines 111--112
- [][] 
- []
-
-
-Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--114
 []$[]$ 
  []
 
@@ -303,11 +359,11 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `tg20.ans'.
 
- [33]
 \openout4 = `tg25.ans'.
 
 \openout4 = `tg30.ans'.
 
+ [33]
 \openout4 = `st1226.ans'.
 
 \openout4 = `st0206.ans'.
@@ -316,8 +372,6 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `cs1.ans'.
 
-
-[34]
 \openout4 = `cs2.ans'.
 
 \openout4 = `cs3.ans'.
@@ -326,11 +380,12 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `sm10.ans'.
 
+
+[34]
 \openout4 = `sm15.ans'.
 
 \openout4 = `sm20.ans'.
 
- [35]
 \openout4 = `sm25.ans'.
 
 \openout4 = `sm30.ans'.
@@ -343,7 +398,7 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `tm50.ans'.
 
- [36]
+ [35]
 \openout4 = `tm55.ans'.
 
 \openout4 = `tm60.ans'.
@@ -356,11 +411,11 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `cs5.ans'.
 
- [37]
 \openout4 = `cs6.ans'.
 
 \openout4 = `sh5.ans'.
 
+ [36]
 \openout4 = `sh10.ans'.
 
 \openout4 = `sh15.ans'.
@@ -369,7 +424,6 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `sh25.ans'.
 
- [38]
 \openout4 = `sh30.ans'.
 
 \openout4 = `tt100.ans'.
@@ -378,11 +432,11 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `tt110.ans'.
 
+ [37]
 \openout4 = `tt115.ans'.
 
 \openout4 = `tt120.ans'.
 
- [39]
 \openout4 = `st1130.ans'.
 
 \openout4 = `st1207.ans'.
@@ -395,7 +449,7 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `st0126.ans'.
 
- [40]
+ [38]
 \openout4 = `st0127.ans'.
 
 \openout4 = `st0204.ans'.
@@ -404,28 +458,28 @@ Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
 
 \openout4 = `st0209.ans'.
 
- [41] [42] [43
+ [39] [40
 
-] (./somesudoku.aux) ) 
+] [41] (./somesudoku.aux) ) 
 Here is how much of TeX's memory you used:
- 550 strings out of 493315
- 6233 string characters out of 6145894
- 107771 words of memory out of 5000000
- 3998 multiletter control sequences out of 15000+600000
+ 1070 strings out of 493315
+ 13769 string characters out of 6145894
+ 136652 words of memory out of 5000000
+ 4499 multiletter control sequences out of 15000+600000
  8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,19p,161b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
-amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.p
-fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texm
-f/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/publi
-c/amsfonts/cm/cmtt10.pfb>
-Output written on somesudoku.pdf (43 pages, 142472 bytes).
+ 23i,8n,19p,167b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cms
+l10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
+/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/
+public/amsfonts/cm/cmtt10.pfb>
+Output written on somesudoku.pdf (41 pages, 141191 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
+ 170 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
