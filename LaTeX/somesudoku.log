@@ -143,14 +143,14 @@ LaTeX Font Info:    ... okay on input line 41.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(21.33955pt, 571.61589pt, 21.33955pt)
-* v-part:(T,H,B)=(28.45274pt, 738.0645pt, 28.45274pt)
+* v-part:(T,H,B)=(35.56593pt, 723.83812pt, 35.56593pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=571.61589pt
-* \textheight=738.0645pt
+* \textheight=723.83812pt
 * \oddsidemargin=-50.93044pt
 * \evensidemargin=-50.93044pt
-* \topmargin=-80.81725pt
+* \topmargin=-73.70406pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -473,11 +473,11 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 134--138
 Here is how much of TeX's memory you used:
  1070 strings out of 493315
  13769 string characters out of 6145894
- 141652 words of memory out of 5000000
+ 141666 words of memory out of 5000000
  4499 multiletter control sequences out of 15000+600000
  8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,19p,167b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,173b,660s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmb
 x12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/pu
@@ -485,7 +485,7 @@ blic/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cms
 l10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
 /texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/
 public/amsfonts/cm/cmtt10.pfb>
-Output written on somesudoku.pdf (39 pages, 140625 bytes).
+Output written on somesudoku.pdf (39 pages, 140491 bytes).
 PDF statistics:
  164 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
