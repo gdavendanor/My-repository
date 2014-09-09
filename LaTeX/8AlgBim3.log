@@ -530,6 +530,32 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+l.27   \item
+             La suma del triple de un número y el cuádruple de otro \answe...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27   \item
+             La suma del triple de un número y el cuádruple de otro \answe...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
 l.28   \item
              La raíz cuadrada del producto de dos números\answer*[0pt]
 Try typing  <return>  to proceed.
@@ -1398,7 +1424,7 @@ l.31  \end
 Here is how much of TeX's memory you used:
  3601 strings out of 493315
  45805 string characters out of 6145894
- 124158 words of memory out of 5000000
+ 124171 words of memory out of 5000000
  6991 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
