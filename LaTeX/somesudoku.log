@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 06:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -39,79 +39,145 @@ Package: printsudoku 2006/02/16 v1.0 typeset sudoku puzzles
 \s@dnrow=\count88
 \s@dcolpos=\count89
 \s@drowpos=\count90
+)
+(/usr/share/texmf/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box26
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip44
+\multicolbaselineskip=\skip45
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen108
+\multicolovershoot=\dimen109
+\multicolundershoot=\dimen110
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\multicol@sort@counter=\count99
 ) (./somesudoku.aux)
 \openout1 = `somesudoku.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 40.
+(Font)              <12> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 40.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 40.
+(Font)              <6> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 70.
+(Font)              <7> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 70.
-
-[1
+(Font)              <5> on input line 71.
+ [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
 \openout4 = `se5.sud'.
 
+
+Overfull \hbox (83.87552pt too wide) in paragraph at lines 99--100
+ [][] 
+ []
+
+
+Overfull \hbox (6.62448pt too wide) in paragraph at lines 97--101
+[]$[]$ 
+ []
+
 \openout4 = `se10.sud'.
+
+
+Overfull \hbox (83.87552pt too wide) in paragraph at lines 111--112
+ [][] 
+ []
+
+
+Overfull \hbox (6.62448pt too wide) in paragraph at lines 109--113
+[]$[]$ 
+ []
 
 \openout4 = `se15.sud'.
 
 \openout4 = `se20.sud'.
 
- [3]
 \openout4 = `se25.sud'.
 
+[3]
 \openout4 = `se30.sud'.
 
- [4]
 \openout4 = `tg5.sud'.
 
+ [4]
 \openout4 = `tg10.sud'.
 
- [5]
 \openout4 = `tg15.sud'.
 
+ [5]
 \openout4 = `tg20.sud'.
 
-
-[6]
 \openout4 = `tg25.sud'.
 
+ [6]
 \openout4 = `tg30.sud'.
 
- [7]
 \openout4 = `st1226.sud'.
 
+ [7]
 \openout4 = `st0206.sud'.
 
- [8]
 \openout4 = `st0213.sud'.
 
+ [8]
 \openout4 = `cs1.sud'.
 
- [9]
 \openout4 = `cs2.sud'.
 
+ [9]
 \openout4 = `cs3.sud'.
 
  [10] [11]
@@ -158,7 +224,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [18]
 \openout4 = `cs6.sud'.
 
- [19] [20]
+
+[19] [20]
 \openout4 = `sh5.sud'.
 
 \openout4 = `sh10.sud'.
@@ -174,8 +241,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 \openout4 = `sh30.sud'.
 
-
-[22]
+ [22]
 \openout4 = `tt100.sud'.
 
 \openout4 = `tt105.sud'.
@@ -250,7 +316,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 \openout4 = `cs1.ans'.
 
- [34]
+
+[34]
 \openout4 = `cs2.ans'.
 
 \openout4 = `cs3.ans'.
@@ -289,8 +356,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 \openout4 = `cs5.ans'.
 
-
-[37]
+ [37]
 \openout4 = `cs6.ans'.
 
 \openout4 = `sh5.ans'.
@@ -342,13 +408,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./somesudoku.aux) ) 
 Here is how much of TeX's memory you used:
- 455 strings out of 493315
- 4828 string characters out of 6145894
- 103957 words of memory out of 5000000
- 3907 multiletter control sequences out of 15000+600000
+ 550 strings out of 493315
+ 6233 string characters out of 6145894
+ 107771 words of memory out of 5000000
+ 3998 multiletter control sequences out of 15000+600000
  8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,19p,161b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,8n,19p,161b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
@@ -356,7 +422,7 @@ amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.p
 fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texm
 f/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/publi
 c/amsfonts/cm/cmtt10.pfb>
-Output written on somesudoku.pdf (43 pages, 142411 bytes).
+Output written on somesudoku.pdf (43 pages, 142472 bytes).
 PDF statistics:
  177 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams
