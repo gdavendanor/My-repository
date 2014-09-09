@@ -193,29 +193,33 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 98--102
 \openout4 = `se10.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--115
-[]$[]$
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--114
+[]$[]$ 
  []
 
 \openout4 = `se15.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 123--127
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 124--128
 []$[]$ 
  []
 
 \openout4 = `se20.sud'.
 
 
-Overfull \hbox (0.95874pt too wide) in paragraph at lines 135--139
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 136--140
 []$[]$ 
  []
 
+
+Overfull \vbox (63.61462pt too high) has occurred while \output is active []
+
+
+[3]
 \openout4 = `se25.sud'.
 
 \openout4 = `se30.sud'.
 
-[3]
 \openout4 = `tg5.sud'.
 
 \openout4 = `tg10.sud'.
@@ -404,91 +408,4 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 135--139
 
 \openout4 = `tm45.ans'.
 
-\openout4 = `tm50.ans'.
-
- [33]
-\openout4 = `tm55.ans'.
-
-\openout4 = `tm60.ans'.
-
-\openout4 = `st0914.ans'.
-
-\openout4 = `st0207.ans'.
-
-\openout4 = `cs4.ans'.
-
-\openout4 = `cs5.ans'.
-
-\openout4 = `cs6.ans'.
-
-\openout4 = `sh5.ans'.
-
-
-[34]
-\openout4 = `sh10.ans'.
-
-\openout4 = `sh15.ans'.
-
-\openout4 = `sh20.ans'.
-
-\openout4 = `sh25.ans'.
-
-\openout4 = `sh30.ans'.
-
-\openout4 = `tt100.ans'.
-
-\openout4 = `tt105.ans'.
-
-\openout4 = `tt110.ans'.
-
- [35]
-\openout4 = `tt115.ans'.
-
-\openout4 = `tt120.ans'.
-
-\openout4 = `st1130.ans'.
-
-\openout4 = `st1207.ans'.
-
-\openout4 = `st1209.ans'.
-
-\openout4 = `st1221.ans'.
-
-\openout4 = `st1228.ans'.
-
-\openout4 = `st0126.ans'.
-
- [36]
-\openout4 = `st0127.ans'.
-
-\openout4 = `st0204.ans'.
-
-\openout4 = `st0208.ans'.
-
-\openout4 = `st0209.ans'.
-
- [37] [38
-
-] [39] (./somesudoku.aux) ) 
-Here is how much of TeX's memory you used:
- 1070 strings out of 493315
- 13769 string characters out of 6145894
- 153666 words of memory out of 5000000
- 4499 multiletter control sequences out of 15000+600000
- 8452 words of font info for 30 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 23i,8n,19p,173b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmb
-x12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
-texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cms
-l10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
-/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/
-public/amsfonts/cm/cmtt10.pfb>
-Output written on somesudoku.pdf (39 pages, 140517 bytes).
-PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+\openou
