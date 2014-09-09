@@ -174,18 +174,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 42.
-
-LaTeX Warning: Citation `SSBL' on page 1 undefined on input line 51.
-
-
-LaTeX Warning: Citation `DT2' on page 1 undefined on input line 52.
-
-
-LaTeX Warning: Citation `SUDOKUBUNDLE' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `SUDOKUBUNDLE' on page 1 undefined on input line 59.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 72.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -209,458 +197,298 @@ Overfull \hbox (0.95874pt too wide) in paragraph at lines 110--114
 []$[]$ 
  []
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.118 \renewcommand
-                   *{\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `se15.sud'.
 
 
-! LaTeX Error: \relax undefined.
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 125--129
+[]$[]$ 
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 \renewcommand
-                   *{\puzzlefile}{se15.sud}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   <
-l.118 \renewcommand
-                   *{\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `se20.sud'.
 
 
-Package multicol Warning: Using `0' columns doesn't seem a good idea.
- I therefore use two columns instead on input line 118.
+Overfull \hbox (0.95874pt too wide) in paragraph at lines 137--141
+[]$[]$ 
+ []
 
-! Extra \fi.
-\multicols ...olumns instead}\col@number \tw@ \fi 
-                                                  \ifnum \col@number >10 \Pa...
-l.118 \renewcommand
-                   *{\puzzlefile}{se15.sud}
-I'm ignoring this; it doesn't match any \if.
+\openout4 = `se25.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `se30.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I was expecting to see `<', `=', or `>'. Didn't.
+[3]
+\openout4 = `tg5.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `tg10.sud'.
 
-! Extra \else.
-\addpenalty ...skip \@tempskipb \fi \fi \fi \else 
-                                                  \@noitemerr \fi 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I'm ignoring this; it doesn't match any \if.
+ [4]
+\openout4 = `tg15.sud'.
 
+\openout4 = `tg20.sud'.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+ [5]
+\openout4 = `tg25.sud'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+\openout4 = `tg30.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [6]
+\openout4 = `st1226.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `st0206.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [7]
+\openout4 = `st0213.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `cs1.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I was expecting to see `<', `=', or `>'. Didn't.
+ [8]
+\openout4 = `cs2.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `cs3.sud'.
 
-! Extra \else.
-\addvspace ... #1\relax \@xaddvskip \fi \fi \else 
-                                                  \@noitemerr \fi 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I'm ignoring this; it doesn't match any \if.
+ [9] [10]
+\openout4 = `sm5.sud'.
 
+\openout4 = `sm10.sud'.
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+\openout4 = `sm15.sud'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+\openout4 = `sm20.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \advance 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [11
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \advance 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-I was expecting to see `<', `=', or `>'. Didn't.
+]
+\openout4 = `sm25.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \advance 
-l.118 \renewcommand*
-                    {\puzzlefile}{se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `sm30.sud'.
 
-\openout4 = `puzz.sud'.
+ [12]
+\openout4 = `tm35.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \def 
-l.125 \begin{minipage}{0.95\linewidth}
-                                      \begin{center}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `tm40.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \def 
-l.125 \begin{minipage}{0.95\linewidth}
-                                      \begin{center}
-I was expecting to see `<', `=', or `>'. Didn't.
+ [13]
+\openout4 = `tm45.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \def 
-l.125 \begin{minipage}{0.95\linewidth}
-                                      \begin{center}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `tm50.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.125 ...n{minipage}{0.95\linewidth}\begin{center}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [14]
+\openout4 = `tm55.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \let 
-l.125 ...n{minipage}{0.95\linewidth}\begin{center}
-                                                  
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `tm60.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \let 
-l.125 ...n{minipage}{0.95\linewidth}\begin{center}
-                                                  
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [15]
+\openout4 = `st0914.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   S
-l.126 S
-       E15 (easy) \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `st0207.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   S
-l.126 S
-       E15 (easy) \\
-I was expecting to see `<', `=', or `>'. Didn't.
+ [16]
+\openout4 = `cs4.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   S
-l.126 S
-       E15 (easy) \\
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `cs5.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.127 \sudoku
-             {se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [17]
+\openout4 = `cs6.sud'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \relax 
-l.127 \sudoku
-             {se15.sud}
-I was expecting to see `<', `=', or `>'. Didn't.
+ [18]
+[19]
+\openout4 = `sh5.sud'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.127 \sudoku
-             {se15.sud}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `sh10.sud'.
 
-! Extra \else.
-\addvspace ... #1\relax \@xaddvskip \fi \fi \else 
-                                                  \@noitemerr \fi 
-l.127 \sudoku
-             {se15.sud}
-I'm ignoring this; it doesn't match any \if.
+\openout4 = `sh15.sud'.
+
+\openout4 = `sh20.sud'.
+
+ [20
+
+]
+\openout4 = `sh25.sud'.
+
+\openout4 = `sh30.sud'.
+
+ [21]
+\openout4 = `tt100.sud'.
+
+\openout4 = `tt105.sud'.
+
+ [22]
+\openout4 = `tt110.sud'.
+
+\openout4 = `tt115.sud'.
+
+ [23]
+\openout4 = `tt120.sud'.
+
+\openout4 = `st1130.sud'.
+
+ [24]
+\openout4 = `st1207.sud'.
+
+\openout4 = `st1209.sud'.
+
+ [25]
+\openout4 = `st1221.sud'.
+
+\openout4 = `st1228.sud'.
+
+ [26]
+\openout4 = `st0126.sud'.
+
+\openout4 = `st0127.sud'.
+
+ [27]
+\openout4 = `st0204.sud'.
+
+\openout4 = `st0208.sud'.
+
+ [28]
+\openout4 = `st0209.sud'.
+
+ [29] [30]
+\openout4 = `se5.ans'.
+
+\openout4 = `se10.ans'.
+
+\openout4 = `se15.ans'.
+
+\openout4 = `se20.ans'.
+
+\openout4 = `se25.ans'.
+
+\openout4 = `se30.ans'.
+
+\openout4 = `tg5.ans'.
+
+\openout4 = `tg10.ans'.
+
+\openout4 = `tg15.ans'.
+
+\openout4 = `tg20.ans'.
+
+\openout4 = `tg25.ans'.
+
+\openout4 = `tg30.ans'.
+
+ [31
 
 
-! LaTeX Error: Something's wrong--perhaps a missing \item.
+]
+\openout4 = `st1226.ans'.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 \sudoku
-             {se15.sud}
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+\openout4 = `st0206.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \def 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `st0123.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \def 
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `cs1.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \def 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `cs2.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \ignorespaces 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `cs3.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \ignorespaces 
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `sm5.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \ignorespaces 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `sm10.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+ [32]
+\openout4 = `sm15.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `sm20.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `sm25.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `sm30.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `tm35.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \raise 
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `tm40.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   0
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `tm45.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   1
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+\openout4 = `tm50.ans'.
 
-! Missing = inserted for \ifnum.
-<to be read again> 
-                   .
-l.127 \sudoku{se15.sud}
-                       
-I was expecting to see `<', `=', or `>'. Didn't.
+ [33]
+\openout4 = `tm55.ans'.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   .
-l.127 \sudoku{se15.sud}
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+\openout4 = `tm60.ans'.
 
-)
-! Incomplete \ifnum; all text was ignored after line 127.
-<inserted text> 
-                \fi 
-<*> somesudoku.tex
-                  
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
+\openout4 = `st0914.ans'.
 
-! Emergency stop.
-<*> somesudoku.tex
-                  
-*** (job aborted, no legal \end found)
+\openout4 = `st0207.ans'.
 
- 
+\openout4 = `cs4.ans'.
+
+\openout4 = `cs5.ans'.
+
+\openout4 = `cs6.ans'.
+
+\openout4 = `sh5.ans'.
+
+
+[34]
+\openout4 = `sh10.ans'.
+
+\openout4 = `sh15.ans'.
+
+\openout4 = `sh20.ans'.
+
+\openout4 = `sh25.ans'.
+
+\openout4 = `sh30.ans'.
+
+\openout4 = `tt100.ans'.
+
+\openout4 = `tt105.ans'.
+
+\openout4 = `tt110.ans'.
+
+ [35]
+\openout4 = `tt115.ans'.
+
+\openout4 = `tt120.ans'.
+
+\openout4 = `st1130.ans'.
+
+\openout4 = `st1207.ans'.
+
+\openout4 = `st1209.ans'.
+
+\openout4 = `st1221.ans'.
+
+\openout4 = `st1228.ans'.
+
+\openout4 = `st0126.ans'.
+
+ [36]
+\openout4 = `st0127.ans'.
+
+\openout4 = `st0204.ans'.
+
+\openout4 = `st0208.ans'.
+
+\openout4 = `st0209.ans'.
+
+ [37] [38
+
+] [39] (./somesudoku.aux) ) 
 Here is how much of TeX's memory you used:
- 1010 strings out of 493315
- 13451 string characters out of 6145894
- 112641 words of memory out of 5000000
- 4496 multiletter control sequences out of 15000+600000
- 7802 words of font info for 28 fonts, out of 8000000 for 9000
+ 1070 strings out of 493315
+ 13769 string characters out of 6145894
+ 136666 words of memory out of 5000000
+ 4499 multiletter control sequences out of 15000+600000
+ 8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,8n,21p,173b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 23i,8n,19p,173b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmb
+x12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cms
+l10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share
+/texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/
+public/amsfonts/cm/cmtt10.pfb>
+Output written on somesudoku.pdf (39 pages, 140498 bytes).
+PDF statistics:
+ 164 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
