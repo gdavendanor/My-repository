@@ -240,64 +240,46 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-No file EasySudokus.aux.
+(/usr/share/texmf/tex/latex/sudoku/sudoku.sty
+Package: sudoku 2006/03/25 v1.0.1 Sudoku grid
+\c@@sudoku@row=\count87
+\c@@sudoku@col=\count88
+\sudokusize=\dimen103
+\sudokuthinline=\dimen104
+\sudokuthickline=\dimen105
+) (./EasySudokus.aux)
 \openout1 = `EasySudokus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-
-! LaTeX Error: Environment sudoku undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \begin{sudoku}
-                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{document} ended by \end{sudoku}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 \end{sudoku}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./EasySudokus.aux) ) 
 Here is how much of TeX's memory you used:
- 407 strings out of 493315
- 3871 string characters out of 6145894
- 53401 words of memory out of 5000000
- 3931 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 438 strings out of 493315
+ 4373 string characters out of 6145894
+ 56799 words of memory out of 5000000
+ 3954 multiletter control sequences out of 15000+600000
+ 4245 words of font info for 16 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,4n,19p,169b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,7n,27p,247b,205s stack positions out of 5000i,500n,10000p,200000b,80000s
 </u
-sr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on EasySudokus.pdf (1 page, 12253 bytes).
+sr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts
+/type1/public/amsfonts/cm/cmss17.pfb>
+Output written on EasySudokus.pdf (1 page, 16880 bytes).
 PDF statistics:
- 12 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
