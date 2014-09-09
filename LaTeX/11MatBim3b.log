@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 16:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -893,7 +893,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.68 \draw[->,color=black]
-                           (-4.12,0) -- (3.38,0);
+                           (-4.10,0) -- (3.3,0);
 (That was another \errmessage.)
 
 
@@ -904,7 +904,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.71 \draw[->,color=black]
-                           (0,-5.44) -- (0,4.98);
+                           (0,-5.4) -- (0,4.9);
 (That was another \errmessage.)
 
 
@@ -925,10 +925,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 12811 strings out of 493315
- 231242 string characters out of 6145894
- 306249 words of memory out of 5000000
- 15994 multiletter control sequences out of 15000+600000
+ 12815 strings out of 493315
+ 231311 string characters out of 6145894
+ 306248 words of memory out of 5000000
+ 15998 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,15n,55p,421b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -942,7 +942,7 @@ fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.p
 fb>
-Output written on 11MatBim3b.pdf (2 pages, 175616 bytes).
+Output written on 11MatBim3b.pdf (2 pages, 175640 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
