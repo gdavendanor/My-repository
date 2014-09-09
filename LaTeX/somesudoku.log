@@ -615,4 +615,137 @@ l.1052 \noindent
                 \begin{minipage}{0.47\linewidth}\begin{center}
 I've concluded that your \output is awry; it never does a
 \shipout, so I'm shipping \box255 out myself. Next time
-increase \ma
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tm35.ans'.
+
+\openout4 = `tm40.ans'.
+
+\openout4 = `tm45.ans'.
+
+\openout4 = `tm50.ans'.
+
+\openout4 = `tm55.ans'.
+
+\openout4 = `tm60.ans'.
+
+\openout4 = `st0914.ans'.
+
+\openout4 = `st0207.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.1144 \noindent
+                \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `cs4.ans'.
+
+\openout4 = `cs5.ans'.
+
+\openout4 = `cs6.ans'.
+
+\openout4 = `sh5.ans'.
+
+\openout4 = `sh10.ans'.
+
+\openout4 = `sh15.ans'.
+
+\openout4 = `sh20.ans'.
+
+\openout4 = `sh25.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.1236 \noindent
+                \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `sh30.ans'.
+
+\openout4 = `tt100.ans'.
+
+\openout4 = `tt105.ans'.
+
+\openout4 = `tt110.ans'.
+
+\openout4 = `tt115.ans'.
+
+\openout4 = `tt120.ans'.
+
+\openout4 = `st1130.ans'.
+
+\openout4 = `st1207.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.1328 \noindent
+                \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st1209.ans'.
+
+\openout4 = `st1221.ans'.
+
+\openout4 = `st1228.ans'.
+
+\openout4 = `st0126.ans'.
+
+\openout4 = `st0127.ans'.
+
+\openout4 = `st0204.ans'.
+
+\openout4 = `st0208.ans'.
+
+\openout4 = `st0209.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.1420 \noindent
+                \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4] (./somesudoku.aux)
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \@@end 
+l.1462 \end{document}
+                     
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4] ) 
+Here is how much of TeX's memory you used:
+ 1070 strings out of 493315
+ 13769 string characters out of 6145894
+ 271652 words of memory out of 5000000
+ 4499 multiletter control sequences out of 15000+600000
+ 8452 words of font info for 30 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 23i,8n,19p,167b,1447s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+mf/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10
+.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/te
+xmf/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/pub
+lic/amsfonts/cm/cmtt10.pfb>
+Output written on somesudoku.pdf (29 pages, 90282 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
