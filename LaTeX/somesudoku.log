@@ -441,4 +441,178 @@ I've concluded that your \output is awry; it never does a
 increase \maxdeadcycles if you want me to be more patient!
 
 [4]
-\openout4 = `sh20.s
+\openout4 = `sh20.sud'.
+
+\openout4 = `sh25.sud'.
+
+\openout4 = `sh30.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.588 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tt100.sud'.
+
+\openout4 = `tt105.sud'.
+
+\openout4 = `tt110.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.624 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tt115.sud'.
+
+\openout4 = `tt120.sud'.
+
+\openout4 = `st1130.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.660 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st1207.sud'.
+
+\openout4 = `st1209.sud'.
+
+\openout4 = `st1221.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.696 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st1228.sud'.
+
+\openout4 = `st0126.sud'.
+
+\openout4 = `st0127.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.732 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `st0204.sud'.
+
+\openout4 = `st0208.sud'.
+
+\openout4 = `st0209.sud'.
+
+
+! Output loop---100 consecutive dead cycles.
+<to be read again> 
+                   \unhbox 
+l.768 \begin{minipage}{0.95\linewidth}
+                                      \begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `se5.ans'.
+
+\openout4 = `se10.ans'.
+
+\openout4 = `se15.ans'.
+
+\openout4 = `se20.ans'.
+
+\openout4 = `se25.ans'.
+
+\openout4 = `se30.ans'.
+
+\openout4 = `tg5.ans'.
+
+\openout4 = `tg10.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.866 \noindent
+               \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `tg15.ans'.
+
+\openout4 = `tg20.ans'.
+
+\openout4 = `tg25.ans'.
+
+\openout4 = `tg30.ans'.
+
+\openout4 = `st1226.ans'.
+
+\openout4 = `st0206.ans'.
+
+\openout4 = `st0123.ans'.
+
+\openout4 = `cs1.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.958 \noindent
+               \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \maxdeadcycles if you want me to be more patient!
+
+[4]
+\openout4 = `cs2.ans'.
+
+\openout4 = `cs3.ans'.
+
+\openout4 = `sm5.ans'.
+
+\openout4 = `sm10.ans'.
+
+\openout4 = `sm15.ans'.
+
+\openout4 = `sm20.ans'.
+
+\openout4 = `sm25.ans'.
+
+\openout4 = `sm30.ans'.
+
+
+! Output loop---100 consecutive dead cycles.
+l.1052 \noindent
+                \begin{minipage}{0.47\linewidth}\begin{center}
+I've concluded that your \output is awry; it never does a
+\shipout, so I'm shipping \box255 out myself. Next time
+increase \ma
