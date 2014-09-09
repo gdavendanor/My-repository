@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -247,55 +247,83 @@ Package: sudoku 2006/03/25 v1.0.1 Sudoku grid
 \sudokusize=\dimen103
 \sudokuthinline=\dimen104
 \sudokuthickline=\dimen105
+)
+(/usr/share/texmf/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count89
+\mult@box=\box26
+\multicol@leftmargin=\dimen106
+\c@unbalance=\count90
+\c@collectmore=\count91
+\doublecol@number=\count92
+\multicoltolerance=\count93
+\multicolpretolerance=\count94
+\full@width=\dimen107
+\page@free=\dimen108
+\premulticols=\dimen109
+\postmulticols=\dimen110
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count95
+\c@finalcolumnbadness=\count96
+\last@try=\dimen111
+\multicolovershoot=\dimen112
+\multicolundershoot=\dimen113
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+\multicol@sort@counter=\count97
 ) (./EasySudokus.aux)
 \openout1 = `EasySudokus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+Overfull \hbox (117.03615pt too wide) in paragraph at lines 22--22
+ [] 
+ []
 
 
-! LaTeX Error: Environment multicols undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \begin{multicols}
-                      {2}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[1
-
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-
-! LaTeX Error: \begin{document} ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.33 \end{multicols}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Overfull \hbox (117.03615pt too wide) in paragraph at lines 33--33
+ [] 
+ []
 
 ! Too many }'s.
 \endpicture ->\egroup 
                       \hss \egroup \ht \@picbox \@picht \dp \@picbox \z@ \mb...
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -303,7 +331,7 @@ Such booboos are generally harmless, so keep going.
 ! Too many }'s.
 \endpicture ->\egroup \hss \egroup 
                                    \ht \@picbox \@picht \dp \@picbox \z@ \mb...
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
@@ -315,7 +343,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -324,7 +352,7 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Things are pretty mixed up, but I think the worst is over.
 
@@ -335,7 +363,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -344,14 +372,14 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Things are pretty mixed up, but I think the worst is over.
 
 ! Infinite glue shrinkage found in a paragraph.
 \endtrivlist ...stfalse \fi \ifhmode \unskip \par 
                                                   \else \@inmatherr {\end {\...
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 The paragraph just ended includes some glue that has
 infinite shrinkability, e.g., `\hskip 0pt minus 1fil'.
@@ -366,7 +394,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -375,7 +403,7 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Things are pretty mixed up, but I think the worst is over.
 
@@ -386,7 +414,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -395,25 +423,28 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.44 \end{sudoku}
+l.45 \end{sudoku}
                  
 Things are pretty mixed up, but I think the worst is over.
 
-[2] (./EasySudokus.aux) ) 
+[1
+
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./EasySudokus.aux) ) 
 Here is how much of TeX's memory you used:
- 440 strings out of 493315
- 4394 string characters out of 6145894
- 60799 words of memory out of 5000000
- 3956 multiletter control sequences out of 15000+600000
+ 534 strings out of 493315
+ 5784 string characters out of 6145894
+ 79677 words of memory out of 5000000
+ 4046 multiletter control sequences out of 15000+600000
  4245 words of font info for 16 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,7n,27p,247b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10
-.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss17.pfb>
-Output written on EasySudokus.pdf (2 pages, 21504 bytes).
+ 23i,7n,27p,247b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
+</u
+sr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts
+/type1/public/amsfonts/cm/cmss17.pfb>
+Output written on EasySudokus.pdf (1 page, 21127 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
