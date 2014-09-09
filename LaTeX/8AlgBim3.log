@@ -538,7 +538,7 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  3609 strings out of 493315
  45879 string characters out of 6145894
- 129183 words of memory out of 5000000
+ 128183 words of memory out of 5000000
  6996 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -550,7 +550,7 @@ ic/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12
 f/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/publi
 c/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10
 .pfb>
-Output written on 8AlgBim3.pdf (1 page, 137056 bytes).
+Output written on 8AlgBim3.pdf (1 page, 136964 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
