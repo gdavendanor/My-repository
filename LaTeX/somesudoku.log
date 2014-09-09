@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:54
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,27 +23,343 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
+(/usr/share/texmf/tex/latex/comment/comment.sty
+\CommentStream=\write3
+ Excluding comment 'comment')
+(/usr/share/texmf/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(/usr/share/texmf/tex/latex/sudokubundle/printsudoku.sty
+Package: printsudoku 2006/02/16 v1.0 typeset sudoku puzzles
+\s@dread=\read1
+\s@dwrite=\write4
+\halfs@dcell=\skip43
+\s@dncol=\count87
+\s@dnrow=\count88
+\s@dcolpos=\count89
+\s@drowpos=\count90
+) (./somesudoku.aux)
+\openout1 = `somesudoku.aux'.
 
-! LaTeX Error: File `comment.sty' not found.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 70.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 70.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: sty)
+[1
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.32 \usepackage
-                {url}^^M
-*** (cannot \read from terminal in nonstop modes)
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
- 
+]
+\openout4 = `se5.sud'.
+
+\openout4 = `se10.sud'.
+
+\openout4 = `se15.sud'.
+
+\openout4 = `se20.sud'.
+
+ [3]
+\openout4 = `se25.sud'.
+
+\openout4 = `se30.sud'.
+
+ [4]
+\openout4 = `tg5.sud'.
+
+\openout4 = `tg10.sud'.
+
+ [5]
+\openout4 = `tg15.sud'.
+
+\openout4 = `tg20.sud'.
+
+
+[6]
+\openout4 = `tg25.sud'.
+
+\openout4 = `tg30.sud'.
+
+ [7]
+\openout4 = `st1226.sud'.
+
+\openout4 = `st0206.sud'.
+
+ [8]
+\openout4 = `st0213.sud'.
+
+\openout4 = `cs1.sud'.
+
+ [9]
+\openout4 = `cs2.sud'.
+
+\openout4 = `cs3.sud'.
+
+ [10] [11]
+\openout4 = `sm5.sud'.
+
+\openout4 = `sm10.sud'.
+
+\openout4 = `sm15.sud'.
+
+\openout4 = `sm20.sud'.
+
+ [12
+
+]
+\openout4 = `sm25.sud'.
+
+\openout4 = `sm30.sud'.
+
+ [13]
+\openout4 = `tm35.sud'.
+
+\openout4 = `tm40.sud'.
+
+ [14]
+\openout4 = `tm45.sud'.
+
+\openout4 = `tm50.sud'.
+
+ [15]
+\openout4 = `tm55.sud'.
+
+\openout4 = `tm60.sud'.
+
+ [16]
+\openout4 = `st0914.sud'.
+
+\openout4 = `st0207.sud'.
+
+ [17]
+\openout4 = `cs4.sud'.
+
+\openout4 = `cs5.sud'.
+
+ [18]
+\openout4 = `cs6.sud'.
+
+ [19] [20]
+\openout4 = `sh5.sud'.
+
+\openout4 = `sh10.sud'.
+
+\openout4 = `sh15.sud'.
+
+\openout4 = `sh20.sud'.
+
+ [21
+
+]
+\openout4 = `sh25.sud'.
+
+\openout4 = `sh30.sud'.
+
+
+[22]
+\openout4 = `tt100.sud'.
+
+\openout4 = `tt105.sud'.
+
+ [23]
+\openout4 = `tt110.sud'.
+
+\openout4 = `tt115.sud'.
+
+ [24]
+\openout4 = `tt120.sud'.
+
+\openout4 = `st1130.sud'.
+
+ [25]
+\openout4 = `st1207.sud'.
+
+\openout4 = `st1209.sud'.
+
+ [26]
+\openout4 = `st1221.sud'.
+
+\openout4 = `st1228.sud'.
+
+ [27]
+\openout4 = `st0126.sud'.
+
+\openout4 = `st0127.sud'.
+
+ [28]
+\openout4 = `st0204.sud'.
+
+\openout4 = `st0208.sud'.
+
+ [29]
+\openout4 = `st0209.sud'.
+
+ [30] [31] [32
+
+
+]
+\openout4 = `se5.ans'.
+
+\openout4 = `se10.ans'.
+
+\openout4 = `se15.ans'.
+
+\openout4 = `se20.ans'.
+
+\openout4 = `se25.ans'.
+
+\openout4 = `se30.ans'.
+
+\openout4 = `tg5.ans'.
+
+\openout4 = `tg10.ans'.
+
+\openout4 = `tg15.ans'.
+
+\openout4 = `tg20.ans'.
+
+ [33]
+\openout4 = `tg25.ans'.
+
+\openout4 = `tg30.ans'.
+
+\openout4 = `st1226.ans'.
+
+\openout4 = `st0206.ans'.
+
+\openout4 = `st0123.ans'.
+
+\openout4 = `cs1.ans'.
+
+ [34]
+\openout4 = `cs2.ans'.
+
+\openout4 = `cs3.ans'.
+
+\openout4 = `sm5.ans'.
+
+\openout4 = `sm10.ans'.
+
+\openout4 = `sm15.ans'.
+
+\openout4 = `sm20.ans'.
+
+ [35]
+\openout4 = `sm25.ans'.
+
+\openout4 = `sm30.ans'.
+
+\openout4 = `tm35.ans'.
+
+\openout4 = `tm40.ans'.
+
+\openout4 = `tm45.ans'.
+
+\openout4 = `tm50.ans'.
+
+ [36]
+\openout4 = `tm55.ans'.
+
+\openout4 = `tm60.ans'.
+
+\openout4 = `st0914.ans'.
+
+\openout4 = `st0207.ans'.
+
+\openout4 = `cs4.ans'.
+
+\openout4 = `cs5.ans'.
+
+
+[37]
+\openout4 = `cs6.ans'.
+
+\openout4 = `sh5.ans'.
+
+\openout4 = `sh10.ans'.
+
+\openout4 = `sh15.ans'.
+
+\openout4 = `sh20.ans'.
+
+\openout4 = `sh25.ans'.
+
+ [38]
+\openout4 = `sh30.ans'.
+
+\openout4 = `tt100.ans'.
+
+\openout4 = `tt105.ans'.
+
+\openout4 = `tt110.ans'.
+
+\openout4 = `tt115.ans'.
+
+\openout4 = `tt120.ans'.
+
+ [39]
+\openout4 = `st1130.ans'.
+
+\openout4 = `st1207.ans'.
+
+\openout4 = `st1209.ans'.
+
+\openout4 = `st1221.ans'.
+
+\openout4 = `st1228.ans'.
+
+\openout4 = `st0126.ans'.
+
+ [40]
+\openout4 = `st0127.ans'.
+
+\openout4 = `st0204.ans'.
+
+\openout4 = `st0208.ans'.
+
+\openout4 = `st0209.ans'.
+
+ [41] [42] [43
+
+] (./somesudoku.aux) ) 
 Here is how much of TeX's memory you used:
- 200 strings out of 493315
- 2122 string characters out of 6145894
- 52158 words of memory out of 5000000
- 3742 multiletter control sequences out of 15000+600000
- 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 455 strings out of 493315
+ 4828 string characters out of 6145894
+ 103957 words of memory out of 5000000
+ 3907 multiletter control sequences out of 15000+600000
+ 8452 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 23i,0n,19p,161b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 23i,8n,19p,161b,265s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsl10.p
+fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texm
+f/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf/fonts/type1/publi
+c/amsfonts/cm/cmtt10.pfb>
+Output written on somesudoku.pdf (43 pages, 142411 bytes).
+PDF statistics:
+ 177 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
