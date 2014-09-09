@@ -31,8 +31,6 @@
 \usepackage{comment}
 \usepackage{url}
 \usepackage{printsudoku}
-\usepackage{multicol}
-\usepackage[left=1cm,right=1cm]{geometry}
 \newcommand*{\Lpack}[1]{\textsf{#1}}
 \title{Example Sudoku Puzzles}
 \author{Peter Wilson}
@@ -87,7 +85,7 @@ CS6    & 833235143  & \verb?\elimcrossandexandnines? \\ \hline
 
 \markboth{EASY}{EASY}
 \pagestyle{headings}
-\begin{multicols}{2}
+
 \renewcommand*{\puzzlefile}{se5.sud}
 \writepuzzle%
 {.2...5863}{56.2.3.9.}{.3...7251}%
@@ -111,10 +109,7 @@ SE5 (easy) \\
 SE10 (easy) \\
 \sudoku{se10.sud}
 \end{center}\end{minipage}
-\end{multicols}
-\vspace*{1cm}
 
-\begin{multicols}{2}
 \renewcommand*{\puzzlefile}{se15.sud}
 \writepuzzle%
 {4.67.39.2}{..16.84..}{.7...4..1}%
@@ -138,7 +133,7 @@ SE15 (easy) \\
 SE20 (easy) \\
 \sudoku{se20.sud}
 \end{center}\end{minipage}
-\end{multicols}
+
 \renewcommand*{\puzzlefile}{se25.sud}
 \writepuzzle%
 {....63.5.}{6.5.1.839}{..1...2..}%
