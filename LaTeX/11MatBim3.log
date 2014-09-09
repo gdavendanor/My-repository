@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 16:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 16:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,6 +884,22 @@ l.67 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
                                                   
 (That was another \errmessage.)
 
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black]
+                            (-3.08,0) -- (3.26,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black]
+                            (-3.08,0) -- (3.26,0);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
 
 ! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
 
@@ -891,9 +907,174 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 \draw[->,color=black]
-                           (-3.08,0) -- (3.26,0);
+l.69 \draw[<->,color=black]
+                            (-3.08,0) -- (3.26,0);
 (That was another \errmessage.)
+
+! Extra \endcsname.
+\pgf@shorten@start ...zs@<@triangle 45 \endcsname 
+                                                  
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  \relax \pgfsysprotocol@get...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgf@arrow@call ...me pgf@arrow@code@#1\endcsname 
+                                                  \pgfsys@endscope \pgfsyspr...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  =\pgf@temp }\pgfsysprotoco...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no = in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  
+l.69 \draw[<->,color=black] (-3.08,0) -- (3.26,0);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black]
+                            (0,-3.78) -- (0,4.74);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black]
+                            (0,-3.78) -- (0,4.74);
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
 
 
 ! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
@@ -902,9 +1083,158 @@ See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.72 \draw[->,color=black]
-                           (0,-3.78) -- (0,4.74);
+l.72 \draw[<->,color=black]
+                            (0,-3.78) -- (0,4.74);
 (That was another \errmessage.)
+
+! Extra \endcsname.
+\pgf@shorten@start ...zs@<@triangle 45 \endcsname 
+                                                  
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  \relax \pgfsysprotocol@get...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgf@arrow@call ...me pgf@arrow@code@#1\endcsname 
+                                                  \pgfsys@endscope \pgfsyspr...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  =\pgf@temp }\pgfsysprotoco...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no = in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no @ in font nullfont!
+! Missing \endcsname inserted.
+<to be read again> 
+                   \pgf@arrows@inverttikzs@<@triangle 45 
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\pgfgetarrowoptions ...pgf@arrow@opt@#1\endcsname 
+                                                  \relax 0\else \csname pgf@...
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+Missing character: There is no 0 in font nullfont!
+! Extra \endcsname.
+\pgf@arrow@call ...arrow@full@name {#1}\endcsname 
+                                                  
+l.72 \draw[<->,color=black] (0,-3.78) -- (0,4.74);
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
 
 
 AED: lastpage setting LastPage
@@ -924,10 +1254,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 12808 strings out of 493315
- 231191 string characters out of 6145894
- 304281 words of memory out of 5000000
- 15991 multiletter control sequences out of 15000+600000
+ 12812 strings out of 493315
+ 231246 string characters out of 6145894
+ 304304 words of memory out of 5000000
+ 15995 multiletter control sequences out of 15000+600000
  8151 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,15n,55p,420b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -941,7 +1271,7 @@ fb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texmf
 /fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf/fonts/type1/public/
 amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmti10.p
 fb>
-Output written on 11MatBim3.pdf (2 pages, 175697 bytes).
+Output written on 11MatBim3.pdf (2 pages, 175713 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
