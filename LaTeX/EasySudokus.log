@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  9 SEP 2014 05:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,21 +326,46 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen120
 \Gm@layoutvoffset=\dimen121
 \Gm@dimlist=\toks17
+)
+(/usr/share/texmf/tex/latex/sudokubundle/printsudoku.sty
+Package: printsudoku 2006/02/16 v1.0 typeset sudoku puzzles
+\s@dread=\read1
+\s@dwrite=\write3
+\halfs@dcell=\skip45
+\s@dncol=\count101
+\s@dnrow=\count102
+\s@dcolpos=\count103
+\s@drowpos=\count104
+
+
+! LaTeX Error: Command \sudoku already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125   \s@dgame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 ) (./EasySudokus.aux)
 \openout1 = `EasySudokus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -381,10 +406,10 @@ LaTeX Font Info:    ... okay on input line 11.
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./EasySudokus.aux) 
 ) 
 Here is how much of TeX's memory you used:
- 1056 strings out of 493315
- 13336 string characters out of 6145894
- 95462 words of memory out of 5000000
- 4549 multiletter control sequences out of 15000+600000
+ 1093 strings out of 493315
+ 13846 string characters out of 6145894
+ 95954 words of memory out of 5000000
+ 4582 multiletter control sequences out of 15000+600000
  4245 words of font info for 16 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  23i,7n,27p,247b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
