@@ -21,14 +21,7 @@ Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hsp
 Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 70 minutos para contestar esta prueba.}
 \LineaNombre
 \begin{enumerate}
- \item Exprese usando lenguaje algebraico las siguientes expresiones:
- \begin{enumerate}
-  \item El cuadrado de la diferencia de dos números \answer*[0pt]
-  \item La suma del triple de un número y el cuádruple de otro \answer*[0pt]
-  \item La raíz cuadrada del producto de dos números
-  \item 
- \end{enumerate}
-
+ \item 
  \end{enumerate}
 
 \end{document}
