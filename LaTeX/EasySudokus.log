@@ -328,8 +328,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen117
 \Gm@layoutvoffset=\dimen118
 \Gm@dimlist=\toks17
-)
-No file EasySudokus.aux.
+) (./EasySudokus.aux)
 \openout1 = `EasySudokus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -344,6 +343,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -353,14 +353,14 @@ LaTeX Font Info:    ... okay on input line 12.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(21.33957pt, 341.43306pt, 21.33957pt)
-* v-part:(T,H,B)=(17.07162pt, 569.05511pt, 25.6075pt)
+* v-part:(T,H,B)=(11.38107pt, 583.2815pt, 17.07167pt)
 * \paperwidth=384.1122pt
 * \paperheight=611.73424pt
 * \textwidth=341.43306pt
-* \textheight=569.05511pt
+* \textheight=583.2815pt
 * \oddsidemargin=-50.93042pt
 * \evensidemargin=-50.93042pt
-* \topmargin=-92.19836pt
+* \topmargin=-97.88892pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -390,17 +390,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./EasySudokus.aux) ) 
 Here is how much of TeX's memory you used:
- 1068 strings out of 493315
- 13395 string characters out of 6145894
- 85457 words of memory out of 5000000
+ 1070 strings out of 493315
+ 13427 string characters out of 6145894
+ 85458 words of memory out of 5000000
  4561 multiletter control sequences out of 15000+600000
  3939 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 24i,7n,30p,175b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,7n,30p,177b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
 </u
 sr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts
 /type1/public/amsfonts/cm/cmr17.pfb>
-Output written on EasySudokus.pdf (1 page, 21304 bytes).
+Output written on EasySudokus.pdf (1 page, 21305 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
