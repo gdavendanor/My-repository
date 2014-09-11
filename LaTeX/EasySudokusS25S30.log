@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 14:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -328,6 +328,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen117
 \Gm@layoutvoffset=\dimen118
 \Gm@dimlist=\toks17
+
+
+Package geometry Warning: `tmargin' and `bmargin' result in NEGATIVE (-187.7879
+3pt).
+    `height' should be shortened in length.
+
 ) (./EasySudokusS25S30.aux)
 \openout1 = `EasySudokusS25S30.aux'.
 
@@ -351,21 +357,21 @@ LaTeX Font Info:    ... okay on input line 12.
 * paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(14.22636pt, 358.5049pt, 14.22638pt)
-* v-part:(T,H,B)=(11.3811pt, 574.74557pt, 17.07166pt)
-* \paperwidth=386.95764pt
-* \paperheight=603.19833pt
+* modes: landscape 
+* h-part:(L,W,R)=(122.34671pt, 358.5049pt, 122.34673pt)
+* v-part:(T,H,B)=(-75.11517pt, 574.74557pt, -112.67276pt)
+* \paperwidth=603.19833pt
+* \paperheight=386.95764pt
 * \textwidth=358.5049pt
 * \textheight=574.74557pt
-* \oddsidemargin=-58.04362pt
-* \evensidemargin=-58.04362pt
-* \topmargin=-97.88889pt
+* \oddsidemargin=50.07672pt
+* \evensidemargin=50.07672pt
+* \topmargin=-184.38516pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=144.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -389,14 +395,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Here is how much of TeX's memory you used:
  1069 strings out of 493315
  13478 string characters out of 6145894
- 85472 words of memory out of 5000000
+ 85504 words of memory out of 5000000
  4561 multiletter control sequences out of 15000+600000
  3939 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  24i,7n,30p,186b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on EasySudokusS25S30.pdf (1 page, 21226 bytes).
+Output written on EasySudokusS25S30.pdf (1 page, 21219 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
