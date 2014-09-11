@@ -5,7 +5,7 @@
 \usepackage{amsfonts}
 \usepackage{amssymb}
 \usepackage{graphicx}
-\usepackage[papersize={6.5in,8.5in}]{geometry}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
 \usepackage{printsudoku}
 \extrawidth{.5in}
 \pagestyle{headandfoot}
@@ -97,8 +97,30 @@ Ahora en la siguiente tabla, sume los puntajes que haya obtenido en cada página
 \gradetable[h][pages]
 \end{center}
 \end{minipage}
-\newpage
+
 \section*{Sudokus}
 Solucionar los siguientes sudokus
+\renewcommand*{\puzzlefile}{se5.sud}
+\writepuzzle%
+{.2...5863}{56.2.3.9.}{.3...7251}%
+{..975....}{..6..47.9}{.7..286..}%
+{6.58...7.}{8....1..6}{3.7.6..4.}%
+[SSBL easy 5]
+\vfill
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE5 (easy) \\
+\sudoku{se5.sud}
+\end{center}\end{minipage}
 
+\renewcommand*{\puzzlefile}{se10.sud}
+\writepuzzle%
+{..6.497..}{.82.1.6..}{79..8.145}%
+{649.5.27.}{..7.6..5.}{.3..72.96}%
+{.2....81.}{.7..28...}{......5.7}%
+[SSBL easy 10]
+\vfill
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE10 (easy) \\
+\sudoku{se10.sud}
+\end{center}\end{minipage}
 \end{document}

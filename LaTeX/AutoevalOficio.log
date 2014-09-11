@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  10 SEP 2014 19:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  10 SEP 2014 19:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -467,8 +467,8 @@ Package: printsudoku 2006/02/16 v1.0 typeset sudoku puzzles
 \s@dcolpos=\count143
 \s@drowpos=\count144
 ) (./AutoevalOficio.aux
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
 \openout1 = `AutoevalOficio.aux'.
 
@@ -551,15 +551,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(70.46396pt, 328.82706pt, 70.46397pt)
-* v-part:(T,H,B)=(73.71613pt, 430.00462pt, 110.57425pt)
+* h-part:(L,W,R)=(36.135pt, 397.48499pt, 36.13501pt)
+* v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
-* \textwidth=364.96205pt
-* \textheight=430.00462pt
-* \oddsidemargin=-19.87352pt
-* \evensidemargin=-19.87352pt
-* \topmargin=-28.55386pt
+* \textwidth=433.61998pt
+* \textheight=505.89pt
+* \oddsidemargin=-54.20248pt
+* \evensidemargin=-54.20248pt
+* \topmargin=-58.90799pt
 * \headheight=15.0pt
 * \headsep=15.0pt
 * \topskip=10.0pt
@@ -591,50 +591,39 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 
 (/usr/share/texmf/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (46.12291pt too wide) in paragraph at lines 22--23
- [] 
- []
-
-[1
+) [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
-g>] [2] [3]
-Overfull \hbox (22.76923pt too wide) in paragraph at lines 92--93
- [] 
- []
-
-
-Overfull \hbox (22.76923pt too wide) in paragraph at lines 97--98
- [] 
- []
-
-
+g>] [2]
 Overfull \hbox (17.2222pt too wide) in paragraph at lines 90--100
 []$[]$ $[]$ 
  []
 
-[4] [5]
+\openout3 = `se5.sud'.
+
+\openout3 = `se10.sud'.
+
+[3] [4] [5]
 This exam contains 20 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 100 points.
 This exam has a total of 0 bonus points.
 (./AutoevalOficio.aux
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 ) ) 
 Here is how much of TeX's memory you used:
- 4858 strings out of 493315
- 62402 string characters out of 6145894
- 150154 words of memory out of 5000000
- 8234 multiletter control sequences out of 15000+600000
- 10888 words of font info for 43 fonts, out of 8000000 for 9000
+ 4859 strings out of 493315
+ 62385 string characters out of 6145894
+ 158152 words of memory out of 5000000
+ 8232 multiletter control sequences out of 15000+600000
+ 11187 words of font info for 44 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,30p,331b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,30p,331b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texm
 f/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public
 /amsfonts/cm/cmr12.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.p
 fb>
-Output written on AutoevalOficio.pdf (5 pages, 75465 bytes).
+Output written on AutoevalOficio.pdf (5 pages, 77554 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
