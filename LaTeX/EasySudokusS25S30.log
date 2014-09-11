@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 14:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -399,7 +399,7 @@ Overfull \hbox (99.71074pt too wide) in paragraph at lines 22--23
  []
 
 
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 13--25
+Overfull \hbox (14.99998pt too wide) in paragraph at lines 13--25
 []$[]$ $[]$ 
  []
 
@@ -417,7 +417,7 @@ Here is how much of TeX's memory you used:
  24i,9n,30p,186b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on EasySudokusS25S30.pdf (1 page, 21235 bytes).
+Output written on EasySudokusS25S30.pdf (1 page, 21228 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
