@@ -328,33 +328,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen117
 \Gm@layoutvoffset=\dimen118
 \Gm@dimlist=\toks17
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.994 \ProcessOptionsKV[p]{Gm}
-                              %
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-! Package keyval Error: 6cm undefined.
-
-See the keyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.994 \ProcessOptionsKV[p]{Gm}
-                              %
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
-No file EasySudokusS25S30.aux.
+) (./EasySudokusS25S30.aux)
 \openout1 = `EasySudokusS25S30.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -369,6 +343,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -377,14 +352,14 @@ LaTeX Font Info:    ... okay on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(187.47882pt, 12.0pt, 187.47882pt)
+* h-part:(L,W,R)=(14.22636pt, 358.5049pt, 14.22638pt)
 * v-part:(T,H,B)=(11.3811pt, 574.74557pt, 17.07166pt)
 * \paperwidth=386.95764pt
 * \paperheight=603.19833pt
-* \textwidth=12.0pt
+* \textwidth=358.5049pt
 * \textheight=574.74557pt
-* \oddsidemargin=115.20883pt
-* \evensidemargin=115.20883pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
 * \topmargin=-97.88889pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -403,68 +378,28 @@ LaTeX Font Info:    ... okay on input line 12.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-Overfull \hbox (10.96121pt too wide) in paragraph at lines 15--15
- \OT1/cmr/m/n/10 SE25 
- []
-
-
-Overfull \hbox (15.04454pt too wide) in paragraph at lines 15--15
- \OT1/cmr/m/n/10 (easy) 
- []
-
-
-Overfull \hbox (258.60004pt too wide) in paragraph at lines 16--17
- [][] 
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 17.
-
-Overfull \hbox (14.39996pt too wide) in paragraph at lines 14--18
-[]$[]$ 
- []
-
-
-Overfull \hbox (10.96121pt too wide) in paragraph at lines 20--20
- \OT1/cmr/m/n/10 SE25 
- []
-
-
-Overfull \hbox (15.04454pt too wide) in paragraph at lines 20--20
- \OT1/cmr/m/n/10 (easy) 
- []
-
-
-Overfull \hbox (258.60004pt too wide) in paragraph at lines 21--22
- [][] 
- []
-
-
-Overfull \hbox (14.39996pt too wide) in paragraph at lines 19--23
-[]$[]$ 
- []
-
 [1
 
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./EasySudokusS25S30.aux) ) 
 Here is how much of TeX's memory you used:
- 1068 strings out of 493315
- 13443 string characters out of 6145894
- 86457 words of memory out of 5000000
- 4562 multiletter control sequences out of 15000+600000
+ 1069 strings out of 493315
+ 13478 string characters out of 6145894
+ 85472 words of memory out of 5000000
+ 4561 multiletter control sequences out of 15000+600000
  3939 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  24i,7n,30p,186b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr
 10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on EasySudokusS25S30.pdf (2 pages, 21627 bytes).
+Output written on EasySudokusS25S30.pdf (1 page, 21226 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
