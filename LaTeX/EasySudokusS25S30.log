@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 17:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  11 SEP 2014 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -352,15 +352,15 @@ LaTeX Font Info:    ... okay on input line 12.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
-* h-part:(L,W,R)=(36.135pt, 397.48499pt, 36.13501pt)
-* v-part:(T,H,B)=(28.90799pt, 542.025pt, 43.36201pt)
-* \paperwidth=469.75499pt
-* \paperheight=614.295pt
-* \textwidth=397.48499pt
-* \textheight=542.025pt
-* \oddsidemargin=-36.135pt
-* \evensidemargin=-36.135pt
-* \topmargin=-80.362pt
+* h-part:(L,W,R)=(21.33955pt, 560.51923pt, 21.33955pt)
+* v-part:(T,H,B)=(21.33955pt, 344.27853pt, 21.33955pt)
+* \paperwidth=603.19833pt
+* \paperheight=386.95764pt
+* \textwidth=560.51923pt
+* \textheight=344.27853pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-87.93044pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -383,35 +383,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
 
-Overfull \hbox (48.79492pt too wide) in paragraph at lines 21--22
- [][] 
- []
-
-
-Overfull \hbox (48.79492pt too wide) in paragraph at lines 27--28
- [][] 
- []
-
-
 Overfull \hbox (17.22221pt too wide) in paragraph at lines 18--30
 []$[]$ $[]$ 
  []
 
 [1
 
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./EasySudokusS25S30.aux) ) 
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \vbox (168.9208pt too high) has occurred while \output is active []
+
+
+[2] (./EasySudokusS25S30.aux) ) 
 Here is how much of TeX's memory you used:
  1072 strings out of 493315
  13488 string characters out of 6145894
- 98531 words of memory out of 5000000
+ 98581 words of memory out of 5000000
  4561 multiletter control sequences out of 15000+600000
  3938 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 24i,9n,30p,181b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr
-10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on EasySudokusS25S30.pdf (2 pages, 26488 bytes).
+ 24i,9n,30p,204b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on EasySudokusS25S30.pdf (2 pages, 26493 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  12 compressed objects within 1 object stream
