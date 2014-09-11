@@ -328,11 +328,6 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen117
 \Gm@layoutvoffset=\dimen118
 \Gm@dimlist=\toks17
-
-
-Package geometry Warning: `height' results in NEGATIVE (-1775.45178pt).
-    `tmargin' or `bmargin' should be shortened in length.
-
 ) (./EasySudokusS25S30.aux)
 \openout1 = `EasySudokusS25S30.aux'.
 
@@ -358,11 +353,11 @@ LaTeX Font Info:    ... okay on input line 12.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
 * h-part:(L,W,R)=(14.22638pt, 574.74557pt, 14.22638pt)
-* v-part:(T,H,B)=(28.45274pt, -1775.45178pt, 2133.95668pt)
+* v-part:(T,H,B)=(28.45274pt, 337.16534pt, 21.33955pt)
 * \paperwidth=603.19833pt
 * \paperheight=386.95764pt
 * \textwidth=574.74557pt
-* \textheight=-1775.45178pt
+* \textheight=337.16534pt
 * \oddsidemargin=-58.04361pt
 * \evensidemargin=-58.04361pt
 * \topmargin=-80.81725pt
@@ -388,53 +383,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 13.
 
-Overfull \vbox (1775.45178pt too high) has occurred while \output is active []
-
-
-[1
-
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \vbox (1785.45178pt too high) has occurred while \output is active []
-
-
-[2]
 Overfull \hbox (15.0pt too wide) in paragraph at lines 16--28
 []$[]$ $[]$ 
  []
 
+[1
 
-Overfull \vbox (2051.45178pt too high) has occurred while \output is active []
-
-
-[3]
-Overfull \vbox (1775.45178pt too high) has occurred while \output is active []
-
-
-[4
-
-]
-Overfull \vbox (10.0pt too high) has occurred while \output is active []
-
-
-(./EasySudokusS25S30.aux)
-Overfull \vbox (1785.45178pt too high) has occurred while \output is active []
-
-
-[5] ) 
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./EasySudokusS25S30.aux) ) 
 Here is how much of TeX's memory you used:
  1070 strings out of 493315
  13482 string characters out of 6145894
- 86515 words of memory out of 5000000
+ 86510 words of memory out of 5000000
  4561 multiletter control sequences out of 15000+600000
  3939 words of font info for 15 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 24i,9n,30p,193b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-mf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on EasySudokusS25S30.pdf (5 pages, 25317 bytes).
+ 24i,9n,30p,194b,289s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texmf/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on EasySudokusS25S30.pdf (1 page, 24451 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 16 PDF objects out of 1000 (max. 8388607)
+ 10 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
