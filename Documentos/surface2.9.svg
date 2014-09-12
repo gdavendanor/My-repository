@@ -1592,3 +1592,5 @@ gnuplot_svg.plot_timeaxis_x = "";
   <text id="coord_text" text-anchor="start" pointer-events="none"
   font-size="12" font-family="Arial"
   visibility="hidden"> </text>
+</svg>
+
