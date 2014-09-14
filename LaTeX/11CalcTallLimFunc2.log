@@ -860,8 +860,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@erf=\skip60
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
+) (./11CalcTallLimFunc2.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
 )
-No file 11CalcTallLimFunc2.aux.
 \openout1 = `11CalcTallLimFunc2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -879,6 +881,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
+
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -927,6 +930,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./11CalcTallLimFunc2.out) (./11CalcTallLimFunc2.out)
 \@outlinefile=\write4
 \openout4 = `11CalcTallLimFunc2.out'.
 
@@ -1026,19 +1031,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
-
-! Undefined control sequence.
-<recently read> \ds 
-                    
-l.40  \item $\ds
-                {\lim_{x\rightarrow4}\dfrac{\sqrt{x}-2}{x-4}}=$ \begin{center}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 49.
+
 [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
@@ -1050,22 +1044,15 @@ LaTeX Info: Redefining \% on input line 19.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 49.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 49.
-
-
-Package rerunfilecheck Warning: File `11CalcTallLimFunc2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11CalcTallLimFunc2.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `11CalcTallLimFunc2.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 49.
  ) 
 Here is how much of TeX's memory you used:
- 17028 strings out of 493315
- 289782 string characters out of 6145893
- 373935 words of memory out of 5000000
- 20151 multiletter control sequences out of 15000+600000
+ 17033 strings out of 493315
+ 289918 string characters out of 6145893
+ 374039 words of memory out of 5000000
+ 20150 multiletter control sequences out of 15000+600000
  41730 words of font info for 54 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  56i,7n,55p,429b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
