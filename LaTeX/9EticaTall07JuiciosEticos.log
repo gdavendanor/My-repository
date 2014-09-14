@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.7.26)  14 SEP 2014 14:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.7.26)  14 SEP 2014 14:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -871,8 +871,8 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.16 \pagestyle
-               {fancy}^^M
+l.16 \newcommand
+                *{\Lpack}[1]{\textsf{#1}}^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
