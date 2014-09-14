@@ -35,5 +35,9 @@ Cálculo $11^{\circ}$
 \maketitle
 Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
 
+1--6 Complete la tabla siguiente usando hasta 5 decimales para estimar el valor del límite
+\begin{enumerate}
+ \item $ds{\lim_{x\rightarrow4}}\dfrac{\sqrt{x}-2}{x-4}$
+\end{enumerate}
 
 \end{document}
