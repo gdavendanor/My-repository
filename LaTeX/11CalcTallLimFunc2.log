@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  14 SEP 2014 20:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  14 SEP 2014 20:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,30 +1036,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
 g> <./Images/logo-sed.png (PNG copy)>]
-! Extra }, or forgotten \endgroup.
-\endminipage ...pagefalse \color@endgroup \egroup 
-                                                  \expandafter \@iiiparbox \...
-l.92 \end{minipage}
-                   
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: \begin{enumerate} on input line 82 ended by \end{minipage}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 \end{minipage}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 <./Images/funcionPto13.png, id=38, 135.50626pt x 118.19156pt>
 File: ./Images/funcionPto13.png Graphic file (type png)
 
@@ -1067,8 +1043,8 @@ File: ./Images/funcionPto13.png Graphic file (type png)
 Package pdftex.def Info: ./Images/funcionPto13.png used on input line 94.
 (pdftex.def)             Requested size: 101.62943pt x 88.64345pt.
 
-Overfull \hbox (18.15529pt too wide) in paragraph at lines 94--96
-[][] 
+Overfull \hbox (70.4364pt too wide) in paragraph at lines 80--97
+\T1/lmr/m/n/10 pli-que por qué $[]$ $[]$ 
  []
 
 <./Images/funcionPto14.png, id=39, 134.75343pt x 114.4275pt>
@@ -1078,38 +1054,25 @@ File: ./Images/funcionPto14.png Graphic file (type png)
 Package pdftex.def Info: ./Images/funcionPto14.png used on input line 111.
 (pdftex.def)             Requested size: 101.06482pt x 85.8204pt.
 
-Overfull \hbox (17.59068pt too wide) in paragraph at lines 111--113
-[][] 
+Overfull \hbox (73.2208pt too wide) in paragraph at lines 97--114
+\T1/lmr/m/n/10 pli-que por qué. $[]$ $[]$ 
  []
 
-
-! LaTeX Error: \begin{minipage} on input line 81 ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.118 \end{enumerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{minipage} on input line 81 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+File: Images/logo-colegio.png Graphic file (type png)
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 120.
+(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <./Images/funcionPto13.png> <./Images/funcionPto14.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
+
 (./11CalcTallLimFunc2.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
@@ -1119,54 +1082,30 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `11CalcTallLimFunc2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 120.
-
-! You can't use `\end' in internal vertical mode.
-\enddocument ...es \z@ \Call@AtVeryVeryEnd \@@end 
-                                                  
-l.120 \end{document}
-                    
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-
-! LaTeX Error: \begin{minipage} on input line 81 ended by \end{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.120 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{document}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-)
-! Emergency stop.
-<*> 11CalcTallLimFunc2.tex
-                          
-*** (job aborted, no legal \end found)
-
- 
+ ) 
 Here is how much of TeX's memory you used:
- 17058 strings out of 493315
- 290300 string characters out of 6145894
+ 17073 strings out of 493315
+ 290404 string characters out of 6145894
  388039 words of memory out of 5000000
  20160 multiletter control sequences out of 15000+600000
  45993 words of font info for 55 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 56i,11n,55p,429b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 56i,15n,55p,429b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmsy5.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 11CalcTallLimFunc2.pdf (2 pages, 200433 bytes).
+PDF statistics:
+ 112 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 29 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+
