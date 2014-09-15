@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  14 SEP 2014 19:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/TeX Live for SUSE Linux) (format=pdflatex 2014.9.2)  14 SEP 2014 19:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,10 +1036,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.pn
 g> <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
 File: Images/logo-colegio.png Graphic file (type png)
  <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 88.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 93.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
 
 
@@ -1049,20 +1049,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (./11CalcTallLimFunc2.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `11CalcTallLimFunc2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
  ) 
 Here is how much of TeX's memory you used:
- 17051 strings out of 493315
- 290048 string characters out of 6145894
+ 17055 strings out of 493315
+ 290076 string characters out of 6145894
  388039 words of memory out of 5000000
  20152 multiletter control sequences out of 15000+600000
  45993 words of font info for 55 fonts, out of 8000000 for 9000
@@ -1079,10 +1079,10 @@ usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy5.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11CalcTallLimFunc2.pdf (2 pages, 192392 bytes).
+Output written on 11CalcTallLimFunc2.pdf (2 pages, 193656 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 78 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
