@@ -75,10 +75,26 @@ ner la unidad?
 
 Explica como lo has hecho.
 \item  Son equivalentes las parejas de fracciones siguientes:
-\begin{enumerate}
+\begin{enumerate}\begin{multicols}{3}
  \item $\dfrac{15}{4}$ y $\dfrac{75}{35}$
  \item $\dfrac{33}{42}$ y $\dfrac{132}{168}$
- \item $\dfrac{17}{62}$ y $\dfrac{51}{185}$
+ \item $\dfrac{17}{62}$ y $\dfrac{51}{185}$\end{multicols}
+\end{enumerate}
+\item  En un campeonato de atletismo uno de los saltadores de altura consigue saltar más de dos metros 13 veces de 52 intentos, su contrincante salta más de 2 metros 11 veces de 44 intentos. ¿Cuál de los dos ha ganado?
+\item  Ordena de mayor a menor los siguientes grupos de fracciones y explica como lo has hecho:
+\begin{enumerate}\begin{multicols}{2}
+ \item $\dfrac{9}{8}$, $\dfrac{7}{8}$, $\dfrac{3}{8}$, $\dfrac{17}{8}$, $\dfrac{1}{8}$
+ \item $\dfrac{6}{9}$, $\dfrac{6}{14}$, $\dfrac{6}{7}$, $\dfrac{6}{11}$, $\dfrac{6}{8}$
+ \item $\dfrac{3}{6}$, $\dfrac{3}{4}$, $\dfrac{5}{10}$
+ \item $\dfrac{8}{4}$, $\dfrac{4}{1}$, $\dfrac{6}{3}$
+ \end{multicols}
+\end{enumerate}
+\item Realiza las siguientes operaciones simplificando los resultados.
+\begin{enumerate}\begin{multicols}{3}
+ \item $\dfrac{3}{4}+\dfrac{5}{6}+\dfrac{6}{8}$
+ \item $\dfrac{6}{10}-\dfrac{2}{8}=$
+ \item $\dfrac{7}{8}+\dfrac{3}{6}-\dfrac{5}{12}=$
+ \end{multicols}
 \end{enumerate}
 
 \end{enumerate}
