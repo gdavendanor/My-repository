@@ -34,35 +34,53 @@ Aritmética $6^{\circ}$
 \begin{document}
 \maketitle
 Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
-\section*{Problema resuelto}
-La señora Marta preparó un pastel de choclo para el almuerzo. Si lo repartió en partes iguales entre ella, su esposo y sus tres hijos, ¿qué fracción del pastel comieron en total sus hijos?
-\subsection*{Solución}
-La fracción de pastel que comieron los hijos corresponde al número de porciones que
-comieron sus hijos, del número total de porciones.
-
-Esto puede resumirse en el siguiente esquema:
-\subsubsection*{Procedimiento:}
-El número de porciones que comieron los hijos es 3 y el número total de porciones es 5, por lo tanto la fracción buscada es la correspondiente a 3 porciones de un total de 5.
-\subsubsection*{Operación y resultado:}
-3 de 5 es igual a $\dfrac{3}{5}$
-\subsubsection*{Respuesta}
-Entre los hijos comieron $\dfrac{3}{5}$ del pastel
-
-Resuelve los siguientes problemas indicando en cada caso:
+\section*{Nivel I}
 \begin{enumerate}
- \item[a)] El procedimiento
- \item[b)] La operación con su resultado
- \item[c)] La respuesta del problema.
+ \item Enumera los términos de una fracción y di qué indica cada uno de ellos. Pon varios ejemplos.
+\item ¿Qué fracción de hora son 20 minutos? Y ¿35 minutos? Y ¿55 minutos?
+\item Para elaborar un tarro de frutas se han necesitado 400 gramos de plátanos, 350 gramos de fresas, 250 gramos de azúcar y 50 gramos de manzanas. ¿Qué fracción del total representa cada uno de estos productos?
+\item Calcula
+\begin{enumerate}\begin{multicols}{4}
+ \item $\dfrac{5}{10}$ de 90
+ \item $\dfrac{7}{9}$ de 72
+ \item $\dfrac{4}{3}$ de 42
+ \item $\dfrac{5}{9}$ de 540
+\end{multicols}
+ \end{enumerate}
+\item  En una clase de 24 alumnos 5/8 son chicos. ¿Cuántos chicos y chicas hay en clase?
+\item El depósito de un coche tiene una capacidad de 63 litros de gasolina, si gasta los 5/9 en una excursión, ¿cuántos litros le quedan al volver de viaje?
+\item En la puerta de un cine hay 12 mujeres por cada 8 hombres y 16 niños. ¿Cuál es la relación entre hombres y mujeres? ¿Entre hombres y niños? Y ¿Entre mujeres y niños?
+\item Indica de las siguientes fracciones cuáles dan como resultado un número natural y cuáles un número decimal:
+
+3/2, 12/3, 17/4, 27/9, 14/6, 19/8, 21/7
+\item Indica en las fracciones siguientes cuáles son mayores, iguales o menores que la unidad:
+
+1/7, 3/5, 9/9, 5/3, 17/2, 2/9, 16/4, 18/17, 5/5, 6/9, 12/12.
+\item Las fracciones siguientes son menores que la unidad. ¿Qué fracción falta en cada una de ellas para completar la unidad?
+
+3/7, 3/8, 9/12, 11/16, 7/13, 5/9.
+\item ¿Qué fracción sobra en cada una de las siguientes para obte-
+ner la unidad?
+
+6/5, 5/4, 16/9, 8/6, 17/13, 25/19.
+\item ¿Entre que números naturales consecutivos están comprendidas las fracciones siguientes? 
+
+7/5, 12/5, 12/3, 18/7, 21/5 .
+\item Representa en la recta numérica las siguientes fracciones:
+
+3/9, 4/5, 6/8, 4/4, 5/3, 6/4, 8/2.
+\item Escribe dos fracciones equivalentes a cada una de estas:
+
+13/5, 7/14, 5/2, 45/18, 3/21.
+
+Explica como lo has hecho.
+\item  Son equivalentes las parejas de fracciones siguientes:
+\begin{enumerate}
+ \item $\dfrac{15}{4}$ y $\dfrac{75}{35}$
+ \item $\dfrac{33}{42}$ y $\dfrac{132}{168}$
+ \item $\dfrac{17}{62}$ y $\dfrac{51}{185}$
 \end{enumerate}
-\paragraph*{Problema 1:}
-Andrea compró una docena de huevos en un almacén. Al llegar a su casa se cayó y sólo quedaron 5 huevos enteros. ¿Qué fracción de los huevos no se quebró?
-\paragraph*{Problema 2:}
-Un ciclista da diariamente 30 vueltas a una pista. Ayer, mientras hacía su rutina, comenzó una gran lluvia y sólo alcanzó a pedalear 13 vueltas. ¿Qué fracción de lo que normalmente recorre alcanzó a hacer?
-\paragraph*{Problema 3:}
-Una micro realiza el mismo recorrido 7 veces al día. Debido a la congestión vehicular hoy sólo recorrió 5 veces su ruta. ¿Qué fracción de su recorrido habitual logró hacer?
-\paragraph*{Problema 4:}
-En una competencia Juan ganó 15 bolitas. Si regaló 3 de ellas a su hermano menor, ¿qué fracción de las bolitas que había regalado ganó?
-\paragraph*{Problema 5:}
-En un almacén tenían 100 agendas para vender. Si vendieron sólo 78 agendas, ¿qué fracción del total vendieron?
+
+\end{enumerate}
 
 \end{document}
