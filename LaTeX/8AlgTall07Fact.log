@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  14 OCT 2014 18:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  14 OCT 2014 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1049,26 +1049,26 @@ LaTeX Warning: Reference `ej-pri7' on page 3 undefined on input line 126.
 
 LaTeX Warning: Reference `ej-ult7' on page 3 undefined on input line 126.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  (./8AlgTall07Fact.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
 Package rerunfilecheck Info: File `8AlgTall07Fact.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
  ) 
 Here is how much of TeX's memory you used:
- 16893 strings out of 494997
- 288356 string characters out of 3180092
+ 16894 strings out of 494997
+ 288363 string characters out of 3180092
  379848 words of memory out of 3000000
  19681 multiletter control sequences out of 15000+200000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
@@ -1085,10 +1085,10 @@ ts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb>
 /public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy7.pfb>
-Output written on 8AlgTall07Fact.pdf (3 pages, 237501 bytes).
+Output written on 8AlgTall07Fact.pdf (3 pages, 237434 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 148 compressed objects within 2 object streams
- 74 named destinations out of 1000 (max. 500000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
+ 75 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
