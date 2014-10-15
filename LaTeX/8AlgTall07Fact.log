@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  14 OCT 2014 19:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  14 OCT 2014 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1027,6 +1027,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
 
+Overfull \hbox (111.0465pt too wide) in paragraph at lines 45--55
+\T1/lmr/m/n/10 mio y un po-li-no-mio, tal co-mo se ve en la si-guien-te ta-bla:
+ [] 
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -1090,7 +1095,7 @@ ts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
 /public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 8AlgTall07Fact.pdf (4 pages, 246803 bytes).
+Output written on 8AlgTall07Fact.pdf (4 pages, 246771 bytes).
 PDF statistics:
  188 PDF objects out of 1000 (max. 8388607)
  166 compressed objects within 2 object streams
