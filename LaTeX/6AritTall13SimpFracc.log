@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 OCT 2014 18:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 OCT 2014 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,10 +1056,10 @@ Package rerunfilecheck Info: File `6AritTall13SimpFracc.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
- 16842 strings out of 494997
- 288453 string characters out of 3180092
- 367803 words of memory out of 3000000
- 19692 multiletter control sequences out of 15000+200000
+ 16843 strings out of 494997
+ 288469 string characters out of 3180092
+ 368803 words of memory out of 3000000
+ 19693 multiletter control sequences out of 15000+200000
  53720 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,431b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1069,12 +1069,11 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on 6AritTall13SimpFracc.pdf (2 pages, 223910 bytes).
+pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 6AritTall13SimpFracc.pdf (2 pages, 216582 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  13 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
