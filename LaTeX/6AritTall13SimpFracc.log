@@ -1031,47 +1031,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.72 \item $\dfrac{4}{10}$ \square
-                                   $\dfrac{3}{7}$
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.72 \item $\dfrac{4}{10}$ \square $\dfrac{3}{7}
-                                                $
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\@genfrac ...egingroup #4\endgroup #2#3\relax #5}}
-                                                  
-l.72 \item $\dfrac{4}{10}$ \square $\dfrac{3}{7}
-                                                $
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.73 \end{multicols}
-                    
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
 File: Images/logo-colegio.png Graphic file (type png)
-<use Images/logo-colegio.png>
+ <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 75.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
 
