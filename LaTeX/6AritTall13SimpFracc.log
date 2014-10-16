@@ -1056,13 +1056,13 @@ Package rerunfilecheck Info: File `6AritTall13SimpFracc.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 16842 strings out of 494997
- 288453 string characters out of 3180092
+ 16843 strings out of 494997
+ 288469 string characters out of 3180092
  365803 words of memory out of 3000000
- 19692 multiletter control sequences out of 15000+200000
+ 19693 multiletter control sequences out of 15000+200000
  53720 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,431b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,431b,440s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
@@ -1070,7 +1070,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTall13SimpFracc.pdf (2 pages, 216168 bytes).
+Output written on 6AritTall13SimpFracc.pdf (2 pages, 216203 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
