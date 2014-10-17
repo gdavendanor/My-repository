@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 OCT 2014 19:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 OCT 2014 19:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1043,23 +1043,23 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
  [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
  (./6AritTall13SimpFracc.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
 Package rerunfilecheck Info: File `6AritTall13SimpFracc.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 123.
  ) 
 Here is how much of TeX's memory you used:
- 16865 strings out of 494997
- 288668 string characters out of 3180092
- 374803 words of memory out of 3000000
+ 16870 strings out of 494997
+ 288723 string characters out of 3180092
+ 375803 words of memory out of 3000000
  19693 multiletter control sequences out of 15000+200000
  57983 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1072,10 +1072,10 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTall13SimpFracc.pdf (3 pages, 242353 bytes).
+Output written on 6AritTall13SimpFracc.pdf (3 pages, 245813 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 34 named destinations out of 1000 (max. 500000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 39 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
