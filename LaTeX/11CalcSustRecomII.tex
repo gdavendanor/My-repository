@@ -33,6 +33,7 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
 $y$ & $-97$ &  & 13 &  & 3.5 & 103 \\ 
  \hline 
  \end{tabular}
+ \begin{minipage}{.5\textwidth}
  \item Represente la función a trozos
 \[f(x)=\left\{ \begin{array}{lcl}
 x+3 & \mbox{si} & x\leq 2\\
@@ -41,7 +42,9 @@ x+3 & \mbox{si} & x\leq 2\\
 2x+1 & \mbox{si} & x> 2\\
 \end{array}
 \right.\]
-y diga si es discontinua en algún punto.
+y diga si es discontinua en algún punto. 
+ \end{minipage}
+ \begin{minipage}{.45\textwidth}
 %Uncomment next line if XeTeX is used
 %\def\pgfsysdriver{pgfsys-xetex.def}
 \usetikzlibrary{arrows}
@@ -59,7 +62,9 @@ y diga si es discontinua en algún punto.
 \draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
 \draw[color=black] (0pt,-10pt) node[right] {$0$};
 \clip(-4.91,-4.31) rectangle (4.93,4.48);
-\endtikzpicture
+\endtikzpicture 
+ \end{minipage}
+
 \item Halle el dominio y rango de las siguientes funciones:
 \begin{enumerate}
 \item $y=x-3$
