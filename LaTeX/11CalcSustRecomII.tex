@@ -42,6 +42,24 @@ x+3 & \mbox{si} & x\leq 2\\
 \end{array}
 \right.\]
 y diga si es discontinua en algún punto.
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-4.91,-4.31) grid (4.93,4.48);
+\draw[->,color=black] (-4.91,0) -- (4.93,0);
+\foreach \x in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-4.31) -- (0,4.48);
+\foreach \y in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-4.91,-4.31) rectangle (4.93,4.48);
+\endtikzpicture
 \item Halle el dominio y rango de las siguientes funciones:
 \begin{enumerate}
 \item $y=x-3$
