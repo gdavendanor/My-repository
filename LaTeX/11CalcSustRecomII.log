@@ -783,13 +783,13 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 11816 strings out of 494997
- 210991 string characters out of 3180092
+ 11817 strings out of 494997
+ 211028 string characters out of 3180092
  268326 words of memory out of 3000000
- 14750 multiletter control sequences out of 15000+200000
+ 14751 multiletter control sequences out of 15000+200000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,9n,53p,406b,467s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,9n,53p,406b,504s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
@@ -798,7 +798,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11CalcSustRecomII.pdf (1 page, 134841 bytes).
+Output written on 11CalcSustRecomII.pdf (1 page, 134903 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
