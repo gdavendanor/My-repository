@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  21 OCT 2014 21:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  21 OCT 2014 21:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,7 +440,7 @@ Here is how much of TeX's memory you used:
  5215 multiletter control sequences out of 15000+200000
  35112 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 27i,6n,27p,373b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,27p,373b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/
 share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/publ
@@ -448,7 +448,7 @@ ic/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 r7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fon
 ts/type1/public/lm/lmsy10.pfb>
-Output written on SapixExamFinalEstad.pdf (2 pages, 114253 bytes).
+Output written on SapixExamFinalEstad.pdf (2 pages, 114513 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
