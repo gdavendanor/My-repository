@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 OCT 2014 18:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 OCT 2014 18:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -543,10 +543,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 3528 strings out of 494997
- 45983 string characters out of 3180092
+ 3529 strings out of 494997
+ 45991 string characters out of 3180092
  117317 words of memory out of 3000000
- 6657 multiletter control sequences out of 15000+200000
+ 6658 multiletter control sequences out of 15000+200000
  7805 words of font info for 29 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  37i,9n,45p,243b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -557,7 +557,7 @@ xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 11CalcSustRecomII.pdf (1 page, 124521 bytes).
+Output written on 11CalcSustRecomII.pdf (1 page, 124729 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
