@@ -49,12 +49,25 @@ y diga si es discontinua en algún punto.
 \item $y=+\sqrt{x-2}$
 \item $y=\sqrt{x+3}$
 \end{enumerate}
-Haga la gráfica de la última función:
-\begin{tikzpicture}
-\draw[thick] [<->](0,-0.5)--(0,3.5);
-\draw [<->](-3.5,0)--(5.5,0);
-\draw [help lines] (-3.5,-.5) grid (5.5,3.5);
-\end{tikzpicture}
+Haga la gráfica de la última función:\\
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 1pt off 1pt, xstep=1.0cm,ystep=1.0cm] (-3.19,-1.32) grid (5.5,3.61);
+\draw[->,color=black] (-3.19,0) -- (5.5,0);
+\foreach \x in {-3,-2,-1,1,2,3,4,5}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.32) -- (0,3.61);
+\foreach \y in {-1,1,2,3}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.19,-1.32) rectangle (5.5,3.61);
+\endtikzpicture
  \end{enumerate}
 
 \end{document}
