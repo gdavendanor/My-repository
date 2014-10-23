@@ -5,6 +5,7 @@
 \usepackage{mathexam}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{pgf,tikz}
 
 \ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
 \ExamName{Sustentación Recomendaciones III}
@@ -24,13 +25,15 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
 \item Un ciclista sale de excursión a un lugar que dista 20 km. de su casa. A los quince minutos de salida, cuando se encuentra a seis km hace una parada de 10 minutos. Reanuda la marcha y llega a su destino una hora después de haber salido.
 \begin{enumerate}
 \item Representa la gráfica tiempo-distancia a su casa.
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
 
 \usetikzlibrary{arrows}
 \baselineskip=10pt
 \hsize=6.3truein
 \vsize=8.7truein
 \definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
-\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\tikzpicture[scale=.9,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
 \draw [color=cqcqcq,dash pattern=on 5pt off 5pt, xstep=5.0cm,ystep=5.0cm] (-2,-0.76) grid (61,21);
 \draw[->,color=black] (-2,0) -- (61,0);
 \foreach \x in {,5,10,15,20,25,30,35,40,45,50,55,60}
