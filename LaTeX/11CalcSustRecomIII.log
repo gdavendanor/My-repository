@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 OCT 2014 19:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 OCT 2014 19:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -785,78 +785,6 @@ Overfull \hbox (3.15063pt too wide) in paragraph at lines 53--61
 [] 
  []
 
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.71 ...,ystep=200.0cm] (-0.34,-5) grid (6.5,1205)
-                                                  ;
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-\iterate ...dvance \pgf@y by\pgf@yc \ifdim \pgf@y 
-                                                  <\pgf@yb \relax \expandaft...
-l.71 ...,ystep=200.0cm] (-0.34,-5) grid (6.5,1205)
-                                                  ;
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-\pgf@pathgrid ...@y by-0.01pt\relax \ifdim \pgf@y 
-                                                  <\pgf@yb {\pgf@xa =\pgf@x ...
-l.71 ...,ystep=200.0cm] (-0.34,-5) grid (6.5,1205)
-                                                  ;
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.75 \draw[->,color=black] (0,-5) -- (0,1205)
-                                             ;
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.77 ...(2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
-                                                  
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.77 ...(2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
-                                                  
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.77 ...(2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
-                                                  
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.77 ...(2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
-                                                  
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
-! Dimension too large.
-<recently read> \pgf@yy 
-                        
-l.79 \clip(-0.34,-5) rectangle (6.5,1205)
-                                         ;
-I can't work with sizes bigger than about 19 feet.
-Continue and I'll use the largest value I can.
-
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
 Package pdftex.def Info: Images/logo-sed.png used on input line 81.
@@ -869,7 +797,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Overfull \vbox (3615.0748pt too high) has occurred while \output is active []
+Overfull \vbox (350.69746pt too high) has occurred while \output is active []
 
 File: Images/logo-sed.png Graphic file (type png)
 
@@ -887,10 +815,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 12111 strings out of 494997
- 218942 string characters out of 3180092
+ 12112 strings out of 494997
+ 218965 string characters out of 3180092
  270006 words of memory out of 3000000
- 15039 multiletter control sequences out of 15000+200000
+ 15040 multiletter control sequences out of 15000+200000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  49i,15n,53p,407b,978s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -903,7 +831,7 @@ t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmti10.pfb>
-Output written on 11CalcSustRecomIII.pdf (4 pages, 148917 bytes).
+Output written on 11CalcSustRecomIII.pdf (4 pages, 148989 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  40 compressed objects within 1 object stream
