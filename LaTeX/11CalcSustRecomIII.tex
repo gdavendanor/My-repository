@@ -23,7 +23,24 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
 \begin{enumerate}
 \item Un ciclista sale de excursión a un lugar que dista 20 km. de su casa. A los quince minutos de salida, cuando se encuentra a seis km hace una parada de 10 minutos. Reanuda la marcha y llega a su destino una hora después de haber salido.
 \begin{enumerate}
-\item Representa la gráfica tiempo-distancia a su casa. \noanswer
+\item Representa la gráfica tiempo-distancia a su casa.
+
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 5pt off 5pt, xstep=5.0cm,ystep=5.0cm] (-2,-0.76) grid (61,21);
+\draw[->,color=black] (-2,0) -- (61,0);
+\foreach \x in {,5,10,15,20,25,30,35,40,45,50,55,60}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-0.76) -- (0,21);
+\foreach \y in {,2,4,6,8,10,12,14,16,18,20}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2,-0.76) rectangle (61,21);
+\endtikzpicture
 \item ¿Lleva la misma velocidad antes y después de la parada? Suponemos que en cada etapa la velocidad es constante?\noanswer
 \item Busca la expresión analítica de esta función.\noanswer
 \end{enumerate}
