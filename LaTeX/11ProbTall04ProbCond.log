@@ -856,7 +856,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-No file 11ProbTall04ProbCond.aux.
+(./11ProbTall04ProbCond.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `11ProbTall04ProbCond.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -874,7 +877,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 34.
@@ -922,6 +925,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./11ProbTall04ProbCond.out) (./11ProbTall04ProbCond.out)
 \@outlinefile=\write4
 \openout4 = `11ProbTall04ProbCond.out'.
 
@@ -1029,7 +1034,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ! Misplaced \omit.
 \@cline #1-#2\@nil ->\omit 
                            \@multicnt #1\advance \@multispan \m@ne \ifnum \@...
-l.87 ...{2}{c}{Número de aeropuertos} \cline{2-3}
+l.87 ...{2}{c}{Número de aeropuertos} \cline{1-2}
                                                    \\
 I expect to see \omit only after tab marks or the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -1037,7 +1042,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Extra alignment tab has been changed to \cr.
 <template> \endtemplate 
                         
-l.87 ...{2}{c}{Número de aeropuertos} \cline{2-3}
+l.87 ...{2}{c}{Número de aeropuertos} \cline{1-2}
                                                    \\
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
@@ -1067,21 +1072,14 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
-
-
-Package rerunfilecheck Warning: File `11ProbTall04ProbCond.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11ProbTall04ProbCond.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `11ProbTall04ProbCond.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 16876 strings out of 494997
- 288531 string characters out of 3180092
- 372695 words of memory out of 3000000
+ 16882 strings out of 494997
+ 288681 string characters out of 3180092
+ 372799 words of memory out of 3000000
  19715 multiletter control sequences out of 15000+200000
  61283 words of font info for 61 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1098,7 +1096,7 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy7.pfb>
-Output written on 11ProbTall04ProbCond.pdf (2 pages, 205198 bytes).
+Output written on 11ProbTall04ProbCond.pdf (2 pages, 205199 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  75 compressed objects within 1 object stream
