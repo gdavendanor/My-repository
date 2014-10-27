@@ -1056,23 +1056,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 
-LaTeX Warning: File `Images/'Captura de pantalla de 2014-10-26 20:34:44.png'' n
+LaTeX Warning: File `Images/'Captura de pantalla de 2014-10-26 20:34:44'.png' n
 ot found on input line 145.
 
 
-! LaTeX Error: Unknown graphics extension: .png'.
+! Package pdftex.def Error: File `Images/'Captura de pantalla de 2014-10-26 20:
+34:44'.png' not found.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.145 ... de pantalla de 2014-10-26 20:34:44.png'}
+l.145 ... de pantalla de 2014-10-26 20:34:44'.png}
                                                   
+Using draft setting for this image.
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 145.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
-[3]
+ [3]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./6EstTall03.aux
 LaTeX Info: Redefining \. on input line 17.
@@ -1085,11 +1092,11 @@ Package rerunfilecheck Info: File `6EstTall03.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 16842 strings out of 494997
- 287951 string characters out of 3180092
+ 16881 strings out of 494997
+ 288546 string characters out of 3180092
  373796 words of memory out of 3000000
- 19678 multiletter control sequences out of 15000+200000
- 54988 words of font info for 58 fonts, out of 3000000 for 9000
+ 19713 multiletter control sequences out of 15000+200000
+ 55307 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,421b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1098,11 +1105,11 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmsy7.pfb>
-Output written on 6EstTall03.pdf (3 pages, 195499 bytes).
+type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on 6EstTall03.pdf (3 pages, 218831 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  26 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
