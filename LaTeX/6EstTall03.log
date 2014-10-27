@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  26 OCT 2014 20:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  26 OCT 2014 20:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1056,11 +1056,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 
-LaTeX Warning: File `Images/'Captura de pantalla de 2014-10-26 20:34:44'.png' n
+LaTeX Warning: File `'Images/Captura de pantalla de 2014-10-26 20:34:44'.png' n
 ot found on input line 145.
 
 
-! Package pdftex.def Error: File `Images/'Captura de pantalla de 2014-10-26 20:
+! Package pdftex.def Error: File `'Images/Captura de pantalla de 2014-10-26 20:
 34:44'.png' not found.
 
 See the pdftex.def package documentation for explanation.
@@ -1092,8 +1092,8 @@ Package rerunfilecheck Info: File `6EstTall03.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 16881 strings out of 494997
- 288546 string characters out of 3180092
+ 16882 strings out of 494997
+ 288553 string characters out of 3180092
  373796 words of memory out of 3000000
  19713 multiletter control sequences out of 15000+200000
  55307 words of font info for 59 fonts, out of 3000000 for 9000
