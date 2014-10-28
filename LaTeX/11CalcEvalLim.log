@@ -791,7 +791,7 @@ Overfull \hbox (67.45174pt too wide) in paragraph at lines 59--105
 
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 109.
+Package pdftex.def Info: Images/logo-sed.png used on input line 110.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -804,7 +804,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 114.
+Package pdftex.def Info: Images/logo-sed.png used on input line 115.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
  [3] (./11CalcEvalLim.aux
 LaTeX Info: Redefining \. on input line 2.
