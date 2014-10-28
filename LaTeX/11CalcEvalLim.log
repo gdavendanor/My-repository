@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 15:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 15:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1876,10 +1876,10 @@ l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
                                                   ;
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 12361 strings out of 494997
- 224324 string characters out of 3180092
- 298472 words of memory out of 3000000
- 15290 multiletter control sequences out of 15000+200000
+ 12338 strings out of 494997
+ 223520 string characters out of 3180092
+ 298544 words of memory out of 3000000
+ 15267 multiletter control sequences out of 15000+200000
  8756 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,10n,55p,403b,1453s stack positions out of 5000i,500n,10000p,200000b,50000s
