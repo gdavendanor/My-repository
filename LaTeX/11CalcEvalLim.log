@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 16:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -680,37 +680,6 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box62
 \multicol@sort@counter=\count133
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2012/02/19 v3.2f Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen174
-\captionmargin@=\dimen175
-\captionwidth=\dimen176
-\caption@indent=\dimen177
-\caption@parindent=\dimen178
-\caption@hangindent=\dimen179
-)
-\c@ContinuedFloat=\count134
-)
-\c@KVtest=\count135
-\sf@farskip=\skip57
-\sf@captopadj=\dimen180
-\sf@capskip=\skip58
-\sf@nearskip=\skip59
-\c@subfigure=\count136
-\c@subfigure@save=\count137
-\c@lofdepth=\count138
-\c@subtable=\count139
-\c@subtable@save=\count140
-\c@lotdepth=\count141
-\sf@top=\skip60
-\sf@bottom=\skip61
-)
 (./11CalcEvalLim.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
@@ -788,16 +757,16 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 21.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count142
-\scratchdimen=\dimen181
+\scratchcounter=\count134
+\scratchdimen=\dimen174
 \scratchbox=\box63
-\nofMPsegments=\count143
-\nofMParguments=\count144
+\nofMPsegments=\count135
+\nofMParguments=\count136
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count145
-\MPscratchDim=\dimen182
-\MPnumerator=\count146
-\makeMPintoPDFobject=\count147
+\MPscratchCnt=\count137
+\MPscratchDim=\dimen175
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
 \everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
@@ -843,11 +812,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-ABD: EveryShipout initializing macros
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: End \AtBeginDocument code.
- [1
+ABD: EveryShipout initializing macros [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png>]
@@ -862,7 +827,7 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 
 (/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen183
+\arrowsize=\dimen176
 ))
 Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--104
 []$[]$
@@ -895,10 +860,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 13960 strings out of 494997
- 253312 string characters out of 3180092
- 319704 words of memory out of 3000000
- 16876 multiletter control sequences out of 15000+200000
+ 12823 strings out of 494997
+ 232978 string characters out of 3180092
+ 307483 words of memory out of 3000000
+ 15749 multiletter control sequences out of 15000+200000
  8756 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,424b,938s stack positions out of 5000i,500n,10000p,200000b,50000s
