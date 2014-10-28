@@ -529,231 +529,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-! Argument of \align* has an extra }.
-<inserted text> 
-                \par 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
- 6x^{2}+7x-20&=\dfrac {6(6x^{2})+7x(6)-20(6)}{6}\\ &=\dfrac {36x^{2}+\ETC.
-! Paragraph ended before \align* was complete.
-<to be read again> 
-                   \par 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \@@par 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
-
-! Extra }, or forgotten \endgroup.
-\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
-                                                  \fi 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.36 ...)}{6} & \mbox{den 7 y multiplicados }-120}
-                                                  \\
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 &
-      =\dfrac{3(2x+5)2(3x-4)}{6} & \mbox{Cancelamos los factores 3 y 2 con e...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.37 &
-      =\dfrac{3(2x+5)2(3x-4)}{6} & \mbox{Cancelamos los factores 3 y 2 con e...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.37 &=\dfrac{3(2x+5)2(3x-4)}{6}
-                                 & \mbox{Cancelamos los factores 3 y 2 con e...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-\@genfrac ...egingroup #4\endgroup #2#3\relax #5}}
-                                                  
-l.37 &=\dfrac{3(2x+5)2(3x-4)}{6}
-                                 & \mbox{Cancelamos los factores 3 y 2 con e...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Misplaced alignment tab character &.
-l.37 &=\dfrac{3(2x+5)2(3x-4)}{6} &
-                                   \mbox{Cancelamos los factores 3 y 2 con e...
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced alignment tab character &.
-<recently read> &
-                 
-l.38 &
-      =(2x+5)(3x-4)
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \cr.
-\math@cr@@@ ->\cr 
-                  
-l.39 \end{align*}
-                 
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Misplaced \noalign.
-\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
-                                                  {\vskip #1\relax }
-l.39 \end{align*}
-                 
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.39 \end{align*}
-                 
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.39 \end{align*}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Misplaced \noalign.
-\black@ #1->\noalign 
-                     {\ifdim #1>\displaywidth \dimen@ \prevdepth \nointerlin...
-l.39 \end{align*}
-                 
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra }, or forgotten \endgroup.
-\endalign ->\math@cr \black@ \totwidth@ \egroup 
-                                                \ifingather@ \restorealignst...
-l.39 \end{align*}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.39 \end{align*}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Display math should end with $$.
-<to be read again> 
-                   \endgroup 
-l.39 \end{align*}
-                 
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
+Overfull \hbox (39.38406pt too wide) in paragraph at lines 39--39
+[] 
+ []
 
 
 AED: lastpage setting LastPage
@@ -767,11 +545,11 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  3536 strings out of 494997
  46032 string characters out of 3180092
- 117343 words of memory out of 3000000
+ 119343 words of memory out of 3000000
  6663 multiletter control sequences out of 15000+200000
  8756 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,6n,45p,266b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,10n,45p,266b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
@@ -781,7 +559,7 @@ st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmti10.pfb>
-Output written on 11CalcEvalLim.pdf (1 page, 143421 bytes).
+Output written on 11CalcEvalLim.pdf (1 page, 144097 bytes).
 PDF statistics:
  46 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
