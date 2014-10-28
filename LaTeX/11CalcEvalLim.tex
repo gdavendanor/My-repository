@@ -57,7 +57,7 @@ y teniendo en cuenta el álgebra de límites, resuelva si existen o no existen, 
       \end{enumerate}
    \item Con base en las siguientes gráficas de las funciones $f$ y $g$, determine:\\
    
-\begin{multicols}{2}
+\begin{minipage}{2}
 \usetikzlibrary{arrows}
 \baselineskip=10pt
 \hsize=6.3truein
@@ -76,7 +76,8 @@ y teniendo en cuenta el álgebra de límites, resuelva si existen o no existen, 
 \draw[smooth,samples=100,domain=-2.7052791361432518:3.2198952089335324] plot(\x,{(\x)*((\x)-1)*((\x)+2)});
 \draw[color=black] (-2.14,-2.7) node {$f$};
 \endtikzpicture
-
+\end{minipage}
+\begin{minipage}{.45\textwidth}
 \usetikzlibrary{arrows}
 \baselineskip=10pt
 \hsize=6.3truein
@@ -99,7 +100,8 @@ y teniendo en cuenta el álgebra de límites, resuelva si existen o no existen, 
 \fill [color=qqqqff] (-1,0) circle (1.5pt);
 \draw [color=qqqqff] (-1,1) circle (1.5pt);
 \endtikzpicture
-\end{multicols}
+\end{minipage}
+
 
 \begin{enumerate}
 \item $\ds{\lim_{x\rightarrow -2}[f(x)+g(x)]}=$
