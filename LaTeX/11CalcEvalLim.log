@@ -827,7 +827,7 @@ File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 File: Images/logo-sed.png Graphic file (type png)
 
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 121.
+Package pdftex.def Info: Images/logo-sed.png used on input line 120.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -840,7 +840,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 124.
+Package pdftex.def Info: Images/logo-sed.png used on input line 123.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
  [3] (./11CalcEvalLim.aux
 LaTeX Info: Redefining \. on input line 2.
@@ -849,11 +849,11 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  12823 strings out of 494997
  232978 string characters out of 3180092
- 329985 words of memory out of 3000000
+ 329990 words of memory out of 3000000
  15749 multiletter control sequences out of 15000+200000
  8756 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,424b,996s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,424b,998s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
