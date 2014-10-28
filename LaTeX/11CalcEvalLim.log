@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 15:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,17 +397,246 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-Runaway argument?
-! Paragraph ended before \@fileswith@ptions was complete.
-<to be read again> 
-                   \par 
-l.9 
-    
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
+(/usr/share/texmf/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks24
+)
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box28
 
-(./11CalcEvalLim.aux
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+))
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+
+(/usr/share/texmf/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks25
+\pgfkeys@temptoks=\toks26
+
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks27
+))
+\pgf@x=\dimen124
+\pgf@y=\dimen125
+\pgf@xa=\dimen126
+\pgf@ya=\dimen127
+\pgf@xb=\dimen128
+\pgf@yb=\dimen129
+\pgf@xc=\dimen130
+\pgf@yc=\dimen131
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count106
+\c@pgf@countb=\count107
+\c@pgf@countc=\count108
+\c@pgf@countd=\count109
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+)))
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+\pgfsyssoftpath@smallbuffer@items=\count110
+\pgfsyssoftpath@bigbuffer@items=\count111
+)
+(/usr/share/texmf/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+
+(/usr/share/texmf/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen132
+\pgfmath@count=\count112
+\pgfmath@box=\box29
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)))
+(/usr/share/texmf/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count113
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen133
+\pgf@picmaxx=\dimen134
+\pgf@picminy=\dimen135
+\pgf@picmaxy=\dimen136
+\pgf@pathminx=\dimen137
+\pgf@pathmaxx=\dimen138
+\pgf@pathminy=\dimen139
+\pgf@pathmaxy=\dimen140
+\pgf@xx=\dimen141
+\pgf@xy=\dimen142
+\pgf@yx=\dimen143
+\pgf@yy=\dimen144
+\pgf@zx=\dimen145
+\pgf@zy=\dimen146
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen147
+\pgf@path@lasty=\dimen148
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen149
+\pgf@shorten@start@additional=\dimen150
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+\pgfpic=\box30
+\pgf@hbox=\box31
+\pgf@layerbox@main=\box32
+\pgf@picture@serial@count=\count114
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen151
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen152
+\pgf@pt@y=\dimen153
+\pgf@pt@temp=\dimen154
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen155
+\pgf@sys@shading@range@num=\count115
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+\pgfexternal@startupbox=\box33
+))
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+(/usr/share/texmf/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+)))
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+\pgfnodeparttextbox=\box34
+)
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen156
+\pgf@nodesepend=\dimen157
+)
+(/usr/share/texmf/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+))
+(/usr/share/texmf/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen158
+\pgffor@skip=\dimen159
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+\pgf@plot@mark@count=\count116
+\pgfplotmarksize=\dimen160
+)
+\tikz@lastx=\dimen161
+\tikz@lasty=\dimen162
+\tikz@lastxsaved=\dimen163
+\tikz@lastysaved=\dimen164
+\tikzleveldistance=\dimen165
+\tikzsiblingdistance=\dimen166
+\tikz@figbox=\box35
+\tikz@tempbox=\box36
+\tikztreelevel=\count117
+\tikznumberofchildren=\count118
+\tikznumberofcurrentchild=\count119
+\tikz@fig@count=\count120
+
+(/usr/share/texmf/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+\pgfmatrixcurrentrow=\count121
+\pgfmatrixcurrentcolumn=\count122
+\pgf@matrix@numberofcolumns=\count123
+)
+\tikz@expandcount=\count124
+
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopat
+hs.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
+))) (./11CalcEvalLim.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 )
@@ -469,13 +698,13 @@ Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             http://www.ctan.org/tex-archive/ 
 (lastpage)             install/macros/latex/contrib/pageslts.tds.zip
 (lastpage)             ! on input line 20.
-<Images/logo-sed.png, id=1, 136.51pt x 156.585pt>
+<Images/logo-sed.png, id=4, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
 Package pdftex.def Info: Images/logo-sed.png used on input line 20.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
-<Images/logo-colegio.png, id=2, 165.61874pt x 141.52875pt>
+<Images/logo-colegio.png, id=5, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
@@ -484,17 +713,17 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 20.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count106
-\scratchdimen=\dimen124
-\scratchbox=\box28
-\nofMPsegments=\count107
-\nofMParguments=\count108
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count109
-\MPscratchDim=\dimen125
-\MPnumerator=\count110
-\makeMPintoPDFobject=\count111
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count125
+\scratchdimen=\dimen167
+\scratchbox=\box37
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen168
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks34
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -539,463 +768,103 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-[1
+ABD: EveryShipout initializing macros [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
  copy)> <./Images/logo-colegio.png>]
-! Undefined control sequence.
-l.60 \usetikzlibrary
-                    {arrows}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+(/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
+s.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 
-! Undefined control sequence.
-l.64 \definecolor
-                 {cqcqcq}{rgb}{0.75,0.75,0.75}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+(/usr/share/texmf/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
+\arrowsize=\dimen169
+))
 
-! Undefined control sequence.
-l.65 \tikzpicture
-                 [line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+! Package pgf Error: Arrow end type ``triangle 45'' unknown.
 
-! Undefined control sequence.
-l.66 \draw
-           [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0c...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.67 \draw
-          [->,color=black] (-2.71,0) -- (3.22,0);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.68 \foreach
-              \x in {-2,-1,1,2,3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.68 \foreach \x
-                 in {-2,-1,1,2,3}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.69 \draw
-          [shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.69 \draw[shift={(\x
-                     ,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \x 
-                   
-l.69 ...] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x
-                                                  $};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.70 \draw
-          [->,color=black] (0,-3.31) -- (0,4.35);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.71 \foreach
-              \y in {-3,-2,-1,1,2,3,4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.71 \foreach \y
-                 in {-3,-2,-1,1,2,3,4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.72 \draw
-          [shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.72 \draw[shift={(0,\y
-                       )},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \y 
-                   
-l.72 ...k] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y
-                                                  $};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.73 \draw
-          [color=black] (0pt,-10pt) node[right] {$0$};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.74 \clip
-          (-2.71,-3.31) rectangle (3.22,4.35);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 \draw
-          [smooth,samples=100,domain=-2.7052791361432518:3.2198952089335324]...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 ...52791361432518:3.2198952089335324] plot(\x
-                                                  ,{(\x)*((\x)-1)*((\x)+2)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 ...361432518:3.2198952089335324] plot(\x,{(\x
-                                                  )*((\x)-1)*((\x)+2)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 ...518:3.2198952089335324] plot(\x,{(\x)*((\x
-                                                  )-1)*((\x)+2)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.75 ...8952089335324] plot(\x,{(\x)*((\x)-1)*((\x
-                                                  )+2)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.76 \draw
-          [color=black] (-2.14,-2.7) node {$f$};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.77 \endtikzpicture
-                    
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 3547) in paragraph at lines 60--78
-\OT1/cmr/m/n/10 [smooth,samples=100,domain=-2.7052791361432518:3.21989520893353
-24] plot(,()*(()-1)*(()+2)); [co-
- []
-
-! Undefined control sequence.
-l.80 \usetikzlibrary
-                    {arrows}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.84 \definecolor
-                 {qqqqff}{rgb}{0.33,0.33,0.33}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.85 \definecolor
-                 {cqcqcq}{rgb}{0.75,0.75,0.75}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.86 \tikzpicture
-                 [line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.87 \draw
-           [color=cqcqcq,dash pattern=on 1pt off 1pt, xstep=1.0cm,ystep=1.0c...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.88 \draw
-          [->,color=black] (-2.74,0) -- (2.44,0);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.89 \foreach
-              \x in {-2,-1,1,2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.89 \foreach \x
-                 in {-2,-1,1,2}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.90 \draw
-          [shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.90 \draw[shift={(\x
-                     ,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \x 
-                   
-l.90 ...] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x
-                                                  $};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.91 \draw
-          [->,color=black] (0,-1.68) -- (0,4.74);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.92 \foreach
-              \y in {-1,1,2,3,4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.92 \foreach \y
-                 in {-1,1,2,3,4}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.93 \draw
-          [shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.93 \draw[shift={(0,\y
-                       )},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \y 
-                   
-l.93 ...k] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y
-                                                  $};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.94 \draw
-          [color=black] (0pt,-10pt) node[right] {$0$};
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.95 \clip
-          (-2.74,-1.68) rectangle (2.44,4.74);
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 \draw
-          [smooth,samples=100,domain=-2.739828257688889:-1.0000035948936852]...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 ...9828257688889:-1.0000035948936852] plot(\x
-                                                  ,{((\x)*≤-1)*(-2*(\x)-1)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.96 ...7688889:-1.0000035948936852] plot(\x,{((\x
-                                                  )*≤-1)*(-2*(\x)-1)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Unicode char \u8:≤ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
+See the pgf package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.96 ...89:-1.0000035948936852] plot(\x,{((\x)*≤
-                                                  -1)*(-2*(\x)-1)});
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.86 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! Package pgf Error: Arrow end type ``triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+(That was another \errmessage.)
+
+
+! Package pgf Error: Arrow end type ``triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+(That was another \errmessage.)
+
+
+! Package pgf Error: Arrow end type ``triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+(That was another \errmessage.)
+
+
+! Package pgf Error: Arrow end type ``tikze@>>@triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 ... join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+                                                  
+(That was another \errmessage.)
+
+
+! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 \draw[->,color=black]
+                           (-2.74,0) -- (2.44,0);
+(That was another \errmessage.)
+
+
+! Package pgf Error: Arrow end type ``tikze@>@triangle 45'' unknown.
+
+See the pgf package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 \draw[->,color=black]
+                           (0,-1.68) -- (0,4.74);
+(That was another \errmessage.)
 
 ! Undefined control sequence.
-l.96 ...35948936852] plot(\x,{((\x)*≤-1)*(-2*(\x
-                                                  )-1)});
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1003,8 +872,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.97 \draw
-          [smooth,samples=100,domain=-0.9999984125254533:2.4425399741566958]...
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1012,8 +883,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.97 ...99984125254533:2.4425399741566958] plot(\x
-                                                  ,{((\x)*>-1)*((\x)^2-1)});
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1021,8 +894,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.97 ...25254533:2.4425399741566958] plot(\x,{((\x
-                                                  )*>-1)*((\x)^2-1)});
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1030,34 +905,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.97 ...4425399741566958] plot(\x,{((\x)*>-1)*((\x
-                                                  )^2-1)});
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.97 ...25399741566958] plot(\x,{((\x)*>-1)*((\x)^
-                                                  2-1)});
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.97 ...741566958] plot(\x,{((\x)*>-1)*((\x)^2-1)}
-                                                  );
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Undefined control sequence.
-l.98 \draw
-           (0.7,0.63) node[anchor=north west] {g};
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1066,28 +917,53 @@ and I'll forget about whatever was undefined.
 
 ! Missing number, treated as zero.
 <to be read again> 
-                   [
-l.99 \fill [
-            color=qqqqff] (-1,0) circle (1.5pt);
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-! Illegal unit of measure (pt inserted).
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
 <to be read again> 
-                   [
-l.99 \fill [
-            color=qqqqff] (-1,0) circle (1.5pt);
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
 ! Undefined control sequence.
-l.100 \draw
-            [color=qqqqff] (-1,1) circle (1.5pt);
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1095,111 +971,920 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.101 \endtikzpicture
-                     
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-! Missing $ inserted.
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
 <inserted text> 
-                $
-l.102    \end{minipage}
-                       
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-Underfull \hbox (badness 2285) in paragraph at lines 80--102
-[]\OT1/cmr/m/n/10 arrows qqqqffrgb0.33,0.33,0.33 cqcqcqrgb0.75,0.75,0.75 [li-ne
- cap=round,line join=round,>=triangle
- []
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 1286) in paragraph at lines 80--102
-\OT1/cmr/m/n/10 (2pt,0pt) -- (-2pt,0pt) no-de[left] $$; [co-lor=black] (0pt,-10
-pt) no-de[right] $0$; (-2.74,-1.68) rec-tan-gle
- []
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--102
-\OT1/cmr/m/n/10 (2.44,4.74); [smooth,samples=100,domain=-2.739828257688889:-1.0
-000035948936852] plot(,(()*-
- []
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--102
-\OT1/cmr/m/n/10 1)*(-2*()-1)); [smooth,samples=100,domain=-0.9999984125254533:2
-.4425399741566958] plot(,(()*>-
- []
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-! Incompatible list can't be unboxed.
-<argument> ... \@parboxrestore \unvbox \@tempboxa 
-                                                  \@@par 
-l.102    \end{minipage}
-                       
-Sorry, Pandora. (You sneaky devil.)
-I refuse to unbox an \hbox in vertical mode or vice versa.
-And I can't open any boxes in math mode.
-
-! Missing } inserted.
+! Argument of \pgfmath@dimen@@ has an extra }.
 <inserted text> 
-                }
-l.102    \end{minipage}
-                       
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
 
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-Overfull \hbox (67.45174pt too wide) in paragraph at lines 59--103
-[]$[]$ 
- []
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-AED: lastpage setting LastPage
-File: Images/logo-sed.png Graphic file (type png)
-<use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 112.
-(pdftex.def)             Requested size: 13.94757pt x 16.0pt.
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 19.60004pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-[2] (./11CalcEvalLim.aux
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
-) ) 
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\pgfmath@dimen@ ...men@@ #1=0.0pt\relax \pgfmath@ 
+                                                  
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Argument of \pgfmath@dimen@@ has an extra }.
+<inserted text> 
+                \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+\expandafter \def \expandafter \pgfmath@number \expandafter {\the \pgfmath@coun
+t \ETC.
+! Paragraph ended before \pgfmath@dimen@@ was complete.
+<to be read again> 
+                   \par 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.96 ...36852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)})
+                                                  ;
+(That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 3537 strings out of 494997
- 46038 string characters out of 3180092
- 119343 words of memory out of 3000000
- 6664 multiletter control sequences out of 15000+200000
+ 12358 strings out of 494997
+ 224233 string characters out of 3180092
+ 296823 words of memory out of 3000000
+ 15287 multiletter control sequences out of 15000+200000
  8756 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,14n,45p,266b,321s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti10.pfb>
-Output written on 11CalcEvalLim.pdf (2 pages, 164835 bytes).
-PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56i,10n,55p,403b,1403s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
