@@ -77,7 +77,30 @@ y teniendo en cuenta el álgebra de límites, resuelva si existen o no existen, 
 \endtikzpicture
    \end{minipage}
    \begin{minipage}{.45\textwidth}
-
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{qqqqff}{rgb}{0.33,0.33,0.33}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 1pt off 1pt, xstep=1.0cm,ystep=1.0cm] (-2.74,-1.68) grid (2.44,4.74);
+\draw[->,color=black] (-2.74,0) -- (2.44,0);
+\foreach \x in {-2,-1,1,2}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.68) -- (0,4.74);
+\foreach \y in {-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2.74,-1.68) rectangle (2.44,4.74);
+\draw[smooth,samples=100,domain=-2.739828257688889:-1.0000035948936852] plot(\x,{((\x)*≤-1)*(-2*(\x)-1)});
+\draw[smooth,samples=100,domain=-0.9999984125254533:2.4425399741566958] plot(\x,{((\x)*>-1)*((\x)^2-1)});
+\draw (0.7,0.63) node[anchor=north west] {g};
+\fill [color=qqqqff] (-1,0) circle (1.5pt);
+\draw [color=qqqqff] (-1,1) circle (1.5pt);
+\endtikzpicture
    \end{minipage}
    \item Evalúe los siguientes límites:
    \begin{enumerate}
