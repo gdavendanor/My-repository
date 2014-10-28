@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 22:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 22:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -133,7 +133,7 @@ File: babel.def 2008/07/08 v3.8m Babel common definitions
 \es@quottoks=\toks17
 \es@quotdepth=\count89
 ))
-No file 6AritEvalFraccP.aux.
+(./6AritEvalFraccP.aux)
 \openout1 = `6AritEvalFraccP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -149,6 +149,7 @@ LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 \AtBeginShipoutBox=\box28
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count90
@@ -296,8 +297,8 @@ you'd better type `E' or `X' now and fix your file.
 
  
 Here is how much of TeX's memory you used:
- 3506 strings out of 494997
- 49544 string characters out of 3180092
+ 3508 strings out of 494997
+ 49584 string characters out of 3180092
  117133 words of memory out of 3000000
  6678 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
