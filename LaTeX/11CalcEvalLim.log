@@ -820,18 +820,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.60 \begin{minipage}{2}
-                        
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
 
 (/usr/share/texmf/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrow
 s.code.tex
@@ -841,19 +829,6 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen176
 ))
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.79 \end{minipage}
-                   
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
 Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--104
 []$[]$
  []
