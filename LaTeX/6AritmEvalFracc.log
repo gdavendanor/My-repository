@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 21:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,16 +422,16 @@ LaTeX Info: Redefining \% on input line 19.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
-* v-part:(T,H,B)=(42.67912pt, 703.92128pt, 48.36958pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=557.38951pt
-* \textheight=703.92128pt
+* h-part:(L,W,R)=(28.45274pt, 412.8495pt, 28.45274pt)
+* v-part:(T,H,B)=(42.67912pt, 523.24629pt, 48.36958pt)
+* \paperwidth=469.75499pt
+* \paperheight=614.295pt
+* \textwidth=412.8495pt
+* \textheight=523.24629pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-66.59087pt
@@ -541,7 +541,7 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  3531 strings out of 494997
  45990 string characters out of 3180092
- 117279 words of memory out of 3000000
+ 117351 words of memory out of 3000000
  6660 multiletter control sequences out of 15000+200000
  7805 words of font info for 29 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -551,7 +551,7 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 6AritmEvalFracc.pdf (1 page, 112367 bytes).
+Output written on 6AritmEvalFracc.pdf (1 page, 112411 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
