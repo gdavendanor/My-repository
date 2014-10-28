@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 16:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 OCT 2014 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -829,18 +829,13 @@ File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
 File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
 \arrowsize=\dimen176
 ))
-Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--105
+Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--104
 []$[]$
  []
 
 
-Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--105
+Overfull \hbox (67.45174pt too wide) in paragraph at lines 60--104
 []$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--105
-
  []
 
 File: Images/logo-sed.png Graphic file (type png)
@@ -883,7 +878,7 @@ public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mti10.pfb>
-Output written on 11CalcEvalLim.pdf (3 pages, 174165 bytes).
+Output written on 11CalcEvalLim.pdf (3 pages, 174173 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
