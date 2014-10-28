@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 21:34
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  27 OCT 2014 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,7 +541,7 @@ LaTeX Info: Redefining \% on input line 2.
 Here is how much of TeX's memory you used:
  3531 strings out of 494997
  45990 string characters out of 3180092
- 116279 words of memory out of 3000000
+ 117279 words of memory out of 3000000
  6660 multiletter control sequences out of 15000+200000
  7805 words of font info for 29 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -551,7 +551,7 @@ usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on 6AritmEvalFracc.pdf (1 page, 111323 bytes).
+Output written on 6AritmEvalFracc.pdf (1 page, 112367 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
