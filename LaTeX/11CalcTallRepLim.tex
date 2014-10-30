@@ -10,7 +10,7 @@
 \usepackage{tikz,pgf}
 \usepackage{multicol}
 \usepackage{subfig}
-\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage[papersize={6.5in,8.5in},width=5.8in,height=7.2in]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Cálculo $11^{\circ}$}
@@ -33,7 +33,61 @@ Cálculo $11^{\circ}$
 \date{}
 \begin{document}
 \maketitle
-Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
-\section*{Factorizaci\'{o}n}
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}\\
+
 Siempre que al hacer la sustituci\'{o}n directa al resolver un l\'{i}mite, nos encontramos con la indeterminaci\'{o}n $\frac{0}{0}$, entonces, debemos recurrir al \'{a}lgebra para eliminar la intederminaci\'{o}n, generalmente factorizando o multiplicando por el conjugado de una expresi\'{o}n que contenga radicales.
+
+Así que es importante recordar los principales casos de factorización:
+\paragraph*{Diferencia de cuadrados}
+$a^{2}-b^{2}=(a-b)(a+b)$
+\subsubsection*{Trinomios} 
+\begin{itemize}
+\item[i)] $x^{2}+3x-10$.\\
+En este caso debemos buscar dos números que multiplicados den el tercer término $-10$ y sumados den el coeficiente del segundo término $3$, los cuales son 5 y $-2$. De tal forma que la factorización es: 
+\begin{center}
+$x^{2}+3x-10=(x-2)(x+5)$
+\end{center}
+\item[ii)] $6x^{2}+7x-20$\\Se puede resolver este caso de forma similar al anterior, multiplicando y dividiendo por el coeficiente del primer término $6$, para que quede un trinomio de la forma anterior haciendo que el primer término sea un cuadrado perfecto:
+\begin{align*}
+6x^{2}+7x-20&=\dfrac{6(6x^{2})+7x(6)-20(6)}{6}\\
+&=\dfrac{36x^{2}+7(6x)-120}{6} & \mbox{Buscamos dos n\'umeros que sumados}\\
+&=\dfrac{(6x+15)(6x-8)}{6} & \mbox{den 7 y multiplicados }-120\\
+&=\dfrac{3(2x+5)2(3x-4)}{6} & \mbox{Cancelamos los factores 3 y 2 con}\\
+&=(2x+5)(3x-4) & \mbox{el 6 del denominador}
+\end{align*}
+\end{itemize}
+\subsection*{Eliminar ra\'{i}ces}
+En otros ejercicios, se deben eliminar las ra\'{i}ces para obviar la interminaci\'{o}n. Esto se hace multiplicando por el conjugado de la expresi\'{o}n que contiene radicales. Si la expresi\'{o}n es por ejemplo $\sqrt{x+5}-10$ entonces su conjugado es $\sqrt{x+5}+10$ y viceversa.
+\subsubsection*{Ejemplo:}
+Deseamos resolver el l\'{i}mite siguiente:
+\[\displaystyle{\lim_{x\rightarrow 9}\dfrac{\sqrt{x}-3}{x-9}}\]
+Evidentemente al hacer la sustituci\'{o}n directa, se obtiene indeterminaci\'{o}n. Luego entonces debemos eliminarla como sigue:
+\begin{align*}
+\displaystyle{\lim_{x\rightarrow 9}\dfrac{\sqrt{x}-3}{x-9}}&=\displaystyle{\lim_{x\rightarrow 9}\dfrac{(\sqrt{x}-3)(\sqrt{x}+3)}{(x-9)(\sqrt{x}+3}} \qquad  \qquad \mbox{multiplicando por el conjugado }\sqrt{x}+3\\
+&=\displaystyle{\lim_{x\rightarrow 9}\dfrac{\sqrt{x}^{2}-3^{2}}{(x-9)(\sqrt{x}+3}} \quad \mbox{se obtiene una diferencia de cuadrados en el numerador}\\
+&=\displaystyle{\lim_{x\rightarrow 9}\dfrac{x-9}{(x-9)(\sqrt{x}+3)}}\qquad \qquad  \qquad \qquad \mbox{se simplifica}\\
+&=\displaystyle{\lim_{x\rightarrow 9}\dfrac{1}{\sqrt{x}+3}}=\dfrac{1}{\sqrt{9}+3}=\dfrac{1}{3+3}=\dfrac{1}{6}\\
+\end{align*}
+\section*{Ejercicios}
+Resuelva los siguientes l\'{i}mites. Con el fin de que puedan verificar, se dan las respuestas. Recuerde que es más importante el proceso que la misma respuesta.
+\begin{enumerate}
+\begin{multicols}{3}
+\item $\displaystyle{\lim_{x\rightarrow -3}\dfrac{x^{2}+8x+15}{x+3}}$
+\item $\displaystyle{\lim_{t\rightarrow 4}\dfrac{3t^{2}-11t-4}{t-4}}$
+\item $\displaystyle{\lim_{h\rightarrow 0}\dfrac{\sqrt{x+h}-\sqrt{x}}{h}}$
+\item $\displaystyle{\lim_{x\rightarrow -4}\dfrac{x^{2}-16}{x+4}}$
+\item $\displaystyle{\lim_{x\rightarrow 3}\dfrac{x^{2}+5x-24}{x-3}}$
+\item $\displaystyle{\lim_{x\rightarrow 2}\dfrac{\sqrt{x+2}-2}{x-4}}$
+\item $\displaystyle{\lim_{x\rightarrow 4}\dfrac{3x^{2}-7x-20}{x-4}}$
+\item $\displaystyle{\lim_{h\rightarrow 0}\dfrac{\sqrt{x+h}-\sqrt{x}}{h}}$
+\item $\displaystyle{\lim_{t\rightarrow 5}\dfrac{t^{2}-25}{t-5}}$
+\item $\displaystyle{\lim_{x\rightarrow 0}\dfrac{\sqrt{3+x}-\sqrt{3}}{x}}$
+\item $\displaystyle{\lim_{x\rightarrow 2}\dfrac{4-x^{2}}{3-\sqrt{x^{2}+5}}}$
+\item $\displaystyle{\lim_{x\rightarrow 2}\dfrac{x-2}{x^{2}-4}}$
+\item $\displaystyle{\lim_{x\rightarrow 0}\dfrac{\sqrt{x+4}-2}{x}}$
+\item $\displaystyle{\lim_{x\rightarrow2}\dfrac{x^{2}-2x}{x^{2}-4x+4}}$
+\item $\displaystyle{\lim_{x\rightarrow 2}\dfrac{x^{2}-2x}{x^{2}-x-2}}$
+\end{multicols}
+\end{enumerate}
+
 \end{document}
