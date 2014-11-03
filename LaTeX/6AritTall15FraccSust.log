@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  3 NOV 2014 16:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  3 NOV 2014 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,36 +1031,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-
-LaTeX Warning: Command \d invalid in math mode on input line 63.
-
-Runaway argument?
-! Forbidden control sequence found while scanning use of \UTFviii@two@octets.
-<inserted text> 
-                \par 
-l.63 \[\dÂ
-          ºfrac{1}{4}=\dfrac{1\cdot 2}{4\cdot 2}=\dfrac{2}{8}\qquad \qquad \...
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.63 \[\dÂº
-           frac{1}{4}=\dfrac{1\cdot 2}{4\cdot 2}=\dfrac{2}{8}\qquad \qquad \...
-
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
 File: Images/logo-colegio.png Graphic file (type png)
-<use Images/logo-colegio.png>
+ <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 85.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
 
@@ -1097,18 +1069,17 @@ Here is how much of TeX's memory you used:
  40 hyphenation exceptions out of 8191
  56i,15n,55p,431b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
-/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
-0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTall15FraccSust.pdf (4 pages, 251085 bytes).
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 6AritTall15FraccSust.pdf (4 pages, 247138 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
+ 118 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  41 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
