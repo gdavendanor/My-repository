@@ -1042,12 +1042,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-[3]
+[2] [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
 File: Images/logo-colegio.png Graphic file (type png)
  <use Images/logo-colegio.png>
@@ -1081,7 +1076,7 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6AritTall15FraccSust.pdf (5 pages, 248523 bytes).
+Output written on 6AritTall15FraccSust.pdf (5 pages, 248514 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
