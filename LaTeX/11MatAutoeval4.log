@@ -603,12 +603,7 @@ Overfull \hbox (17.2222pt too wide) in paragraph at lines 90--100
 []$[]$ $[]$ 
  []
 
-[3]
-Overfull \hbox (53.19002pt too wide) in paragraph at lines 106--107
- [][] 
- []
-
-[4]
+[3] [4]
 This exam contains 20 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 100 points.
 This exam has a total of 0 bonus points.
@@ -628,7 +623,7 @@ Here is how much of TeX's memory you used:
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on 11MatAutoeval4.pdf (4 pages, 76682 bytes).
+Output written on 11MatAutoeval4.pdf (4 pages, 76683 bytes).
 PDF statistics:
  34 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
