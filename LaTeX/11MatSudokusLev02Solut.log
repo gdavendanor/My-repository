@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 22:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -496,25 +496,22 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \vbox (437.87704pt too high) has occurred while \output is active []
-
-
-[2] (./11MatSudokusLev02Solut.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./11MatSudokusLev02So
+lut.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  2567 strings out of 494997
  31625 string characters out of 3180092
- 156643 words of memory out of 3000000
+ 125643 words of memory out of 3000000
  5720 multiletter control sequences out of 15000+200000
  21789 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,7n,27p,239b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on 11MatSudokusLev02Solut.pdf (2 pages, 53192 bytes).
+Output written on 11MatSudokusLev02Solut.pdf (2 pages, 53452 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
