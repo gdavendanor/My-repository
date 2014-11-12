@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 22:00
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,8 +502,8 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2561 strings out of 494997
- 31566 string characters out of 3180092
+ 2562 strings out of 494997
+ 31572 string characters out of 3180092
  137643 words of memory out of 3000000
  5718 multiletter control sequences out of 15000+200000
  15895 words of font info for 30 fonts, out of 3000000 for 9000
@@ -511,7 +511,7 @@ Here is how much of TeX's memory you used:
  27i,7n,27p,239b,249s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on 11MatSudokusLev02Solut.pdf (2 pages, 31995 bytes).
+Output written on 11MatSudokusLev02Solut.pdf (2 pages, 32228 bytes).
 PDF statistics:
  16 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream
