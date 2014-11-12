@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 21:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  11 NOV 2014 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,12 +1036,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 37.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 77.
 File: Images/logo-colegio.png Graphic file (type png)
  <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 77.
@@ -1068,18 +1068,18 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 77.
 Here is how much of TeX's memory you used:
  16856 strings out of 494997
  288356 string characters out of 3180092
- 409314 words of memory out of 3000000
+ 411314 words of memory out of 3000000
  19705 multiletter control sequences out of 15000+200000
  44729 words of font info for 55 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,428b,358s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,428b,344s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.p
 fb>
-Output written on 11MatSudokusLev02.pdf (2 pages, 145537 bytes).
+Output written on 11MatSudokusLev02.pdf (2 pages, 145554 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
