@@ -1038,11 +1038,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 37.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
 
-Overfull \hbox (372.73404pt too wide) in paragraph at lines 51--59
-[]$[]$ $[]$ 
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
@@ -1086,7 +1081,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.p
 fb>
-Output written on SudokusSE15_SE20.pdf (2 pages, 145081 bytes).
+Output written on SudokusSE15_SE20.pdf (2 pages, 145072 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
