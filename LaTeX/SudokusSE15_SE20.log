@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 NOV 2014 19:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 NOV 2014 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1036,11 +1036,6 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 37.
-
-Overfull \hbox (357.73404pt too wide) in paragraph at lines 37--50
-[]$ $[]$
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
 
 Overfull \hbox (372.73404pt too wide) in paragraph at lines 51--59
@@ -1080,7 +1075,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
 Here is how much of TeX's memory you used:
  16852 strings out of 494997
  288325 string characters out of 3180092
- 386307 words of memory out of 3000000
+ 409307 words of memory out of 3000000
  19705 multiletter control sequences out of 15000+200000
  44729 words of font info for 55 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1091,7 +1086,7 @@ c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share
 lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.p
 fb>
-Output written on SudokusSE15_SE20.pdf (2 pages, 145155 bytes).
+Output written on SudokusSE15_SE20.pdf (2 pages, 145081 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  37 compressed objects within 1 object stream
