@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 21:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 21:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -856,7 +856,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-No file 11MatTallNivel2014.aux.
+(./11MatTallNivel2014.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `11MatTallNivel2014.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -874,7 +877,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 34.
@@ -922,6 +925,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./11MatTallNivel2014.out) (./11MatTallNivel2014.out)
 \@outlinefile=\write4
 \openout4 = `11MatTallNivel2014.out'.
 
@@ -1051,73 +1056,59 @@ Overfull \hbox (12.35576pt too wide) in paragraph at lines 154--155
 
 [3 <./Images/funciones_2014-11-17_14:27:06.png>]
 
-LaTeX Warning: Reference `first' on page 4 undefined on input line 163.
-
-
-LaTeX Warning: Reference `second' on page 4 undefined on input line 163.
-
-
-LaTeX Warning: Reference `third' on page 4 undefined on input line 175.
-
-
-LaTeX Warning: Reference `fourth' on page 4 undefined on input line 175.
-
-
 LaTeX Warning: Command \' invalid in math mode on input line 175.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+<Images/postes.png, id=110, 207.77625pt x 120.45pt>
+File: Images/postes.png Graphic file (type png)
+ <use Images/postes.png>
+Package pdftex.def Info: Images/postes.png used on input line 197.
+(pdftex.def)             Requested size: 186.99687pt x 108.40398pt.
+
+Overfull \hbox (127.46437pt too wide) in paragraph at lines 192--199
+\T1/lmr/m/n/10 cuen-tre el vi-gé-si-mo tér-mino. $[]$ $[]$ 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 194.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 200.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
- (./11MatTallNivel2014.aux
+ [4 <./Images/postes.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+
+(./11MatTallNivel2014.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
-
-
-Package rerunfilecheck Warning: File `11MatTallNivel2014.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11MatTallNivel2014.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 194.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package rerunfilecheck Info: File `11MatTallNivel2014.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
  ) 
 Here is how much of TeX's memory you used:
- 16916 strings out of 494997
- 288648 string characters out of 3180092
- 378688 words of memory out of 3000000
- 19686 multiletter control sequences out of 15000+200000
- 54985 words of font info for 58 fonts, out of 3000000 for 9000
+ 16926 strings out of 494997
+ 288867 string characters out of 3180092
+ 378984 words of memory out of 3000000
+ 19689 multiletter control sequences out of 15000+200000
+ 51990 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,429b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 11MatTallNivel2014.pdf (4 pages, 268921 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/u
+sr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmsy7.pfb>
+Output written on 11MatTallNivel2014.pdf (4 pages, 275405 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 178 compressed objects within 2 object streams
- 97 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 203 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
