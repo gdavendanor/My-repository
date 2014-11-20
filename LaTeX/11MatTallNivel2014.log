@@ -1061,39 +1061,35 @@ LaTeX Warning: Command \' invalid in math mode on input line 175.
 <Images/postes.png, id=110, 207.77625pt x 120.45pt>
 File: Images/postes.png Graphic file (type png)
  <use Images/postes.png>
-Package pdftex.def Info: Images/postes.png used on input line 197.
+Package pdftex.def Info: Images/postes.png used on input line 198.
 (pdftex.def)             Requested size: 186.99687pt x 108.40398pt.
 
-Overfull \hbox (8.12985pt too wide) in paragraph at lines 197--198
+Overfull \hbox (8.12985pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
-
-Overfull \hbox (107.5889pt too wide) in paragraph at lines 192--199
-\T1/lmr/m/n/10 cuen-tre el vi-gé-si-mo tér-mino. $[]$ $[]$ 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 200.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
- [4 <./Images/postes.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+ [4]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 201.
+ [5 <./Images/postes.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 201.
 
 (./11MatTallNivel2014.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 201.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 201.
 Package rerunfilecheck Info: File `11MatTallNivel2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 200.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 201.
  ) 
 Here is how much of TeX's memory you used:
- 16926 strings out of 494997
- 288867 string characters out of 3180092
+ 16927 strings out of 494997
+ 288873 string characters out of 3180092
  378984 words of memory out of 3000000
  19689 multiletter control sequences out of 15000+200000
  51990 words of font info for 57 fonts, out of 3000000 for 9000
@@ -1110,10 +1106,10 @@ s/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb><
 public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsy7.pfb>
-Output written on 11MatTallNivel2014.pdf (4 pages, 275405 bytes).
+Output written on 11MatTallNivel2014.pdf (5 pages, 275800 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 180 compressed objects within 2 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 99 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
