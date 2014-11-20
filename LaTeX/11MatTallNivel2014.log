@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 21:55
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1072,44 +1072,125 @@ File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 201.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
- [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 222.
- [5 <./Images/postes.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 222.
+ [4] [5 <./Images/postes.png>]
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.233 \item $\ds
+                {\lim_{x\rightarrow 0}f(x)}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-(./11MatTallNivel2014.aux
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.234 \item $\ds
+                {\lim_{x\rightarrow 1}f(x)}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.235 \item $\ds
+                {\lim_{x\rightarrow 2^{-}}f(x)}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.236 \item $\ds
+                {\lim_{x\rightarrow 2^{+}}f(x)}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.243 \item $\ds
+                {\lim_{x\rightarrow 3}\dfrac{x^{2}+4x-21}{x-3}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.244 \item $\ds
+                {\lim_{x\rightarrow -3}\dfrac{x^{2}+4x-21}{x-3}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \ds 
+                    
+l.245 \item $\ds
+                {\lim_{x\rightarrow 2}\dfrac{x^{2}+4}{x-2}}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
+File: Images/logo-colegio.png Graphic file (type png)
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 249.
+(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
+ [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+ (./11MatTallNivel2014.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 222.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 222.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 249.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
 Package rerunfilecheck Info: File `11MatTallNivel2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 222.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
  ) 
 Here is how much of TeX's memory you used:
- 16944 strings out of 494997
- 288996 string characters out of 3180092
+ 16959 strings out of 494997
+ 289112 string characters out of 3180092
  379177 words of memory out of 3000000
- 19693 multiletter control sequences out of 15000+200000
+ 19695 multiletter control sequences out of 15000+200000
  51990 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,429b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/u
-sr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/l
+ 56i,15n,55p,429b,589s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
 m/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
 10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/font
 s/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmsy7.pfb>
-Output written on 11MatTallNivel2014.pdf (5 pages, 278391 bytes).
+public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy5.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 11MatTallNivel2014.pdf (6 pages, 286704 bytes).
 PDF statistics:
- 228 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
- 112 named destinations out of 1000 (max. 500000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 226 compressed objects within 3 object streams
+ 125 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
