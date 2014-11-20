@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 17:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1048,26 +1048,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
+Overfull \hbox (5.12456pt too wide) in paragraph at lines 142--156
+[]$[]$ $[]$ 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
 File: Images/logo-colegio.png Graphic file (type png)
- <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 154.
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 158.
 (pdftex.def)             Requested size: 14.04076pt x 12.0pt.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
  (./8AlgNiv2014.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
 Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
  16953 strings out of 494997
@@ -1076,7 +1080,7 @@ Here is how much of TeX's memory you used:
  19732 multiletter control sequences out of 15000+200000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,422b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,422b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
@@ -1088,7 +1092,7 @@ ts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
 /public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 8AlgNiv2014.pdf (4 pages, 249854 bytes).
+Output written on 8AlgNiv2014.pdf (4 pages, 249872 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
