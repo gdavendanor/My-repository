@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 15:52
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 15:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1049,27 +1049,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2]
 
-LaTeX Warning: Reference `first3' on page 3 undefined on input line 105.
+LaTeX Warning: Reference `first3' on page 3 undefined on input line 107.
 
 
-LaTeX Warning: Reference `last3' on page 3 undefined on input line 105.
+LaTeX Warning: Reference `last3' on page 3 undefined on input line 107.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (./8AlgNiv2014.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
  16888 strings out of 494997
@@ -1078,7 +1078,7 @@ Here is how much of TeX's memory you used:
  19693 multiletter control sequences out of 15000+200000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,422b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,55p,422b,460s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
@@ -1090,7 +1090,7 @@ ts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb>
 /public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsy7.pfb>
-Output written on 8AlgNiv2014.pdf (3 pages, 243584 bytes).
+Output written on 8AlgNiv2014.pdf (3 pages, 243575 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
