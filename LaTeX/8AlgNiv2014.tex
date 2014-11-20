@@ -140,8 +140,10 @@ Para los problemas \ref{first5}--\ref{last5}, efectúe las operaciones indicadas
 \item $(2x+5)^{3}$\label{last5}
 \end{multicols}
 \item Encuentre un polinomio que represente el área de la región sombreada
-\begin{tikzpicture}[show background rectangle]
-\draw (0,0) rectangle (3,1);
+\begin{tikzpicture}
+\filldraw[fill=red,even odd rule]
+(-1,-1) rectangle (4,2)
+(1,0) rectangle (3,1);
 \end{tikzpicture}
 \end{enumerate}
 \end{document}
