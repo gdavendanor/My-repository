@@ -1025,42 +1025,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
-
-! Extra \endcsname.
-<argument> ...fe@activesfalse T1p@enumi\endcsname 
-                                                  T1theenumi\endcsname 
-l.48 Para los problemas \ref{first}
-                                   --\ref{second}, determine la propiedad de...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-<argument> ...numi\endcsname T1theenumi\endcsname 
-                                                  
-l.48 Para los problemas \ref{first}
-                                   --\ref{second}, determine la propiedad de...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-<argument> ...fe@activesfalse T1p@enumi\endcsname 
-                                                  T1theenumi\endcsname 
-l.48 Para los problemas \ref{first}--\ref{second}
-                                                 , determine la propiedad de...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-<argument> ...numi\endcsname T1theenumi\endcsname 
-                                                  
-l.48 Para los problemas \ref{first}--\ref{second}
-                                                 , determine la propiedad de...
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (3.15222pt too wide) in paragraph at lines 48--49
-\T1/lmr/m/n/10 Para los pro-ble-mas []T1p@enumiT1theenumi[]--[]T1p@enumiT1theen
-umi[], de-ter-mi-ne la pro-
- []
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -1074,36 +1040,29 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
 Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 16834 strings out of 494997
- 287904 string characters out of 3180092
- 365927 words of memory out of 3000000
+ 16833 strings out of 494997
+ 287874 string characters out of 3180092
+ 365859 words of memory out of 3000000
  19678 multiletter control sequences out of 15000+200000
  51990 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,6n,55p,422b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Item.T1theHItem\\endcsname\040} has been referenc
-ed but does not exist, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/sha
-re/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-m
-athsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pub
-lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 8AlgNiv2014.pdf (1 page, 203167 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/font
+s/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 8AlgNiv2014.pdf (1 page, 202500 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 18 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
