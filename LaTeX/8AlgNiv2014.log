@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 18:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1070,10 +1070,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
  ) 
 Here is how much of TeX's memory you used:
- 16954 strings out of 494997
- 289324 string characters out of 3180092
+ 16955 strings out of 494997
+ 289340 string characters out of 3180092
  379499 words of memory out of 3000000
- 19733 multiletter control sequences out of 15000+200000
+ 19734 multiletter control sequences out of 15000+200000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,422b,632s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1088,7 +1088,7 @@ ts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
 /public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 8AlgNiv2014.pdf (4 pages, 250088 bytes).
+Output written on 8AlgNiv2014.pdf (4 pages, 250089 bytes).
 PDF statistics:
  201 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
