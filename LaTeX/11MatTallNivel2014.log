@@ -1064,7 +1064,12 @@ File: Images/postes.png Graphic file (type png)
 Package pdftex.def Info: Images/postes.png used on input line 197.
 (pdftex.def)             Requested size: 186.99687pt x 108.40398pt.
 
-Overfull \hbox (127.46437pt too wide) in paragraph at lines 192--199
+Overfull \hbox (8.12985pt too wide) in paragraph at lines 197--198
+[][] 
+ []
+
+
+Overfull \hbox (107.5889pt too wide) in paragraph at lines 192--199
 \T1/lmr/m/n/10 cuen-tre el vi-gé-si-mo tér-mino. $[]$ $[]$ 
  []
 
