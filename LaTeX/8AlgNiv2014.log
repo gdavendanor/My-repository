@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 15:04
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1104,70 +1104,70 @@ I'm ignoring this, since I wasn't doing a \csname.
 \csname ->T
            1
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm forgetting what you said and not changing anything.
 
 ! Extra \endcsname.
 <argument> ...ance \csname c@\@listctr \endcsname 
                                                   \@ne \relax 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \stepcounter ... \@stpelt \csname cl@#1\endcsname 
                                                   \endgroup \fi 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! You can't use `the letter T' after \advance.
 \csname ->T
            1
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm forgetting what you said and not changing anything.
 
 ! Extra \endcsname.
 <argument> ...l \advance \csname c@Item\endcsname 
                                                   \@ne \relax 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \stepcounter ... \@stpelt \csname cl@#1\endcsname 
                                                   \endgroup \fi 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \Hy@safe@activestrue ...afe@activestrue\endcsname 
                                                   
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \finsm@sh ->T1mb@tb\endcsname 
                               \z@ \z@ \box \z@ 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \es@listquot  ...numeral \es@quotdepth \endcsname 
                                                   \global \es@listquottrue 
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    T
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -1176,7 +1176,7 @@ look up `weird error' in the index to The TeXbook.)
 \arabic ...dafter \@arabic \csname c@#1\endcsname 
                                                   
 l.49 \item $
-            7+[3+(-8)]=(7+3)+(-8)$
+            7+[3+(-8)]=(7+3)+(-8)$\label{first}
 I'm ignoring this, since I wasn't doing a \csname.
 
 
@@ -2159,49 +2159,49 @@ I'm ignoring this, since I wasn't doing a \csname.
 \csname ->T
            1
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm forgetting what you said and not changing anything.
 
 ! Extra \endcsname.
 <argument> ...ance \csname c@\@listctr \endcsname 
                                                   \@ne \relax 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \stepcounter ... \@stpelt \csname cl@#1\endcsname 
                                                   \endgroup \fi 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! You can't use `the letter T' after \advance.
 \csname ->T
            1
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm forgetting what you said and not changing anything.
 
 ! Extra \endcsname.
 <argument> ...l \advance \csname c@Item\endcsname 
                                                   \@ne \relax 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \stepcounter ... \@stpelt \csname cl@#1\endcsname 
                                                   \endgroup \fi 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \Hy@safe@activestrue ...afe@activestrue\endcsname 
                                                   
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Item.T1theHIt
@@ -2209,26 +2209,26 @@ em\\endcsname\040}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 ! Extra \endcsname.
 \finsm@sh ->T1mb@tb\endcsname 
                               \z@ \z@ \box \z@ 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
 \es@listquot  ...numeral \es@quotdepth \endcsname 
                                                   \global \es@listquottrue 
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Missing number, treated as zero.
 <to be read again> 
                    T
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
@@ -2237,7 +2237,7 @@ look up `weird error' in the index to The TeXbook.)
 \arabic ...dafter \@arabic \csname c@#1\endcsname 
                                                   
 l.57 \item S
-            i $4=3x-1$, entonces $3x-1=4$
+            i $4=3x-1$, entonces $3x-1=4$\label{second}
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
@@ -2268,16 +2268,19 @@ Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 59.
  ) 
 Here is how much of TeX's memory you used:
- 16828 strings out of 494997
- 287881 string characters out of 3180092
+ 16830 strings out of 494997
+ 287896 string characters out of 3180092
  366781 words of memory out of 3000000
- 19679 multiletter control sequences out of 15000+200000
+ 19681 multiletter control sequences out of 15000+200000
  54985 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,422b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,55p,422b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
