@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 18:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  20 NOV 2014 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,6 +1075,9 @@ Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 207.
  ) 
