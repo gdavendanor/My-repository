@@ -1030,528 +1030,42 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-! Missing \endcsname inserted.
-<to be read again> 
-                   \global 
-l.85 Para los problemas \ref{•}
-                                 --\ref{•}, transcriba cada frase a lengua...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-
-LaTeX Warning: Reference `' on page 2 undefined on input line 85.
-
 ! Extra \endcsname.
-<recently read> \endcsname 
-                           
-l.85 Para los problemas \ref{•}
-                                 --\ref{•}, transcriba cada frase a lengua...
+<argument> ...fe@activesfalse T1p@enumi\endcsname 
+                                                  T1theenumi\endcsname 
+l.85 Para los problemas \ref{first0}
+                                    --\ref{last0}, transcriba cada frase a l...
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
-\PD1-cmd ...dcsname \csname ?\string #1\endcsname 
-                                                  \fi \csname \cf@encoding \...
-l.85 Para los problemas \ref{•}
-                                 --\ref{•}, transcriba cada frase a lengua...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-<recently read> \endcsname 
-                           
-l.85 Para los problemas \ref{•}
-                                 --\ref{•}, transcriba cada frase a lengua...
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\NR@setref ... \NR@@setref \csname r@#1\endcsname 
+<argument> ...numi\endcsname T1theenumi\endcsname 
                                                   
-l.85 Para los problemas \ref{•}
-                                 --\ref{•}, transcriba cada frase a lengua...
+l.85 Para los problemas \ref{first0}
+                                    --\ref{last0}, transcriba cada frase a l...
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
-\UTFviii@three@octets ...g #2\string #3\endcsname 
-                                                  
-l.85 Para los problemas \ref{•}--\ref{•}
-                                            , transcriba cada frase a lengua...
+<argument> ...fe@activesfalse T1p@enumi\endcsname 
+                                                  T1theenumi\endcsname 
+l.85 Para los problemas \ref{first0}--\ref{last0}
+                                                 , transcriba cada frase a l...
 I'm ignoring this, since I wasn't doing a \csname.
 
 ! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
+<argument> ...numi\endcsname T1theenumi\endcsname 
                                                   
-l.85 ...gebraico y use $n$ para representar el nú
-                                                  mero desconocido
+l.85 Para los problemas \ref{first0}--\ref{last0}
+                                                 , transcriba cada frase a l...
 I'm ignoring this, since I wasn't doing a \csname.
 
 
-Overfull \hbox (138.27368pt too wide) in paragraph at lines 84--86
+Overfull \hbox (7.96681pt too wide) in paragraph at lines 84--86
 []$\OT1/lmr/m/n/10 5(3\OML/lmm/m/it/10 n \OMS/lmsy/m/n/10 ^^@ \OT1/lmr/m/n/10 1
 ) \OMS/lmsy/m/n/10 ^^@ \OT1/lmr/m/n/10 7(\OMS/lmsy/m/n/10 ^^@\OT1/lmr/m/n/10 2\
 OML/lmm/m/it/10 n \OT1/lmr/m/n/10 + 1) + 4(3\OML/lmm/m/it/10 n \OMS/lmsy/m/n/10
  ^^@ \OT1/lmr/m/n/10 1)$\T1/lmr/m/n/10 , pa-ra $\OML/lmm/m/it/10 n \OT1/lmr/m/n
-/10 = []$[] \T1/lmr/m/n/10 Pa-ra los pro-ble-mas []\textbulletT1?\textbulletT1T
-1\textbulletT1u8:•,
+/10 = []$[] \T1/lmr/m/n/10 Pa-ra los pro-ble-mas []T1p@enumiT1theenumi[]--
  []
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...ance \csname c@\@listctr \endcsname 
-                                                  \@ne \relax 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...l \advance \csname c@Item\endcsname 
-                                                  \@ne \relax 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\Hy@safe@activestrue ...afe@activestrue\endcsname 
-                                                  
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\finsm@sh ->T1mb@tb\endcsname 
-                              \z@ \z@ \box \z@ 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\es@listquot  ...numeral \es@quotdepth \endcsname 
-                                                  \global \es@listquottrue 
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   T
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Extra \endcsname.
-\arabic ...dafter \@arabic \csname c@#1\endcsname 
-                                                  
-l.86 \item 4
-             aumentado en 2 veces un número\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.86 \item 4 aumentado en 2 veces un nú
-                                        mero\label{first0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (2.37546pt too wide) in paragraph at lines 86--87
-\T1/lmr/m/n/10 1c@enumi^^AT1cl@enumi1c@Item^^AT1cl@ItemT1mb@tb[]4 au-men-ta-
- []
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...ance \csname c@\@listctr \endcsname 
-                                                  \@ne \relax 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...l \advance \csname c@Item\endcsname 
-                                                  \@ne \relax 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\Hy@safe@activestrue ...afe@activestrue\endcsname 
-                                                  
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\finsm@sh ->T1mb@tb\endcsname 
-                              \z@ \z@ \box \z@ 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\es@listquot  ...numeral \es@quotdepth \endcsname 
-                                                  \global \es@listquottrue 
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   T
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Extra \endcsname.
-\arabic ...dafter \@arabic \csname c@#1\endcsname 
-                                                  
-l.87 \item S
-            eis menos que $\frac{2}{3}$ de un número
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.87 \item Seis menos que $\frac{2}{3}$ de un nú
-                                                 mero
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (0.54214pt too wide) in paragraph at lines 87--88
-[]\T1/lmr/m/n/10 1c@enumi^^AT1cl@enumi1c@Item^^AT1cl@ItemT1mb@tb[]Seis me-nos
- []
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...ance \csname c@\@listctr \endcsname 
-                                                  \@ne \relax 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...l \advance \csname c@Item\endcsname 
-                                                  \@ne \relax 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\Hy@safe@activestrue ...afe@activestrue\endcsname 
-                                                  
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\finsm@sh ->T1mb@tb\endcsname 
-                              \z@ \z@ \box \z@ 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\es@listquot  ...numeral \es@quotdepth \endcsname 
-                                                  \global \es@listquottrue 
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   T
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Extra \endcsname.
-\arabic ...dafter \@arabic \csname c@#1\endcsname 
-                                                  
-l.88 \item 1
-            0 veces la diferencia de un número y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.88 \item 10 veces la diferencia de un nú
-                                           mero y 14
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...ance \csname c@\@listctr \endcsname 
-                                                  \@ne \relax 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...l \advance \csname c@Item\endcsname 
-                                                  \@ne \relax 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\Hy@safe@activestrue ...afe@activestrue\endcsname 
-                                                  
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\finsm@sh ->T1mb@tb\endcsname 
-                              \z@ \z@ \box \z@ 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\es@listquot  ...numeral \es@quotdepth \endcsname 
-                                                  \global \es@listquottrue 
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   T
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Extra \endcsname.
-\arabic ...dafter \@arabic \csname c@#1\endcsname 
-                                                  
-l.89 \item E
-            l cociente de un número y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.89 \item El cociente de un nú
-                                mero y tres menos que este número.
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.89 ...te de un número y tres menos que este nú
-                                                  mero.
-I'm ignoring this, since I wasn't doing a \csname.
-
-
-Overfull \hbox (1.12595pt too wide) in paragraph at lines 89--90
-[]\T1/lmr/m/n/10 1c@enumi^^AT1cl@enumi1c@Item^^AT1cl@ItemT1mb@tb[]El co-cien-te
-
- []
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...ance \csname c@\@listctr \endcsname 
-                                                  \@ne \relax 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! You can't use `the letter T' after \advance.
-\csname ->T
-           1
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm forgetting what you said and not changing anything.
-
-! Extra \endcsname.
-<argument> ...l \advance \csname c@Item\endcsname 
-                                                  \@ne \relax 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\stepcounter ... \@stpelt \csname cl@#1\endcsname 
-                                                  \endgroup \fi 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\Hy@safe@activestrue ...afe@activestrue\endcsname 
-                                                  
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\finsm@sh ->T1mb@tb\endcsname 
-                              \z@ \z@ \box \z@ 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\es@listquot  ...numeral \es@quotdepth \endcsname 
-                                                  \global \es@listquottrue 
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Missing number, treated as zero.
-<to be read again> 
-                   T
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Extra \endcsname.
-\arabic ...dafter \@arabic \csname c@#1\endcsname 
-                                                  
-l.90 \item T
-            res cuartos de la suma de un número y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\UTFviii@two@octets ... u8:#1\string #2\endcsname 
-                                                  
-l.90 \item Tres cuartos de la suma de un nú
-                                            mero y 12\label{last0}
-I'm ignoring this, since I wasn't doing a \csname.
-
-! Extra \endcsname.
-\end #1->\csname end#1\endcsname 
-                                 \@checkend {#1}\expandafter \endgroup \if@e...
-l.91 \end{enumerate}
-                    
-I'm ignoring this, since I wasn't doing a \csname.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
 File: Images/logo-colegio.png Graphic file (type png)
@@ -1565,34 +1079,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2pdfTeX warning (ext4): destination with the same identifier (name{Item.T1theH
-Item\\endcsname\040}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.92 \end{document}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{Item.T1theHItem\\endcsname\040}) has been already used, duplicate ignored
-
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.92 \end{document}
-                   ] [3pdfTeX warning (ext4): destination with the same identif
-ier (name{Item.T1theHItem\\endcsname\040}) has been already used, duplicate ign
-ored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.92 \end{document}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{Item.T1theHItem\\endcsname\040}) has been already used, duplicate ignored
-
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.92 \end{document}
-                   ]
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
  (./8AlgNiv2014.aux
 LaTeX Info: Redefining \. on input line 17.
@@ -1604,36 +1091,35 @@ Package rerunfilecheck Info: File `8AlgNiv2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
  ) 
 Here is how much of TeX's memory you used:
  16868 strings out of 494997
- 288154 string characters out of 3180092
- 376099 words of memory out of 3000000
- 19689 multiletter control sequences out of 15000+200000
- 54985 words of font info for 58 fonts, out of 3000000 for 9000
+ 288145 string characters out of 3180092
+ 376235 words of memory out of 3000000
+ 19686 multiletter control sequences out of 15000+200000
+ 51990 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,422b,458s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fon
-ts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb>
-</usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmsy7.pfb>
-Output written on 8AlgNiv2014.pdf (3 pages, 241044 bytes).
+pdfTeX warning (dest): name{Item.T1theHItem\\endcsname\040} has been referenc
+ed but does not exist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/
+dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/sha
+re/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/
+lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10
+.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pub
+lic/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 8AlgNiv2014.pdf (2 pages, 212609 bytes).
 PDF statistics:
  134 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 41 named destinations out of 1000 (max. 500000)
+ 116 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
