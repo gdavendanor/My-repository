@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 21:43
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 NOV 2014 21:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1068,6 +1068,12 @@ Overfull \hbox (8.12985pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
+
+LaTeX Warning: Reference `five' on page 4 undefined on input line 200.
+
+
+LaTeX Warning: Reference `eight' on page 4 undefined on input line 200.
+
 File: Images/logo-colegio.png Graphic file (type png)
 <use Images/logo-colegio.png>
 Package pdftex.def Info: Images/logo-colegio.png used on input line 201.
@@ -1085,31 +1091,38 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `11MatTallNivel2014.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  ) 
 Here is how much of TeX's memory you used:
- 16934 strings out of 494997
- 288922 string characters out of 3180092
+ 16938 strings out of 494997
+ 288958 string characters out of 3180092
  378984 words of memory out of 3000000
- 19689 multiletter control sequences out of 15000+200000
- 51990 words of font info for 57 fonts, out of 3000000 for 9000
+ 19692 multiletter control sequences out of 15000+200000
+ 54985 words of font info for 58 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,15n,55p,429b,514s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/u
-sr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
-10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/font
-s/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/sha
-re/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmsy7.pfb>
-Output written on 11MatTallNivel2014.pdf (5 pages, 276855 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texm
+f/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
+</usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1
+/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/
+lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
+Output written on 11MatTallNivel2014.pdf (5 pages, 297004 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 191 compressed objects within 2 object streams
+ 219 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
  106 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
