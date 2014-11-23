@@ -816,25 +816,25 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-ABD: EveryShipout initializing macros [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
- copy)> <./Images/logo-colegio.png>]
-<Images/postes.png, id=20, 207.77625pt x 120.45pt>
+ABD: EveryShipout initializing macros
+<Images/postes.png, id=6, 207.77625pt x 120.45pt>
 File: Images/postes.png Graphic file (type png)
  <use Images/postes.png>
-Package pdftex.def Info: Images/postes.png used on input line 71.
+Package pdftex.def Info: Images/postes.png used on input line 69.
 (pdftex.def)             Requested size: 186.99687pt x 108.40398pt.
 
-Overfull \hbox (1.21587pt too wide) in paragraph at lines 71--72
+Overfull \hbox (1.21587pt too wide) in paragraph at lines 69--70
 [][] 
  []
 
+[1
 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-sed.png (PNG
+ copy)> <./Images/logo-colegio.png>] 
 AED: lastpage setting LastPage
 File: Images/logo-sed.png Graphic file (type png)
 <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 101.
+Package pdftex.def Info: Images/logo-sed.png used on input line 99.
 (pdftex.def)             Requested size: 13.94757pt x 16.0pt.
 
 
@@ -868,7 +868,7 @@ cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11MatNiv2014.pdf (2 pages, 212991 bytes).
+Output written on 11MatNiv2014.pdf (2 pages, 213017 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream
