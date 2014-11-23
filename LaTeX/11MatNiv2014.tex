@@ -5,6 +5,7 @@
 \usepackage{mathexam}
 \usepackage{amsmath}
 \usepackage{graphicx}
+\usepackage{tikz,pgf}
 
 \ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $11^{\circ}$}
 \ExamName{Nivelación 2014}
@@ -23,7 +24,7 @@ Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la 
 \begin{enumerate}
  \item Encuentre el dominio y el rango de la función $f(x)=\sqrt{x-4}$. (Recuerde que el dominio es el conjunto de valores que toma la variable independiente $x$ y el rango es el conjunto de valores que toma la variable dependiente $y$), Haga la gráfica de la función en el espacio asignado
 \begin{tikzpicture}
-\draw[<->] (-3.5,0)--(6.5,0)node[right]{$x}$;
+\draw[<->] (-3.5,0)--(6.5,0)node[right]{$x$};
 \foreach \x in {-3,-2,-1,1,2,3,4,5,6} \draw[\shift{(\x,0)}](0pt,2pt)--(0pt,-2pt)node[below] {\footnotesize $\x$};
 \end{tikzpicture} 
  \noanswer
