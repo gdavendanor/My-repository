@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  23 NOV 2014 19:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  23 NOV 2014 19:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,10 +397,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(./6MatNiv2014.aux
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
-)
+(./6MatNiv2014.aux)
 \openout1 = `6MatNiv2014.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -529,10 +526,71 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+
+! LaTeX Error: Environment tikzpicture undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \begin{tikzpicture}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.42 \draw
+           (0,0) grid (3,3);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \node
+           at (1.5,.5){36};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.44 \node
+           at (1.5,1.5){6};
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{minipage} on input line 40 ended by \end{tikzpicture}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \end{tikzpicture}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! You can't use `\unskip' in vertical mode.
+\endminipage ->\par \unskip 
+                            \ifvoid \@mpfootins \else \vskip \skip \@mpfooti...
+l.65 \end{minipage}
+                    \hfill
+Sorry...I usually can't take things from the current page.
+Try `I\vskip-\lastskip' instead.
+
 ! Extra }, or forgotten \endgroup.
 \endminipage ...pagefalse \color@endgroup \egroup 
                                                   \expandafter \@iiiparbox \...
-l.38 \end{minipage}
+l.65 \end{minipage}
                     \hfill
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -543,7 +601,7 @@ deleted material, e.g., by typing `I$}'.
 ! Undefined control sequence.
 \endminipage ...\expandafter \@iiiparbox \@mpargs 
                                                   {\unvbox \@tempboxa }
-l.38 \end{minipage}
+l.65 \end{minipage}
                     \hfill
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -554,7 +612,7 @@ and I'll forget about whatever was undefined.
 ! Missing number, treated as zero.
 <to be read again> 
                    I
-l.67 \end
+l.68 \end
          {minipage}
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -563,7 +621,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    I
-l.67 \end
+l.68 \end
          {minipage}
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -575,7 +633,7 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -583,7 +641,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -591,7 +649,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -599,7 +657,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -607,7 +665,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -615,7 +673,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -623,7 +681,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -631,7 +689,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -639,7 +697,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -647,7 +705,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -655,7 +713,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -663,7 +721,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -671,7 +729,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -679,7 +737,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -687,7 +745,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -695,7 +753,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -703,7 +761,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -711,7 +769,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -719,7 +777,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -727,7 +785,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -735,7 +793,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -743,7 +801,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -751,7 +809,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -759,7 +817,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -767,7 +825,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -775,7 +833,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -783,7 +841,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -791,7 +849,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -799,7 +857,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -807,7 +865,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -815,7 +873,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -823,7 +881,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -831,7 +889,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -839,7 +897,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -847,7 +905,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -855,7 +913,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -863,7 +921,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -871,7 +929,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -879,7 +937,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -887,7 +945,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -895,7 +953,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -903,7 +961,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -911,7 +969,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -919,7 +977,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -927,7 +985,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -935,7 +993,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -943,7 +1001,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -951,7 +1009,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -959,7 +1017,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -967,7 +1025,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -975,7 +1033,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -983,7 +1041,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -991,7 +1049,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -999,7 +1057,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1007,7 +1065,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1015,7 +1073,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1023,7 +1081,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1031,7 +1089,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1039,7 +1097,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1047,7 +1105,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1055,7 +1113,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1063,7 +1121,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1071,7 +1129,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1079,7 +1137,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1087,7 +1145,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1095,7 +1153,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1103,7 +1161,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1111,7 +1169,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1119,7 +1177,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1127,7 +1185,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1135,7 +1193,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1143,7 +1201,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1151,7 +1209,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1159,7 +1217,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1167,7 +1225,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1175,7 +1233,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1183,7 +1241,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1191,7 +1249,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1199,7 +1257,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1207,7 +1265,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1215,7 +1273,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1223,7 +1281,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1231,7 +1289,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1239,7 +1297,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1247,7 +1305,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1255,7 +1313,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1263,7 +1321,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1271,7 +1329,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1279,7 +1337,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1287,7 +1345,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1295,7 +1353,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1303,7 +1361,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1311,7 +1369,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1319,7 +1377,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1327,24 +1385,16 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \@@par 
-l.67 \end
-         {minipage}
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \@@par 
-l.67 \end
+l.68 \end
          {minipage}
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 3529 strings out of 494997
- 45929 string characters out of 3180091
- 118292 words of memory out of 3000000
- 6660 multiletter control sequences out of 15000+200000
+ 3528 strings out of 494997
+ 45936 string characters out of 3180091
+ 122280 words of memory out of 3000000
+ 6659 multiletter control sequences out of 15000+200000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 99i,6n,103p,326b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 98i,6n,102p,326b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
