@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 19:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -370,8 +370,10 @@ Package: sudoku 2006/03/25 v1.0.1 Sudoku grid
 \sudokusize=\dimen113
 \sudokuthinline=\dimen114
 \sudokuthickline=\dimen115
+) (./Sudokus.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
 )
-No file Sudokus.aux.
 \openout1 = `Sudokus.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -387,6 +389,7 @@ LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 11.
+
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -403,17 +406,17 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1991 strings out of 494997
- 23064 string characters out of 3180091
+ 1993 strings out of 494997
+ 23088 string characters out of 3180091
  75816 words of memory out of 3000000
  5202 multiletter control sequences out of 15000+200000
  24070 words of font info for 21 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 27i,7n,27p,336b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,27p,322b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss17.pfb>
-Output written on Sudokus.pdf (1 page, 62420 bytes).
+Output written on Sudokus.pdf (1 page, 62422 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
