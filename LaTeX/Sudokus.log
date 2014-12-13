@@ -398,8 +398,8 @@ LaTeX Info: Redefining \% on input line 11.
 
 ! Illegal parameter number in definition of \sudokuformat.
 <to be read again> 
-                   2
-l.15 \renewcommand*\sudokuformat[1]{\sffamily#2}
+                   3
+l.15 \renewcommand*\sudokuformat[1]{\sffamily#3}
                                                 
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -411,7 +411,7 @@ File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -421,7 +421,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -431,7 +431,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -441,7 +441,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -451,7 +451,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -461,7 +461,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -471,7 +471,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -481,7 +481,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -491,7 +491,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -501,7 +501,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -511,7 +511,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -521,7 +521,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -531,7 +531,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -541,7 +541,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -551,7 +551,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -561,7 +561,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -571,7 +571,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -581,7 +581,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -591,7 +591,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -601,7 +601,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -611,7 +611,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -621,7 +621,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -631,7 +631,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -641,7 +641,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -651,7 +651,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -661,7 +661,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -671,7 +671,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -681,7 +681,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -691,7 +691,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -701,7 +701,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -711,7 +711,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -721,7 +721,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -731,7 +731,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -741,7 +741,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -751,7 +751,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -761,7 +761,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.26 | | | |1| | |9|7| |.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -771,7 +771,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -781,7 +781,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -791,7 +791,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -801,7 +801,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -811,7 +811,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -821,7 +821,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -831,7 +831,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -841,7 +841,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -851,7 +851,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -861,7 +861,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -871,7 +871,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -881,7 +881,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -891,7 +891,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -901,7 +901,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -911,7 +911,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -921,7 +921,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -931,7 +931,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -941,7 +941,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -951,7 +951,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -961,7 +961,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -971,7 +971,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -981,7 +981,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -991,7 +991,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1001,7 +1001,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1011,7 +1011,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1021,7 +1021,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1031,7 +1031,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1041,7 +1041,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1051,7 +1051,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1061,7 +1061,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1071,7 +1071,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1081,7 +1081,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1091,7 +1091,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1101,7 +1101,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1111,7 +1111,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1121,7 +1121,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1131,7 +1131,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1141,7 +1141,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1151,7 +1151,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1161,7 +1161,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1171,7 +1171,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1181,7 +1181,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1191,7 +1191,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1201,7 +1201,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1211,7 +1211,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1221,7 +1221,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1231,7 +1231,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1241,7 +1241,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1251,7 +1251,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1261,7 +1261,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1271,7 +1271,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1281,7 +1281,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1291,7 +1291,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1301,7 +1301,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1311,7 +1311,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1321,7 +1321,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1331,7 +1331,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1341,7 +1341,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1351,7 +1351,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1361,7 +1361,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1371,7 +1371,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1381,7 +1381,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1391,7 +1391,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1401,7 +1401,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1411,7 +1411,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1421,7 +1421,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1431,7 +1431,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1441,7 +1441,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1451,7 +1451,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1461,7 +1461,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1471,7 +1471,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1481,7 +1481,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1491,7 +1491,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1501,7 +1501,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1511,7 +1511,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1521,7 +1521,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1531,7 +1531,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1541,7 +1541,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1551,7 +1551,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1561,7 +1561,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1571,7 +1571,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 
 ! You can't use `macro parameter character #' in restricted horizontal mode.
 \sudokuformat #1->\sffamily ##
-                              2
+                              3
 l.39 |5|3|6|1|2|4|9|7|8|.
                          
 Sorry, but I'm not programmed to handle this case;
@@ -1597,7 +1597,7 @@ Here is how much of TeX's memory you used:
 /public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss10.pfb>
-Output written on Sudokus.pdf (2 pages, 73989 bytes).
+Output written on Sudokus.pdf (2 pages, 73622 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
