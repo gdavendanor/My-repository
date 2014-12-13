@@ -401,7 +401,7 @@ LaTeX Font Info:    Try loading font information for OT1+lmss on input line 1.
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Sudokus.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Sudokus.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
@@ -417,10 +417,10 @@ Here is how much of TeX's memory you used:
 /public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb>
-Output written on Sudokus.pdf (1 page, 93059 bytes).
+Output written on Sudokus.pdf (2 pages, 93484 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 20 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
