@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 20:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 20:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,21 +406,21 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1996 strings out of 494997
- 23120 string characters out of 3180091
+ 1998 strings out of 494997
+ 23144 string characters out of 3180091
  82816 words of memory out of 3000000
- 5204 multiletter control sequences out of 15000+200000
- 26790 words of font info for 22 fonts, out of 3000000 for 9000
+ 5205 multiletter control sequences out of 15000+200000
+ 29736 words of font info for 23 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,7n,27p,322b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
-/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmss17.pfb>
-Output written on Sudokus.pdf (1 page, 78399 bytes).
+/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb>
+Output written on Sudokus.pdf (1 page, 93468 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 29 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
