@@ -406,20 +406,21 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1994 strings out of 494997
- 23096 string characters out of 3180091
+ 1996 strings out of 494997
+ 23120 string characters out of 3180091
  82816 words of memory out of 3000000
- 5203 multiletter control sequences out of 15000+200000
- 24070 words of font info for 21 fonts, out of 3000000 for 9000
+ 5204 multiletter control sequences out of 15000+200000
+ 26790 words of font info for 22 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,7n,27p,322b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmss17.pfb>
-Output written on Sudokus.pdf (1 page, 64421 bytes).
+hare/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/publi
+c/lm/lmss17.pfb>
+Output written on Sudokus.pdf (1 page, 78398 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 25 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
