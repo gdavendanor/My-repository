@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 19:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  12 DEC 2014 19:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -406,17 +406,17 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1993 strings out of 494997
- 23088 string characters out of 3180091
- 79816 words of memory out of 3000000
- 5202 multiletter control sequences out of 15000+200000
+ 1994 strings out of 494997
+ 23096 string characters out of 3180091
+ 82816 words of memory out of 3000000
+ 5203 multiletter control sequences out of 15000+200000
  24070 words of font info for 21 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,7n,27p,322b,253s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss17.pfb>
-Output written on Sudokus.pdf (2 pages, 63254 bytes).
+Output written on Sudokus.pdf (2 pages, 64829 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
