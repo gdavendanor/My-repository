@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  11 JAN 2015 23:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.12)  11 JAN 2015 23:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -845,42 +845,48 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen183
 \Gm@dimlist=\toks32
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip54
-\f@ncyO@elh=\skip55
-\f@ncyO@erh=\skip56
-\f@ncyO@olh=\skip57
-\f@ncyO@orh=\skip58
-\f@ncyO@elf=\skip59
-\f@ncyO@erf=\skip60
-\f@ncyO@olf=\skip61
-\f@ncyO@orf=\skip62
-) (./6Anim01.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.20 .../logo-colegio.png} Geometría $6^{\circ}$}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.20 .../logo-colegio.png} Geometría $6^{\circ}$}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+(./6Anim01.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
 \openout1 = `6Anim01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 35.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -911,7 +917,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -921,9 +927,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count158
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 35.
+LaTeX Info: Redefining \pageref on input line 35.
+LaTeX Info: Redefining \nameref on input line 35.
 
 (./6Anim01.out) (./6Anim01.out)
 \@outlinefile=\write4
@@ -972,41 +978,41 @@ Package caption Info: End \AtBeginDocument code.
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 36.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 37.
 (pdftex.def)             Requested size: 58.26563pt x 49.79231pt.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 36.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 37.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 36.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 37.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 36.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 37.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 36.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 37.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 36.
+(Font)              <17.28> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 36.
+(Font)              <12> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 36.
-LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+(Font)              <10> on input line 37.
+LaTeX Font Info:    Try loading font information for U+msa on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+LaTeX Font Info:    Try loading font information for U+msb on input line 37.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -1014,65 +1020,53 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 <Images/logo-sed.png, id=8, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 36.
+Package pdftex.def Info: Images/logo-sed.png used on input line 37.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 36.
+(Font)              <8> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 36.
+(Font)              <6> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 36.
+(Font)              <5> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 36.
+(Font)              <7> on input line 37.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
-File: Images/logo-colegio.png Graphic file (type png)
- <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 166.
-(pdftex.def)             Requested size: 14.04076pt x 12.0pt.
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 15.60004pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
  (./6Anim01.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
 Package rerunfilecheck Info: File `6Anim01.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
  ) 
 Here is how much of TeX's memory you used:
- 17014 strings out of 494997
- 291399 string characters out of 3180091
- 387969 words of memory out of 3000000
- 19853 multiletter control sequences out of 15000+200000
- 53707 words of font info for 58 fonts, out of 3000000 for 9000
+ 16891 strings out of 494997
+ 290096 string characters out of 3180091
+ 384370 words of memory out of 3000000
+ 19733 multiletter control sequences out of 15000+200000
+ 56732 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,15n,55p,418b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
-c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+ 56i,11n,55p,418b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pf
 b></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 6Anim01.pdf (2 pages, 216223 bytes).
+1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 6Anim01.pdf (2 pages, 212892 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 85 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  23 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
