@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2014.10.12)  11 JAN 2015 23:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=latex 2014.10.12)  11 JAN 2015 23:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -844,7 +844,20 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen183
 \Gm@dimlist=\toks35
 )
-No file 6Anim01.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+) (./6Anim01.aux
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+)
 \openout1 = `6Anim01.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -881,14 +894,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./6Anim01.out) (./6Anim01.out)
 \@outlinefile=\write4
 \openout4 = `6Anim01.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1008,7 +1019,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
- [2]
+
+
+! LaTeX Error: Cannot determine size of graphic in Images/logo-colegio.png (no 
+BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166 \end{document}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: Images/logo-colegio.png Graphic file (type eps)
+<Images/logo-colegio.png>
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 15.60004pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
  (./6Anim01.aux
 LaTeX Info: Redefining \. on input line 18.
@@ -1016,24 +1049,17 @@ LaTeX Info: Redefining \% on input line 18.
 )
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 166.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
-
-
-Package rerunfilecheck Warning: File `6Anim01.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `6Anim01.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `6Anim01.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
  ) 
 Here is how much of TeX's memory you used:
- 16362 strings out of 494998
- 282230 string characters out of 3180114
- 383095 words of memory out of 3000000
- 19253 multiletter control sequences out of 15000+200000
+ 16494 strings out of 494998
+ 283640 string characters out of 3180114
+ 385106 words of memory out of 3000000
+ 19375 multiletter control sequences out of 15000+200000
  56732 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,1186b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,13n,55p,1186b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on 6Anim01.dvi (2 pages, 59876 bytes).
+Output written on 6Anim01.dvi (2 pages, 60060 bytes).
