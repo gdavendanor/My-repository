@@ -10,7 +10,7 @@
 \begin{itemize}
 \item[8.] La función de probabilidad asociada para un avi\'{o}n de 4 motores es:
 \[P(x)=\displaystyle{4 \choose x}(0.4)^{x}(0.6)^{4-x}\]
-La probabilidad de que un vuelo sea seguro es la probabilidad de que no falle más de 1 motor.
+La probabilidad de que un vuelo sea seguro es la probabilidad de que no falle más de 1 motor de 4.
 $x=0$, 1, 
 \end{itemize}
 \begin{align*}
@@ -19,5 +19,12 @@ P(0)+P(1)&=\displaystyle{4 \choose 0}(0.4)^{0}(0.6)^{4}+\displaystyle{4 \choose 
 &=0.1296+0.3456\\
 &=0.4752
 \end{align*}
-
+Ahora bien en el caso de un avión de dos motores, su función de probabilidad asociada es:
+\[P(x)=\displaystyle{2\choose x}(0.4)^{x}(0.6)^{2-x}\]
+Para que un vuelo sea exitoso, deben funcionar los dos motores. La probabilidad de que un vuelo sea exitoso se da para $x=0$ y se tiene
+\begin{align*}
+P(0)&=\displaystyle{2\choose 0}(0.4)^{0}(0.6)^{2}
+&=0.36
+\end{align*}
+Por tanto el avión de 4 motores tiene una probabilidad más alta de tener vuelo exitoso que el avión de 2 motores.
 \end{document}
