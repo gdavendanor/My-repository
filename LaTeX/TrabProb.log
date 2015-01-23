@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 JAN 2015 21:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 JAN 2015 21:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -434,11 +434,11 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  1998 strings out of 494997
  23176 string characters out of 3180092
- 72824 words of memory out of 3000000
+ 73824 words of memory out of 3000000
  5188 multiletter control sequences out of 15000+200000
  15895 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 27i,4n,27p,225b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,27p,225b,218s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/e
 nc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/
 share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}</usr/share/texmf/fonts/type1/publ
@@ -446,7 +446,7 @@ ic/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmmi7.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmsy7.pfb>
-Output written on TrabProb.pdf (1 page, 59671 bytes).
+Output written on TrabProb.pdf (1 page, 60473 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
