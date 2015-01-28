@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1012,18 +1012,14 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-
-! LaTeX Error: \caption outside float.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.96 \end{tabular}\caption
-                          {Fuente: American Payroll Association, \url{http:/...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+! Undefined control sequence.
+l.96 \end{tabular}\footcite
+                           {Fuente: American Payroll Association, \url{http:...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 Overfull \hbox (25.81308pt too wide) in paragraph at lines 87--97
