@@ -816,7 +816,25 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box62
 \multicol@sort@counter=\count140
 )
-No file 11ProbTallProbEmp.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count141
+\Gm@cntv=\count142
+\c@Gm@tempcnt=\count143
+\Gm@bindingoffset=\dimen169
+\Gm@wd@mp=\dimen170
+\Gm@odd@mp=\dimen171
+\Gm@even@mp=\dimen172
+\Gm@layoutwidth=\dimen173
+\Gm@layoutheight=\dimen174
+\Gm@layouthoffset=\dimen175
+\Gm@layoutvoffset=\dimen176
+\Gm@dimlist=\toks38
+)
+(./11ProbTallProbEmp.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `11ProbTallProbEmp.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
@@ -834,7 +852,7 @@ LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 33.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 33.
@@ -842,17 +860,17 @@ LaTeX Info: Redefining \% on input line 33.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count141
-\scratchdimen=\dimen169
+\scratchcounter=\count144
+\scratchdimen=\dimen177
 \scratchbox=\box63
-\nofMPsegments=\count142
-\nofMParguments=\count143
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count144
-\MPscratchDim=\dimen170
-\MPnumerator=\count145
-\makeMPintoPDFobject=\count146
-\everyMPtoPDFconversion=\toks39
+\nofMPsegments=\count145
+\nofMParguments=\count146
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen178
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
+\everyMPtoPDFconversion=\toks40
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -877,16 +895,52 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count147
+\c@section@level=\count150
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
 LaTeX Info: Redefining \nameref on input line 33.
+
+(./11ProbTallProbEmp.out) (./11ProbTallProbEmp.out)
 \@outlinefile=\write4
 \openout4 = `11ProbTallProbEmp.out'.
 
 
 ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
+* v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
+* \paperwidth=469.75499pt
+* \paperheight=614.295pt
+* \textwidth=397.48499pt
+* \textheight=505.89pt
+* \oddsidemargin=-43.362pt
+* \evensidemargin=-28.90797pt
+* \topmargin=-65.90799pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 <Images/logo-colegio.png, id=7, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
@@ -954,15 +1008,16 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 48.
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
+)
+Underfull \hbox (badness 1077) in paragraph at lines 48--48
+[]\T1/lmr/m/n/10.95 Cuadro 1: []Fuente: Na-tio-na As-so-cia-tion of Rail-road P
+as-sen-gers []$\T1/lmtt/m/n/10.95 http : / / www .
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]\T1/lmr/m/n/10.95 Cuadro 2: []Fuente: Ame-ri-can Pay-roll As-so-cia-tion, []$
-\T1/lmtt/m/n/10.95 http : / / www .
- []
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -981,9 +1036,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []\T1/lmr/m/n/10.95 Reservaciones/venta
  []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 [2] [3]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 157.
  [4]
@@ -994,25 +1046,18 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 157.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 157.
-
-
-Package rerunfilecheck Warning: File `11ProbTallProbEmp.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11ProbTallProbEmp.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 157.
  ) 
 Here is how much of TeX's memory you used:
- 15317 strings out of 494997
- 262481 string characters out of 3180092
- 338209 words of memory out of 3000000
- 18136 multiletter control sequences out of 15000+200000
+ 15759 strings out of 494997
+ 268910 string characters out of 3180092
+ 351380 words of memory out of 3000000
+ 18568 multiletter control sequences out of 15000+200000
  69446 words of font info for 76 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,428b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,55p,428b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1023,7 +1068,7 @@ type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr
 /share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 251548 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 251636 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams
