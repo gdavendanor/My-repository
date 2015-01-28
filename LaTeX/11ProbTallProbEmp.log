@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,40 +1013,63 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \end{tabular}\caption
+                          {Fuente: American Payroll Association, \url{http:/...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 110--110
+Overfull \hbox (25.81308pt too wide) in paragraph at lines 87--97
+ []\T1/lmr/m/n/10.95 Fuente: 
+ []
+
+
+Overfull \hbox (27.37505pt too wide) in paragraph at lines 80--99
+$[]$ $[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \hbox (badness 1264) in paragraph at lines 111--111
 []\T1/lmr/m/n/10.95 Número de
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 110--110
+Underfull \hbox (badness 1264) in paragraph at lines 111--111
 []\T1/lmr/m/n/10.95 Número de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
 []\T1/lmr/m/n/10.95 Reservaciones/venta
  []
 
-[2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
+[3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./11ProbTallProbEmp.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 15747 strings out of 494997
- 268794 string characters out of 3180092
+ 15746 strings out of 494997
+ 268787 string characters out of 3180092
  351390 words of memory out of 3000000
  18565 multiletter control sequences out of 15000+200000
  60451 words of font info for 73 fonts, out of 3000000 for 9000
@@ -1061,10 +1084,10 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 219656 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 219658 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
+ 127 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
