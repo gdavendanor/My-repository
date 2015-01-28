@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1051,7 +1051,7 @@ Here is how much of TeX's memory you used:
  18565 multiletter control sequences out of 15000+200000
  60451 words of font info for 73 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,428b,502s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,55p,428b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1061,7 +1061,7 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 219660 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 219653 bytes).
 PDF statistics:
  130 PDF objects out of 1000 (max. 8388607)
  107 compressed objects within 2 object streams
