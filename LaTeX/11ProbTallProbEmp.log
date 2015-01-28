@@ -1016,7 +1016,11 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/logo-sed.png (PNG copy)>] [2]
+ <./Images/logo-sed.png (PNG copy)>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[2]
 Underfull \hbox (badness 1264) in paragraph at lines 108--108
 []\T1/lmr/m/n/10.95 Número de
  []
