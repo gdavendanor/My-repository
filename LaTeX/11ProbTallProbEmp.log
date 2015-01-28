@@ -1032,38 +1032,38 @@ $[]$ $[]$
  []
 
 [2]
-Underfull \hbox (badness 1264) in paragraph at lines 112--112
+Underfull \hbox (badness 1264) in paragraph at lines 113--113
 []\T1/lmr/m/n/10.95 Número de
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 112--112
+Underfull \hbox (badness 1264) in paragraph at lines 113--113
 []\T1/lmr/m/n/10.95 Número de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []\T1/lmr/m/n/10.95 Reservaciones/venta
  []
 
 [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 149.
  [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 149.
  (./11ProbTallProbEmp.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 149.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 149.
 Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 149.
  ) 
 Here is how much of TeX's memory you used:
  15753 strings out of 494997
  268861 string characters out of 3180092
- 349390 words of memory out of 3000000
+ 348390 words of memory out of 3000000
  18568 multiletter control sequences out of 15000+200000
  69302 words of font info for 76 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1079,7 +1079,7 @@ hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmri7.pfb></usr/share/texmf/fonts/type1/public/lm/lmri8.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
 tt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt9.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 253717 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 253703 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
