@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 16:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -977,19 +977,10 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 36.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 36.
-
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-Underfull \hbox (badness 4001) in paragraph at lines 36--36
-[][]\T1/lmr/m/n/8 Lic. Mat. U.D., M.Sc. U.N., web: []$\T1/lmtt/m/n/8 http : / /
- www . autistici . org / mathgerman$[]\T1/lmr/m/n/8 , email: ma-te-ma-ti-
- []
-
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 36.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -1006,11 +997,11 @@ Package rerunfilecheck Info: File `11ProbTall02.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 40.
  ) 
 Here is how much of TeX's memory you used:
- 15621 strings out of 494997
- 267109 string characters out of 3180092
- 338198 words of memory out of 3000000
- 18488 multiletter control sequences out of 15000+200000
- 57023 words of font info for 60 fonts, out of 3000000 for 9000
+ 15581 strings out of 494997
+ 266502 string characters out of 3180092
+ 338153 words of memory out of 3000000
+ 18452 multiletter control sequences out of 15000+200000
+ 56702 words of font info for 59 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,423b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1019,12 +1010,11 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
 /fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmtt8.pfb>
-Output written on 11ProbTall02.pdf (1 page, 228954 bytes).
+pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 11ProbTall02.pdf (1 page, 206670 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 57 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  4 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
