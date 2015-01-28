@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 16:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 16:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -816,26 +816,26 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (./11ProbTall02.aux)
 \openout1 = `11ProbTall02.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -866,7 +866,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 35.
+Package hyperref Info: Link coloring OFF on input line 34.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -876,9 +876,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count150
 )
-LaTeX Info: Redefining \ref on input line 35.
-LaTeX Info: Redefining \pageref on input line 35.
-LaTeX Info: Redefining \nameref on input line 35.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
 
 (./11ProbTall02.out) (./11ProbTall02.out)
 \@outlinefile=\write4
@@ -924,41 +924,41 @@ ABD: EveryShipout initializing macros
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 37.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 36.
 (pdftex.def)             Requested size: 58.26563pt x 49.79231pt.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 36.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 37.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 36.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 37.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 36.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 37.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 36.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <17.28> on input line 37.
+(Font)              <17.28> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 37.
+(Font)              <12> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 37.
-LaTeX Font Info:    Try loading font information for U+msa on input line 37.
+(Font)              <10> on input line 36.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 37.
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
@@ -966,17 +966,17 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 <Images/logo-sed.png, id=8, 136.51pt x 156.585pt>
 File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
-Package pdftex.def Info: Images/logo-sed.png used on input line 37.
+Package pdftex.def Info: Images/logo-sed.png used on input line 36.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 37.
+(Font)              <8> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 37.
+(Font)              <6> on input line 36.
 
 ! Use of \@xfootnotemark doesn't match its definition.
 \new@ifnextchar ...served@d = #1\def \reserved@a {
                                                   #2}\def \reserved@b {#3}\f...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -986,7 +986,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \@xfootnotemark doesn't match its definition.
 <argument> \def \reserved@a *
                              {\@xtabularcr }\reserved@a 
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -996,7 +996,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \@xfootnotemark doesn't match its definition.
 \@ifnextchar ... \reserved@d =#1\def \reserved@a {
                                                   #2}\def \reserved@b {#3}\f...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1006,7 +1006,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \@argtabularcr doesn't match its definition.
 \@ifnextchar ...eserved@d =#1\def \reserved@a {#2}
                                                   \def \reserved@b {#3}\futu...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1016,7 +1016,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1024,7 +1024,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1032,7 +1032,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1040,7 +1040,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1048,7 +1048,7 @@ not appear between \csname and \endcsname.
 ! Use of \@xfootnotemark doesn't match its definition.
 \new@ifnextchar ...ved@d = #1\def \reserved@a {#2}
                                                   \def \reserved@b {#3}\futu...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1058,7 +1058,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1066,7 +1066,7 @@ not appear between \csname and \endcsname.
 ! Use of \@xfootnotemark doesn't match its definition.
 \@ifnextchar ... \reserved@d =#1\def \reserved@a {
                                                   #2}\def \reserved@b {#3}\f...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1076,7 +1076,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \@argtabularcr doesn't match its definition.
 \@ifnextchar ...eserved@d =#1\def \reserved@a {#2}
                                                   \def \reserved@b {#3}\futu...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1086,7 +1086,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1094,7 +1094,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1102,7 +1102,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1110,7 +1110,7 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
@@ -1118,197 +1118,26 @@ not appear between \csname and \endcsname.
 ! Missing \endcsname inserted.
 <to be read again> 
                    \csname\endcsname
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 The control sequence marked <to be read again> should
 not appear between \csname and \endcsname.
-
-! Use of \@xfootnotemark doesn't match its definition.
-\new@ifnextchar ...served@d = #1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@xfootnotemark doesn't match its definition.
-<argument> \def \reserved@a *
-                             {\@xtabularcr }\reserved@a 
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@xfootnotemark doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@argtabularcr doesn't match its definition.
-\@ifnextchar ...eserved@d =#1\def \reserved@a {#2}
-                                                  \def \reserved@b {#3}\futu...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Use of \@xfootnotemark doesn't match its definition.
-\new@ifnextchar ...ved@d = #1\def \reserved@a {#2}
-                                                  \def \reserved@b {#3}\futu...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Use of \@xfootnotemark doesn't match its definition.
-\@ifnextchar ... \reserved@d =#1\def \reserved@a {
-                                                  #2}\def \reserved@b {#3}\f...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \@argtabularcr doesn't match its definition.
-\@ifnextchar ...eserved@d =#1\def \reserved@a {#2}
-                                                  \def \reserved@b {#3}\futu...
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \endcsname inserted.
-<to be read again> 
-                   \csname\endcsname
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-The control sequence marked <to be read again> should
-not appear between \csname and \endcsname.
-
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-I'm guessing that you meant to end an alignment here.
 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-! Misplaced \crcr.
-\endtabular ->\crcr 
-                    \egroup \egroup $\egroup 
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-! Extra }, or forgotten $.
-\endtabular ->\crcr \egroup \egroup 
-                                    $\egroup 
-l.37 N
-      ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 37.
+(Font)              <5> on input line 36.
 ! Use of \let doesn't match its definition.
 <argument> ...rotect \@@protect \xdef *{*}\unhbox 
                                                   \voidb@x \edef 1001{1001}\...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1318,7 +1147,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Missing control sequence inserted.
 <inserted text> 
                 \inaccessible 
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 Please don't say `\def cs{...}', say `\def\cs{...}'.
 I've inserted an inaccessible control sequence so that your
@@ -1329,7 +1158,7 @@ careful; see exercise 27.2 in The TeXbook.
 ! Use of \let doesn't match its definition.
 \check@mathfonts ...ings \fi \let \curr@math@size 
                                                   \f@size \def \init@restore...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1339,7 +1168,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1349,7 +1178,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1359,7 +1188,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1369,7 +1198,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1379,7 +1208,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1389,7 +1218,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1399,7 +1228,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1409,7 +1238,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1419,7 +1248,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1429,7 +1258,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1439,7 +1268,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1449,7 +1278,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1459,7 +1288,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1469,7 +1298,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1479,7 +1308,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1489,7 +1318,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1499,7 +1328,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1509,7 +1338,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1519,7 +1348,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1529,7 +1358,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1539,7 +1368,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1549,7 +1378,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1559,7 +1388,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1569,7 +1398,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1579,7 +1408,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1589,7 +1418,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1599,7 +1428,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1609,7 +1438,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1619,7 +1448,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1629,7 +1458,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1639,7 +1468,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1649,7 +1478,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1659,7 +1488,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1669,7 +1498,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1679,7 +1508,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1689,7 +1518,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1699,7 +1528,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1709,7 +1538,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1719,7 +1548,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1729,7 +1558,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1739,7 +1568,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1749,7 +1578,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1759,7 +1588,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1769,7 +1598,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1779,7 +1608,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1789,7 +1618,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1799,7 +1628,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1809,7 +1638,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1819,7 +1648,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1829,7 +1658,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1839,7 +1668,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1849,7 +1678,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1859,7 +1688,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1869,7 +1698,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1879,7 +1708,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1889,7 +1718,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1899,7 +1728,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1909,7 +1738,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1919,7 +1748,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1929,7 +1758,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1939,7 +1768,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1949,7 +1778,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1959,7 +1788,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1969,7 +1798,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1979,7 +1808,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1989,7 +1818,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -1999,7 +1828,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2009,7 +1838,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2019,7 +1848,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2029,7 +1858,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2039,7 +1868,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2049,7 +1878,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2059,7 +1888,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2069,7 +1898,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2079,7 +1908,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2089,7 +1918,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2099,7 +1928,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2109,7 +1938,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2119,7 +1948,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2129,7 +1958,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2139,7 +1968,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2149,7 +1978,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2159,7 +1988,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2169,7 +1998,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2179,7 +2008,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2189,7 +2018,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2199,7 +2028,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2209,7 +2038,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2219,7 +2048,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2229,7 +2058,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2239,7 +2068,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2249,7 +2078,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2259,7 +2088,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2269,7 +2098,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2279,7 +2108,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2289,7 +2118,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 If you say, e.g., `\def\a1{...}', then you must always
 put `1' after `\a', since control sequence names are
@@ -2299,7 +2128,7 @@ followed by the required stuff, so I'm ignoring it.
 ! Use of \let doesn't match its definition.
 \def ->\let \reserved@d 
                         =[\def \def \global \advance \c@footnote \@ne \relax...
-l.37 N
+l.36 N
       ombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{...
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
