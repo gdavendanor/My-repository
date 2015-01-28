@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,8 +1013,10 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
 ! Undefined control sequence.
-l.96 \end{tabular}\foonote
-                          {Fuente: American Payroll Association, \url{http:/...
+<recently read> \foonote 
+                         
+l.95 ...\$150\,000 & 984 & 4&4\% \\\hline \foonote
+                                                  {Fuente: American Payroll ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1022,8 +1024,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (25.81308pt too wide) in paragraph at lines 87--97
- []\T1/lmr/m/n/10.95 Fuente: 
+Overfull \hbox (246.24283pt too wide) in paragraph at lines 87--97
+ [] 
  []
 
 
@@ -1064,10 +1066,10 @@ Package rerunfilecheck Info: File `11ProbTallProbEmp.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 15746 strings out of 494997
- 268787 string characters out of 3180092
+ 15747 strings out of 494997
+ 268794 string characters out of 3180092
  351390 words of memory out of 3000000
- 18565 multiletter control sequences out of 15000+200000
+ 18566 multiletter control sequences out of 15000+200000
  60451 words of font info for 73 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,428b,495s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1080,7 +1082,7 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 219658 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 219643 bytes).
 PDF statistics:
  127 PDF objects out of 1000 (max. 8388607)
  105 compressed objects within 2 object streams
