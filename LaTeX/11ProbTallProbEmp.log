@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  28 JAN 2015 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1012,84 +1012,21 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-! Undefined control sequence.
-l.95 MÃ¡s de \$150\,000 & 984 & 4&4\% \foonote
-                                              {Fuente: American Payroll\\ As...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.95 ...&4\% \foonote{Fuente: American Payroll\\ A
-                                                  ssociation, \url{http://ww...
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.96 \hline
-           
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.96 \hline
-           
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.96 \hline
-           
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.96 \hline
-           
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Missing { inserted.
-<inserted text> 
-                {
-l.97 \end{tabular}
-                  
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
+Underfull \hbox (badness 2435) in paragraph at lines 81--83
+\T1/lmr/m/n/10.95 los re-sul-ta-dos de su en-cues-ta
+ []
 
 
-Overfull \hbox (264.61397pt too wide) in paragraph at lines 87--98
- [] 
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
  []
 
 
 Overfull \hbox (27.37505pt too wide) in paragraph at lines 80--100
-$[]$ $[]$ 
+$[]$ $[]$
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2]
+[2]
 Underfull \hbox (badness 1264) in paragraph at lines 112--112
 []\T1/lmr/m/n/10.95 Número de
  []
@@ -1121,7 +1058,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
 Here is how much of TeX's memory you used:
  15746 strings out of 494997
  268787 string characters out of 3180092
- 351390 words of memory out of 3000000
+ 349390 words of memory out of 3000000
  18565 multiletter control sequences out of 15000+200000
  60451 words of font info for 73 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1135,10 +1072,10 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11ProbTallProbEmp.pdf (4 pages, 219655 bytes).
+Output written on 11ProbTallProbEmp.pdf (4 pages, 218551 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 105 compressed objects within 2 object streams
+ 126 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  37 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
