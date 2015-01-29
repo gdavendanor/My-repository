@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  29 JAN 2015 16:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  29 JAN 2015 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,25 +1038,22 @@ ed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `9EticaTall08PrincipMorales.out':
-(rerunfilecheck)             Before: 952FE671EB4744E7091A3D33D9F27B47;308
-(rerunfilecheck)             After:  D51F929D1688B9E0C0F0B16046BF6B6A;293.
+(rerunfilecheck)             Before: D51F929D1688B9E0C0F0B16046BF6B6A;293
+(rerunfilecheck)             After:  0AC81985D5609D6DF30BDFDC6023C2FF;162.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 69.
  ) 
 Here is how much of TeX's memory you used:
- 16712 strings out of 494997
- 286860 string characters out of 3180092
+ 16711 strings out of 494997
+ 286823 string characters out of 3180092
  365808 words of memory out of 3000000
  19562 multiletter control sequences out of 15000+200000
  60968 words of font info for 60 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,880b,336s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{subsection.2.1} has been referenced but does not 
+pdfTeX warning (dest): name{subsection.3.1} has been referenced but does not 
 exist, replaced by a fixed one
 
-pdfTeX warning (dest): name{subsubsection.0.1.1} has been referenced but does n
-ot exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.0.1} has been referenced but does not ex
+pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not ex
 ist, replaced by a fixed one
 
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
@@ -1066,10 +1063,10 @@ mr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fo
 nts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 9EticaTall08PrincipMorales.pdf (3 pages, 211402 bytes).
+Output written on 9EticaTall08PrincipMorales.pdf (3 pages, 211383 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 92 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
