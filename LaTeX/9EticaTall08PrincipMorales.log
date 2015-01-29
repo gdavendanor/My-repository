@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  29 JAN 2015 16:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  29 JAN 2015 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1030,41 +1030,31 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 83.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
-
-
-Package rerunfilecheck Warning: File `9EticaTall08PrincipMorales.out' has chang
-ed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `9EticaTall08PrincipMorales.out':
-(rerunfilecheck)             Before: 88317C9263C9671599DB1CC9B3D6AB7C;329
-(rerunfilecheck)             After:  040D693FDD25A11BE6C7ADF9D6612A7F;290.
+Package rerunfilecheck Info: File `9EticaTall08PrincipMorales.out' has not chan
+ged.
+(rerunfilecheck)             Checksum: 040D693FDD25A11BE6C7ADF9D6612A7F;290.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 83.
  ) 
 Here is how much of TeX's memory you used:
- 16723 strings out of 494997
- 286948 string characters out of 3180092
+ 16722 strings out of 494997
+ 286944 string characters out of 3180092
  365808 words of memory out of 3000000
  19564 multiletter control sequences out of 15000+200000
  63963 words of font info for 61 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,880b,425s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section.1} has been referenced but does not exist
-, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvip
-s/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/t
-exmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on 9EticaTall08PrincipMorales.pdf (3 pages, 237304 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
+ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr
+/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 9EticaTall08PrincipMorales.pdf (3 pages, 237261 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 22 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
