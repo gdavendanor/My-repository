@@ -1,0 +1,3 @@
+\begin{tikzpicture}
+\fill[orange] (1ex,1ex) circle (1ex);
+\end{tikzpicture}
