@@ -319,23 +319,12 @@ Nombre: \hrulefill Curso: \underline{\hspace{1cm}}  Fecha: \underline{\hspace{2c
 \end{center}
 
 %Arbol
-\tikz [font=\footnotesize,
-grow=right, level 1/.style={sibling distance=6em},
-level 2/.style={sibling distance=1em}, level distance=5cm]
-\node {Computational Complexity} % root
-child { node {Computational Problems}
-child { node {Problem Measures} }
-child { node {Problem Aspects} }
-child { node {Problem Domains} }
-child { node {Key Problems} }
-}
-child { node {Computational Models}
-child { node {Turing Machines} }
-child { node {Random-Access Machines} }
-child { node {Circuits} }
-child { node {Binary Decision Diagrams} }
-child { node {Oracle Machines} }
-child { node {Programming in Logic} }
+\begin{tikzpicture}
+\node {Títulos}
+child {node {Cap\'{i}tulos}
+child {node {Art\'{i}culos}}
 };
+\end{tikzpicture}
+
 
 \end{document}
