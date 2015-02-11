@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 20:54
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,266 +293,119 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-) (./CartaFeb09_2015.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
 )
-\openout1 = `CartaFeb09_2015.aux'.
+Runaway argument?
+{\begin {minipage}{4cm} Germ\'{a}n Avenda\~{n}o Ram\'{i}rez\\ C.C. 79\ETC.
+! Paragraph ended before \signature was complete.
+<to be read again> 
+                   \par 
+l.14 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 21.
 
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
+! LaTeX Error: Missing \begin{document}.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{minipage}{4cm}
+                          
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+\T1/cmr/m/n/10.95 Estudiante del curso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+\T1/cmr/m/n/10.95 Colegio Ga-briel Be-
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 25.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 19.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 19.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 25.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 19.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 25.
+(Font)              <6> on input line 19.
 
-Underfull \hbox (badness 4303) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 C.C. 79'003 541 de Gua-duas
- []
+! Too many }'s.
+l.20 }
+      
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-! Undefined control sequence.
-<argument> .45\textwidht 
-                         
-l.32 \closing{Atentamente,}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.32 \closing{Atentamente,}
-                           
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-
-Overfull \hbox (27.71571pt too wide) in paragraph at lines 32--32
-[]\T1/lmr/m/n/10.95 Laura
- []
-
-
-Overfull \hbox (16.58307pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Ca-
- []
-
-
-Overfull \hbox (15.36626pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 mi-
- []
-
-
-Overfull \hbox (8.06664pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 la
- []
-
-
-Overfull \hbox (26.62102pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Aven-
- []
-
-
-Overfull \hbox (14.75824pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 da-
- []
-
-
-Overfull \hbox (11.10825pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 ño
- []
-
-
-Overfull \hbox (16.58307pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Ca-
- []
-
-
-Overfull \hbox (15.3665pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 bu-
- []
-
-
-Overfull \hbox (10.50021pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 yo 
- []
-
-
-Overfull \hbox (51.16707pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Estudiante
- []
-
-
-Overfull \hbox (13.54163pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 del
- []
-
-
-Overfull \hbox (18.43872pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 cur-
- []
-
-
-Overfull \hbox (9.34421pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 so
- []
-
-
-Overfull \hbox (21.44997pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 1001 
- []
-
-
-Overfull \hbox (34.83307pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Colegio
- []
-
-
-Overfull \hbox (17.26744pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Ga-
- []
-
-
-Overfull \hbox (20.87201pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 briel
- []
-
-
-Overfull \hbox (15.8226pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Be-
- []
-
-
-Overfull \hbox (19.0167pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 tan-
- []
-
-
-Overfull \hbox (24.52217pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 court
- []
-
-
-Overfull \hbox (18.10458pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Me-
- []
-
-
-Overfull \hbox (11.4124pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 jía
- []
-
-
-Overfull \hbox (14.14998pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 Se-
- []
-
-
-Overfull \hbox (10.49998pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 de
- []
-
-
-Overfull \hbox (7.30588pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 B
- []
-
-
-Overfull \hbox (18.10367pt too wide) in paragraph at lines 32--32
-\T1/lmr/m/n/10.95 j.m. 
- []
-
-! Undefined control sequence.
-<argument> .45\textwidht 
-                         
-l.32 \closing{Atentamente,}
-                           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.32 \closing{Atentamente,}
-                           
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./CartaFeb09_2015.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `CartaFeb09_2015.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 22.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [1] (./CartaFeb09_2015.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1302 strings out of 494997
- 15097 string characters out of 3180092
- 67395 words of memory out of 3000000
- 4517 multiletter control sequences out of 15000+200000
+ 1301 strings out of 494997
+ 15088 string characters out of 3180092
+ 66395 words of memory out of 3000000
+ 4516 multiletter control sequences out of 15000+200000
  18720 words of font info for 27 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  26i,6n,27p,215b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
-/public/lm/lmr10.pfb>
-Output written on CartaFeb09_2015.pdf (2 pages, 35049 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc} </home/german/.texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecrm1095.600pk></usr/share/texmf/fonts/type1/public/lm
+/lmr10.pfb>
+Output written on CartaFeb09_2015.pdf (2 pages, 43656 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
