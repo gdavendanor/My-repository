@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 20:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,303 +293,76 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
-\c@tracingmulticols=\count83
-\mult@box=\box26
-\multicol@leftmargin=\dimen105
-\c@unbalance=\count84
-\c@collectmore=\count85
-\doublecol@number=\count86
-\multicoltolerance=\count87
-\multicolpretolerance=\count88
-\full@width=\dimen106
-\page@free=\dimen107
-\premulticols=\dimen108
-\postmulticols=\dimen109
-\multicolsep=\skip41
-\multicolbaselineskip=\skip42
-\partial@page=\box27
-\last@line=\box28
-\mult@rightbox=\box29
-\mult@grightbox=\box30
-\mult@gfirstbox=\box31
-\mult@firstbox=\box32
-\@tempa=\box33
-\@tempa=\box34
-\@tempa=\box35
-\@tempa=\box36
-\@tempa=\box37
-\@tempa=\box38
-\@tempa=\box39
-\@tempa=\box40
-\@tempa=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\c@columnbadness=\count89
-\c@finalcolumnbadness=\count90
-\last@try=\dimen110
-\multicolovershoot=\dimen111
-\multicolundershoot=\dimen112
-\mult@nat@firstbox=\box50
-\colbreak@box=\box51
-\multicol@sort@counter=\count91
-)
-(./CartaFeb09_2015.aux
+) (./CartaFeb09_2015.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `CartaFeb09_2015.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 17.
- (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 10.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 21.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 14.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 21.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 14.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 21.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 14.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 21.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 14.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 21.
+(Font)              <10.95> on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 21.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <6> on input line 14.
+ [1
 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 \opening{Cordial saludo}
-                             
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Improper \prevdepth.
-\mult@@cols ...ace \multicolsep \ifdim \prevdepth 
-                                                  = -\@m \p@ \else \@tempcnt...
-l.21 \opening{Cordial saludo}
-                             
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! Improper \prevdepth.
-<recently read> \prevdepth 
-                           
-l.21 \opening{Cordial saludo}
-                             
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! Arithmetic overflow.
-<recently read> \@tempcntb 
-                           
-l.21 \opening{Cordial saludo}
-                             
-I can't carry out that multiplication or division,
-since the result is out of range.
-
-! Improper \prevdepth.
-<recently read> \prevdepth 
-                           
-l.21 \opening{Cordial saludo}
-                             
-You can refer to \spacefactor only in horizontal mode;
-you can refer to \prevdepth only in vertical mode; and
-neither of these is meaningful inside \write. So
-I'm forgetting what you said and using zero instead.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.21 \opening{Cordial saludo}
-                             
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.21 \opening{Cordial saludo}
-                             
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.21 \opening{Cordial saludo}
-                             
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{letter} on input line 19 ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \closing{Atentamente,}
-                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.28 \closing{Atentamente,}
-                           
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{letter} on input line 19 ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.28 \closing{Atentamente,}
-                           
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Too many }'s.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.28 \closing{Atentamente,}
-                           
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Extra \endgroup.
-\@iiiparbox ...f@pboxsw \m@th $\fi \@end@tempboxa 
-                                                  
-l.28 \closing{Atentamente,}
-                           
-Things are pretty mixed up, but I think the worst is over.
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-! Undefined control sequence.
-<write> ...ing \@mlabel {\returnaddress }{\toname 
-                                                  \\\toaddress }
-l.34 \end{letter}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<write> ...{\returnaddress }{\toname \\\toaddress 
-                                                  }
-l.34 \end{letter}
-                 
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: \begin{document} ended by \end{letter}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.34 \end{letter}
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.34 \end{letter}
-                 
-Things are pretty mixed up, but I think the worst is over.
-
-(./CartaFeb09_2015.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./CartaFeb09_2015.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 1396 strings out of 494997
- 16538 string characters out of 3180092
+ 1301 strings out of 494997
+ 15088 string characters out of 3180092
  66395 words of memory out of 3000000
- 4607 multiletter control sequences out of 15000+200000
+ 4516 multiletter control sequences out of 15000+200000
  18720 words of font info for 27 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 26i,8n,27p,215b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,6n,27p,215b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on CartaFeb09_2015.pdf (1 page, 34164 bytes).
+Output written on CartaFeb09_2015.pdf (1 page, 34925 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
