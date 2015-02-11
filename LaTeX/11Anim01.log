@@ -855,19 +855,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@erf=\skip60
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
-)
-Runaway argument?
-{Germ\'an Dar\'io Avenda\~no Ram\'irez~\thanks {Lic. Mat. U.D., M.Sc.\ETC.
-! Paragraph ended before \author was complete.
-<to be read again> 
-                   \par 
-l.27 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(./11Anim01.aux
+) (./11Anim01.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
@@ -980,21 +968,14 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<Images/logo-colegio.png, id=19, 165.61874pt x 141.52875pt>
+File: Images/logo-colegio.png Graphic file (type png)
 
-! LaTeX Error: No \title given.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.30 N
-      ombre: \hrulefill Curso: \underline{\hspace{1cm}}  Fecha: \underline{\...
-
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 30.
+(pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 30.
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Try loading font information for OML+lmm on input line 30.
@@ -1015,11 +996,11 @@ LaTeX Font Info:    Try loading font information for OMX+lmex on input line 30.
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 30.
+LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 30.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 30.
+(Font)              <10> on input line 30.
 LaTeX Font Info:    Try loading font information for U+msa on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1030,9 +1011,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 30.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-
-LaTeX Warning: No \author given.
-
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 30.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 30.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 30.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 30.
 
@@ -1042,12 +1028,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 175.
 
-
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
@@ -1069,11 +1055,11 @@ Package rerunfilecheck Info: File `11Anim01.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 17034 strings out of 494997
- 291699 string characters out of 3180092
- 390728 words of memory out of 3000000
- 19872 multiletter control sequences out of 15000+200000
- 43563 words of font info for 45 fonts, out of 3000000 for 9000
+ 17080 strings out of 494997
+ 292284 string characters out of 3180092
+ 390787 words of memory out of 3000000
+ 19903 multiletter control sequences out of 15000+200000
+ 68598 words of font info for 68 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,12n,55p,419b,538s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1082,13 +1068,15 @@ hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm
 /lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10
 .pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></u
-sr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/p
-ublic/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11Anim01.pdf (2 pages, 164064 bytes).
+type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></us
+r/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/publ
+ic/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/t
+exmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/l
+msy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
+Output written on 11Anim01.pdf (2 pages, 233267 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 132 PDF objects out of 1000 (max. 8388607)
+ 112 compressed objects within 2 object streams
  34 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 
