@@ -1062,7 +1062,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
 Here is how much of TeX's memory you used:
  17085 strings out of 494997
  292391 string characters out of 3180092
- 390907 words of memory out of 3000000
+ 391115 words of memory out of 3000000
  19907 multiletter control sequences out of 15000+200000
  68598 words of font info for 68 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
