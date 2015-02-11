@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 21:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  10 FEB 2015 21:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,14 +359,14 @@ LaTeX Info: Redefining \% on input line 20.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(142.26378pt, 538.89519pt, 113.81102pt)
+* v-part:(T,H,B)=(128.0374pt, 567.34795pt, 99.58464pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=430.00462pt
-* \textheight=538.89519pt
+* \textheight=567.34795pt
 * \oddsidemargin=19.8752pt
 * \evensidemargin=19.8752pt
-* \topmargin=12.99379pt
+* \topmargin=-1.23259pt
 * \headheight=12.0pt
 * \headsep=45.0pt
 * \topskip=11.0pt
@@ -413,24 +413,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 24.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./CartaFeb09_2015.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./CartaFeb09_2015.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  1822 strings out of 494997
  22823 string characters out of 3180092
- 77703 words of memory out of 3000000
+ 77709 words of memory out of 3000000
  5018 multiletter control sequences out of 15000+200000
  18720 words of font info for 27 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  26i,6n,27p,214b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on CartaFeb09_2015.pdf (2 pages, 35232 bytes).
+Output written on CartaFeb09_2015.pdf (1 page, 34961 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
- 10 compressed objects within 1 object stream
+ 13 PDF objects out of 1000 (max. 8388607)
+ 8 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
