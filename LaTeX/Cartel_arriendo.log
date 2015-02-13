@@ -656,18 +656,18 @@ Package: beamerinnerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
 y
 Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)))
-(/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeDarmstadt.sty
-Package: beamerthemeDarmstadt 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))) (/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeWarsaw.sty
+Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesmoothbars
-.sty
-Package: beamerouterthemesmoothbars 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
 (/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
 y
 Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemeshadow.sty
+Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesplit.sty
+Package: beamerouterthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))
 (/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
@@ -1189,10 +1189,7 @@ FP debug: upn: calculating "round(134.000000000000000000:2)"
 ( FP-ROUND )
 FP debug: upn: result      "134.00"
 FP debug: upn: +++ result of upn-expression is "(134.00)"
-)) (./Cartel_arriendo.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-)
+)) (./Cartel_arriendo.aux)
 \openout1 = `Cartel_arriendo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1385,11 +1382,11 @@ you'd better type `E' or `X' now and fix your file.
 
  
 Here is how much of TeX's memory you used:
- 16867 strings out of 494997
- 303751 string characters out of 3180092
- 400475 words of memory out of 3000000
- 19632 multiletter control sequences out of 15000+200000
+ 16871 strings out of 494997
+ 303949 string characters out of 3180092
+ 399641 words of memory out of 3000000
+ 19633 multiletter control sequences out of 15000+200000
  5457 words of font info for 18 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,9n,66p,425b,351s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,10n,66p,425b,357s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
