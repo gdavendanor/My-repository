@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,22 +656,23 @@ Package: beamerinnerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
 y
 Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
-))) (/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeBerlin.sty
-Package: beamerthemeBerlin 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))) (/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeWarsaw.sty
+Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
 
-(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthememiniframes
-.sty
-Package: beamerouterthememiniframes 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
+y
+Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
-Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemeshadow.sty
+Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesplit.sty
+Package: beamerouterthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
+))
 (/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
 Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )
-(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerectangles
-.sty
-Package: beamerinnerthemerectangles 2010/06/17  (rcs-revision d02a7cf4d8ae)
+(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
+Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
 )) (/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
 Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
 atched RF)
@@ -1390,19 +1391,19 @@ Package rerunfilecheck Info: File `Cartel_arriendo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 17034 strings out of 494997
- 308450 string characters out of 3180092
- 407517 words of memory out of 3000000
- 19788 multiletter control sequences out of 15000+200000
+ 17027 strings out of 494997
+ 307710 string characters out of 3180092
+ 405664 words of memory out of 3000000
+ 19778 multiletter control sequences out of 15000+200000
  11343 words of font info for 25 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,15n,66p,425b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,16n,66p,425b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 9315 bytes).
+Output written on Cartel_arriendo.pdf (1 page, 10655 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
