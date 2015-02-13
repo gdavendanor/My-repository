@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -656,24 +656,7 @@ Package: beamerinnerthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
 (/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemedefault.st
 y
 Package: beamerouterthemedefault 2010/06/17  (rcs-revision d02a7cf4d8ae)
-))) (/usr/share/texmf/tex/latex/beamer/base/themes/theme/beamerthemeWarsaw.sty
-Package: beamerthemeWarsaw 2010/06/17  (rcs-revision d02a7cf4d8ae)
-
-(/usr/share/texmf/tex/latex/beamer/base/themes/inner/beamerinnerthemerounded.st
-y
-Package: beamerinnerthemerounded 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemeshadow.sty
-Package: beamerouterthemeshadow 2010/06/17  (rcs-revision d02a7cf4d8ae)
-(/usr/share/texmf/tex/latex/beamer/base/themes/outer/beamerouterthemesplit.sty
-Package: beamerouterthemesplit 2010/06/17  (rcs-revision d02a7cf4d8ae)
-))
-(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemeorchid.sty
-Package: beamercolorthemeorchid 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)
-(/usr/share/texmf/tex/latex/beamer/base/themes/color/beamercolorthemewhale.sty
-Package: beamercolorthemewhale 2010/06/17  (rcs-revision d02a7cf4d8ae)
-)) (/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/type1cm/type1cm.sty
 Package: type1cm 2002/09/05 v0.04 BlueSky/Y&Y Type1 CM font definitions (DPC, p
 atched RF)
 )
@@ -1189,7 +1172,10 @@ FP debug: upn: calculating "round(134.000000000000000000:2)"
 ( FP-ROUND )
 FP debug: upn: result      "134.00"
 FP debug: upn: +++ result of upn-expression is "(134.00)"
-)) (./Cartel_arriendo.aux)
+)) (./Cartel_arriendo.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
 \openout1 = `Cartel_arriendo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1388,19 +1374,19 @@ Package rerunfilecheck Info: File `Cartel_arriendo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
  ) 
 Here is how much of TeX's memory you used:
- 17027 strings out of 494997
- 307710 string characters out of 3180092
- 405641 words of memory out of 3000000
- 19778 multiletter control sequences out of 15000+200000
+ 16865 strings out of 494997
+ 302212 string characters out of 3180092
+ 398917 words of memory out of 3000000
+ 19634 multiletter control sequences out of 15000+200000
  11343 words of font info for 25 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,16n,66p,425b,558s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,14n,66p,425b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 10655 bytes).
+Output written on Cartel_arriendo.pdf (1 page, 9091 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 46 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
