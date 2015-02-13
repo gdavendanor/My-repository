@@ -1364,7 +1364,7 @@ LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
  (./Cartel_arriendo.nav))
 Runaway argument?
-{} \centering \begin {block} \centering {\VeryHuge \begin {center} SE\ETC.
+\centering \begin {block} \centering {\VeryHuge \begin {center} SE AR\ETC.
 ! File ended while scanning use of \frame.
 <inserted text> 
                 \par 
