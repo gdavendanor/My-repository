@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 11:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 11:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1349,28 +1349,38 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
  (./Cartel_arriendo.nav)
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
+! Undefined control sequence.
+\beamer@doifinframe ...local 1001}\par {\footsize 
+                                                  Formulario disponible en}\...
+l.44   \end{frame}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 44.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 44.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <17.28> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 44.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 44.
  [1
 
@@ -1398,19 +1408,19 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
  16951 strings out of 494997
- 303587 string characters out of 3180092
+ 303514 string characters out of 3180092
  399917 words of memory out of 3000000
  19705 multiletter control sequences out of 15000+200000
- 23112 words of font info for 57 fonts, out of 3000000 for 9000
+ 22888 words of font info for 56 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,14n,66p,425b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,14n,66p,425b,554s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 21936 bytes).
+Output written on Cartel_arriendo.pdf (1 page, 21906 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 51 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
