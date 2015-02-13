@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1365,28 +1365,6 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
  (./Cartel_arriendo.nav)
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <24.88> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <20.74> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 96.
-LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <17.28> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 96.
-
-Overfull \vbox (1089.47807pt too high) detected at line 96
- []
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -1399,36 +1377,32 @@ Overfull \vbox (1089.47807pt too high) detected at line 96
 \tf@snm=\write8
 \openout8 = `Cartel_arriendo.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 38.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 38.
  (./Cartel_arriendo.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 38.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 38.
 Package rerunfilecheck Info: File `Cartel_arriendo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 38.
  ) 
 Here is how much of TeX's memory you used:
- 17173 strings out of 494997
- 311658 string characters out of 3180092
- 419155 words of memory out of 3000000
- 19910 multiletter control sequences out of 15000+200000
- 33711 words of font info for 67 fonts, out of 3000000 for 9000
+ 17035 strings out of 494997
+ 308451 string characters out of 3180092
+ 407155 words of memory out of 3000000
+ 19788 multiletter control sequences out of 15000+200000
+ 12497 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,15n,66p,425b,1068s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,15n,66p,425b,560s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
-rw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 36880 bytes).
+e/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on Cartel_arriendo.pdf (1 page, 11057 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 38 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
