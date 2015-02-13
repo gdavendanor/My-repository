@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 10:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -743,9 +743,6 @@ beamerposter: checking size input, please wait.
 beamerposter: the input a0\ 1\ was correct, we proceed.
 beamerposter: finished size input check.
 beamerposter: myfontscale=1.0
-beamerposter: checking orientation input, please wait.
-beamerposter: the input portrait\ 0\ was correct, we proceed.
-beamerposter: finished orientation check.
 beamerposter: checking size input, please wait.
 beamerposter: the input a4\ 5\ was correct, we proceed.
 beamerposter: finished size input check.
@@ -799,10 +796,8 @@ Package: fp-upn 1996/10/21
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
 Package: fp-eval 1995/04/03
 ))
-\tmp=\dimen185
-
-beamerposter: paperwidth=597.50787pt, paperheight=845.04675pt
-beamerposter: textwidth=569.05511pt, textwidth=816.594pt
+beamerposter: paperwidth=845.04675pt, paperheight=597.50787pt
+beamerposter: textwidth=816.594pt, textwidth=569.05511pt
 ( FP-UPN
 FP debug: upn: +++ computing upn-expression "myfontscale fontSizeX * 2 round"
 FP debug: upn: calculating "myfontscale"
@@ -1193,8 +1188,10 @@ FP debug: upn: calculating "round(134.000000000000000000:2)"
 ( FP-ROUND )
 FP debug: upn: result      "134.00"
 FP debug: upn: +++ result of upn-expression is "(134.00)"
-))
-No file Cartel_arriendo.aux.
+)) (./Cartel_arriendo.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
 \openout1 = `Cartel_arriendo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1212,6 +1209,7 @@ LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 24.
+
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -1223,12 +1221,12 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
-* v-part:(T,H,B)=(0.0pt, 845.04675pt, 0.0pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04675pt
-* \textwidth=540.60239pt
-* \textheight=816.59402pt
+* h-part:(L,W,R)=(28.45274pt, 788.14127pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 597.50787pt, 0.0pt)
+* \paperwidth=845.04675pt
+* \paperheight=597.50787pt
+* \textwidth=788.14127pt
+* \textheight=569.05515pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-72.26999pt
@@ -1252,13 +1250,13 @@ File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count171
-\scratchdimen=\dimen186
+\scratchdimen=\dimen185
 \scratchbox=\box53
 \nofMPsegments=\count172
 \nofMParguments=\count173
 \everyMPshowfont=\toks45
 \MPscratchCnt=\count174
-\MPscratchDim=\dimen187
+\MPscratchDim=\dimen186
 \MPnumerator=\count175
 \makeMPintoPDFobject=\count176
 \everyMPtoPDFconversion=\toks46
@@ -1292,6 +1290,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
+
+(./Cartel_arriendo.out) (./Cartel_arriendo.out)
 \@outlinefile=\write5
 \openout5 = `Cartel_arriendo.out'.
 
@@ -1364,18 +1364,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
-
-No file Cartel_arriendo.nav.
-
-Overfull \hbox (1.13351pt too wide) in paragraph at lines 102--102
- []\OT1/phv/m/n/107 VERYHuge 
- []
-
-
-Overfull \hbox (1.13351pt too wide) in paragraph at lines 102--102
- []\OT1/phv/m/n/107 VERYHuge 
- []
-
+ (./Cartel_arriendo.nav)
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <20.74> not available
@@ -1395,7 +1384,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <17.28> not available
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <17.28> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 102.
 
-Overfull \vbox (1160.03903pt too high) detected at line 102
+Overfull \vbox (1487.01796pt too high) detected at line 102
  []
 
 [1
@@ -1418,32 +1407,25 @@ LaTeX Info: Redefining \% on input line 23.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 103.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 103.
-
-
-Package rerunfilecheck Warning: File `Cartel_arriendo.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Cartel_arriendo.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Cartel_arriendo.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 103.
  ) 
 Here is how much of TeX's memory you used:
- 17159 strings out of 494997
- 311452 string characters out of 3180092
- 420006 words of memory out of 3000000
- 19904 multiletter control sequences out of 15000+200000
+ 17173 strings out of 494997
+ 311658 string characters out of 3180092
+ 420155 words of memory out of 3000000
+ 19910 multiletter control sequences out of 15000+200000
  33711 words of font info for 67 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,15n,66p,425b,1067s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,15n,66p,425b,1068s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/u
 rw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 35659 bytes).
+Output written on Cartel_arriendo.pdf (1 page, 36178 bytes).
 PDF statistics:
  64 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
