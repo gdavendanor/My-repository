@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 11:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  13 FEB 2015 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1172,7 +1172,10 @@ FP debug: upn: calculating "round(134.000000000000000000:2)"
 ( FP-ROUND )
 FP debug: upn: result      "134.00"
 FP debug: upn: +++ result of upn-expression is "(134.00)"
-)) (./Cartel_arriendo.aux)
+)) (./Cartel_arriendo.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
 \openout1 = `Cartel_arriendo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -1346,18 +1349,8 @@ Dictionary: translator-theorem-dictionary, Language: English
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
  (./Cartel_arriendo.nav)
-! Undefined control sequence.
-\beamer@doifinframe ...ntro Suba local 1001}\vpar 
-                                                  \vspace {.25in} {\normalsi...
-l.44   \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
+
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
@@ -1404,17 +1397,17 @@ Package rerunfilecheck Info: File `Cartel_arriendo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 16952 strings out of 494997
- 303591 string characters out of 3180092
- 399894 words of memory out of 3000000
- 19706 multiletter control sequences out of 15000+200000
+ 16951 strings out of 494997
+ 303587 string characters out of 3180092
+ 399917 words of memory out of 3000000
+ 19705 multiletter control sequences out of 15000+200000
  23112 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 49i,14n,66p,425b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,14n,66p,425b,555s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Cartel_arriendo.pdf (1 page, 21937 bytes).
+Output written on Cartel_arriendo.pdf (1 page, 21936 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
