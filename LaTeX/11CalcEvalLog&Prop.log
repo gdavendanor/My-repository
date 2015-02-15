@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.1.31)  15 FEB 2015 11:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2015.1.31)  15 FEB 2015 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,7 +397,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-No file 11CalcEvalLog&Prop.aux.
+(./11CalcEvalLog&Prop.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+)
 \openout1 = `11CalcEvalLog&Prop.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -414,6 +417,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -525,8 +529,60 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 \item P\vee
+                 Q
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-Package lastpage Warning: Rerun to get the references right on input line 34.
+
+! LaTeX Error: Command \end{enumerate} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \end{enumerate}
+                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.37 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
 
 AED: lastpage setting LastPage
@@ -536,28 +592,26 @@ AED: lastpage setting LastPage
  copy)> <./Images/logo-colegio.png>] (./11CalcEvalLog&Prop.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
-)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 3529 strings out of 494997
- 45976 string characters out of 3180092
- 115359 words of memory out of 3000000
+ 3531 strings out of 494997
+ 46022 string characters out of 3180092
+ 116371 words of memory out of 3000000
  6659 multiletter control sequences out of 15000+200000
  8151 words of font info for 30 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  37i,6n,45p,244b,206s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on 11CalcEvalLog&Prop.pdf (1 page, 110691 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on 11CalcEvalLog&Prop.pdf (1 page, 125951 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 25 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
