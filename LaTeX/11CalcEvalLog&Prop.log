@@ -530,8 +530,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ! Undefined control sequence.
-l.38 \item $P\veebar
-                     Q$:
+l.38 \item $P \veebar
+                      Q$:
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
