@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -261,6 +261,13 @@ Package babel Info: Making . an active character on input line 599.
 Package babel Info: Making < an active character on input line 644.
 Package babel Info: Making > an active character on input line 644.
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -334,25 +341,25 @@ LaTeX Info: Redefining \% on input line 6.
 )
 \openout1 = `LeccionesPreliminaresFilosofia.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 7.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 8.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count92
 \scratchdimen=\dimen106
@@ -420,7 +427,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...FÍA ANTIGUA. LA FILOSOFÍA EN LA EDAD ME­
+l.10 ...ÍA ANTIGUA. LA FILOSOFÍA EN LA EDAD ME­
                                                   DIA. LA FILOSOFÍA EN LA E...
 
 Your command was ignored.
@@ -434,7 +441,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...LOSOFÍA EN LA EDAD MODERNA. LAS DISCIPLI­
+l.10 ...OSOFÍA EN LA EDAD MODERNA. LAS DISCIPLI­
                                                   NAS FILOSÓFICAS. LAS CIEN...
 
 Your command was ignored.
@@ -448,7 +455,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.9 ...AS. LAS CIENCIAS Y LA FILOSOFÍA. LAS PAR­
+l.10 ...S. LAS CIENCIAS Y LA FILOSOFÍA. LAS PAR­
                                                   TES DE LA FILOSOFÍA.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -463,16 +470,16 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2350 strings out of 494997
- 31626 string characters out of 3180092
- 87630 words of memory out of 3000000
- 5528 multiletter control sequences out of 15000+200000
- 12492 words of font info for 17 fonts, out of 3000000 for 9000
+ 2561 strings out of 494997
+ 33208 string characters out of 3180092
+ 87696 words of memory out of 3000000
+ 5733 multiletter control sequences out of 15000+200000
+ 13406 words of font info for 18 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,4n,27p,340b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
+ 37i,4n,27p,339b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on LeccionesPreliminaresFilosofia.pdf (1 page, 49376 bytes).
+Output written on LeccionesPreliminaresFilosofia.pdf (1 page, 49598 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
