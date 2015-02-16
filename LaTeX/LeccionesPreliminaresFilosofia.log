@@ -694,10 +694,10 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 10835 strings out of 494997
- 198551 string characters out of 3180092
+ 10837 strings out of 494997
+ 198627 string characters out of 3180092
  236192 words of memory out of 3000000
- 13788 multiletter control sequences out of 15000+200000
+ 13790 multiletter control sequences out of 15000+200000
  36417 words of font info for 32 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,6n,55p,620b,639s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -705,7 +705,7 @@ Here is how much of TeX's memory you used:
 vips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr8.pfb>
-Output written on LeccionesPreliminaresFilosofia.pdf (2 pages, 76110 bytes).
+Output written on LeccionesPreliminaresFilosofia.pdf (2 pages, 76120 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
