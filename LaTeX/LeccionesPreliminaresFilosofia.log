@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,47 +416,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-
-! Package inputenc Error: Unicode char \u8:­ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...ÍA ANTIGUA. LA FILOSOFÍA EN LA EDAD ME­
-                                                  DIA. LA FILOSOFÍA EN LA E...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:­ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...OSOFÍA EN LA EDAD MODERNA. LAS DISCIPLI­
-                                                  NAS FILOSÓFICAS. LAS CIEN...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char \u8:­ not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...S. LAS CIENCIAS Y LA FILOSOFÍA. LAS PAR­
-                                                  TES DE LA FILOSOFÍA.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 [1
 
 
@@ -466,16 +425,16 @@ LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 2462 strings out of 494997
- 31756 string characters out of 3180092
- 85192 words of memory out of 3000000
- 5634 multiletter control sequences out of 15000+200000
+ 2461 strings out of 494997
+ 31751 string characters out of 3180092
+ 84192 words of memory out of 3000000
+ 5633 multiletter control sequences out of 15000+200000
  13406 words of font info for 18 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,4n,26p,339b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,4n,26p,262b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on LeccionesPreliminaresFilosofia.pdf (1 page, 49736 bytes).
+Output written on LeccionesPreliminaresFilosofia.pdf (1 page, 51145 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
