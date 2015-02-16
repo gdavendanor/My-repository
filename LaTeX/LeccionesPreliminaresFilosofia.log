@@ -416,60 +416,6 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-! Undefined control sequence.
-l.19 ...ecesitamos tener de ella una \guillemoleft
-                                                   vivencia\guillemoright. L...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 ...a una \guillemoleft vivencia\guillemoright
-                                                  . La palabra vivencia ha s...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 ...cción de la palabra alemana \guillemoleft
-                                                   Erlebnis\guillemoright. V...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 ...emana \guillemoleft Erlebnis\guillemoright
-                                                  . Vivencia significa lo qu...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 ...en la plenitud de la palabra \guillemoleft
-                                                   tener\guillemoright.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.19 ... palabra \guillemoleft tener\guillemoright
-                                                  .
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 [1
 
 
@@ -485,10 +431,10 @@ Here is how much of TeX's memory you used:
  5636 multiletter control sequences out of 15000+200000
  22428 words of font info for 21 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,4n,26p,614b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,4n,26p,620b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on LeccionesPreliminaresFilosofia.pdf (2 pages, 58938 bytes).
+Output written on LeccionesPreliminaresFilosofia.pdf (2 pages, 59368 bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
  13 compressed objects within 1 object stream
