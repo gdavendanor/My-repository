@@ -4,6 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{lmodern}
+\usepackage{tikz,pgf}
 \author{Manuel Garc\'{i}a Morente}
 \begin{document}
 \chapter*{Lecci\'{o}n I:\\EL CONJUNTO DE LA FILOSOF\'{I}A}
@@ -20,4 +21,11 @@ Una ciencia, una disciplina, un "hacer" humano cualquiera, recibe su concepto cl
 
 Voy a dar un ejemplo para que comprendan bien qué es la \guillemotleft vivencia\guillemotright. El ejemplo no es mío, es de Bergson.
 
+\begin{tikzpicture}[scale=.9]
+\draw[dotted,style=help lines] (-3,-3) grid (4,4);
+\draw[<->] (-3.2,0)--(4.2,0) node[right] {A};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-3.2)--(0,4.2)node[left]{B};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
 \end{document}
