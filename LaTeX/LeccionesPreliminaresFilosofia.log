@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 FEB 2015 18:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -416,28 +416,60 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+! Undefined control sequence.
+l.19 ...ecesitamos tener de ella una \guillemoleft
+                                                   vivencia \guillemoright. ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 ... una \guillemoleft vivencia \guillemoright
+                                                  . La palabra vivencia ha s...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Package inputenc Error: Unicode char \u8:­ not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 .... Vivencia significa lo que tenemos real­
+                                                  mente en nuestro ser psíq...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./LeccionesPreliminaresFilosofia.aux
 LaTeX Info: Redefining \. on input line 2.
 LaTeX Info: Redefining \% on input line 2.
 ) ) 
 Here is how much of TeX's memory you used:
- 2464 strings out of 494997
- 31790 string characters out of 3180092
+ 2467 strings out of 494997
+ 31818 string characters out of 3180092
  87192 words of memory out of 3000000
- 5635 multiletter control sequences out of 15000+200000
- 19403 words of font info for 20 fonts, out of 3000000 for 9000
+ 5637 multiletter control sequences out of 15000+200000
+ 22428 words of font info for 21 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,4n,26p,477b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,4n,26p,569b,199s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on LeccionesPreliminaresFilosofia.pdf (1 page, 57427 bytes).
+Output written on LeccionesPreliminaresFilosofia.pdf (2 pages, 59363 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
