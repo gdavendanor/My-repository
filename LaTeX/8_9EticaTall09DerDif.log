@@ -856,7 +856,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \f@ncyO@olf=\skip61
 \f@ncyO@orf=\skip62
 )
-No file 8_9EticaTall09DerDif.aux.
+(./8_9EticaTall09DerDif.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `8_9EticaTall09DerDif.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
@@ -874,7 +877,7 @@ LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 35.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 35.
@@ -922,6 +925,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 35.
 LaTeX Info: Redefining \pageref on input line 35.
 LaTeX Info: Redefining \nameref on input line 35.
+
+(./8_9EticaTall09DerDif.out) (./8_9EticaTall09DerDif.out)
 \@outlinefile=\write4
 \openout4 = `8_9EticaTall09DerDif.out'.
 
@@ -1021,17 +1026,8 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 37.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 37.
-
-! Undefined control sequence.
-l.45 ...en su reemplazo cargan la Biblia.\footcite
-                                                  {Periódico El Tiempo, 23 ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
@@ -1043,36 +1039,29 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
-
-
-Package rerunfilecheck Warning: File `8_9EticaTall09DerDif.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `8_9EticaTall09DerDif.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `8_9EticaTall09DerDif.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
  ) 
 Here is how much of TeX's memory you used:
- 16816 strings out of 494997
- 287810 string characters out of 3180092
- 363645 words of memory out of 3000000
- 19680 multiletter control sequences out of 15000+200000
- 56705 words of font info for 59 fonts, out of 3000000 for 9000
+ 16825 strings out of 494997
+ 287990 string characters out of 3180092
+ 363749 words of memory out of 3000000
+ 19681 multiletter control sequences out of 15000+200000
+ 59697 words of font info for 60 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,611b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,11n,55p,620b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pf
-b></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type
-1/public/lm/lmsy10.pfb>
-Output written on 8_9EticaTall09DerDif.pdf (1 page, 190755 bytes).
+b></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
+Output written on 8_9EticaTall09DerDif.pdf (1 page, 225229 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
