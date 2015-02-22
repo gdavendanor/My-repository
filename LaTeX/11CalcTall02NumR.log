@@ -963,14 +963,14 @@ Package caption Info: End \AtBeginDocument code.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
-* v-part:(T,H,B)=(34.68951pt, 527.57121pt, 52.03427pt)
+* v-part:(T,H,B)=(36.13498pt, 523.95749pt, 54.20253pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
 * \textwidth=397.48499pt
-* \textheight=527.57121pt
+* \textheight=523.95749pt
 * \oddsidemargin=-43.362pt
 * \evensidemargin=-28.90797pt
-* \topmargin=-74.58047pt
+* \topmargin=-73.13501pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1083,7 +1083,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
 Here is how much of TeX's memory you used:
  17206 strings out of 494997
  292852 string characters out of 3180092
- 385493 words of memory out of 3000000
+ 385494 words of memory out of 3000000
  19910 multiletter control sequences out of 15000+200000
  53034 words of font info for 65 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1099,7 +1099,7 @@ hare/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/symbols/msbm10.pfb>
-Output written on 11CalcTall02NumR.pdf (4 pages, 262492 bytes).
+Output written on 11CalcTall02NumR.pdf (4 pages, 262476 bytes).
 PDF statistics:
  276 PDF objects out of 1000 (max. 8388607)
  253 compressed objects within 3 object streams
