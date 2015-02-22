@@ -1046,7 +1046,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
 Here is how much of TeX's memory you used:
  16833 strings out of 494997
  288040 string characters out of 3180092
- 364756 words of memory out of 3000000
+ 363756 words of memory out of 3000000
  19684 multiletter control sequences out of 15000+200000
  65673 words of font info for 62 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1060,7 +1060,7 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 /type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></u
 sr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmsy10.pfb>
-Output written on 9GeomTall02PropProp.pdf (1 page, 214100 bytes).
+Output written on 9GeomTall02PropProp.pdf (1 page, 214090 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
