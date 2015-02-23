@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 20:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1117,7 +1117,7 @@ l.143 ...join=round,>=triangle 45,x=1.0cm,y=1.0cm]
 (That was another \errmessage.)
 
 
-Overfull \hbox (60.03844pt too wide) in paragraph at lines 133--166
+Overfull \hbox (60.03844pt too wide) in paragraph at lines 133--165
 []$[]$ $[]$ 
  []
 
@@ -1128,13 +1128,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.166 \end
-          {enumerate}
+l.165 \item L
+             a bisectriz de un ángulo interior de un triángulo, divide al ...
+
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 166
+Underfull \hbox (badness 10000) detected at line 165
 [][]
  []
 
