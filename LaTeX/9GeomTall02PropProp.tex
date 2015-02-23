@@ -164,6 +164,7 @@ secantes son proporcionales. En el gráfico se puede por ejemplo establecer la s
 \item La bisectriz de un ángulo interior de un triángulo, divide al lado opuesto en segmentos proporcionales a los dos lados adyacentes, es decir:
 \[\overline{BF}/\overline{FC}=\overline{BA}/\overline{CA}\]
 \end{minipage}
+\begin{minipage}{.45\textwidth}
 \usetikzlibrary{arrows}
 \baselineskip=10pt
 \hsize=6.3truein
@@ -172,7 +173,7 @@ secantes son proporcionales. En el gráfico se puede por ejemplo establecer la s
 \definecolor{qqwuqq}{rgb}{0,0.39,0}
 \definecolor{zzttqq}{rgb}{0.6,0.2,0}
 \definecolor{qqqqff}{rgb}{0,0,1}
-\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\tikzpicture[scale=.75,line cap=round,line join=round,x=1.0cm,y=1.0cm]
 \clip(-4.02,0.58) rectangle (4.62,5.76);
 \fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (-1,5) -- (-3,1) -- (4,3) -- cycle;
 \draw [shift={(-1,5)},color=qqwuqq,fill=qqwuqq,fill opacity=0.1] (0,0) -- (-116.57:0.6) arc (-116.57:-21.8:0.6) -- cycle;
@@ -189,5 +190,6 @@ secantes son proporcionales. En el gráfico se puede por ejemplo establecer la s
 \fill [color=uququq] (0.18,1.91) circle (1.5pt);
 \draw[color=uququq] (0.02,1.72) node {$F$};
 \endtikzpicture
+\end{minipage}
 \end{enumerate}
 \end{document}
