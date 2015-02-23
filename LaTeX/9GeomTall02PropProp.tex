@@ -127,4 +127,41 @@ secantes son proporcionales. En el gráfico se puede por ejemplo establecer la s
 \endtikzpicture
 \end{minipage}
 \subsection*{Consecuencias del teorema}
+\begin{minipage}{.45\textwidth}
+\begin{enumerate}
+\item Toda recta paralela a uno de los lados de un triángulo y que corta a los otros dos, divide a éstos en segmentos proporcionales.
+\end{minipage}
+\begin{minipage}{.45\textwidth}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{uququq}{rgb}{0.25,0.25,0.25}
+\definecolor{xdxdff}{rgb}{0.49,0.49,1}
+\definecolor{zzttqq}{rgb}{0.6,0.2,0}
+\definecolor{qqqqff}{rgb}{0,0,1}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-3.74,0.12) rectangle (5.76,5.84);
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (-1,5) -- (-3,1) -- (4,3) -- cycle;
+\draw [color=zzttqq] (-1,5)-- (-3,1);
+\draw [color=zzttqq] (-3,1)-- (4,3);
+\draw [color=zzttqq] (4,3)-- (-1,5);
+\draw [domain=-3.74:5.76] plot(\x,{(-10.81-4*\x)/-2});
+\draw [domain=-3.74:5.76] plot(\x,{(--10-4*\x)/-2});
+\fill [color=qqqqff] (-1,5) circle (1.5pt);
+\draw[color=qqqqff] (-1.24,5.08) node {$A$};
+\fill [color=qqqqff] (-3,1) circle (1.5pt);
+\draw[color=qqqqff] (-3.28,1.08) node {$B$};
+\fill [color=qqqqff] (4,3) circle (1.5pt);
+\draw[color=qqqqff] (4.22,2.96) node {$C$};
+\fill [color=xdxdff] (-0.33,4.73) circle (1.5pt);
+\draw[color=xdxdff] (-0.08,4.86) node {$D$};
+\draw[color=black] (-0.1,5.56) node {$d$};
+\draw[color=black] (4.98,4.58) node {$e$};
+\fill [color=uququq] (-2.07,1.27) circle (1.5pt);
+\draw[color=uququq] (-1.84,1.18) node {$E$};
+\endtikzpicture
+\end{minipage}
+\item
+\end{enumerate}
 \end{document}
