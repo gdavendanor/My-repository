@@ -164,6 +164,30 @@ secantes son proporcionales. En el gráfico se puede por ejemplo establecer la s
 \item La bisectriz de un ángulo interior de un triángulo, divide al lado opuesto en segmentos proporcionales a los dos lados adyacentes, es decir:
 \[\overline{BF}/\overline{FC}=\overline{BA}/\overline{CA}\]
 \end{minipage}
-\
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{uququq}{rgb}{0.25,0.25,0.25}
+\definecolor{qqwuqq}{rgb}{0,0.39,0}
+\definecolor{zzttqq}{rgb}{0.6,0.2,0}
+\definecolor{qqqqff}{rgb}{0,0,1}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-4.02,0.58) rectangle (4.62,5.76);
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (-1,5) -- (-3,1) -- (4,3) -- cycle;
+\draw [shift={(-1,5)},color=qqwuqq,fill=qqwuqq,fill opacity=0.1] (0,0) -- (-116.57:0.6) arc (-116.57:-21.8:0.6) -- cycle;
+\draw [color=zzttqq] (-1,5)-- (-3,1);
+\draw [color=zzttqq] (-3,1)-- (4,3);
+\draw [color=zzttqq] (4,3)-- (-1,5);
+\draw [domain=-4.02:4.62] plot(\x,{(--0.84-0.93*\x)/0.36});
+\fill [color=qqqqff] (-1,5) circle (1.5pt);
+\draw[color=qqqqff] (-1.24,5.08) node {$A$};
+\fill [color=qqqqff] (-3,1) circle (1.5pt);
+\draw[color=qqqqff] (-3.28,1.08) node {$B$};
+\fill [color=qqqqff] (4,3) circle (1.5pt);
+\draw[color=qqqqff] (4.22,2.96) node {$C$};
+\fill [color=uququq] (0.18,1.91) circle (1.5pt);
+\draw[color=uququq] (0.02,1.72) node {$F$};
+\endtikzpicture
 \end{enumerate}
 \end{document}
