@@ -87,12 +87,36 @@ De la proporción $a$ es a $n$ como $n$ es a $b$, diremos que $n$ es media propo
 \item[$P_{6}$:] $\dfrac{a}{b}=\dfrac{b}{d}\Rightarrow b\cdot b =a\cdot d$ \qquad $b$, es medio proporcional entre $a$ y $d$
 \end{itemize}
 \section*{Teorema de Thales}
-\begin{tikzpicture}
-\draw[<->] (0,3)--(5,3);
-\draw[<->] (0,2)--(5,2);
-\draw[<->] (0,1)--(5,1);
-\draw[<->] (0,0)--(5,0);
-\draw[<->] (0,-1)--(1,4);
-\draw[<->] (4,4)--(5,-1);
-\end{tikzpicture}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{xdxdff}{rgb}{0.49,0.49,1}
+\definecolor{uququq}{rgb}{0.25,0.25,0.25}
+\definecolor{qqqqff}{rgb}{0,0,1}
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-2.62,-0.32) rectangle (3.94,5.68);
+\draw [domain=-2.62:3.94] plot(\x,{(-11-5*\x)/-1});
+\draw [domain=-2.62:3.94] plot(\x,{(--18-6*\x)/1});
+\draw [domain=-2.62:3.94] plot(\x,{(--35-0*\x)/7});
+\draw [domain=-2.62:3.94] plot(\x,{(--7-0*\x)/7});
+\draw [domain=-2.62:3.94] plot(\x,{(--26.44-0*\x)/7});
+\draw [domain=-2.62:3.94] plot(\x,{(--17.34-0*\x)/7});
+\fill [color=qqqqff] (-2,1) circle (1.5pt);
+\draw[color=qqqqff] (-2.18,1.24) node {$D$};
+\fill [color=uququq] (-1.2,5) circle (1.5pt);
+\draw[color=uququq] (-1.44,5.22) node {$A$};
+\fill [color=xdxdff] (-1.44,3.78) circle (1.5pt);
+\draw[color=xdxdff] (-1.68,4.04) node {$B$};
+\fill [color=xdxdff] (-1.7,2.48) circle (1.5pt);
+\draw[color=xdxdff] (-1.96,2.72) node {$C$};
+\fill [color=uququq] (2.17,5) circle (1.5pt);
+\draw[color=uququq] (2.34,5.26) node {$A'$};
+\fill [color=uququq] (2.37,3.78) circle (1.5pt);
+\draw[color=uququq] (2.56,4.04) node {$B'$};
+\fill [color=uququq] (2.59,2.48) circle (1.5pt);
+\draw[color=uququq] (2.76,2.74) node {$C'$};
+\fill [color=uququq] (2.83,1) circle (1.5pt);
+\draw[color=uququq] (3.04,1.26) node {$D'$};
+\endtikzpicture
 \end{document}
