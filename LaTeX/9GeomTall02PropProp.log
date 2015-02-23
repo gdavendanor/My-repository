@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 19:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1058,13 +1058,13 @@ Package rerunfilecheck Info: File `9GeomTall02PropProp.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
  ) 
 Here is how much of TeX's memory you used:
- 17309 strings out of 494997
- 299565 string characters out of 3180092
+ 17310 strings out of 494997
+ 299582 string characters out of 3180092
  372756 words of memory out of 3000000
- 20139 multiletter control sequences out of 15000+200000
+ 20140 multiletter control sequences out of 15000+200000
  65992 words of font info for 63 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,12n,55p,430b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,55p,430b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm
@@ -1076,7 +1076,7 @@ sr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/l
 mtt10.pfb>
-Output written on 9GeomTall02PropProp.pdf (3 pages, 271785 bytes).
+Output written on 9GeomTall02PropProp.pdf (3 pages, 271780 bytes).
 PDF statistics:
  102 PDF objects out of 1000 (max. 8388607)
  82 compressed objects within 1 object stream
