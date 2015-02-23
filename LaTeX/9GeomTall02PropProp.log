@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 20:37
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  22 FEB 2015 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1089,10 +1089,10 @@ sr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/
 lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 9GeomTall02PropProp.pdf (4 pages, 289989 bytes).
+Output written on 9GeomTall02PropProp.pdf (4 pages, 289806 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
+ 122 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
  29 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
