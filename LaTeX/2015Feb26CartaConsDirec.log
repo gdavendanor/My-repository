@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,15 +426,15 @@ LaTeX Info: Redefining \% on input line 14.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(99.58464pt, 624.25346pt, 71.13188pt)
+* h-part:(L,W,R)=(71.13188pt, 479.14442pt, 64.01869pt)
+* v-part:(T,H,B)=(92.47145pt, 631.36665pt, 71.13188pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=624.25346pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=-29.68535pt
+* \textwidth=479.14442pt
+* \textheight=631.36665pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-36.79854pt
 * \headheight=12.0pt
 * \headsep=45.0pt
 * \topskip=11.0pt
@@ -498,7 +498,7 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  2698 strings out of 494997
  32690 string characters out of 3180092
- 90309 words of memory out of 3000000
+ 90334 words of memory out of 3000000
  5861 multiletter control sequences out of 15000+200000
  19955 words of font info for 33 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -507,7 +507,7 @@ Here is how much of TeX's memory you used:
 nc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on 2015Feb26CartaConsDirec.pdf (2 pages, 39054 bytes).
+Output written on 2015Feb26CartaConsDirec.pdf (2 pages, 38996 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
