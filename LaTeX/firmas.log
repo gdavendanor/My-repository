@@ -500,14 +500,14 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  2842 strings out of 494997
  38948 string characters out of 3180092
- 100987 words of memory out of 3000000
+ 101987 words of memory out of 3000000
  5994 multiletter control sequences out of 15000+200000
  14650 words of font info for 24 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,4n,30p,238b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on firmas.pdf (1 page, 17157 bytes).
+Output written on firmas.pdf (1 page, 17168 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
