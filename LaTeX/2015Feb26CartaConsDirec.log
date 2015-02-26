@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -422,19 +422,19 @@ LaTeX Info: Redefining \% on input line 14.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(71.13188pt, 479.14442pt, 64.01869pt)
-* v-part:(T,H,B)=(92.47145pt, 631.36665pt, 71.13188pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=479.14442pt
-* \textheight=631.36665pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-36.79854pt
+* h-part:(L,W,R)=(85.35826pt, 407.44347pt, 85.35826pt)
+* v-part:(T,H,B)=(113.81102pt, 754.5671pt, 71.13188pt)
+* \paperwidth=578.15999pt
+* \paperheight=939.51pt
+* \textwidth=407.44347pt
+* \textheight=754.5671pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-15.45897pt
 * \headheight=12.0pt
 * \headsep=45.0pt
 * \topskip=11.0pt
@@ -490,27 +490,27 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./2015Feb26CartaConsD
-irec.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./2015Feb26CartaConsDirec
+.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  2698 strings out of 494997
  32690 string characters out of 3180092
- 90334 words of memory out of 3000000
+ 90443 words of memory out of 3000000
  5861 multiletter control sequences out of 15000+200000
  19955 words of font info for 33 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 27i,6n,27p,487b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,30p,487b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/e
 nc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on 2015Feb26CartaConsDirec.pdf (2 pages, 38996 bytes).
+Output written on 2015Feb26CartaConsDirec.pdf (1 page, 38803 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 21 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
