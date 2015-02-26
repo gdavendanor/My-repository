@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -496,10 +496,10 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2698 strings out of 494997
- 32690 string characters out of 3180092
+ 2694 strings out of 494997
+ 32639 string characters out of 3180092
  90443 words of memory out of 3000000
- 5861 multiletter control sequences out of 15000+200000
+ 5857 multiletter control sequences out of 15000+200000
  19955 words of font info for 33 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  27i,6n,30p,487b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -507,7 +507,7 @@ Here is how much of TeX's memory you used:
 nc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/shar
 e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsy8.pfb>
-Output written on 2015Feb26CartaConsDirec.pdf (1 page, 38803 bytes).
+Output written on 2015Feb26CartaConsDirec.pdf (1 page, 38835 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
