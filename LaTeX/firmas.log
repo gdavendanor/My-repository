@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 FEB 2015 20:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -489,7 +489,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 9.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 9.
- [1
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./firmas.aux
 LaTeX Info: Redefining \. on input line 6.
@@ -505,7 +510,7 @@ Here is how much of TeX's memory you used:
  38i,4n,30p,238b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on firmas.pdf (1 page, 17155 bytes).
+Output written on firmas.pdf (1 page, 17157 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
