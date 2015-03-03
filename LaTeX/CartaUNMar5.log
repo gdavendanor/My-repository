@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  3 MAR 2015 17:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  3 MAR 2015 17:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,10 +359,10 @@ Here is how much of TeX's memory you used:
  4520 multiletter control sequences out of 15000+200000
  18720 words of font info for 27 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 26i,6n,27p,364b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,6n,27p,385b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on CartaUNMar5.pdf (1 page, 35137 bytes).
+Output written on CartaUNMar5.pdf (1 page, 35280 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
