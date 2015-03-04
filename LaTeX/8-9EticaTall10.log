@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  4 MAR 2015 18:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  4 MAR 2015 18:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1062,11 +1062,11 @@ Package rerunfilecheck Info: File `8-9EticaTall10.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
  ) 
 Here is how much of TeX's memory you used:
- 16956 strings out of 494997
- 289940 string characters out of 3180092
+ 16955 strings out of 494997
+ 289921 string characters out of 3180092
  377347 words of memory out of 3000000
- 19775 multiletter control sequences out of 15000+200000
- 73078 words of font info for 65 fonts, out of 3000000 for 9000
+ 19774 multiletter control sequences out of 15000+200000
+ 70044 words of font info for 64 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,12n,55p,835b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1077,9 +1077,9 @@ ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
-c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/
+c/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/
 texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 8-9EticaTall10.pdf (4 pages, 309721 bytes).
+Output written on 8-9EticaTall10.pdf (4 pages, 307602 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
