@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  4 MAR 2015 18:25
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  4 MAR 2015 18:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1034,24 +1034,24 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Try loading font information for T1+lmtt on input line 92.
  (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
- [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+) [2] [3]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 139.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 139.
  (./8-9EticaTall10.aux
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 139.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
 Package rerunfilecheck Info: File `8-9EticaTall10.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
- 16883 strings out of 494997
- 288654 string characters out of 3180092
- 371721 words of memory out of 3000000
+ 16887 strings out of 494997
+ 288687 string characters out of 3180092
+ 373721 words of memory out of 3000000
  19721 multiletter control sequences out of 15000+200000
  67274 words of font info for 63 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1065,10 +1065,10 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 8-9EticaTall10.pdf (3 pages, 285920 bytes).
+Output written on 8-9EticaTall10.pdf (4 pages, 290471 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 17 named destinations out of 1000 (max. 500000)
+ 102 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
