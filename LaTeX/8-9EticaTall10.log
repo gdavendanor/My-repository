@@ -1055,7 +1055,7 @@ Here is how much of TeX's memory you used:
  19721 multiletter control sequences out of 15000+200000
  67274 words of font info for 63 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,12n,55p,840b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,12n,55p,839b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
 /texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm
@@ -1065,7 +1065,7 @@ pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 8-9EticaTall10.pdf (3 pages, 285588 bytes).
+Output written on 8-9EticaTall10.pdf (3 pages, 285583 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  73 compressed objects within 1 object stream
