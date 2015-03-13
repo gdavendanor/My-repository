@@ -945,14 +945,14 @@ Package caption Info: End \AtBeginDocument code.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
 * h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
-* v-part:(T,H,B)=(57.81598pt, 469.75499pt, 86.72403pt)
+* v-part:(T,H,B)=(40.47101pt, 513.11743pt, 60.70656pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
 * \textwidth=397.48499pt
-* \textheight=469.75499pt
+* \textheight=513.11743pt
 * \oddsidemargin=-43.362pt
 * \evensidemargin=-28.90797pt
-* \topmargin=-51.45401pt
+* \topmargin=-68.79898pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1039,13 +1039,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 108.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 108.
-
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [3]
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 108.
  (./11CalcTall02.aux
 LaTeX Info: Redefining \. on input line 17.
@@ -1058,15 +1053,15 @@ Package rerunfilecheck Info: File `11CalcTall02.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 108.
  ) 
 Here is how much of TeX's memory you used:
- 16911 strings out of 494997
- 288747 string characters out of 3180092
- 382763 words of memory out of 3000000
- 19712 multiletter control sequences out of 15000+200000
- 52292 words of font info for 58 fonts, out of 3000000 for 9000
+ 16870 strings out of 494997
+ 288132 string characters out of 3180092
+ 381763 words of memory out of 3000000
+ 19676 multiletter control sequences out of 15000+200000
+ 51973 words of font info for 57 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,12n,55p,423b,497s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+ 56i,11n,55p,423b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/l
 m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi
@@ -1076,12 +1071,11 @@ usr/share/texmf/fonts/type1/public/lm/lmr5.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/t
 exmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 i10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pf
-b>
-Output written on 11CalcTall02.pdf (3 pages, 263259 bytes).
+nts/type1/public/lm/lmsy7.pfb>
+Output written on 11CalcTall02.pdf (2 pages, 240676 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 149 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 56 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
