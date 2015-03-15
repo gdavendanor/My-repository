@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  15 MAR 2015 10:23
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  15 MAR 2015 10:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -360,14 +360,14 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  1297 strings out of 494997
  15046 string characters out of 3180092
- 65395 words of memory out of 3000000
+ 66395 words of memory out of 3000000
  4512 multiletter control sequences out of 15000+200000
  18720 words of font info for 27 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  26i,6n,27p,266b,216s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb>
-Output written on Ade-Marzo16-2015.pdf (1 page, 33560 bytes).
+Output written on Ade-Marzo16-2015.pdf (1 page, 33826 bytes).
 PDF statistics:
  13 PDF objects out of 1000 (max. 8388607)
  8 compressed objects within 1 object stream
