@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1317449444.
+Randomizer initialized to 1318616160.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1077,12 +1077,6 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 170.
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Scrambling section 1, question: 
-12, 5, 8, 14, 3, 1, 13, 10, 4, 15, 7, 2, 16, 6, 11, 9.
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
-
- []
-
 <Images/triangulonum.png, id=8, 255.95625pt x 215.30438pt>
 File: Images/triangulonum.png Graphic file (type png)
 
@@ -1099,28 +1093,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
  []
 
-<Images/puntos.pdf, id=9, 208.75189pt x 138.52553pt>
-File: Images/puntos.pdf Graphic file (type pdf)
- <use Images/puntos.pdf>
-Package pdftex.def Info: Images/puntos.pdf used on input line 170.
-(pdftex.def)             Requested size: 167.00172pt x 110.82056pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
-
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/triangulonum.png (PNG copy)> <./Images/puntos.pdf>]
-<Images/anguloswxyz.png, id=42, 165.0165pt x 111.2958pt>
-File: Images/anguloswxyz.png Graphic file (type png)
-
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 170.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-<Images/semajanza01.png, id=44, 317.5062pt x 100.6962pt>
+<Images/semajanza01.png, id=9, 317.5062pt x 100.6962pt>
 File: Images/semajanza01.png Graphic file (type png)
 
 <use Images/semajanza01.png>
@@ -1136,30 +1109,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
  []
 
-<Images/angulosxy.png, id=45, 200.1879pt x 115.8729pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+
+ []
+
+<Images/angulosxy.png, id=11, 200.1879pt x 115.8729pt>
 File: Images/angulosxy.png Graphic file (type png)
 
 <use Images/angulosxy.png>
 Package pdftex.def Info: Images/angulosxy.png used on input line 170.
 (pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+ <./Images/triangulonum.png (PNG copy)> <./Images/semajanza01.png> <./Images/an
+gulosxy.png>]
+<Images/anguloswxyz.png, id=32, 165.0165pt x 111.2958pt>
+File: Images/anguloswxyz.png Graphic file (type png)
+
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 170.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
  []
 
-<Images/cuadrado.pdf, id=46, 261.7469pt x 265.16064pt>
+<Images/cuadrado.pdf, id=33, 261.7469pt x 265.16064pt>
 File: Images/cuadrado.pdf Graphic file (type pdf)
 
 <use Images/cuadrado.pdf>
 Package pdftex.def Info: Images/cuadrado.pdf used on input line 170.
 (pdftex.def)             Requested size: 196.3097pt x 198.86998pt.
- [2 <./Images/anguloswxyz.png> <./Images/semajanza01.png> <./Images/angulosxy.p
-ng>] [3 <./Images/cuadrado.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
- []
+<Images/puntos.pdf, id=34, 208.75189pt x 138.52553pt>
+File: Images/puntos.pdf Graphic file (type pdf)
+ <use Images/puntos.pdf>
+Package pdftex.def Info: Images/puntos.pdf used on input line 170.
+(pdftex.def)             Requested size: 167.00172pt x 110.82056pt.
 
-
+[2 <./Images/anguloswxyz.png> <./Images/cuadrado.pdf> <./Images/puntos.pdf>]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 170--170
 
  []
@@ -1195,15 +1186,15 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
 Here is how much of TeX's memory you used:
  17379 strings out of 494997
  296145 string characters out of 3180092
- 384921 words of memory out of 3000000
+ 386921 words of memory out of 3000000
  20197 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,515s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,537s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathit.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
@@ -1211,7 +1202,7 @@ hare/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 y10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (4 pages, 205829 bytes).
+Output written on 9MatPruebBim1.pdf (4 pages, 205814 bytes).
 PDF statistics:
  144 PDF objects out of 1000 (max. 8388607)
  115 compressed objects within 2 object streams
