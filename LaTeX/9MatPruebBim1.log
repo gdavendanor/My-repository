@@ -1185,11 +1185,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
 Here is how much of TeX's memory you used:
  17366 strings out of 494997
  296031 string characters out of 3180092
- 393918 words of memory out of 3000000
+ 394918 words of memory out of 3000000
  20191 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
