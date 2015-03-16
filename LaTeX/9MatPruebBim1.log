@@ -1117,13 +1117,22 @@ File: Images/semajanza01.png Graphic file (type png)
 
 <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
- [1
+(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/anguloswxyz.png> <./Images/cuadrado4-4.png> <./Images/angulosxy.png>
-]
-<Images/triangulonum.png, id=34, 255.95625pt x 215.30438pt>
+] <Images/triangulonum.png, id=34, 255.95625pt x 215.30438pt>
 File: Images/triangulonum.png Graphic file (type png)
 
 <use Images/triangulonum.png>
@@ -1184,7 +1193,17 @@ l.146 \end{document}
 File: Images/semajanza01.png Graphic file (type png)
  <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
+(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
@@ -1225,7 +1244,17 @@ Scrambling section 1, question:
 File: Images/semajanza01.png Graphic file (type png)
  <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
+(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
@@ -1304,7 +1333,7 @@ Here is how much of TeX's memory you used:
  20185 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,527s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
@@ -1314,7 +1343,7 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (9 pages, 223870 bytes).
+Output written on 9MatPruebBim1.pdf (9 pages, 223880 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
