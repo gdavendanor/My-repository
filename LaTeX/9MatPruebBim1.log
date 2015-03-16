@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1325616456.
+Randomizer initialized to 1326783172.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1202,7 +1202,7 @@ hare/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 y10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (4 pages, 206749 bytes).
+Output written on 9MatPruebBim1.pdf (4 pages, 206750 bytes).
 PDF statistics:
  146 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
