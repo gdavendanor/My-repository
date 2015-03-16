@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1276614384.
+Randomizer initialized to 1290614976.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1078,53 +1078,8 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 154.
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Scrambling section 1, question: 
-8, 11, 10, 4, 9, 6, 3, 13, 5, 7, 1, 2, 12.
-<Images/cuadrado4-4.png, id=8, 329.5512pt x 303.2931pt>
-File: Images/cuadrado4-4.png Graphic file (type png)
-
-<use Images/cuadrado4-4.png>
-Package pdftex.def Info: Images/cuadrado4-4.png used on input line 154.
-(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-
- []
-
-<Images/anguloswxyz.png, id=10, 165.0165pt x 111.2958pt>
-File: Images/anguloswxyz.png Graphic file (type png)
-
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 154.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-<Images/angulosxy.png, id=11, 200.1879pt x 115.8729pt>
-File: Images/angulosxy.png Graphic file (type png)
-
-<use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 154.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/cuadrado4-4.png> <./Images/anguloswxyz.png> <./Images/angulosxy.png>
-] <Images/puntos.pdf, id=34, 208.75189pt x 138.52553pt>
-File: Images/puntos.pdf Graphic file (type pdf)
-
-<use Images/puntos.pdf>
-Package pdftex.def Info: Images/puntos.pdf used on input line 154.
-(pdftex.def)             Requested size: 167.00172pt x 110.82056pt.
-
-<Images/triangulonum.png, id=35, 255.95625pt x 215.30438pt>
+5, 1, 4, 6, 9, 8, 10, 11, 3, 12, 13, 2, 7.
+<Images/triangulonum.png, id=8, 255.95625pt x 215.30438pt>
 File: Images/triangulonum.png Graphic file (type png)
 
 <use Images/triangulonum.png>
@@ -1135,6 +1090,44 @@ Underfull \hbox (badness 5388) in paragraph at lines 154--154
 \T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
+<Images/angulosxy.png, id=9, 200.1879pt x 115.8729pt>
+File: Images/angulosxy.png Graphic file (type png)
+
+<use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 154.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+
+<Images/anguloswxyz.png, id=11, 165.0165pt x 111.2958pt>
+File: Images/anguloswxyz.png Graphic file (type png)
+
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 154.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
+<Images/cuadrado.pdf, id=12, 261.7469pt x 265.16064pt>
+File: Images/cuadrado.pdf Graphic file (type pdf)
+
+<use Images/cuadrado.pdf>
+Package pdftex.def Info: Images/cuadrado.pdf used on input line 154.
+(pdftex.def)             Requested size: 170.13347pt x 172.35237pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+ <./Images/triangulonum.png (PNG copy)> <./Images/angulosxy.png> <./Images/angu
+loswxyz.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+
+ []
+
+<Images/puntos.pdf, id=35, 208.75189pt x 138.52553pt>
+File: Images/puntos.pdf Graphic file (type pdf)
+ <use Images/puntos.pdf>
+Package pdftex.def Info: Images/puntos.pdf used on input line 154.
+(pdftex.def)             Requested size: 167.00172pt x 110.82056pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
@@ -1156,13 +1149,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
  []
 
-[2 <./Images/puntos.pdf> <./Images/triangulonum.png (PNG copy)> <./Images/semaj
-anza01.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
-
- []
-
-
+[2 <./Images/cuadrado.pdf> <./Images/puntos.pdf> <./Images/semajanza01.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 154--154
 
  []
@@ -1197,16 +1184,16 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
  17366 strings out of 494997
- 296046 string characters out of 3180092
- 397918 words of memory out of 3000000
+ 296031 string characters out of 3180092
+ 393918 words of memory out of 3000000
  20191 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,513s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
--mathsy.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
+hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-rm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
 2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
@@ -1214,10 +1201,10 @@ hare/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lms
 y10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (3 pages, 222425 bytes).
+Output written on 9MatPruebBim1.pdf (3 pages, 202083 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
+ 131 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
  33 named destinations out of 1000 (max. 500000)
  48 words of extra memory for PDF output out of 10000 (max. 10000000)
 
