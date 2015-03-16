@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:46
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1249779916.
+Randomizer initialized to 1252113348.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1078,7 +1078,7 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 146.
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Scrambling section 1, question: 
-3, 7, 8, 11, 1, 12, 4, 10, 5, 6, 9, 2.
+5, 11, 12, 6, 10, 3, 2, 8, 7, 1, 9, 4.
 <Images/anguloswxyz.png, id=8, 165.0165pt x 111.2958pt>
 File: Images/anguloswxyz.png Graphic file (type png)
 
@@ -1086,94 +1086,60 @@ File: Images/anguloswxyz.png Graphic file (type png)
 Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
 (pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
-[] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
-<Images/triangulonum.png, id=10, 255.95625pt x 215.30438pt>
-File: Images/triangulonum.png Graphic file (type png)
-
-<use Images/triangulonum.png>
-Package pdftex.def Info: Images/triangulonum.png used on input line 146.
-(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 ope-ra-cio-nes in-di-ca-das y ve-rás que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-<Images/cuadrado4-4.png, id=11, 329.5512pt x 303.2931pt>
+<Images/cuadrado4-4.png, id=10, 329.5512pt x 303.2931pt>
 File: Images/cuadrado4-4.png Graphic file (type png)
 
 <use Images/cuadrado4-4.png>
 Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
 (pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
 
-Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
  []
 
-<Images/angulosxy.png, id=12, 200.1879pt x 115.8729pt>
+<Images/angulosxy.png, id=11, 200.1879pt x 115.8729pt>
 File: Images/angulosxy.png Graphic file (type png)
 
 <use Images/angulosxy.png>
 Package pdftex.def Info: Images/angulosxy.png used on input line 146.
 (pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
 
-Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
  []
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/anguloswxyz.png> <./Images/triangulonum.png (PNG copy)> <./Images/cu
-adrado4-4.png>] <Images/semajanza01.png, id=36, 317.5062pt x 100.6962pt>
+<Images/semajanza01.png, id=12, 317.5062pt x 100.6962pt>
 File: Images/semajanza01.png Graphic file (type png)
 
 <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
 (pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
+ [1
 
-Underfull \hbox (badness 6063) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+ <./Images/anguloswxyz.png> <./Images/cuadrado4-4.png> <./Images/angulosxy.png>
+]
+<Images/triangulonum.png, id=34, 255.95625pt x 215.30438pt>
+File: Images/triangulonum.png Graphic file (type png)
+
+<use Images/triangulonum.png>
+Package pdftex.def Info: Images/triangulonum.png used on input line 146.
+(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+
+Underfull \hbox (badness 5388) in paragraph at lines 146--146
+\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
- []
-
-
-Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
-[]
- []
-
-
+[2 <./Images/semajanza01.png> <./Images/triangulonum.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
-[2 <./Images/angulosxy.png> <./Images/semajanza01.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
@@ -1195,59 +1161,30 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 146.
 (pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
 
 Scrambling section 1, question: 
-9, 12, 5, 2, 3, 10, 8, 11, 1, 4, 7, 6.
+6, 7, 11, 9, 12, 10, 3, 8, 5, 4, 2, 1.
+File: Images/angulosxy.png Graphic file (type png)
+ <use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 146.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+File: Images/anguloswxyz.png Graphic file (type png)
+
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 File: Images/cuadrado4-4.png Graphic file (type png)
  <use Images/cuadrado4-4.png>
 Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
 (pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-
-Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
-[] 
- []
-
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.146 \end{document}
+                     [1]
 File: Images/semajanza01.png Graphic file (type png)
-<use Images/semajanza01.png>
+ <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
 (pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
-
-Underfull \hbox (badness 6063) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
- []
-
-
-Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-File: Images/anguloswxyz.png Graphic file (type png)
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
-[] 
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
@@ -1258,28 +1195,8 @@ File: Images/triangulonum.png Graphic file (type png)
 Package pdftex.def Info: Images/triangulonum.png used on input line 146.
 (pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 ope-ra-cio-nes in-di-ca-das y ve-rás que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.146 \end{document}
-                     [1]
-File: Images/angulosxy.png Graphic file (type png)
- <use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 146.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
-
-Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
-[] 
+Underfull \hbox (badness 5388) in paragraph at lines 146--146
+\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
@@ -1292,11 +1209,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1309,45 +1221,11 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 146.
 (pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
 
 Scrambling section 1, question: 
-2, 5, 9, 12, 11, 6, 7, 8, 3, 1, 10, 4.
+10, 4, 2, 11, 3, 7, 1, 5, 9, 6, 8, 12.
 File: Images/semajanza01.png Graphic file (type png)
  <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
 (pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
-
-Underfull \hbox (badness 6063) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
- []
-
-
-Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-File: Images/cuadrado4-4.png Graphic file (type png)
-<use Images/cuadrado4-4.png>
-Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
-(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-
-Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
-[] 
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
@@ -1358,25 +1236,6 @@ File: Images/anguloswxyz.png Graphic file (type png)
 Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
 (pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-File: Images/angulosxy.png Graphic file (type png)
-<use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 146.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
-
-Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
-[] 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
@@ -1386,13 +1245,8 @@ File: Images/triangulonum.png Graphic file (type png)
 Package pdftex.def Info: Images/triangulonum.png used on input line 146.
 (pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 ope-ra-cio-nes in-di-ca-das y ve-rás que
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
+Underfull \hbox (badness 5388) in paragraph at lines 146--146
+\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
@@ -1400,17 +1254,22 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.146 \end{document}
-                     [1]pdfTeX warning (ext4): destination with the same identi
-fier (name{page.2}) has been already used, duplicate ignored
+                     [1]
+File: Images/angulosxy.png Graphic file (type png)
+ <use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 146.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+File: Images/cuadrado4-4.png Graphic file (type png)
+
+<use Images/cuadrado4-4.png>
+Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
+(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.146 \end{document}
                      [2]
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
@@ -1441,21 +1300,21 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
 Here is how much of TeX's memory you used:
  17413 strings out of 494997
  296305 string characters out of 3180092
- 391918 words of memory out of 3000000
+ 394918 words of memory out of 3000000
  20185 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,519s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
--mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
+hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
+m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (9 pages, 223986 bytes).
+Output written on 9MatPruebBim1.pdf (9 pages, 223870 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
