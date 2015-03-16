@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1247446484.
+Randomizer initialized to 1248613200.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1078,13 +1078,13 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 146.
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Scrambling section 1, question: 
-2, 3, 1, 5, 4, 10, 7, 6, 9, 12, 11, 8.
+2, 5, 10, 7, 1, 11, 4, 8, 12, 6, 3, 9.
 <Images/semajanza01.png, id=8, 317.5062pt x 100.6962pt>
 File: Images/semajanza01.png Graphic file (type png)
 
 <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
+(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
 
 Underfull \hbox (badness 6063) in paragraph at lines 146--146
 []\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
@@ -1101,18 +1101,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
  []
 
 
-Overfull \hbox (84.30244pt too wide) in paragraph at lines 146--146
+Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
 []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
  []
 
 
@@ -1136,14 +1126,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
  []
 
-<Images/angulosxy.png, id=11, 200.1879pt x 115.8729pt>
-File: Images/angulosxy.png Graphic file (type png)
 
-<use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 146.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
-Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
+ []
+
+<Images/anguloswxyz.png, id=11, 165.0165pt x 111.2958pt>
+File: Images/anguloswxyz.png Graphic file (type png)
+
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+
+Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
 [] 
  []
 
@@ -1158,27 +1153,32 @@ Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
 [] 
  []
 
-[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
- <./Images/semajanza01.png> <./Images/triangulonum.png (PNG copy)> <./Images/an
-gulosxy.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
-<Images/anguloswxyz.png, id=39, 165.0165pt x 111.2958pt>
-File: Images/anguloswxyz.png Graphic file (type png)
+<Images/angulosxy.png, id=13, 200.1879pt x 115.8729pt>
+File: Images/angulosxy.png Graphic file (type png)
 
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+<use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 146.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
 
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
+Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
 [] 
  []
 
-[2 <./Images/cuadrado4-4.png> <./Images/anguloswxyz.png>]
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+ <./Images/semajanza01.png> <./Images/triangulonum.png (PNG copy)> <./Images/an
+guloswxyz.png> <./Images/cuadrado4-4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
+[2 <./Images/angulosxy.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
@@ -1205,33 +1205,29 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 146.
 (pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
 
 Scrambling section 1, question: 
-4, 5, 7, 3, 8, 10, 1, 11, 6, 12, 9, 2.
-File: Images/triangulonum.png Graphic file (type png)
- <use Images/triangulonum.png>
-Package pdftex.def Info: Images/triangulonum.png used on input line 146.
-(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+5, 9, 8, 2, 4, 10, 6, 7, 3, 1, 12, 11.
+File: Images/semajanza01.png Graphic file (type png)
+ <use Images/semajanza01.png>
+Package pdftex.def Info: Images/semajanza01.png used on input line 146.
+(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 ope-ra-cio-nes in-di-ca-das y ve-rás que
+Underfull \hbox (badness 6063) in paragraph at lines 146--146
+[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
+\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
+\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
  []
 
-File: Images/anguloswxyz.png Graphic file (type png)
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
-[] 
+Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
+[]
  []
 
 
@@ -1246,6 +1242,25 @@ Package pdftex.def Info: Images/angulosxy.png used on input line 146.
 
 Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
 [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
+File: Images/triangulonum.png Graphic file (type png)
+<use Images/triangulonum.png>
+Package pdftex.def Info: Images/triangulonum.png used on input line 146.
+(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/lmr/m/n/10 ope-ra-cio-nes in-di-ca-das y ve-rás que
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
  []
 
 
@@ -1268,70 +1283,18 @@ been already used, duplicate ignored
                    \relax 
 l.146 \end{document}
                      [1]
-File: Images/semajanza01.png Graphic file (type png)
- <use Images/semajanza01.png>
-Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
-
-Underfull \hbox (badness 6063) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
- []
-
-
-Overfull \hbox (84.30244pt too wide) in paragraph at lines 146--146
-[]
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 146--146
 
  []
 
+File: Images/anguloswxyz.png Graphic file (type png)
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
-Overfull \vbox (105.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (104.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (103.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (102.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (101.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (100.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (99.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (98.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (97.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (96.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (95.63817pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (94.63817pt too high) has occurred while \output is active []
+Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
+[] 
+ []
 
 
 Overfull \vbox (93.63817pt too high) has occurred while \output is active []
@@ -1539,52 +1502,23 @@ Package pdftex.def Info: Images/logo-colegio.png used on input line 146.
 (pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
 
 Scrambling section 1, question: 
-4, 6, 8, 12, 7, 9, 2, 3, 5, 10, 1, 11.
+9, 11, 8, 10, 4, 6, 7, 3, 1, 2, 5, 12.
+File: Images/anguloswxyz.png Graphic file (type png)
+ <use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+
+Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
+[] 
+ []
+
 File: Images/angulosxy.png Graphic file (type png)
- <use Images/angulosxy.png>
+<use Images/angulosxy.png>
 Package pdftex.def Info: Images/angulosxy.png used on input line 146.
 (pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
 
 Overfull \hbox (21.36076pt too wide) in paragraph at lines 146--146
 [] 
- []
-
-File: Images/cuadrado4-4.png Graphic file (type png)
-<use Images/cuadrado4-4.png>
-Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
-(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-
-Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
-[] 
- []
-
-File: Images/semajanza01.png Graphic file (type png)
-<use Images/semajanza01.png>
-Package pdftex.def Info: Images/semajanza01.png used on input line 146.
-(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
-
-Underfull \hbox (badness 6063) in paragraph at lines 146--146
-[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
- []
-
-
-Overfull \hbox (84.30244pt too wide) in paragraph at lines 146--146
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
-
  []
 
 
@@ -1606,22 +1540,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \T1/lmr/m/n/10 siem-pre lle-gas al mis-mo re-sul-ta-do.
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
+File: Images/semajanza01.png Graphic file (type png)
+<use Images/semajanza01.png>
+Package pdftex.def Info: Images/semajanza01.png used on input line 146.
+(pdftex.def)             Requested size: 206.37657pt x 65.45174pt.
+
+Underfull \hbox (badness 6063) in paragraph at lines 146--146
+[]\T1/lmr/m/n/10 Observa los si-guien-tes trián-gu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/lmr/m/n/10 son se-me-jan-tes y la me-di-da
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+\T1/lmr/m/n/10 de sus la-dos son pro-por-cio-
+ []
+
+
+Overfull \hbox (52.54997pt too wide) in paragraph at lines 146--146
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
+
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.146 \end{document}
                      [1]
-Underfull \hbox (badness 10000) in paragraph at lines 146--146
+File: Images/cuadrado4-4.png Graphic file (type png)
+ <use Images/cuadrado4-4.png>
+Package pdftex.def Info: Images/cuadrado4-4.png used on input line 146.
+(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
 
- []
-
-File: Images/anguloswxyz.png Graphic file (type png)
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 146.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-Overfull \hbox (2.69205pt too wide) in paragraph at lines 146--146
+Overfull \hbox (35.37909pt too wide) in paragraph at lines 146--146
 [] 
  []
 
@@ -1661,11 +1625,11 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
 Here is how much of TeX's memory you used:
  17413 strings out of 494997
  296305 string characters out of 3180092
- 391918 words of memory out of 3000000
+ 393918 words of memory out of 3000000
  20185 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,533s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,581s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -1675,7 +1639,7 @@ f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (9 pages, 226216 bytes).
+Output written on 9MatPruebBim1.pdf (9 pages, 224297 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
