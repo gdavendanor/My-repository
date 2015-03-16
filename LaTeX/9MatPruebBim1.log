@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:36
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1308115716.
+Randomizer initialized to 1309282432.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -909,10 +909,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen187
 \Gm@dimlist=\toks37
 )
-(./9MatPruebBim1.aux
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
-)
+(./9MatPruebBim1.aux)
 \openout1 = `9MatPruebBim1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -1050,5 +1047,5 @@ Here is how much of TeX's memory you used:
  20051 multiletter control sequences out of 15000+200000
  7499 words of font info for 17 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,1n,55p,422b,222s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,1n,55p,422b,84s stack positions out of 5000i,500n,10000p,200000b,50000s
 !  ==> Fatal error occurred, no output PDF file produced!
