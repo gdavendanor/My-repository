@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  16 MAR 2015 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -126,7 +126,7 @@ Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \exam@n=\count119
 \exam@m=\count120
 
-Randomizer initialized to 1226445596.
+Randomizer initialized to 1227612312.
 \@toklist=\toks18
 \c@first=\count121
 \c@last=\count122
@@ -1078,7 +1078,7 @@ LaTeX Font Info:    Try loading font information for T1+lmss on input line 140.
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Scrambling section 1, question: 
-1, 9, 5, 4, 6, 11, 10, 2, 3, 8, 7.
+1, 11, 2, 7, 5, 10, 3, 6, 9, 8, 4.
 <Images/triangulonum.png, id=8, 255.95625pt x 215.30438pt>
 File: Images/triangulonum.png Graphic file (type png)
 
@@ -1090,32 +1090,12 @@ Underfull \hbox (badness 5388) in paragraph at lines 140--140
 \T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
-<Images/angulosxy.png, id=9, 200.1879pt x 115.8729pt>
-File: Images/angulosxy.png Graphic file (type png)
-
-<use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 140.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
-
-
-! LaTeX Error: \begin{multicols} on input line 140 ended by \end{center}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
-<Images/cuadrado4-4.png, id=11, 329.5512pt x 303.2931pt>
+<Images/cuadrado4-4.png, id=9, 329.5512pt x 303.2931pt>
 File: Images/cuadrado4-4.png Graphic file (type png)
 
 <use Images/cuadrado4-4.png>
@@ -1126,199 +1106,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
-<Images/anguloswxyz.png, id=12, 165.0165pt x 111.2958pt>
-File: Images/anguloswxyz.png Graphic file (type png)
-
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-Overfull \vbox (481.63402pt too high) has occurred while \output is active []
-
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/triangulonum.pn
-g (PNG copy)> <./Images/angulosxy.png> <./Images/cuadrado4-4.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-<Images/semajanza01.png, id=31, 317.5062pt x 100.6962pt>
+<Images/semajanza01.png, id=11, 317.5062pt x 100.6962pt>
 File: Images/semajanza01.png Graphic file (type png)
 
 <use Images/semajanza01.png>
-Package pdftex.def Info: Images/semajanza01.png used on input line 140.
-(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-[2 <./Images/anguloswxyz.png> <./Images/semajanza01.png>]
-
-! LaTeX Error: \begin{document} ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.140 \end{document}
-                    
-Things are pretty mixed up, but I think the worst is over.
-
-[3
-
- <./Images/logo-colegio.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [1]
-File: Images/logo-colegio.png Graphic file (type png)
- <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 140.
-(pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
-
-Scrambling section 1, question: 
-4, 6, 2, 5, 8, 3, 11, 7, 1, 9, 10.
-File: Images/angulosxy.png Graphic file (type png)
- <use Images/angulosxy.png>
-Package pdftex.def Info: Images/angulosxy.png used on input line 140.
-(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
-
-
-! LaTeX Error: \begin{multicols} on input line 140 ended by \end{center}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-File: Images/semajanza01.png Graphic file (type png)
-<use Images/semajanza01.png>
-Package pdftex.def Info: Images/semajanza01.png used on input line 140.
-(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-File: Images/cuadrado4-4.png Graphic file (type png)
-<use Images/cuadrado4-4.png>
-Package pdftex.def Info: Images/cuadrado4-4.png used on input line 140.
-(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-
-Overfull \vbox (463.45139pt too high) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [1]
-File: Images/triangulonum.png Graphic file (type png)
- <use Images/triangulonum.png>
-Package pdftex.def Info: Images/triangulonum.png used on input line 140.
-(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
-
-Overfull \hbox (25.5252pt too wide) in paragraph at lines 140--140
-\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-ca
--das y ve-rás que siem-pre lle-gas al mis-mo re-sul-ta-do. [] 
- []
-
-File: Images/anguloswxyz.png Graphic file (type png)
-<use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
-
-
-! LaTeX Error: \begin{document} ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.140 \end{document}
-                    
-Things are pretty mixed up, but I think the worst is over.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [2]
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [1]
-File: Images/logo-colegio.png Graphic file (type png)
- <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 140.
-(pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
-
-Scrambling section 1, question: 
-2, 3, 6, 7, 11, 4, 8, 10, 1, 5, 9.
-File: Images/semajanza01.png Graphic file (type png)
- <use Images/semajanza01.png>
 Package pdftex.def Info: Images/semajanza01.png used on input line 140.
 (pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
 
@@ -1331,9 +1122,234 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
+<Images/anguloswxyz.png, id=12, 165.0165pt x 111.2958pt>
+File: Images/anguloswxyz.png Graphic file (type png)
+
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
+ <./Images/triangulonum.png (PNG copy)> <./Images/cuadrado4-4.png> <./Images/se
+majanza01.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+<Images/angulosxy.png, id=33, 200.1879pt x 115.8729pt>
+File: Images/angulosxy.png Graphic file (type png)
+
+<use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 140.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+
+
+! LaTeX Error: \begin{multicols} on input line 140 ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.140 \end{document}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+[2 <./Images/angulosxy.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{document}
+                     [1]
+File: Images/logo-colegio.png Graphic file (type png)
+ <use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 140.
+(pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
+
+Scrambling section 1, question: 
+1, 11, 7, 3, 8, 5, 10, 6, 9, 4, 2.
+File: Images/triangulonum.png Graphic file (type png)
+ <use Images/triangulonum.png>
+Package pdftex.def Info: Images/triangulonum.png used on input line 140.
+(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+
+Underfull \hbox (badness 5388) in paragraph at lines 140--140
+\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+File: Images/cuadrado4-4.png Graphic file (type png)
+<use Images/cuadrado4-4.png>
+Package pdftex.def Info: Images/cuadrado4-4.png used on input line 140.
+(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
+File: Images/anguloswxyz.png Graphic file (type png)
+ <use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{document}
+                     [1]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+File: Images/angulosxy.png Graphic file (type png)
+<use Images/angulosxy.png>
+Package pdftex.def Info: Images/angulosxy.png used on input line 140.
+(pdftex.def)             Requested size: 200.1874pt x 115.8726pt.
+
+
+! LaTeX Error: \begin{multicols} on input line 140 ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: Images/semajanza01.png Graphic file (type png)
+<use Images/semajanza01.png>
+Package pdftex.def Info: Images/semajanza01.png used on input line 140.
+(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
+
+
+! LaTeX Error: \begin{document} ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.140 \end{document}
+                    
+Things are pretty mixed up, but I think the worst is over.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{document}
+                     [2]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{document}
+                     [1]
+File: Images/logo-colegio.png Graphic file (type png)
+ <use Images/logo-colegio.png>
+Package pdftex.def Info: Images/logo-colegio.png used on input line 140.
+(pdftex.def)             Requested size: 56.60277pt x 48.36958pt.
+
+Scrambling section 1, question: 
+11, 7, 8, 4, 5, 9, 3, 10, 1, 6, 2.
+File: Images/cuadrado4-4.png Graphic file (type png)
+ <use Images/cuadrado4-4.png>
+Package pdftex.def Info: Images/cuadrado4-4.png used on input line 140.
+(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+File: Images/anguloswxyz.png Graphic file (type png)
+<use Images/anguloswxyz.png>
+Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
+(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.140 \end{document}
+                     [1 <./Images/anguloswxyz.png>]
+File: Images/triangulonum.png Graphic file (type png)
+
+<use Images/triangulonum.png>
+Package pdftex.def Info: Images/triangulonum.png used on input line 140.
+(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+
+Underfull \hbox (badness 5388) in paragraph at lines 140--140
+\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-
  []
 
 
@@ -1359,43 +1375,16 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-File: Images/cuadrado4-4.png Graphic file (type png)
-<use Images/cuadrado4-4.png>
-Package pdftex.def Info: Images/cuadrado4-4.png used on input line 140.
-(pdftex.def)             Requested size: 214.20572pt x 197.13817pt.
-File: Images/anguloswxyz.png Graphic file (type png)
- <use Images/anguloswxyz.png>
-Package pdftex.def Info: Images/anguloswxyz.png used on input line 140.
-(pdftex.def)             Requested size: 181.51868pt x 122.42574pt.
 
-Overfull \vbox (522.76102pt too high) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [1]
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
-File: Images/triangulonum.png Graphic file (type png)
-<use Images/triangulonum.png>
-Package pdftex.def Info: Images/triangulonum.png used on input line 140.
-(pdftex.def)             Requested size: 140.77637pt x 118.41777pt.
+File: Images/semajanza01.png Graphic file (type png)
+<use Images/semajanza01.png>
+Package pdftex.def Info: Images/semajanza01.png used on input line 140.
+(pdftex.def)             Requested size: 238.12904pt x 75.52194pt.
 
-Overfull \hbox (25.5252pt too wide) in paragraph at lines 140--140
-\T1/lmr/m/n/10 Sigue es-tric-ta-men-te el or-den de las ope-ra-cio-nes in-di-ca
--das y ve-rás que siem-pre lle-gas al mis-mo re-sul-ta-do. [] 
- []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.140 \end{document}
-                     [2]
 
 ! LaTeX Error: \begin{document} ended by \end{multicols}.
 
@@ -1416,12 +1405,17 @@ l.140 \end{document}
                     
 Things are pretty mixed up, but I think the worst is over.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.140 \end{document}
-                     [3]
+                     [2]
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
@@ -1455,26 +1449,26 @@ Package rerunfilecheck Info: File `9MatPruebBim1.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
  ) 
 Here is how much of TeX's memory you used:
- 17402 strings out of 494997
- 296219 string characters out of 3180092
- 386918 words of memory out of 3000000
+ 17397 strings out of 494997
+ 296188 string characters out of 3180092
+ 390918 words of memory out of 3000000
  20183 multiletter control sequences out of 15000+200000
  28328 words of font info for 36 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,8n,55p,422b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,8n,55p,422b,531s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
-ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/s
-hare/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/l
-m/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
+ips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr1
 0.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></
 usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texmf/fonts/type1/
 public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy7.pfb>
-Output written on 9MatPruebBim1.pdf (11 pages, 222277 bytes).
+Output written on 9MatPruebBim1.pdf (9 pages, 224354 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
- 78 named destinations out of 1000 (max. 500000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 152 compressed objects within 2 object streams
+ 73 named destinations out of 1000 (max. 500000)
  43 words of extra memory for PDF output out of 10000 (max. 10000000)
 
