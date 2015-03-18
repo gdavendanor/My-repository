@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  18 MAR 2015 16:19
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  18 MAR 2015 16:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -835,7 +835,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen179
 \Gm@dimlist=\toks37
 )
-No file 11MatPruebaBim1.aux.
+(./11MatPruebaBim1.aux
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+)
 \openout1 = `11MatPruebaBim1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -856,6 +859,7 @@ LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
 \AtBeginShipoutBox=\box63
 Package hyperref Info: Link coloring OFF on input line 13.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -867,6 +871,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
+
+(./11MatPruebaBim1.out) (./11MatPruebaBim1.out)
 \@outlinefile=\write4
 \openout4 = `11MatPruebaBim1.out'.
 
@@ -967,12 +973,6 @@ Overfull \hbox (15.54144pt too wide) in paragraph at lines 70--71
  [] 
  []
 
-
-LaTeX Warning: Reference `firstq' on page 1 undefined on input line 79.
-
-
-LaTeX Warning: Reference `lastq' on page 1 undefined on input line 79.
-
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}pdfTeX warning (ext4): desti
@@ -981,29 +981,28 @@ te ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.102  \choice
-               $\dfrac{1}{2}$pdfTeX warning (ext4): destination with the same i
-dentifier (name{choice.2}) has been already used, duplicate ignored
+l.101 \begin{choices}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{choice.2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.102  \choice
-               $\dfrac{1}{2}$pdfTeX warning (ext4): destination with the same i
-dentifier (name{choice.3}) has been already used, duplicate ignored
+l.101 \begin{choices}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{choice.3}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.102  \choice
-               $\dfrac{1}{2}$pdfTeX warning (ext4): destination with the same i
-dentifier (name{choice.4}) has been already used, duplicate ignored
+l.101 \begin{choices}
+                     pdfTeX warning (ext4): destination with the same identifie
+r (name{choice.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.102  \choice
-               $\dfrac{1}{2}$ <./Images/logo-colegio.png> <./Images/logo-sed.pn
-g (PNG copy)> <./Images/grafica-plano.png>]pdfTeX warning (ext4): destination w
-ith the same identifier (name{choice.1}) has been already used, duplicate ignor
-ed
+l.101 \begin{choices}
+                      <./Images/logo-colegio.png> <./Images/logo-sed.png (PNG c
+opy)> <./Images/grafica-plano.png>]pdfTeX warning (ext4): destination with the 
+same identifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.117 \choice
@@ -1022,21 +1021,8 @@ e same identifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.120 \choice
-              $\dfrac{1}{12}$
-
-LaTeX Warning: Reference `firstq1' on page 2 undefined on input line 129.
-
-
-LaTeX Warning: Reference `lastq1' on page 2 undefined on input line 129.
-
-
-LaTeX Warning: Reference `firstq2' on page 2 undefined on input line 174.
-
-
-LaTeX Warning: Reference `lastq2' on page 2 undefined on input line 174.
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
+              $\dfrac{1}{12}$pdfTeX warning (ext4): destination with the same i
+dentifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.186 \CorrectChoice
@@ -1115,12 +1101,8 @@ ntifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.213  \choice
-               [4,5)
-
-LaTeX Warning: Reference `firstq4' on page 2 undefined on input line 222.
-
-[2]pdfTeX warning (ext4): destination with the same identifier (name{choice.1})
- has been already used, duplicate ignored
+               [4,5) [2]pdfTeX warning (ext4): destination with the same identi
+fier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.235 \choice
@@ -1160,190 +1142,616 @@ ame{choice.4}) has been already used, duplicate ignored
                    \relax 
 l.246  \choice
                42
+! Undefined control sequence.
+l.251 \draw
+            [thick] (-5,-.1)-- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-LaTeX Warning: File `./Images/recta.png' not found on input line 250.
+! Undefined control sequence.
+l.252 \draw
+            [thick] (-4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.253 \draw
+            [thick] (-3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.254 \draw
+            [thick] (-2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.255 \draw
+            [thick] (-1,-.1) node[below]{B} -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.256 \draw
+            [thick] (0,-.1) node[below]{0}-- (0,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.257 \draw
+            [thick] (1,-.1) -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.258 \draw
+            [thick] (2,-.1) node[below]{A}-- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.259 \draw
+            [thick] (3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.260 \draw
+            [thick] (4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.261 \draw
+            [thick] (5,-.1) -- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.262 \draw
+            [thick] (6,-.1) -- (6,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-! Package pdftex.def Error: File `./Images/recta.png' not found.
+Overfull \hbox (185.8771pt too wide) in paragraph at lines 250--263
+[][]
+ []
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.250 ...degraphics[scale=.85]{./Images/recta.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+! Undefined control sequence.
+l.265 \draw
+            [thick] (-5,-.1)-- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.266 \draw
+            [thick] (-4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.267 \draw
+            [thick] (-3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.268 \draw
+            [thick] (-2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.269 \draw
+            [thick] (-1,-.1) node[below]{A} -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.270 \draw
+            [thick] (0,-.1) node[below]{0}-- (0,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.271 \draw
+            [thick] (1,-.1) node[below]{B}-- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.272 \draw
+            [thick] (2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.273 \draw
+            [thick] (3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.274 \draw
+            [thick] (4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.275 \draw
+            [thick] (5,-.1) -- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.276 \draw
+            [thick] (6,-.1) -- (6,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (185.8771pt too wide) in paragraph at lines 264--277
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--277
+\OT1/cmr/m/n/10 (0,0.1); [thick] (1,-.1) node[below]B--
+ []
+
+! Undefined control sequence.
+l.279 \draw
+            [thick] (-5,-.1)-- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.280 \draw
+            [thick] (-4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.281 \draw
+            [thick] (-3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.282 \draw
+            [thick] (-2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.283 \draw
+            [thick] (-1,-.1) -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.284 \draw
+            [thick] (0,-.1) node[below]{0}-- (0,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.285 \draw
+            [thick] (1,-.1) -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.286 \draw
+            [thick] (2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.287 \draw
+            [thick] (3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.288 \draw
+            [thick] (4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.289 \draw
+            [thick] (5,-.1) node[below]{A}-- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.290 \draw
+            [thick] (6,-.1) node[below]{B}-- (6,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (185.8771pt too wide) in paragraph at lines 278--291
+[][]
+ []
+
+! Undefined control sequence.
+l.292 \draw
+            [thick] (-5,-.1)node[below]{B}-- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.293 \draw
+            [thick] (-4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.294 \draw
+            [thick] (-3,-.1) node[below]{A}-- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.295 \draw
+            [thick] (-2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.296 \draw
+            [thick] (-1,-.1)  -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.297 \draw
+            [thick] (0,-.1) node[below]{0}-- (0,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.298 \draw
+            [thick] (1,-.1) -- (1,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.299 \draw
+            [thick] (2,-.1) -- (2,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.300 \draw
+            [thick] (3,-.1) -- (3,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.301 \draw
+            [thick] (4,-.1) -- (4,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.302 \draw
+            [thick] (5,-.1) -- (5,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.303 \draw
+            [thick] (6,-.1) -- (6,0.1);
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (185.8771pt too wide) in paragraph at lines 291--304
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--304
+\OT1/cmr/m/n/10 [thick] (-5,-.1)node[below]B-- (5,0.1);
+ []
 
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.257  \choice
+l.309  \choice
                720pdfTeX warning (ext4): destination with the same identifier (
 name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.258  \CorrectChoice
+l.310  \CorrectChoice
                       792pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.259  \choice
+l.311  \choice
                420pdfTeX warning (ext4): destination with the same identifier (
 name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.260  \choice
+l.312  \choice
                620pdfTeX warning (ext4): destination with the same identifier (
 name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265  \choice
+l.317  \choice
                90pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.266  \choice
+l.318  \choice
                70pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.267  \choice
+l.319  \choice
                60pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.268  \CorrectChoice
+l.320  \CorrectChoice
                       45pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.273  \CorrectChoice
+l.325  \CorrectChoice
                       360pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.274  \choice
+l.326  \choice
                420pdfTeX warning (ext4): destination with the same identifier (
 name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.275  \choice
+l.327  \choice
                560pdfTeX warning (ext4): destination with the same identifier (
 name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.276  \choice
-               600
-
-LaTeX Warning: Reference `firstq3' on page 3 undefined on input line 285.
-
-
-LaTeX Warning: Reference `lastq3' on page 3 undefined on input line 285.
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
+l.328  \choice
+               600pdfTeX warning (ext4): destination with the same identifier (
+name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.289 \choice
+l.341 \choice
               10pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.290 \CorrectChoice
+l.342 \CorrectChoice
                      15pdfTeX warning (ext4): destination with the same identif
 ier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.291 \choice
+l.343 \choice
               20pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.292 \choice
+l.344 \choice
               24pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.297  \choice
+l.349  \choice
                16pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.298  \choice
+l.350  \choice
                32pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.299  \CorrectChoice
+l.351  \CorrectChoice
                       $16\times 31$pdfTeX warning (ext4): destination with the 
 same identifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.300  \choice
-               $32\times 31$pdfTeX warning (ext4): destination with the same id
-entifier (name{choice.1}) has been already used, duplicate ignored
+l.352  \choice
+               $32\times 31$ [3]pdfTeX warning (ext4): destination with the sam
+e identifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.305  \choice
+l.357  \choice
                4pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.306  \choice
+l.358  \choice
                10pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.307  \CorrectChoice
+l.359  \CorrectChoice
                       16pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.308  \choice
-               24 [3]
+l.360  \choice
+               24 [4]
 This exam contains 29 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 367.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 367.
 (./11MatPruebaBim1.aux
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
-
-
-Package rerunfilecheck Warning: File `11MatPruebaBim1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11MatPruebaBim1.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-LaTeX Warning: There were undefined references.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 367.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 367.
+Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 315.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 367.
  ) 
 Here is how much of TeX's memory you used:
- 16662 strings out of 494997
- 282387 string characters out of 3180092
- 393241 words of memory out of 3000000
- 19492 multiletter control sequences out of 15000+200000
- 12006 words of font info for 48 fonts, out of 3000000 for 9000
+ 16679 strings out of 494997
+ 282681 string characters out of 3180092
+ 394912 words of memory out of 3000000
+ 19501 multiletter control sequences out of 15000+200000
+ 11838 words of font info for 47 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,10n,55p,465b,795s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,10n,55p,465b,787s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -1352,12 +1760,11 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmtt10.pfb>
-Output written on 11MatPruebaBim1.pdf (3 pages, 249291 bytes).
+sfonts/cm/cmsy10.pfb>
+Output written on 11MatPruebaBim1.pdf (4 pages, 240472 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 147 compressed objects within 2 object streams
- 85 named destinations out of 1000 (max. 500000)
+ 180 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 90 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 
