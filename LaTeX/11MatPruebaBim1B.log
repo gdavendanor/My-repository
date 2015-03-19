@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 09:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 09:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -843,7 +843,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen179
 \Gm@dimlist=\toks38
 )
-No file 11MatPruebaBim1B.aux.
+(./11MatPruebaBim1B.aux
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+)
 \openout1 = `11MatPruebaBim1B.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -864,6 +867,7 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 \AtBeginShipoutBox=\box64
 Package hyperref Info: Link coloring OFF on input line 14.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -875,6 +879,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
+
+(./11MatPruebaBim1B.out) (./11MatPruebaBim1B.out)
 \@outlinefile=\write4
 \openout4 = `11MatPruebaBim1B.out'.
 
@@ -963,43 +969,18 @@ File: Images/logo-sed.png Graphic file (type png)
  <use Images/logo-sed.png>
 Package pdftex.def Info: Images/logo-sed.png used on input line 30.
 (pdftex.def)             Requested size: 43.40913pt x 49.79231pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
 
-
-LaTeX Warning: Reference `firstq' on page 1 undefined on input line 37.
-
-
-LaTeX Warning: Reference `lastq' on page 1 undefined on input line 37.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38  \begin{center}
-                    
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 82.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 
 
-LaTeX Warning: Reference `firstq1' on page 1 undefined on input line 109.
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 1 might be wrong on input line 142.
 
-
-LaTeX Warning: Reference `lastq1' on page 1 undefined on input line 109.
-
-
-LaTeX Warning: Reference `firstq2' on page 1 undefined on input line 159.
-
-
-LaTeX Warning: Reference `lastq2' on page 1 undefined on input line 159.
 
 [1
 
@@ -1008,164 +989,140 @@ LaTeX Warning: Reference `lastq2' on page 1 undefined on input line 159.
  same identifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.173 \CorrectChoice
-                     20pdfTeX warning (ext4): destination with the same identif
-ier (name{choice.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.174 \choice
-              21pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.175 \choice
-              46pdfTeX warning (ext4): destination with the same identifier (na
-me{choice.4}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.176 \choice
-              130pdfTeX warning (ext4): destination with the same identifier (n
-ame{choice.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.181  \choice
+l.144  \choice
                87pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.182  \choice
+l.145  \choice
                283pdfTeX warning (ext4): destination with the same identifier (
 name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.183  \CorrectChoice
+l.146  \CorrectChoice
                       413pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.184  \choice
+l.147  \choice
                130pdfTeX warning (ext4): destination with the same identifier (
 name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.189  \choice
+l.152  \choice
                [1,2)pdfTeX warning (ext4): destination with the same identifier
  (name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.190  \choice
+l.153  \choice
                [2,3)pdfTeX warning (ext4): destination with the same identifier
  (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.191  \choice
+l.154  \choice
                [3,4)pdfTeX warning (ext4): destination with the same identifier
  (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.192  \CorrectChoice
+l.155  \CorrectChoice
                       [4,5)pdfTeX warning (ext4): destination with the same ide
 ntifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.197  \choice
+l.160  \choice
                [1,2)pdfTeX warning (ext4): destination with the same identifier
  (name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.198  \choice
+l.161  \choice
                [2,3)pdfTeX warning (ext4): destination with the same identifier
  (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.199  \CorrectChoice
+l.162  \CorrectChoice
                       [3,4)pdfTeX warning (ext4): destination with the same ide
 ntifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.200  \choice
-               [4,5)
-
-LaTeX Warning: Reference `firstq4' on page 2 undefined on input line 209.
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
+l.163  \choice
+               [4,5)pdfTeX warning (ext4): destination with the same identifier
+ (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.222 \choice
+l.185 \choice
               28pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.223 \choice
+l.186 \choice
               496pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.224 \CorrectChoice
+l.187 \CorrectChoice
                      2026pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.225 \choice
+l.188 \choice
               6pdfTeX warning (ext4): destination with the same identifier (nam
 e{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.230  \choice
+l.193  \choice
                28pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.231  \CorrectChoice
+l.194  \CorrectChoice
                       32pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.232  \choice
+l.195  \choice
                38pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.233  \choice
-               42 <Images/respA.pdf, id=74, 371.28914pt x 23.5269pt>
+l.196  \choice
+               42 <Images/respA.pdf, id=72, 371.28914pt x 23.5269pt>
 File: Images/respA.pdf Graphic file (type pdf)
 
 <use Images/respA.pdf>
-Package pdftex.def Info: Images/respA.pdf used on input line 238.
+Package pdftex.def Info: Images/respA.pdf used on input line 201.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (1.23555pt too wide) in paragraph at lines 238--239
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 201--202
 [][] 
  []
 
-<Images/respB.pdf, id=75, 371.28914pt x 23.5269pt>
+<Images/respB.pdf, id=73, 371.28914pt x 23.5269pt>
 File: Images/respB.pdf Graphic file (type pdf)
  <use Images/respB.pdf>
-Package pdftex.def Info: Images/respB.pdf used on input line 239.
+Package pdftex.def Info: Images/respB.pdf used on input line 202.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (1.23555pt too wide) in paragraph at lines 239--240
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 202--203
 [][] 
  []
 
-<Images/respC.pdf, id=76, 371.28914pt x 23.5269pt>
+<Images/respC.pdf, id=74, 371.28914pt x 23.5269pt>
 File: Images/respC.pdf Graphic file (type pdf)
  <use Images/respC.pdf>
-Package pdftex.def Info: Images/respC.pdf used on input line 240.
+Package pdftex.def Info: Images/respC.pdf used on input line 203.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (1.23555pt too wide) in paragraph at lines 240--241
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 203--204
 [][] 
  []
 
-<Images/respD.pdf, id=77, 371.28914pt x 23.5269pt>
+<Images/respD.pdf, id=75, 371.28914pt x 23.5269pt>
 File: Images/respD.pdf Graphic file (type pdf)
  <use Images/respD.pdf>
-Package pdftex.def Info: Images/respD.pdf used on input line 241.
+Package pdftex.def Info: Images/respD.pdf used on input line 204.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (1.23555pt too wide) in paragraph at lines 241--242
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 204--205
 [][] 
  []
 
@@ -1173,76 +1130,101 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \CorrectChoice
+l.228 \CorrectChoice
                      73\% \choice 32,5\% \choice 27\% \choice 22,5\%pdfTeX warn
 ing (ext4): destination with the same identifier (name{choice.2}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \CorrectChoice 73\% \choice
+l.228 \CorrectChoice 73\% \choice
                                   32,5\% \choice 27\% \choice 22,5\%pdfTeX warn
 ing (ext4): destination with the same identifier (name{choice.3}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 \CorrectChoice 73\% \choice 32,5\% \choice
+l.228 \CorrectChoice 73\% \choice 32,5\% \choice
                                                  27\% \choice 22,5\%pdfTeX warn
 ing (ext4): destination with the same identifier (name{choice.4}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.265 ... 73\% \choice 32,5\% \choice 27\% \choice
+l.228 ... 73\% \choice 32,5\% \choice 27\% \choice
                                                    22,5\%pdfTeX warning (ext4):
  destination with the same identifier (name{choice.1}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.271 \CorrectChoice
+l.234 \CorrectChoice
                      13 \choice 12 \choice 18 \choice 16pdfTeX warning (ext4): 
 destination with the same identifier (name{choice.2}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.271 \CorrectChoice 13 \choice
+l.234 \CorrectChoice 13 \choice
                                 12 \choice 18 \choice 16pdfTeX warning (ext4): 
 destination with the same identifier (name{choice.3}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.271 \CorrectChoice 13 \choice 12 \choice
+l.234 \CorrectChoice 13 \choice 12 \choice
                                            18 \choice 16pdfTeX warning (ext4): 
 destination with the same identifier (name{choice.4}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.271 ...ctChoice 13 \choice 12 \choice 18 \choice
-                                                   16 [2 <./Images/respA.pdf> <
-./Images/respB.pdf> <./Images/respC.pdf> <./Images/respD.pdf>]
-<Images/desigA.pdf, id=138, 74.63081pt x 95.29803pt>
+l.234 ...ctChoice 13 \choice 12 \choice 18 \choice
+                                                   16
+<Images/desigA.pdf, id=76, 74.63081pt x 95.29803pt>
 File: Images/desigA.pdf Graphic file (type pdf)
  <use Images/desigA.pdf>
-Package pdftex.def Info: Images/desigA.pdf used on input line 296.
+Package pdftex.def Info: Images/desigA.pdf used on input line 259.
 (pdftex.def)             Requested size: 55.97296pt x 71.47333pt.
 
-<Images/desigB.pdf, id=139, 92.97836pt x 95.29803pt>
+<Images/desigB.pdf, id=77, 92.97836pt x 95.29803pt>
 File: Images/desigB.pdf Graphic file (type pdf)
  <use Images/desigB.pdf>
-Package pdftex.def Info: Images/desigB.pdf used on input line 297.
+Package pdftex.def Info: Images/desigB.pdf used on input line 260.
 (pdftex.def)             Requested size: 69.73358pt x 71.47333pt.
 
-<Images/desigC.pdf, id=140, 74.63081pt x 95.29803pt>
+<Images/desigC.pdf, id=78, 74.63081pt x 95.29803pt>
 File: Images/desigC.pdf Graphic file (type pdf)
  <use Images/desigC.pdf>
-Package pdftex.def Info: Images/desigC.pdf used on input line 298.
+Package pdftex.def Info: Images/desigC.pdf used on input line 261.
 (pdftex.def)             Requested size: 55.97296pt x 71.47333pt.
 
-<Images/desigD.pdf, id=141, 74.63081pt x 95.29803pt>
+<Images/desigD.pdf, id=79, 74.63081pt x 95.29803pt>
 File: Images/desigD.pdf Graphic file (type pdf)
  <use Images/desigD.pdf>
-Package pdftex.def Info: Images/desigD.pdf used on input line 299.
+Package pdftex.def Info: Images/desigD.pdf used on input line 262.
 (pdftex.def)             Requested size: 55.97296pt x 71.47333pt.
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
+
+[2pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.264 \end{choices}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{choice.2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.264 \end{choices}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{choice.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.264 \end{choices}
+                   pdfTeX warning (ext4): destination with the same identifier 
+(name{choice.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.264 \end{choices}
+                    <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.p
+df> <./Images/respD.pdf>]pdfTeX warning (ext4): destination with the same ident
+ifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.331 \choice
@@ -1337,34 +1319,28 @@ me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.400 \choice
-              24
-
-LaTeX Warning: Reference `quest01' on page 4 undefined on input line 421.
-
-
-LaTeX Warning: Reference `quest02' on page 4 undefined on input line 421.
-
-<Images/RespA.png, id=206, 225.84375pt x 140.525pt>
+              24 <Images/RespA.png, id=214, 225.84375pt x 140.525pt>
 File: Images/RespA.png Graphic file (type png)
- <use Images/RespA.png>
+
+<use Images/RespA.png>
 Package pdftex.def Info: Images/RespA.png used on input line 424.
 (pdftex.def)             Requested size: 112.92159pt x 70.26231pt.
-
-<Images/RespB.png, id=207, 222.8325pt x 140.525pt>
+ <Images/RespB.png, id=215, 222.8325pt x 140.525pt>
 File: Images/RespB.png Graphic file (type png)
- <use Images/RespB.png>
+
+<use Images/RespB.png>
 Package pdftex.def Info: Images/RespB.png used on input line 425.
 (pdftex.def)             Requested size: 111.41597pt x 70.26231pt.
-
-<Images/RespC.png, id=208, 224.84pt x 131.49126pt>
+ <Images/RespC.png, id=216, 224.84pt x 131.49126pt>
 File: Images/RespC.png Graphic file (type png)
- <use Images/RespC.png>
+
+<use Images/RespC.png>
 Package pdftex.def Info: Images/RespC.png used on input line 426.
 (pdftex.def)             Requested size: 112.41972pt x 65.74545pt.
-
-<Images/RespD.png, id=209, 222.8325pt x 131.49126pt>
+ <Images/RespD.png, id=217, 222.8325pt x 131.49126pt>
 File: Images/RespD.png Graphic file (type png)
- <use Images/RespD.png>
+
+<use Images/RespD.png>
 Package pdftex.def Info: Images/RespD.png used on input line 427.
 (pdftex.def)             Requested size: 111.41597pt x 65.74545pt.
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
@@ -1395,29 +1371,16 @@ l.448 \CorrectChoice $\frac{14}{40}$ \choice
 This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 (./11MatPruebaBim1B.aux
-LaTeX Info: Redefining \. on input line 39.
-LaTeX Info: Redefining \% on input line 39.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
-
-
-Package rerunfilecheck Warning: File `11MatPruebaBim1B.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11MatPruebaBim1B.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Info: File `11MatPruebaBim1B.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
@@ -1425,29 +1388,29 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
  ) 
 Here is how much of TeX's memory you used:
- 16909 strings out of 494997
- 286137 string characters out of 3180092
- 395322 words of memory out of 3000000
- 19678 multiletter control sequences out of 15000+200000
- 12850 words of font info for 50 fonts, out of 3000000 for 9000
+ 16921 strings out of 494997
+ 286358 string characters out of 3180092
+ 395299 words of memory out of 3000000
+ 19685 multiletter control sequences out of 15000+200000
+ 12542 words of font info for 49 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,427b,850s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatPruebaBim1B.pdf (4 pages, 247453 bytes).
+ 56i,11n,55p,427b,836s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on 11MatPruebaBim1B.pdf (4 pages, 238497 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
  128 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
