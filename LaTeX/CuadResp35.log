@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -148,7 +148,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 
-Overfull \hbox (198.38504pt too wide) in paragraph at lines 29--36
+Overfull \hbox (198.38504pt too wide) in paragraph at lines 30--37
  [][] 
  []
 
