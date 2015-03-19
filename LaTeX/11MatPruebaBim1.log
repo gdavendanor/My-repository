@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,11 +1273,6 @@ Overfull \hbox (3.6968pt too wide) in paragraph at lines 356--367
  []
 
 
-Overfull \hbox (4.01532pt too wide) in paragraph at lines 379--379
-[]\OT1/cmr/bx/n/12 Puntaje| 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 379--380
 []\OT1/cmr/m/n/12 Cantidad
  []
@@ -1298,7 +1293,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 391--391
  []
 
 
-Overfull \hbox (21.93147pt too wide) in paragraph at lines 377--394
+Overfull \hbox (25.9468pt too wide) in paragraph at lines 377--394
  [] 
  []
 
