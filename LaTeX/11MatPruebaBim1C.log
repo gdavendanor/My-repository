@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 17:21
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -843,7 +843,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen179
 \Gm@dimlist=\toks38
 )
-No file 11MatPruebaBim1C.aux.
+(./11MatPruebaBim1C.aux
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+)
 \openout1 = `11MatPruebaBim1C.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -864,6 +867,7 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 \AtBeginShipoutBox=\box64
 Package hyperref Info: Link coloring OFF on input line 14.
+
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -875,6 +879,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
+
+(./11MatPruebaBim1C.out) (./11MatPruebaBim1C.out)
 \@outlinefile=\write4
 \openout4 = `11MatPruebaBim1C.out'.
 
@@ -972,18 +978,6 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
 
 
-LaTeX Warning: Reference `firstq1' on page 1 undefined on input line 64.
-
-
-LaTeX Warning: Reference `lastq1' on page 1 undefined on input line 64.
-
-
-LaTeX Warning: Reference `firstq2' on page 1 undefined on input line 114.
-
-
-LaTeX Warning: Reference `lastq2' on page 1 undefined on input line 114.
-
-
 Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 1 might be wrong on input line 141.
 
@@ -992,10 +986,7 @@ Package multicol Warning: I moved some lines to the next page.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-
-LaTeX Warning: Reference `firstq4' on page 2 undefined on input line 172.
-
-<Images/respA.pdf, id=64, 371.28914pt x 23.5269pt>
+<Images/respA.pdf, id=69, 371.28914pt x 23.5269pt>
 File: Images/respA.pdf Graphic file (type pdf)
  <use Images/respA.pdf>
 Package pdftex.def Info: Images/respA.pdf used on input line 201.
@@ -1005,7 +996,7 @@ Overfull \hbox (1.23555pt too wide) in paragraph at lines 201--202
 [][] 
  []
 
-<Images/respB.pdf, id=65, 371.28914pt x 23.5269pt>
+<Images/respB.pdf, id=70, 371.28914pt x 23.5269pt>
 File: Images/respB.pdf Graphic file (type pdf)
  <use Images/respB.pdf>
 Package pdftex.def Info: Images/respB.pdf used on input line 202.
@@ -1015,7 +1006,7 @@ Overfull \hbox (1.23555pt too wide) in paragraph at lines 202--203
 [][] 
  []
 
-<Images/respC.pdf, id=66, 371.28914pt x 23.5269pt>
+<Images/respC.pdf, id=71, 371.28914pt x 23.5269pt>
 File: Images/respC.pdf Graphic file (type pdf)
  <use Images/respC.pdf>
 Package pdftex.def Info: Images/respC.pdf used on input line 203.
@@ -1025,7 +1016,7 @@ Overfull \hbox (1.23555pt too wide) in paragraph at lines 203--204
 [][] 
  []
 
-<Images/respD.pdf, id=67, 371.28914pt x 23.5269pt>
+<Images/respD.pdf, id=72, 371.28914pt x 23.5269pt>
 File: Images/respD.pdf Graphic file (type pdf)
  <use Images/respD.pdf>
 Package pdftex.def Info: Images/respD.pdf used on input line 204.
@@ -1035,25 +1026,25 @@ Overfull \hbox (1.23555pt too wide) in paragraph at lines 204--205
 [][] 
  []
 
-<Images/desigA.pdf, id=68, 74.63081pt x 95.29803pt>
+<Images/desigA.pdf, id=73, 74.63081pt x 95.29803pt>
 File: Images/desigA.pdf Graphic file (type pdf)
  <use Images/desigA.pdf>
 Package pdftex.def Info: Images/desigA.pdf used on input line 259.
 (pdftex.def)             Requested size: 55.97296pt x 71.47333pt.
 
-<Images/desigB.pdf, id=69, 92.97836pt x 95.29803pt>
+<Images/desigB.pdf, id=74, 92.97836pt x 95.29803pt>
 File: Images/desigB.pdf Graphic file (type pdf)
  <use Images/desigB.pdf>
 Package pdftex.def Info: Images/desigB.pdf used on input line 260.
 (pdftex.def)             Requested size: 69.73358pt x 71.47333pt.
 
-<Images/desigC.pdf, id=70, 74.63081pt x 95.29803pt>
+<Images/desigC.pdf, id=75, 74.63081pt x 95.29803pt>
 File: Images/desigC.pdf Graphic file (type pdf)
  <use Images/desigC.pdf>
 Package pdftex.def Info: Images/desigC.pdf used on input line 261.
 (pdftex.def)             Requested size: 55.97296pt x 71.47333pt.
 
-<Images/desigD.pdf, id=71, 74.63081pt x 95.29803pt>
+<Images/desigD.pdf, id=76, 74.63081pt x 95.29803pt>
 File: Images/desigD.pdf Graphic file (type pdf)
  <use Images/desigD.pdf>
 Package pdftex.def Info: Images/desigD.pdf used on input line 262.
@@ -1253,13 +1244,6 @@ l.264 \end{choices}
 l.264 \end{choices}
                     <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.p
 df> <./Images/respD.pdf>]
-
-LaTeX Warning: Reference `firstq' on page 3 undefined on input line 272.
-
-
-LaTeX Warning: Reference `lastq' on page 3 undefined on input line 272.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 315--315
 []\OT1/cmr/bx/n/12 Auxilio de
  []
@@ -1314,36 +1298,29 @@ me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.360 \choice
-              24
-
-LaTeX Warning: Reference `quest01' on page 3 undefined on input line 381.
-
-
-LaTeX Warning: Reference `quest02' on page 3 undefined on input line 381.
-
-[3 <./Images/desigA.pdf> <./Images/desigB.pdf> <./Images/desigC.pdf> <./Images/
-desigD.pdf>] <Images/RespA.png, id=204, 225.84375pt x 140.525pt>
+              24 [3 <./Images/desigA.pdf> <./Images/desigB.pdf> <./Images/desig
+C.pdf> <./Images/desigD.pdf>]
+<Images/RespA.png, id=212, 225.84375pt x 140.525pt>
 File: Images/RespA.png Graphic file (type png)
-
-<use Images/RespA.png>
+ <use Images/RespA.png>
 Package pdftex.def Info: Images/RespA.png used on input line 384.
 (pdftex.def)             Requested size: 112.92159pt x 70.26231pt.
- <Images/RespB.png, id=205, 222.8325pt x 140.525pt>
-File: Images/RespB.png Graphic file (type png)
 
-<use Images/RespB.png>
+<Images/RespB.png, id=213, 222.8325pt x 140.525pt>
+File: Images/RespB.png Graphic file (type png)
+ <use Images/RespB.png>
 Package pdftex.def Info: Images/RespB.png used on input line 385.
 (pdftex.def)             Requested size: 111.41597pt x 70.26231pt.
- <Images/RespC.png, id=206, 224.84pt x 131.49126pt>
-File: Images/RespC.png Graphic file (type png)
 
-<use Images/RespC.png>
+<Images/RespC.png, id=214, 224.84pt x 131.49126pt>
+File: Images/RespC.png Graphic file (type png)
+ <use Images/RespC.png>
 Package pdftex.def Info: Images/RespC.png used on input line 386.
 (pdftex.def)             Requested size: 112.41972pt x 65.74545pt.
- <Images/RespD.png, id=207, 222.8325pt x 131.49126pt>
-File: Images/RespD.png Graphic file (type png)
 
-<use Images/RespD.png>
+<Images/RespD.png, id=215, 222.8325pt x 131.49126pt>
+File: Images/RespD.png Graphic file (type png)
+ <use Images/RespD.png>
 Package pdftex.def Info: Images/RespD.png used on input line 387.
 (pdftex.def)             Requested size: 111.41597pt x 65.74545pt.
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
@@ -1415,10 +1392,6 @@ g> <./Images/RespD.png>]
 This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 (./11MatPruebaBim1C.aux
@@ -1427,47 +1400,34 @@ LaTeX Info: Redefining \% on input line 37.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
-
-
-Package rerunfilecheck Warning: File `11MatPruebaBim1C.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `11MatPruebaBim1C.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `11MatPruebaBim1C.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
  ) 
 Here is how much of TeX's memory you used:
- 16909 strings out of 494997
- 286137 string characters out of 3180092
- 395322 words of memory out of 3000000
- 19678 multiletter control sequences out of 15000+200000
- 12850 words of font info for 50 fonts, out of 3000000 for 9000
+ 16916 strings out of 494997
+ 286265 string characters out of 3180092
+ 397300 words of memory out of 3000000
+ 19680 multiletter control sequences out of 15000+200000
+ 12542 words of font info for 49 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,11n,55p,427b,884s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatPruebaBim1C.pdf (4 pages, 247362 bytes).
+ 56i,11n,55p,427b,836s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on 11MatPruebaBim1C.pdf (4 pages, 238533 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
  128 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
