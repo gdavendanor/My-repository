@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -111,14 +111,14 @@ LaTeX Info: Redefining \% on input line 6.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: landscape 
-* h-part:(L,W,R)=(56.9055pt, 681.15898pt, 56.9055pt)
+* h-part:(L,W,R)=(28.45274pt, 738.0645pt, 28.45274pt)
 * v-part:(T,H,B)=(21.33955pt, 571.61589pt, 21.33955pt)
 * \paperwidth=794.96999pt
 * \paperheight=614.295pt
-* \textwidth=681.15898pt
+* \textwidth=738.0645pt
 * \textheight=571.61589pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
 * \topmargin=-87.93044pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -148,7 +148,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
 
-Overfull \hbox (88.84195pt too wide) in paragraph at lines 9--16
+Overfull \hbox (31.93643pt too wide) in paragraph at lines 9--16
  [][] 
  []
 
@@ -168,7 +168,7 @@ Here is how much of TeX's memory you used:
  25i,11n,27p,735b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CuadResp35.pdf (2 pages, 24162 bytes).
+Output written on CuadResp35.pdf (2 pages, 24174 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  12 compressed objects within 1 object stream
