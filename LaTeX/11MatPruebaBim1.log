@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  18 MAR 2015 20:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  18 MAR 2015 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1205,166 +1205,146 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.282 \choice
-              10 posibilidades porque $2\times 5=10$pdfTeX warning (ext4): dest
-ination with the same identifier (name{choice.2}) has been already used, duplic
-ate ignored
-<to be read again> 
-                   \relax 
-l.283 \choice
-              25 posibilidades porque $5^{2}=25$pdfTeX warning (ext4): destinat
-ion with the same identifier (name{choice.3}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.284 \choice
-              10 posibilidades porque $2^{5}=10$pdfTeX warning (ext4): destinat
-ion with the same identifier (name{choice.4}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.285 \CorrectChoice
-                     32 posibilidades porque $2^{5}=32$pdfTeX warning (ext4): d
-estination with the same identifier (name{choice.1}) has been already used, dup
-licate ignored
-<to be read again> 
-                   \relax 
-l.291  \choice
+l.290  \choice
                720pdfTeX warning (ext4): destination with the same identifier (
 name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.292  \CorrectChoice
+l.291  \CorrectChoice
                       792pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.293  \choice
+l.292  \choice
                420pdfTeX warning (ext4): destination with the same identifier (
 name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.294  \choice
+l.293  \choice
                620pdfTeX warning (ext4): destination with the same identifier (
 name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.299  \choice
+l.298  \choice
                90pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.300  \choice
+l.299  \choice
                70pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.301  \choice
+l.300  \choice
                60pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.302  \CorrectChoice
+l.301  \CorrectChoice
                       45pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.307  \CorrectChoice
+l.306  \CorrectChoice
                       360pdfTeX warning (ext4): destination with the same ident
 ifier (name{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.308  \choice
+l.307  \choice
                420pdfTeX warning (ext4): destination with the same identifier (
 name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.309  \choice
+l.308  \choice
                560pdfTeX warning (ext4): destination with the same identifier (
 name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.310  \choice
+l.309  \choice
                600pdfTeX warning (ext4): destination with the same identifier (
 name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.323 \choice
+l.322 \choice
               10pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.324 \CorrectChoice
+l.323 \CorrectChoice
                      15pdfTeX warning (ext4): destination with the same identif
 ier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.325 \choice
+l.324 \choice
               20pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.326 \choice
+l.325 \choice
               24pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.331  \choice
+l.330  \choice
                16pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.332  \choice
+l.331  \choice
                32pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.333  \CorrectChoice
+l.332  \CorrectChoice
                       $16\times 31$pdfTeX warning (ext4): destination with the 
 same identifier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.334  \choice
+l.333  \choice
                $32\times 31$pdfTeX warning (ext4): destination with the same id
 entifier (name{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.339  \choice
+l.338  \choice
                4pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.340  \choice
+l.339  \choice
                10pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.341  \CorrectChoice
+l.340  \CorrectChoice
                       16pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.342  \choice
+l.341  \choice
                24 [3 <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.
 pdf> <./Images/respD.pdf>]
 This exam contains 31 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 349.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 349.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
 (./11MatPruebaBim1.aux
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 349.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 349.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
 Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 349.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
  ) 
 Here is how much of TeX's memory you used:
- 16749 strings out of 494997
- 283798 string characters out of 3180092
+ 16753 strings out of 494997
+ 283826 string characters out of 3180092
  398031 words of memory out of 3000000
  19553 multiletter control sequences out of 15000+200000
  12543 words of font info for 49 fonts, out of 3000000 for 9000
@@ -1382,10 +1362,10 @@ c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on 11MatPruebaBim1.pdf (3 pages, 201871 bytes).
+Output written on 11MatPruebaBim1.pdf (3 pages, 201935 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 225 compressed objects within 3 object streams
- 99 named destinations out of 1000 (max. 500000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 230 compressed objects within 3 object streams
+ 103 named destinations out of 1000 (max. 500000)
  63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
