@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1245,55 +1245,44 @@ er (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.342 \choice
-              8 <Images/diag-arbol.png, id=158, 562.1pt x 359.3425pt>
-File: Images/diag-arbol.png Graphic file (type png)
-
-<use Images/diag-arbol.png>
-Package pdftex.def Info: Images/diag-arbol.png used on input line 353.
-(pdftex.def)             Requested size: 281.04932pt x 179.6708pt.
-
-Overfull \hbox (35.80733pt too wide) in paragraph at lines 353--353
-[][] 
- []
-
-[3 <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.pdf> <./Images/res
-pD.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 358--358
+              8
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 []\OT1/cmr/bx/n/12 Auxilio de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--358
+Underfull \hbox (badness 10000) in paragraph at lines 355--355
 \OT1/cmr/bx/n/12 trans-por-te
  []
 
 
-Overfull \hbox (3.6968pt too wide) in paragraph at lines 356--367
+Overfull \hbox (3.6968pt too wide) in paragraph at lines 353--364
  [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[3 <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.pdf> <./Images/res
+pD.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 []\OT1/cmr/m/n/12 Cantidad
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--387
+Underfull \hbox (badness 10000) in paragraph at lines 384--384
 []\OT1/cmr/m/n/12 (1,4), (2,3), (3,2),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--389
+Underfull \hbox (badness 10000) in paragraph at lines 386--386
 []\OT1/cmr/m/n/12 (1,5), (2,4), (3,3),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--391
+Underfull \hbox (badness 10000) in paragraph at lines 388--388
 []\OT1/cmr/m/n/12 (1,6), (2,5), (3,4),
  []
 
 
-Overfull \hbox (25.9468pt too wide) in paragraph at lines 377--394
+Overfull \hbox (25.9468pt too wide) in paragraph at lines 374--391
  [] 
  []
 
@@ -1301,72 +1290,306 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.398 \choice
+l.395 \choice
               8pdfTeX warning (ext4): destination with the same identifier (nam
 e{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.399 \CorrectChoice
+l.396 \CorrectChoice
                      15pdfTeX warning (ext4): destination with the same identif
 ier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.400 \choice
+l.397 \choice
               16pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.401 \choice
-              24 <Images/RespA.png, id=215, 225.84375pt x 140.525pt>
+l.398 \choice
+              24 <Images/RespA.png, id=214, 225.84375pt x 140.525pt>
 File: Images/RespA.png Graphic file (type png)
 
 <use Images/RespA.png>
-Package pdftex.def Info: Images/RespA.png used on input line 425.
+Package pdftex.def Info: Images/RespA.png used on input line 422.
 (pdftex.def)             Requested size: 112.92159pt x 70.26231pt.
- <Images/RespB.png, id=216, 222.8325pt x 140.525pt>
+ <Images/RespB.png, id=215, 222.8325pt x 140.525pt>
 File: Images/RespB.png Graphic file (type png)
 
 <use Images/RespB.png>
-Package pdftex.def Info: Images/RespB.png used on input line 426.
+Package pdftex.def Info: Images/RespB.png used on input line 423.
 (pdftex.def)             Requested size: 111.41597pt x 70.26231pt.
- <Images/RespC.png, id=217, 224.84pt x 131.49126pt>
+ <Images/RespC.png, id=216, 224.84pt x 131.49126pt>
 File: Images/RespC.png Graphic file (type png)
 
 <use Images/RespC.png>
-Package pdftex.def Info: Images/RespC.png used on input line 427.
+Package pdftex.def Info: Images/RespC.png used on input line 424.
 (pdftex.def)             Requested size: 112.41972pt x 65.74545pt.
- <Images/RespD.png, id=218, 222.8325pt x 131.49126pt>
+ <Images/RespD.png, id=217, 222.8325pt x 131.49126pt>
 File: Images/RespD.png Graphic file (type png)
 
 <use Images/RespD.png>
-Package pdftex.def Info: Images/RespD.png used on input line 428.
+Package pdftex.def Info: Images/RespD.png used on input line 425.
 (pdftex.def)             Requested size: 111.41597pt x 65.74545pt.
- [4 <./Images/diag-arbol.png> <./Images/RespA.png> <./Images/RespB.png>]pdfTeX 
-warning (ext4): destination with the same identifier (name{choice.1}) has been 
-already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
+s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.448 \choice
+l.445 \choice
               $\frac{4}{40}$ \choice $\frac{10}{10}$pdfTeX warning (ext4): dest
 ination with the same identifier (name{choice.2}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.448 \choice $\frac{4}{40}$ \choice
+l.445 \choice $\frac{4}{40}$ \choice
                                      $\frac{10}{10}$pdfTeX warning (ext4): dest
 ination with the same identifier (name{choice.3}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.449 \CorrectChoice
+l.446 \CorrectChoice
                      $\frac{14}{40}$ \choice $\frac{20}{40}$pdfTeX warning (ext
 4): destination with the same identifier (name{choice.4}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.449 \CorrectChoice $\frac{14}{40}$ \choice
-                                             $\frac{20}{40}$ [5 <./Images/RespC
-.png> <./Images/RespD.png>]
+l.446 \CorrectChoice $\frac{14}{40}$ \choice
+                                             $\frac{20}{40}$
+<Images/diag-arbol.png, id=218, 562.1pt x 359.3425pt>
+File: Images/diag-arbol.png Graphic file (type png)
+
+<use Images/diag-arbol.png>
+Package pdftex.def Info: Images/diag-arbol.png used on input line 450.
+(pdftex.def)             Requested size: 281.04932pt x 179.6708pt.
+
+Overfull \hbox (35.80733pt too wide) in paragraph at lines 450--450
+[][] 
+ []
+
+[4 <./Images/RespA.png> <./Images/RespB.png> <./Images/RespC.png> <./Images/Res
+pD.png>]
+Overfull \vbox (97.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (96.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (95.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (94.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (93.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (92.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (91.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (90.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (89.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (88.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (87.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (86.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (85.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (84.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (83.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (82.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (81.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (80.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (79.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (78.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (77.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (76.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (75.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (74.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (73.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (72.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (71.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (70.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (69.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (68.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (67.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (66.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (65.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (64.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (63.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (62.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (61.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (60.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (59.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (58.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (57.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (56.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (55.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (54.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (53.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (52.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (51.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (50.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (49.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (48.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (47.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (46.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (45.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (44.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (43.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (42.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (41.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (40.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (39.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (38.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (37.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (36.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (35.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (34.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (33.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (32.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (31.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (30.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (29.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (28.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (27.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (26.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (25.6708pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (24.6708pt too high) has occurred while \output is active []
+
+
+[5 <./Images/diag-arbol.png>]
 This exam contains 36 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
@@ -1383,10 +1606,10 @@ Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 512.
  ) 
 Here is how much of TeX's memory you used:
- 16863 strings out of 494997
- 285524 string characters out of 3180092
+ 16862 strings out of 494997
+ 285516 string characters out of 3180092
  400252 words of memory out of 3000000
- 19628 multiletter control sequences out of 15000+200000
+ 19627 multiletter control sequences out of 15000+200000
  12542 words of font info for 49 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,465b,793s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1402,7 +1625,7 @@ c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on 11MatPruebaBim1.pdf (5 pages, 256364 bytes).
+Output written on 11MatPruebaBim1.pdf (5 pages, 256215 bytes).
 PDF statistics:
  303 PDF objects out of 1000 (max. 8388607)
  266 compressed objects within 3 object streams
