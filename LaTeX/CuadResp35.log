@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -152,6 +152,11 @@ Overfull \hbox (17.71005pt too wide) in paragraph at lines 9--16
  [][] 
  []
 
+
+Overfull \hbox (17.71005pt too wide) in paragraph at lines 22--29
+ [][] 
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./CuadResp35.aux
@@ -161,14 +166,14 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  1401 strings out of 494997
  18394 string characters out of 3180092
- 140744 words of memory out of 3000000
+ 148744 words of memory out of 3000000
  4639 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  25i,11n,27p,735b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on CuadResp35.pdf (2 pages, 24165 bytes).
+Output written on CuadResp35.pdf (2 pages, 24206 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  12 compressed objects within 1 object stream
