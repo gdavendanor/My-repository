@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:15
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1262,11 +1262,6 @@ Overfull \hbox (34.97482pt too wide) in paragraph at lines 353--365
  [] 
  []
 
-
-Overfull \hbox (46.99454pt too wide) in paragraph at lines 377--396
- [] 
- []
-
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
@@ -1326,10 +1321,6 @@ arbol.png> <./Images/frecuencias.png>]
 This exam contains 36 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
 (./11MatPruebaBim1.aux
@@ -1340,17 +1331,13 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
 Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 511.
  ) 
 Here is how much of TeX's memory you used:
- 16845 strings out of 494997
- 285262 string characters out of 3180092
- 400144 words of memory out of 3000000
- 19617 multiletter control sequences out of 15000+200000
+ 16840 strings out of 494997
+ 285169 string characters out of 3180092
+ 400240 words of memory out of 3000000
+ 19612 multiletter control sequences out of 15000+200000
  12850 words of font info for 50 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,465b,793s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1366,7 +1353,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatPruebaBim1.pdf (4 pages, 252986 bytes).
+Output written on 11MatPruebaBim1.pdf (4 pages, 252990 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams
