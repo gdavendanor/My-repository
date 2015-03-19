@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1262,6 +1262,11 @@ Overfull \hbox (34.97482pt too wide) in paragraph at lines 353--365
  [] 
  []
 
+
+Overfull \hbox (6.91628pt too wide) in paragraph at lines 377--396
+ [] 
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
@@ -1353,7 +1358,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatPruebaBim1.pdf (4 pages, 252990 bytes).
+Output written on 11MatPruebaBim1.pdf (4 pages, 252989 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams
