@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 08:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 08:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1270,7 +1270,7 @@ Overfull \hbox (3.6968pt too wide) in paragraph at lines 354--365
 
 [3 <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.pdf> <./Images/res
 pD.pdf>]
-Overfull \hbox (18.59174pt too wide) in paragraph at lines 394--394
+Overfull \hbox (15.74629pt too wide) in paragraph at lines 394--394
 []\OT1/cmr/bx/n/12 posibilidades| 
  []
 
@@ -1356,263 +1356,28 @@ l.449 \CorrectChoice
 <to be read again> 
                    \relax 
 l.449 \CorrectChoice $\frac{14}{40}$ \choice
-                                             $\frac{20}{40}$
-<Images/diag-arbol.png, id=218, 562.1pt x 359.3425pt>
-File: Images/diag-arbol.png Graphic file (type png)
-
-<use Images/diag-arbol.png>
-Package pdftex.def Info: Images/diag-arbol.png used on input line 453.
-(pdftex.def)             Requested size: 281.04932pt x 179.6708pt.
-
-Overfull \hbox (35.80733pt too wide) in paragraph at lines 453--453
-[][] 
- []
-
-[4 <./Images/RespA.png> <./Images/RespB.png> <./Images/RespC.png> <./Images/Res
-pD.png>]
-Overfull \vbox (97.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (96.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (95.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (94.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (93.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (92.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (91.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (90.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (89.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (88.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (87.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (86.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (85.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (84.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (83.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (82.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (81.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (80.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (79.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (78.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (77.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (76.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (75.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (74.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (73.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (72.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (71.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (70.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (69.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (68.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (67.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (66.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (65.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (64.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (63.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (62.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (61.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (60.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (59.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (58.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (57.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (56.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (55.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (54.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (53.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (52.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (51.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (50.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (49.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (48.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (47.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (46.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (45.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (44.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (43.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (42.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (41.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (40.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (39.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (38.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (37.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (36.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (35.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (34.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (33.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (32.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (31.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (30.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (29.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (28.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (27.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (26.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (25.6708pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (24.6708pt too high) has occurred while \output is active []
-
-
-[5 <./Images/diag-arbol.png>]
-This exam contains 36 questions with 0 parts, 0 subparts, and 0 subsubparts.
+                                             $\frac{20}{40}$ [4 <./Images/RespA
+.png> <./Images/RespB.png> <./Images/RespC.png> <./Images/RespD.png>]
+This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 515.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 515.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
 (./11MatPruebaBim1.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 515.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 515.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 514.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 514.
 Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 515.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 514.
  ) 
 Here is how much of TeX's memory you used:
- 16928 strings out of 494997
- 286466 string characters out of 3180092
+ 16921 strings out of 494997
+ 286335 string characters out of 3180092
  401333 words of memory out of 3000000
- 19689 multiletter control sequences out of 15000+200000
+ 19685 multiletter control sequences out of 15000+200000
  12542 words of font info for 49 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,426b,793s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1628,10 +1393,10 @@ c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on 11MatPruebaBim1.pdf (5 pages, 256636 bytes).
+Output written on 11MatPruebaBim1.pdf (4 pages, 238569 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 266 compressed objects within 3 object streams
- 130 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 128 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
