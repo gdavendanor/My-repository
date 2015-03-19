@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  19 MAR 2015 07:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1209,56 +1209,56 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.330 \choice
+l.328 \choice
               152pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.331 \choice
+l.329 \choice
               $153 \frac{1}{1}$pdfTeX warning (ext4): destination with the same
  identifier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.332 \CorrectChoice
+l.330 \CorrectChoice
                      153pdfTeX warning (ext4): destination with the same identi
 fier (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.333 \choice
+l.331 \choice
               154pdfTeX warning (ext4): destination with the same identifier (n
 ame{choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.338 \choice
+l.336 \choice
               5pdfTeX warning (ext4): destination with the same identifier (nam
 e{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.339 \choice
+l.337 \choice
               6pdfTeX warning (ext4): destination with the same identifier (nam
 e{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.340 \CorrectChoice
+l.338 \CorrectChoice
                      7pdfTeX warning (ext4): destination with the same identifi
 er (name{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.341 \choice
+l.339 \choice
               8 <Images/diag-arbol.png, id=158, 562.1pt x 359.3425pt>
 File: Images/diag-arbol.png Graphic file (type png)
 
 <use Images/diag-arbol.png>
-Package pdftex.def Info: Images/diag-arbol.png used on input line 352.
+Package pdftex.def Info: Images/diag-arbol.png used on input line 350.
 (pdftex.def)             Requested size: 281.04932pt x 179.6708pt.
 
-Overfull \hbox (35.80733pt too wide) in paragraph at lines 352--352
+Overfull \hbox (35.80733pt too wide) in paragraph at lines 350--350
 [][] 
  []
 
 [3 <./Images/respA.pdf> <./Images/respB.pdf> <./Images/respC.pdf> <./Images/res
 pD.pdf>]
-Overfull \hbox (6.91628pt too wide) in paragraph at lines 379--398
+Overfull \hbox (6.91628pt too wide) in paragraph at lines 377--396
  [] 
  []
 
@@ -1266,30 +1266,30 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.402 \choice
+l.400 \choice
               8pdfTeX warning (ext4): destination with the same identifier (nam
 e{choice.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.403 \CorrectChoice
+l.401 \CorrectChoice
                      15pdfTeX warning (ext4): destination with the same identif
 ier (name{choice.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.404 \choice
+l.402 \choice
               16pdfTeX warning (ext4): destination with the same identifier (na
 me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.405 \choice
+l.403 \choice
               24 <Images/frecuencias.png, id=216, 544.0325pt x 299.1175pt>
 File: Images/frecuencias.png Graphic file (type png)
 
 <use Images/frecuencias.png>
-Package pdftex.def Info: Images/frecuencias.png used on input line 431.
+Package pdftex.def Info: Images/frecuencias.png used on input line 429.
 (pdftex.def)             Requested size: 299.2188pt x 164.51512pt.
 
-Overfull \hbox (53.9768pt too wide) in paragraph at lines 431--431
+Overfull \hbox (53.9768pt too wide) in paragraph at lines 429--429
  [] 
  []
 
@@ -1297,41 +1297,41 @@ pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.449 \choice
+l.447 \choice
               $\frac{4}{40}$ \choice $\frac{10}{10}$pdfTeX warning (ext4): dest
 ination with the same identifier (name{choice.2}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.449 \choice $\frac{4}{40}$ \choice
+l.447 \choice $\frac{4}{40}$ \choice
                                      $\frac{10}{10}$pdfTeX warning (ext4): dest
 ination with the same identifier (name{choice.3}) has been already used, duplic
 ate ignored
 <to be read again> 
                    \relax 
-l.450 \CorrectChoice
+l.448 \CorrectChoice
                      $\frac{14}{40}$ \choice $\frac{20}{40}$pdfTeX warning (ext
 4): destination with the same identifier (name{choice.4}) has been already used
 , duplicate ignored
 <to be read again> 
                    \relax 
-l.450 \CorrectChoice $\frac{14}{40}$ \choice
+l.448 \CorrectChoice $\frac{14}{40}$ \choice
                                              $\frac{20}{40}$ [4 <./Images/diag-
 arbol.png> <./Images/frecuencias.png>]
 This exam contains 36 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 511.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 511.
 (./11MatPruebaBim1.aux
 LaTeX Info: Redefining \. on input line 29.
 LaTeX Info: Redefining \% on input line 29.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 511.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 511.
 Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 513.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 511.
  ) 
 Here is how much of TeX's memory you used:
  16840 strings out of 494997
@@ -1353,7 +1353,7 @@ ic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on 11MatPruebaBim1.pdf (4 pages, 252966 bytes).
+Output written on 11MatPruebaBim1.pdf (4 pages, 252979 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  261 compressed objects within 3 object streams
