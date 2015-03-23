@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  23 MAR 2015 12:30
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  23 MAR 2015 12:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -860,7 +860,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 LaTeX Warning: Unused global option(s):
     [letter].
 
-No file 9Anim03.aux.
+(./9Anim03.aux
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+)
 \openout1 = `9Anim03.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -878,7 +881,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 34.
@@ -926,11 +929,12 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
+
+(./9Anim03.out) (./9Anim03.out)
 \@outlinefile=\write4
 \openout4 = `9Anim03.out'.
 
-
-ABD: EveryShipout initializing macros
+ ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1052,21 +1056,14 @@ LaTeX Info: Redefining \% on input line 17.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
-
-
-Package rerunfilecheck Warning: File `9Anim03.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `9Anim03.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `9Anim03.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 181.
  ) 
 Here is how much of TeX's memory you used:
- 17085 strings out of 494997
- 292359 string characters out of 3180092
- 396588 words of memory out of 3000000
+ 17091 strings out of 494997
+ 292431 string characters out of 3180092
+ 396500 words of memory out of 3000000
  19908 multiletter control sequences out of 15000+200000
  65600 words of font info for 67 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1084,7 +1081,7 @@ public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share
 mri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/
 fonts/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on 9Anim03.pdf (2 pages, 292348 bytes).
+Output written on 9Anim03.pdf (2 pages, 287816 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  116 compressed objects within 2 object streams
