@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 04:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 04:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,6 +846,91 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 (./11MatPruebaBim1.aux
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
+
+LaTeX Warning: Label `question@7' multiply defined.
+
 )
 \openout1 = `11MatPruebaBim1.aux'.
 
@@ -867,8 +952,7 @@ LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
 \AtBeginShipoutBox=\box64
 Package hyperref Info: Link coloring OFF on input line 14.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1456,7 +1540,7 @@ Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 514.
  )
@@ -1465,10 +1549,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 514.
 ### semi simple group (level 1) entered at line 35 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 16915 strings out of 494997
- 286266 string characters out of 3180092
- 400297 words of memory out of 3000000
- 19681 multiletter control sequences out of 15000+200000
+ 16668 strings out of 494997
+ 281770 string characters out of 3180092
+ 399020 words of memory out of 3000000
+ 19434 multiletter control sequences out of 15000+200000
  13105 words of font info for 51 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,426b,793s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1486,7 +1570,7 @@ blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb>
-Output written on 11MatPruebaBim1.pdf (4 pages, 263967 bytes).
+Output written on 11MatPruebaBim1.pdf (4 pages, 263959 bytes).
 PDF statistics:
  300 PDF objects out of 1000 (max. 8388607)
  263 compressed objects within 3 object streams
