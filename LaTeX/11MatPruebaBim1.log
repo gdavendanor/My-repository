@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 04:33
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 04:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1107,44 +1107,8 @@ l.105 \end{choices}
 l.105 \end{choices}
                     <./Images/logo-colegio.png> <./Images/logo-sed.png (PNG cop
 y)> <./Images/desigA.pdf> <./Images/desigB.pdf> <./Images/desigC.pdf> <./Images
-/desigD.pdf>]
-! Extra }, or forgotten \endgroup.
-\endmulticols ->\par \if@boxedmulticols \egroup 
-                                                \balance@columns \return@non...
-l.113 \end{multicols}
-                     
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.113 \end{multicols}
-                     
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-! LaTeX Error: \begin{multicols} on input line 108 ended by \end{choices}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.114 \end{choices}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
-s been already used, duplicate ignored
+/desigD.pdf>]pdfTeX warning (ext4): destination with the same identifier (name{
+choice.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.125 \choice
@@ -1172,8 +1136,6 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 130.
-LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 134.
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
 s been already used, duplicate ignored
 <to be read again> 
@@ -1294,50 +1256,45 @@ ame{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.281  \choice
-               42 <Images/respA.pdf, id=152, 371.28914pt x 23.5269pt>
+               42 <Images/respA.pdf, id=154, 371.28914pt x 23.5269pt>
 File: Images/respA.pdf Graphic file (type pdf)
 
 <use Images/respA.pdf>
 Package pdftex.def Info: Images/respA.pdf used on input line 286.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (44.29117pt too wide) in paragraph at lines 286--287
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 286--287
 [][] 
  []
 
-<Images/respB.pdf, id=153, 371.28914pt x 23.5269pt>
+<Images/respB.pdf, id=155, 371.28914pt x 23.5269pt>
 File: Images/respB.pdf Graphic file (type pdf)
  <use Images/respB.pdf>
 Package pdftex.def Info: Images/respB.pdf used on input line 287.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (44.29117pt too wide) in paragraph at lines 287--288
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 287--288
 [][] 
  []
 
-<Images/respC.pdf, id=154, 371.28914pt x 23.5269pt>
+<Images/respC.pdf, id=156, 371.28914pt x 23.5269pt>
 File: Images/respC.pdf Graphic file (type pdf)
  <use Images/respC.pdf>
 Package pdftex.def Info: Images/respC.pdf used on input line 288.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (44.29117pt too wide) in paragraph at lines 288--289
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 288--289
 [][] 
  []
 
-<Images/respD.pdf, id=155, 371.28914pt x 23.5269pt>
+<Images/respD.pdf, id=157, 371.28914pt x 23.5269pt>
 File: Images/respD.pdf Graphic file (type pdf)
  <use Images/respD.pdf>
 Package pdftex.def Info: Images/respD.pdf used on input line 289.
 (pdftex.def)             Requested size: 185.6441pt x 11.76341pt.
 
-Overfull \hbox (44.29117pt too wide) in paragraph at lines 289--290
+Overfull \hbox (1.23555pt too wide) in paragraph at lines 289--290
 [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 329--330
-[]\OT1/cmr/m/n/12 ?`Cu^^Sal es el pro-me-dio (me-dia
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{choice.1}) ha
@@ -1391,7 +1348,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 356--356
  []
 
 
-Overfull \hbox (46.75241pt too wide) in paragraph at lines 354--365
+Overfull \hbox (3.6968pt too wide) in paragraph at lines 354--365
  [] 
  []
 
@@ -1436,25 +1393,25 @@ me{choice.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.401 \choice
-              24 <Images/RespA.png, id=212, 225.84375pt x 140.525pt>
+              24 <Images/RespA.png, id=214, 225.84375pt x 140.525pt>
 File: Images/RespA.png Graphic file (type png)
 
 <use Images/RespA.png>
 Package pdftex.def Info: Images/RespA.png used on input line 425.
 (pdftex.def)             Requested size: 112.92159pt x 70.26231pt.
- <Images/RespB.png, id=213, 222.8325pt x 140.525pt>
+ <Images/RespB.png, id=215, 222.8325pt x 140.525pt>
 File: Images/RespB.png Graphic file (type png)
 
 <use Images/RespB.png>
 Package pdftex.def Info: Images/RespB.png used on input line 426.
 (pdftex.def)             Requested size: 111.41597pt x 70.26231pt.
- <Images/RespC.png, id=214, 224.84pt x 131.49126pt>
+ <Images/RespC.png, id=216, 224.84pt x 131.49126pt>
 File: Images/RespC.png Graphic file (type png)
 
 <use Images/RespC.png>
 Package pdftex.def Info: Images/RespC.png used on input line 427.
 (pdftex.def)             Requested size: 112.41972pt x 65.74545pt.
- <Images/RespD.png, id=215, 222.8325pt x 131.49126pt>
+ <Images/RespD.png, id=217, 222.8325pt x 131.49126pt>
 File: Images/RespD.png Graphic file (type png)
 
 <use Images/RespD.png>
@@ -1483,50 +1440,14 @@ l.449 \CorrectChoice
 <to be read again> 
                    \relax 
 l.449 \CorrectChoice $\frac{14}{40}$ \choice
-                                             $\frac{20}{40}$
-
-! LaTeX Error: \begin{choices} on input line 107 ended by \end{questions}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.511 \end{questions}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: \begin{questions} on input line 36 ended by \end{multicols}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.512 \end{multicols}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[4 <./Images/RespA.png> <./Images/RespB.png> <./Images/RespC.png> <./Images/Res
-pD.png>]
+                                             $\frac{20}{40}$ [4 <./Images/RespA
+.png> <./Images/RespB.png> <./Images/RespC.png> <./Images/RespD.png>]
 This exam contains 35 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 0 points.
 This exam has a total of 0 bonus points.
 
-! LaTeX Error: \begin{multicols} on input line 35 ended by \end{document}.
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.514 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 514.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 514.
@@ -1543,37 +1464,31 @@ Package rerunfilecheck Info: File `11MatPruebaBim1.out' has not changed.
 LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 514.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 35 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 16668 strings out of 494997
- 281770 string characters out of 3180092
- 399020 words of memory out of 3000000
- 19434 multiletter control sequences out of 15000+200000
- 13105 words of font info for 51 fonts, out of 3000000 for 9000
+ 16916 strings out of 494997
+ 286253 string characters out of 3180092
+ 400020 words of memory out of 3000000
+ 19680 multiletter control sequences out of 15000+200000
+ 12542 words of font info for 49 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  56i,11n,55p,426b,793s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
-pfb>
-Output written on 11MatPruebaBim1.pdf (4 pages, 263959 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+>
+Output written on 11MatPruebaBim1.pdf (4 pages, 238578 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 263 compressed objects within 3 object streams
- 124 named destinations out of 1000 (max. 500000)
+ 297 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
+ 128 named destinations out of 1000 (max. 500000)
  83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
