@@ -516,14 +516,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(29.87547pt, 337.73404pt, 29.87547pt)
+* h-part:(L,W,R)=(32.72049pt, 332.044pt, 32.72049pt)
 * v-part:(T,H,B)=(35.56593pt, 543.16313pt, 35.56593pt)
 * \paperwidth=397.48499pt
 * \paperheight=614.295pt
-* \textwidth=337.73404pt
+* \textwidth=332.044pt
 * \textheight=543.16313pt
-* \oddsidemargin=-42.39452pt
-* \evensidemargin=-42.39452pt
+* \oddsidemargin=-39.5495pt
+* \evensidemargin=-39.5495pt
 * \topmargin=-73.70406pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -592,14 +592,15 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
-] [9] [10] [11] [12] (./DiaE.aux
+] [9] [10] [11] [12] [13]
+(./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  3882 strings out of 494997
  50796 string characters out of 3180092
- 121926 words of memory out of 3000000
+ 121920 words of memory out of 3000000
  6979 multiletter control sequences out of 15000+200000
  47209 words of font info for 52 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -613,10 +614,10 @@ xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DiaE.pdf (12 pages, 269164 bytes).
+Output written on DiaE.pdf (13 pages, 269399 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 67 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
