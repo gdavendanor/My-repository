@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -515,11 +515,11 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2987 strings out of 494997
- 40780 string characters out of 3180092
+ 2989 strings out of 494997
+ 40803 string characters out of 3180092
  107140 words of memory out of 3000000
- 6121 multiletter control sequences out of 15000+200000
- 34619 words of font info for 37 fonts, out of 3000000 for 9000
+ 6123 multiletter control sequences out of 15000+200000
+ 37565 words of font info for 38 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,7n,30p,610b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc
@@ -527,7 +527,7 @@ Here is how much of TeX's memory you used:
 are/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texm
 f/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DiaE.pdf (2 pages, 129583 bytes).
+Output written on DiaE.pdf (2 pages, 132172 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
