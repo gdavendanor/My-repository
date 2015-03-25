@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:07
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -492,27 +492,54 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 11.
- [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./DiaE.aux
+! Undefined control sequence.
+l.21 ...co y sus problemas”. Disponible en: \url
+                                                  {/https://www.youtube.com/...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.21 ...tps://www.youtube.com/watch?v=Mu2E-iTARJo&
+                                                  list=PLS09vmehZoIdDLV3vXrt...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (29.50499pt too wide) in paragraph at lines 21--22
+\OT1/lmr/m/n/10 sus pro-ble-mas". Dis-po-ni-ble en: /https://www.youtube.com/wa
+tch?v=Mu2E-
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2850 strings out of 494997
- 39007 string characters out of 3180092
- 103055 words of memory out of 3000000
- 6000 multiletter control sequences out of 15000+200000
- 20571 words of font info for 26 fonts, out of 3000000 for 9000
+ 2855 strings out of 494997
+ 39065 string characters out of 3180092
+ 107055 words of memory out of 3000000
+ 6004 multiletter control sequences out of 15000+200000
+ 26465 words of font info for 28 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 38i,7n,30p,242b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,30p,605b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
-/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on DiaE.pdf (1 page, 73826 bytes).
+/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/s
+hare/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmr17.pfb>
+Output written on DiaE.pdf (2 pages, 103144 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
