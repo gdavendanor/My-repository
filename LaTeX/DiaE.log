@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:05
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -440,16 +440,16 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: letterpaper
+* paper: custom
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(35.56593pt, 543.16313pt, 35.56593pt)
-* v-part:(T,H,B)=(35.56593pt, 723.83812pt, 35.56593pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=543.16313pt
-* \textheight=723.83812pt
+* h-part:(L,W,R)=(35.56593pt, 326.35312pt, 35.56593pt)
+* v-part:(T,H,B)=(35.56593pt, 543.16313pt, 35.56593pt)
+* \paperwidth=397.48499pt
+* \paperheight=614.295pt
+* \textwidth=326.35312pt
+* \textheight=543.16313pt
 * \oddsidemargin=-36.70406pt
 * \evensidemargin=-36.70406pt
 * \topmargin=-73.70406pt
@@ -501,15 +501,15 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  2850 strings out of 494997
  39007 string characters out of 3180092
- 102913 words of memory out of 3000000
+ 103055 words of memory out of 3000000
  6000 multiletter control sequences out of 15000+200000
  20571 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 38i,7n,27p,242b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,7n,30p,242b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on DiaE.pdf (1 page, 73697 bytes).
+Output written on DiaE.pdf (1 page, 73826 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
