@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -574,8 +574,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 15.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 28.
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 28.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -594,18 +597,18 @@ Overfull \hbox (2.34703pt too wide) in paragraph at lines 44--46
 i-ce me-dir^^S^^Pa la ca-li-dad? ?`Qui^^Sen,
  []
 
-[3] [4] [5] [6] (./DiaE.aux
+[3] [4] [5] [6] [7] (./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  3879 strings out of 494997
  50764 string characters out of 3180092
- 121926 words of memory out of 3000000
+ 122926 words of memory out of 3000000
  6977 multiletter control sequences out of 15000+200000
  42991 words of font info for 51 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 38i,8n,30p,1044b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,30p,1044b,295s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/d
 vips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}</usr/sh
 are/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public
@@ -615,10 +618,10 @@ xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/pub
 lic/lm/lmtt10.pfb>
-Output written on DiaE.pdf (6 pages, 230777 bytes).
+Output written on DiaE.pdf (7 pages, 231035 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
