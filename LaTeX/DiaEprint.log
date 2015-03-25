@@ -202,4 +202,258 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 452.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopd
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=23.12738pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=0.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+<DiaE.pdf, id=3, page=12, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 12>
+Package pdftex.def Info: DiaE.pdf, page12 used on input line 6.
+(pdftex.def)             Requested size: 397.48402pt x 614.29349pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 12>
+Package pdftex.def Info: DiaE.pdf, page12 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 12>
+Package pdftex.def Info: DiaE.pdf, page12 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 12>
+Package pdftex.def Info: DiaE.pdf, page12 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+
+<DiaE.pdf, id=4, page=1, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 1>
+Package pdftex.def Info: DiaE.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 1>
+Package pdftex.def Info: DiaE.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 12>
+Package pdftex.def Info: DiaE.pdf, page12 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 1>
+Package pdftex.def Info: DiaE.pdf, page1 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [1 <./DiaE.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}> <./DiaE.pdf
+>]
+<DiaE.pdf, id=41, page=11, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 11>
+Package pdftex.def Info: DiaE.pdf, page11 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 11>
+Package pdftex.def Info: DiaE.pdf, page11 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ <DiaE.pdf, id=42, page=2, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 2>
+Package pdftex.def Info: DiaE.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 2>
+Package pdftex.def Info: DiaE.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 11>
+Package pdftex.def Info: DiaE.pdf, page11 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 2>
+Package pdftex.def Info: DiaE.pdf, page2 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [2 <./DiaE.pdf> <./DiaE.pdf>]
+<DiaE.pdf, id=61, page=10, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 10>
+Package pdftex.def Info: DiaE.pdf, page10 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 10>
+Package pdftex.def Info: DiaE.pdf, page10 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ <DiaE.pdf, id=62, page=3, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 3>
+Package pdftex.def Info: DiaE.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 3>
+Package pdftex.def Info: DiaE.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 10>
+Package pdftex.def Info: DiaE.pdf, page10 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 3>
+Package pdftex.def Info: DiaE.pdf, page3 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [3 <./DiaE.pdf> <./DiaE.pdf>]
+<DiaE.pdf, id=71, page=9, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 9>
+Package pdftex.def Info: DiaE.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 9>
+Package pdftex.def Info: DiaE.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ <DiaE.pdf, id=72, page=4, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 4>
+Package pdftex.def Info: DiaE.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 4>
+Package pdftex.def Info: DiaE.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 9>
+Package pdftex.def Info: DiaE.pdf, page9 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 4>
+Package pdftex.def Info: DiaE.pdf, page4 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [4 <./DiaE.pdf> <./DiaE.pdf>]
+<DiaE.pdf, id=81, page=8, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 8>
+Package pdftex.def Info: DiaE.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 8>
+Package pdftex.def Info: DiaE.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ <DiaE.pdf, id=82, page=5, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 5>
+Package pdftex.def Info: DiaE.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 5>
+Package pdftex.def Info: DiaE.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 8>
+Package pdftex.def Info: DiaE.pdf, page8 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 5>
+Package pdftex.def Info: DiaE.pdf, page5 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [5 <./DiaE.pdf> <./DiaE.pdf>]
+<DiaE.pdf, id=86, page=7, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 7>
+Package pdftex.def Info: DiaE.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 7>
+Package pdftex.def Info: DiaE.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ <DiaE.pdf, id=87, page=6, 397.485pt x 614.295pt>
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 6>
+Package pdftex.def Info: DiaE.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 6>
+Package pdftex.def Info: DiaE.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+ <use DiaE.pdf, page 7>
+Package pdftex.def Info: DiaE.pdf, page7 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+File: DiaE.pdf Graphic file (type pdf)
+
+<use DiaE.pdf, page 6>
+Package pdftex.def Info: DiaE.pdf, page6 used on input line 6.
+(pdftex.def)             Requested size: 397.67204pt x 614.58406pt.
+ [6 <./DiaE.pdf> <./DiaE.pdf>] (./DiaEprint.aux
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+) ) 
+Here is how much of TeX's memory you used:
+ 3550 strings out of 494997
+ 50214 string characters out of 3180092
+ 118144 words of memory out of 3000000
+ 6718 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 40 hyphenation exceptions out of 8191
+ 42i,20n,49p,271b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb
+>
+Output written on DiaEprint.pdf (6 pages, 272991 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
