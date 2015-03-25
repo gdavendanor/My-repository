@@ -517,11 +517,11 @@ e
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(28.45274pt, 340.5795pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 550.27632pt, 35.56593pt)
 * \paperwidth=397.48499pt
 * \paperheight=614.295pt
 * \textwidth=340.5795pt
-* \textheight=557.38951pt
+* \textheight=550.27632pt
 * \oddsidemargin=-43.81725pt
 * \evensidemargin=-43.81725pt
 * \topmargin=-80.81725pt
@@ -599,7 +599,7 @@ LaTeX Info: Redefining \% on input line 6.
 Here is how much of TeX's memory you used:
  3882 strings out of 494997
  50796 string characters out of 3180092
- 121912 words of memory out of 3000000
+ 121915 words of memory out of 3000000
  6979 multiletter control sequences out of 15000+200000
  47209 words of font info for 52 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -613,7 +613,7 @@ xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DiaE.pdf (12 pages, 269200 bytes).
+Output written on DiaE.pdf (12 pages, 269205 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
