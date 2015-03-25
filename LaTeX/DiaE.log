@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:17
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 19:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,24 +510,201 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 25.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./DiaE.aux
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                    #4  \errhelp \@err@     ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \let \@err@               ...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                  \@empty \def \MessageBreak...
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\GenericError  ...                                
+                                                     \endgroup 
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Missing { inserted.
+<to be read again> 
+                   \let 
+l.35 ...l Ministerio de Educación Nacional.pdf'}
+                                                  
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.36 \end{document}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.36 \end{document}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (320.64319pt too wide) in paragraph at lines 35--36
+[][] 
+ []
+
+[2] (./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-) ) 
+) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 35 (\begingroup)
+### bottom level
+(\end occurred when \ifx on line 35 was incomplete) 
 Here is how much of TeX's memory you used:
- 2989 strings out of 494997
- 40803 string characters out of 3180092
+ 2991 strings out of 494997
+ 40810 string characters out of 3180092
  107140 words of memory out of 3000000
- 6123 multiletter control sequences out of 15000+200000
+ 6124 multiletter control sequences out of 15000+200000
  37565 words of font info for 38 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,7n,30p,610b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc
-/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/
-lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DiaE.pdf (2 pages, 132172 bytes).
+{/usr/share/texmf/fonts/enc/
+dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share
+/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm
+/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
+pfb>
+Output written on DiaE.pdf (2 pages, 133335 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
