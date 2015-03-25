@@ -353,8 +353,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen112
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks18
+) (./DiaE.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
 )
-No file DiaE.aux.
 \openout1 = `DiaE.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -370,6 +372,7 @@ LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 9.
+
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -496,17 +499,17 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 2852 strings out of 494997
- 39043 string characters out of 3180092
- 102882 words of memory out of 3000000
- 6004 multiletter control sequences out of 15000+200000
+ 2853 strings out of 494997
+ 39053 string characters out of 3180092
+ 102895 words of memory out of 3000000
+ 6003 multiletter control sequences out of 15000+200000
  20571 words of font info for 26 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
  38i,7n,27p,242b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1
 /public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on DiaE.pdf (1 page, 72769 bytes).
+Output written on DiaE.pdf (1 page, 73840 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
