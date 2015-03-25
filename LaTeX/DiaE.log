@@ -598,26 +598,6 @@ Overfull \hbox (2.34703pt too wide) in paragraph at lines 44--46
 i-ce me-dir^^S^^Pa la ca-li-dad? ?`Qui^^Sen,
  []
 
-
-! LaTeX Error: \begin{document} ended by \end{quote}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 \end{quote}
-                
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-! Extra \endgroup.
-<recently read> \endgroup 
-                          
-l.46 \end{quote}
-                
-Things are pretty mixed up, but I think the worst is over.
-
 [3] (./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
