@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 20:14
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  24 MAR 2015 20:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,14 +516,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(32.72049pt, 332.044pt, 32.72049pt)
+* h-part:(L,W,R)=(31.2982pt, 334.88858pt, 31.2982pt)
 * v-part:(T,H,B)=(35.56593pt, 543.16313pt, 35.56593pt)
 * \paperwidth=397.48499pt
 * \paperheight=614.295pt
-* \textwidth=332.044pt
+* \textwidth=334.88858pt
 * \textheight=543.16313pt
-* \oddsidemargin=-39.5495pt
-* \evensidemargin=-39.5495pt
+* \oddsidemargin=-40.97179pt
+* \evensidemargin=-40.97179pt
 * \topmargin=-73.70406pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -592,15 +592,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8
-] [9] [10] [11] [12] [13]
-(./DiaE.aux
+] [9] [10] [11] [12] (./DiaE.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
  3882 strings out of 494997
  50796 string characters out of 3180092
- 121920 words of memory out of 3000000
+ 121922 words of memory out of 3000000
  6979 multiletter control sequences out of 15000+200000
  47209 words of font info for 52 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -614,10 +613,10 @@ xmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 /type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></us
 r/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmsy7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on DiaE.pdf (13 pages, 269399 bytes).
+Output written on DiaE.pdf (12 pages, 269036 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
