@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 MAR 2015 21:56
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 MAR 2015 21:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -431,40 +431,67 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
 )
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count138
+\Gm@cntv=\count139
+\c@Gm@tempcnt=\count140
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks28
+)
 (./Autoevaluacion.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
 )
 \openout1 = `Autoevaluacion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count138
-\scratchdimen=\dimen118
+\scratchcounter=\count141
+\scratchdimen=\dimen126
 \scratchbox=\box28
-\nofMPsegments=\count139
-\nofMParguments=\count140
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count141
-\MPscratchDim=\dimen119
-\MPnumerator=\count142
-\makeMPintoPDFobject=\count143
-\everyMPtoPDFconversion=\toks29
+\nofMPsegments=\count142
+\nofMParguments=\count143
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count144
+\MPscratchDim=\dimen127
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
+\everyMPtoPDFconversion=\toks30
 ) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -472,10 +499,6 @@ Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -513,23 +536,57 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 557.38951pt, 28.45274pt)
+* v-part:(T,H,B)=(35.56593pt, 723.83812pt, 35.56593pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=557.38951pt
+* \textheight=723.83812pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-66.70406pt
+* \headheight=15.0pt
+* \headsep=15.0pt
+* \topskip=10.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 <Images/logo-colegio.png, id=1, 165.61874pt x 141.52875pt>
 File: Images/logo-colegio.png Graphic file (type png)
 
 <use Images/logo-colegio.png>
-Package pdftex.def Info: Images/logo-colegio.png used on input line 16.
+Package pdftex.def Info: Images/logo-colegio.png used on input line 17.
 (pdftex.def)             Requested size: 21.06366pt x 18.0pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 23--25
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
 
  []
 
@@ -537,35 +594,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
 ]
-Overfull \hbox (17.22221pt too wide) in paragraph at lines 89--101
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 90--102
 []$[]$ $[]$ 
  []
 
-[2] [3]
+[2]
 This exam contains 20 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 100 points.
 This exam has a total of 0 bonus points.
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
 (./Autoevaluacion.aux
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-) ) 
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4244 strings out of 494997
- 54663 string characters out of 3180092
- 130339 words of memory out of 3000000
- 7376 multiletter control sequences out of 15000+200000
+ 4723 strings out of 494997
+ 61695 string characters out of 3180092
+ 143954 words of memory out of 3000000
+ 7845 multiletter control sequences out of 15000+200000
  10283 words of font info for 41 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,11n,27p,331b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on Autoevaluacion.pdf (3 pages, 81897 bytes).
+ 38i,11n,27p,331b,272s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Autoevaluacion.pdf (2 pages, 81373 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 32 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
