@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 MAR 2015 21:48
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.9.16)  25 MAR 2015 21:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -431,7 +431,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen116
 \Gin@req@width=\dimen117
 )
-No file Autoevaluacion.aux.
+(./Autoevaluacion.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
 \openout1 = `Autoevaluacion.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -448,6 +451,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count138
@@ -528,54 +532,39 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
 ]
-
-Class exam Warning: You must run LaTeX again to produce the table.
-(exam)               on input line 90.
-
-
-Class exam Warning: You must run LaTeX again to produce the table.
-(exam)               on input line 95.
-
-
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 88--98
+Overfull \hbox (17.2222pt too wide) in paragraph at lines 89--99
 []$[]$ $[]$ 
  []
 
-[2]
+[2] [3]
 This exam contains 20 questions with 0 parts, 0 subparts, and 0 subsubparts.
 This exam has a total of 100 points.
 This exam has a total of 0 bonus points.
-
-Class exam Warning: Point totals have changed. Rerun to get point totals right.
-
-
 (./Autoevaluacion.aux
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
 )
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4239 strings out of 494997
- 54566 string characters out of 3180092
- 127838 words of memory out of 3000000
- 7372 multiletter control sequences out of 15000+200000
- 10591 words of font info for 42 fonts, out of 3000000 for 9000
+ 4244 strings out of 494997
+ 54663 string characters out of 3180092
+ 130339 words of memory out of 3000000
+ 7376 multiletter control sequences out of 15000+200000
+ 10283 words of font info for 41 fonts, out of 3000000 for 9000
  40 hyphenation exceptions out of 8191
- 37i,11n,27p,331b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr8.pfb>
-Output written on Autoevaluacion.pdf (2 pages, 97741 bytes).
+ 37i,11n,27p,331b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on Autoevaluacion.pdf (3 pages, 81832 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 35 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
