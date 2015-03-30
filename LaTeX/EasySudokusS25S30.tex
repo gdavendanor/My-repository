@@ -1,0 +1,42 @@
+\documentclass[landscape,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{printsudoku}
+\usepackage{multicol}
+\usepackage[papersize={21.2cm,13.6cm},left=.75cm,right=.75cm,top=.75cm,bottom=.75cm]{geometry}
+\newcommand*{\Lpack}[1]{\textsf{#1}}
+
+%opening
+\title{}
+\author{Germán Avendaño Ramírez}
+
+\begin{document}
+Nombre: \hrulefill Curso: \underline{603} Fecha: \underline{\hspace{100pt}}
+\vspace{15pt}
+
+\cluefont{\Large}
+\cellsize{2.2\baselineskip}
+\begin{minipage}{.5\textwidth}
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE25 (easy) \\
+\sudoku{se25.sud}
+\end{center}\end{minipage} 
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE30 (easy) \\
+\sudoku{se30.sud}
+\end{center}\end{minipage} 
+\end{minipage}
+
+
+\begin{minipage}{0.95\linewidth}\begin{center}
+TG5 (gentle) \\
+\sudoku{tg5.sud}
+\end{center}\end{minipage}
+
+\vspace*{20pt}
+\begin{minipage}{0.95\linewidth}\begin{center}
+TG10 (gentle) \\
+\sudoku{tg10.sud}
+\end{center}\end{minipage}
+\end{document}

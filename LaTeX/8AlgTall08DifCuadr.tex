@@ -1,0 +1,157 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Álgebra $8^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 08, Diferencia de cuadrados y cubos\\
+Álgebra $8^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}\\
+
+A continuaci\'{o}n se explican dos casos de factorizaci\'{o}n a abordar en este taller.
+\subsection*{Diferencia de cuadrados}
+Se presenta como su nombre lo indica cuando existe una diferencia entre dos cantidades o expresiones que son cuadrados perfectos y se factoriza seg\'{u}n el siguiente patr\'{o}n:
+\[a^{2}-b^{2}=(a-b)(a+b)\]
+Siempre que se tenga una diferencia de cuadrados perfectos, se factoriza como una suma por una diferencia de sus ra\'{i}ces.
+\subsubsection*{Ejemplo 1}
+Factorizar $x^{2}-16$
+
+Se observa que tanto $x^{2}$ como 16 son cuadrados perfectos, ya que $x^{2}$ es el cuadrado de $x$ y 16 es el cuadrado de 4. Luego factorizamos as\'{i}:
+\begin{align*}
+x^{2}-16&=x^{2}-4^{2} & \mbox{Diferencia de cuadrados}\\
+&=(x-4)(x+4) & \mbox{suma por diferencia}
+\end{align*}
+\subsubsection*{Ejemplo 2:}
+Factorizar $4x^{2}-9y^{2}$
+
+Nuevamente observamos que tanto 4 como $x^{2}$ son cuadrados perfectos, as\'{i} como 9 y $y^{2}$. M\'{a}s espec\'{i}ficamente podemos asumir que $4x^{2}$ es el cuadrado de $2x$ y que $9y^{2}$ es el cuadrado de $3y$. As\'{i} que factorizamos as\'{i}:
+\begin{align*}
+4x^{2}-9y^{2}&=2^{2}x^{2}-3^{2}y^{2} & \mbox{Cada término es cuadrado perfecto}\\
+&=(2x)^{2}-(3y)^{2}& \mbox{Se expresa como Diferencia de cuadrados}\\
+&=(2x-3y)(2x+3y) & \mbox{Se factoriza}
+\end{align*}
+A veces se debe factorizar completamente porque uno de los factores es a su vez una diferencia de cuadrados, como en los siguientes ejemplos
+\subsubsection*{Ejemplo 3:} 
+\[16x^{4}-81y^{4}\]
+Se procede a factorizar como ya sabemos:
+\begin{align*}
+16x^{4}-81y^{4}&=4^{2}(x^{2})^{2}-9^{2}(y^{2})^{2} & \mbox{Los términos son C. P.}\\
+&=(4x^{2})^{2}-(9y^{2}) & \mbox{Se expresa como diferencia de C.P.}\\
+&=(4x^{2}-9y^{2})(4x^{2}+9y^{2}) & \mbox{El primer factor es una Dif. de C.P.}\\
+&=\left((2x)^{2}-(3y)^{2}\right)(4x^{2}+9y^{2}) & \mbox{Se expresa el primer factor como una D. de C.P.}\\
+&=(2x-3y)(2x+3y)(4x^{2}+9y^{2}) & \mbox{Se factoriza a su vez el 1er factor}
+\end{align*}
+\subsubsection*{Ejemplo 4:}
+\[(x-1)^{2}-(x+4)^{2}\]
+Claramente se observa una Dif. de C.P. Luego se procede así:
+\begin{align*}
+(x-1)^{2}-(x+4)^{2}&=\left((x-1)+(x+4)\right)\left((x-1)-(x+4)\right)\\
+&=(x-1+x+4)(x-1-x-4) & \mbox{Destruyendo los paréntesis internos}\\
+&=(2x+3)(-5) & \mbox{Reduciendo términos semejantes}\\
+&=-5(2x+3)
+\end{align*}
+\subsubsection*{Ejemplo 5:}
+\[48y^{3}-27y\]
+Aquí no se observan claramente los C.P. Entonces debemos ver si primero podemos aplicar factor común. Evidentemente sí
+\begin{align*}
+48y^{3}-27y&=3y(16y^{2}-9) & \mbox{Aplicando Factor común}\\
+&=3y(4y+3)(4y-3) & \mbox{Aplicando nuevamente Dif de C.}
+\end{align*}
+\section*{Quiz conceptual}
+Para los siguientes enunciados escriba V o F según corresponda.
+\begin{enumerate}
+\item[a.] Un binomio que tiene dos cuadrados perfectos que se restan es una diferencia de cuadrados.
+\item[b.] La suma de dos cuadrados es factorizable usando enteros.
+\item[c.] La suma de dos cubos se puede factorizar usando enteros.
+\item[d.] La diferencia de dos cuadrados es factorizable.
+\item[e.] La diferencia de dos cubos es factorizable
+\item[f.] Para factorizar es aconsejable inspeccionar que se pueda aplicar factor común en primera instancia.
+\item[g.] El polinomio $4x^{2}+y^{2}$ se factoriza como $(2x+y)(2x+y)$
+\item[h.] La factorización completa de $y^{4}-81$ es $(y^{2}+9)(y^{2}-9)$
+\item[i.] La ecuación $x^{2}=-9$ no tiene soluciones reales.
+\item[j.] La ecuación $abc=0$ si y sólo sí $a=0$ 
+\end{enumerate}
+\section*{Ejercicios}
+Factorice usando el caso diferencia de cuadrados.
+\begin{enumerate}
+\begin{multicols}{2}
+\item $x^{2}-9$
+\item $4x^{2}-49$
+\item $x^{2}-64y^{2}$
+\item $x^{2}y^{2}-a^{2}b^{2}$
+\item $x^{6}-9y^{2}$
+\item $25-49n^{2}$
+\item $(3x+5y)^{2}-y^{2}$
+\item $x^{2}-(y-5)^{2}$
+\item $16s^{2}-(3t+1)^{2}$
+\item $(x-1)^{2}-(x-8)^{2}$
+\end{multicols}
+Factorice cada uno de los siguientes polinomios completamente. Indique cuáles no son factorizables usando coeficientes enteros. No olvide los casos vistos antes, como "factor común"
+\begin{multicols}{2}
+\item $8x^{2}-72$
+\item $7x^{2}+28$
+\item $5y^{2}-80$
+\item $x^{3}y^{2}-xy^{2}$
+\item $x^{4}-16$
+\item $4x^{2}+9$
+\item $20x^{3}+45x$
+\item $12x^{3}-27xy^{2}$
+\item $1-16x^{4}$
+\item $20x-5x^{3}$
+\item $9x^{2}-81y^{2}$
+\item $2x^{5}-162x$
+\end{multicols}
+Para los siguientes ejercicios, use la suma o diferencia de cubos para factorizar.
+\begin{multicols}{2}
+\item $a^{3}-27$
+\item $x^{3}+8$
+\item $8x^{3}+27y^{3}$
+\item $1-8x^{3}$
+\item $125x^{3}+27y^{3}$
+\item $x^{6}+y^{6}$
+\end{multicols}
+Para los problemas siguientes, encuentre todos los números reales que son solución de cada ecuación.
+\begin{multicols}{2}
+\item $x^{2}-1=0$
+\item $4y^{2}=25$
+\item $3x^{2}-108=0$
+\item $4x^{3}=64x$
+\item $54-6x^{2}=0$
+\item $x^{5}-x=0$
+\item $4x^{3}+12x=0$
+\end{multicols}
+Para los problemas siguientes, plantee una ecuación y soluciónela para resolver el problema.
+\item El cubo de un número es igual a su cuadrado. Encuentre el número
+\item La suma de las áreas de dos cuadrados es 26 $m^{2}$. El lado del cuadrado grande es cinco veces el lado del cuadrado pequeño. Encuentre las dimensiones de cada cuadrado.
+\item Suponga que el largo de un rectángulo es $1\frac{1}{3}$ veces su ancho. El área del rectángulo es 48 $cm^{2}$. Encuentre el largo y ancho del rectángulo.
+\item La superficie total de un cono circular recto es 108$\pi$ cm$^{2}$. Si la altura del cono es dos veces la longitud del radio de la base, encuentre la longitud del radio.
+\item La altura de un triángulo es $\frac{1}{3}$ la longitud del lado sobre el que se dibuja la altura. Si el área del triángulo es 6 cm$^{2}$, encuentre su altura.
+\end{enumerate}
+\end{document}

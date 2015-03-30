@@ -1,0 +1,219 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Aritmética $6^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 12, Números primos  \\
+Aritmética $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}\\
+\begin{enumerate}
+ \item Construya los diagramas de árbol, para hallar los divisores de 36, de 100 y de 144
+ \begin{enumerate}
+  \item ¿Cuántos divisores tiene cada número?
+  \item ¿Los divisores de un número son menores que él? ¿Por qué?
+ \end{enumerate}
+\item Sonia prepara para la venta, galletas de coco. Cada grupo de 24 galletas las empaca en cajas rectangulares, de manera que no sobren ni falten. ¿Cuáles son las posibles distribuciones que pueden hacer en las cajas para guardar las galletas?
+\begin{center}
+ \includegraphics{./Images/galletas.png}
+ % galletas.png: 393x133 pixel, 96dpi, 10.40x3.52 cm, bb=0 0 295 100
+\end{center}
+\item  ¿Cuáles serían las posibles distribuciones si las cajas contienen
+40 galletas? Represéntalas
+\end{enumerate}
+\section*{¿Conoces los números primos?}
+\subsection*{Lo que sé}
+Resuelve individualmente
+
+\begin{minipage}[]{.55\textwidth}
+En el criadero de reptiles también tienen lagartos de diferentes especies. Uno de ellas es el lagarto arlequín que pone entre 30 y 40 huevos de forma alargada.
+
+Una mañana Juan recogió huevos de dos hembras de esta especie. Una de ellas tenía 36 huevos y la otra 37. Cada grupo de huevos debía acomodarse en una cubeta como la de la figura. 
+\end{minipage} \hfill
+\begin{minipage}{.35\textwidth}
+ \begin{center}
+ \includegraphics{./Images/cubeta.png}
+ % cubeta.png: 211x114 pixel, 96dpi, 5.58x3.02 cm, bb=0 0 158 85
+\end{center}
+\end{minipage}
+\begin{itemize}
+ \item ¿Qué grupo de huevos puede acomodar Juan en las cubetas,
+sin que le sobren? Explica
+\end{itemize}
+\subsection*{Aprende algo nuevo}
+Con los 36 huevos se puede hacer un arreglo de 6 filas en el que cada fila tenga exactamente 6 huevos.
+\begin{itemize}
+\begin{minipage}{.55\textwidth}
+\item  ¿36 es divisible por 6? ¿Por qué?
+ \item  Con el grupo de 37 huevos, ¿se puede formar un arreglo
+de seis filas, cada una con igual número de huevos?
+ \item ¿Se utilizarían todos los huevos? ¿Cuántos sobran?
+ \item Representa en tu cuaderno la situación.
+ \item  ¿Por qué Juan no pudo acomodar los 37 huevos en una sola bandeja?
+\end{minipage}\hfill
+\begin{minipage}{.35\textwidth}
+ \begin{center}
+ \includegraphics{./Images/huevos_01.png}
+ % huevos_01.png: 200x115 pixel, 96dpi, 5.29x3.04 cm, bb=0 0 150 86
+\end{center}
+\end{minipage}
+\item ¿37 es divisible por 6? ¿Por qué?
+\item ¿Cuándo un número es divisible por otro?
+\item ¿Recuerdas cuáles son los factores de 36? Escríbelos.
+\item Ahora halla los factores de 37.
+\item ¿Cuáles son?
+\item ¿El número 36 es primo o es compuesto? ¿Por qué?
+\item ¿El número 37 es primo o es compuesto? ¿Por qué?
+\end{itemize}
+En tu cuaderno, realiza divisiones para comprobar si:
+\begin{itemize}
+\begin{multicols}{2}
+ \item 36 es divisible entre 2
+ \item 36 es divisible entre 3
+ \item 36 es divisible entre 5
+ \item 36 es divisible entre 10.
+ \item ¿Cuáles divisiones fueron exactas?
+ \end{multicols}
+ \item ¿En cuáles divisiones se obtuvo un residuo diferente de cero?
+\end{itemize}
+Sigue el mismo procedimiento para comprobar que los números 32, 64, 96, 108 y 200 son divisibles entre 2.
+
+Los números 32, 64, 96, 108 y 200, ¿son pares o impares?\\
+¿Por qué sabes que son pares o que son impares?
+
+Responde en tu cuaderno, ¿cuándo un número es divisible entre 2?\\
+
+Compara lo que escribiste con lo que aparece a continuación:
+
+\emph{Un número es divisible por 2 si el dígito de las unidades es 0, 2, 4, 6, 8.}
+
+Este enunciado se conoce como criterio de divisibilidad entre 2.
+\begin{itemize}
+\begin{multicols}{2}
+ \item  ¿596 es divisible por 2? ¿Por qué?
+ \item ¿129 es divisible por 2? ¿Por qué? 
+ \end{multicols}
+ \item Ahora analiza cuándo un número es divisible por 3.
+ \begin{multicols}{2}
+ \item ¿18 es múltiplo de 3?
+ \item ¿18 es divisible entre 3?
+ \item ¿24 es múltiplo de 3?
+ \item ¿24 es divisible entre 3?
+ \item ¿Cuáles cifras forman el número 18?
+ \item ¿Cuál es la suma de esas cifras?
+ \item ¿Es 9 divisible por 3?
+ \item ¿Cuáles cifras forman el número 24?
+ \item ¿Cuál es la suma de esas cifras?
+ \item ¿Es 6 divisible por 3?
+ \end{multicols}
+\end{itemize}
+Responde en tu cuaderno, en general, ¿cuándo un número es divisible por 3?\\
+
+Compara lo que escribiste con lo que aparece a
+continuación.\\
+
+\textbf{\emph{Un número es divisible por 3, si la suma de sus dígitos es un
+múltiplo de 3. Este es el criterio de divisibilidad por 3.
+}}\\
+
+¿Puedes buscar otros ejemplos? Escríbelos en tu cuaderno.\\
+\begin{minipage}{.7\textwidth}
+La semana pasada, Juan organizó tres grupos de huevos en la incubadora. El primer grupo tenía 15 huevos, el segundo tenía 35 y el tercero tenía 40.
+
+Los huevos debían guardarse en cubetas como la que se muestra en la figura.
+\end{minipage}
+\begin{minipage}{.25\textwidth}
+ \begin{center}
+ \includegraphics{./Images/minicubeta.png}
+ % minicubeta.png: 101x63 pixel, 96dpi, 2.67x1.67 cm, bb=0 0 76 47
+\end{center}
+\end{minipage}
+\begin{itemize}
+ \item  ¿Cuántas cubetas se utilizaron para guardar el primer
+grupo de huevos?
+\item ¿Cuántas cubetas se utilizaron para guardar el segundo
+grupo de huevos?
+\item ¿Cuántas cubetas se utilizaron para guardar el tercer
+grupo de huevos?
+\item ¿Los números 15, 35 y 40, son divisibles entre 5?
+\item Escribe en tu cuaderno, ¿cuándo un número es divisible
+entre 5?
+\item Según lo que escribiste, ¿270 es divisible entre 5? ¿23 es
+divisible entre 5? ¿Por qué?
+\item Compara lo que escribiste en tu cuaderno con lo que
+aparece a continuación.
+\end{itemize}
+\emph{\textbf{Un número es divisible entre 5 si el dígito de las unidades es 0 o 5. Este es el criterio de divisibilidad entre 5}}
+\begin{itemize}
+\begin{multicols}{2}
+ \item ¿98 es divisible entre 5?
+ \item ¿5 es divisible entre 5?
+ \end{multicols}
+\end{itemize}
+\subsubsection*{Otros Criterios de divisibilidad}
+\paragraph*{Divisibilidad por 6:} \emph{Un número es divisible por 6 si es par y múltiplo de 3.}
+
+Estos números son divisibles por 6: 24, 48, 156, 2604. Compruébalo.
+\paragraph*{Divisibilidad por 10:} \emph{Un número es divisible por 10 si termina en cero.}
+
+Escribe números de tres y cuatro cifras divisibles por 10.
+
+\begin{minipage}{.55\textwidth}
+ En el criadero de reptiles hay un lagarto tokay, esta especie
+en particular, llama la atención de los expertos porque pone
+sus huevos de dos en dos. Ya se han recolectado 78 huevos
+de esta clase de lagarto, y se quieren acomodar en cubetas
+de tal forma que en cada una de ellas haya un número primo
+de huevos.
+\end{minipage}
+\begin{minipage}{.4\textwidth}
+ \begin{center}
+ \includegraphics[scale=.75]{./Images/huevos_02.png}
+ % huevos_02.png: 220x166 pixel, 96dpi, 5.82x4.39 cm, bb=0 0 165 124
+\end{center}
+\end{minipage}
+\begin{itemize}
+ \item  ¿Es posible dicha distribución?
+ \item ¿Qué estrategia emplearías para saber si 78 tiene otros divisores primos?
+\end{itemize}
+Intenta elaborando un diagrama de árbol para encontrar los factores de 78.
+\begin{center}
+ \includegraphics{./Images/diag_arbol.png}
+ % diag_arbol.png: 316x65 pixel, 96dpi, 8.36x1.72 cm, bb=0 0 237 49
+\end{center}
+También puede ser:
+\begin{center}
+ \includegraphics{./Images/diag_arbol_02.png}
+ % diag_arbol_02.png: 320x59 pixel, 96dpi, 8.47x1.56 cm, bb=0 0 240 44
+\end{center}
+Cuando se escribe 78 como $2 \times 3 \times 13$, se dice que se ha
+expresado como producto de factores primos.
+
+\end{document}

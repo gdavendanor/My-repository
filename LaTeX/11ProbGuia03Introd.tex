@@ -1,0 +1,177 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{www.autistici.org/mathgerman}}
+\fancyhead[RE]{}
+\fancyhead[RO]{matematicas.german@gmail.com}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez ~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 03\\
+Introducción a la probabilidad\\
+Probabilidad $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Estad\'istica y los dulces}
+De dónde vienen todos estos dulces tan coloridos?
+
+¿Sabía usted que tienen 21 colores?
+
+¿Sabía usted que la idea para los Dulces Sencillos de Chocolate “M\&M’s” nació
+en el “telón de fondo” de la guerra civil española? Cuenta la leyenda que en un
+viaje a España, Forrest Mars Sr. encontró soldados que comían bolitas de chocolate
+cubiertas de una capa azucarada dura para evitar que se derritieran. Mr. Mars se
+inspiró en este concepto y regresó a casa e inventó la receta para los Dulces Sencillos de Chocolate “M\&M’s”.
+\begin{table}[h!]
+\centering
+\begin{tabular}{cc}
+\multicolumn{2}{c}{Colores M\&M's por cantidad} \\ \hline
+Color & Cantidad \\ \hline
+Café & 91 \\ 
+Amarillo & 112 \\ 
+Rojo & 102 \\ 
+Azul & 151 \\ 
+Naranja & 137 \\ 
+Verde & 99 \\ \cline{2-2}
+ & 692 \\ 
+\hline
+\end{tabular}
+\caption{Tabla 1} \label{tab1}
+\end{table}
+
+La clase de estadística había comenzado y el maestro estaba hablando de porcentajes, proporciones y probabilidad, y en qué forma son semejantes pero diferentes. De pronto una estudiante dijo que escuchó que el grupo del semestre anteriorhizo una lección usando, y comiendo, chocolates M\&M’s; ella preguntó si el grupo
+de este año haría algo semejante. La conversación pronto se enfocó por entero en los chocolates M\&M’s, sus combinaciones de color y el porcentaje de cada color. A los 24 miembros del grupo se les pidió que calcularan el porcentaje de cada color que ellos pensaban estaba contenido en estas pequeñas bolsas de color café de los
+Dulces Sencillos de Chocolate M\&M’s. Se les dijo que habría un premio para la persona cuyo cálculo fuera el más cercano al número real. Cada estudiante escribió los porcentajes y los entregó; a su vez, los estudiantes recibieron una pequeña bolsa café. “Ah, ¡esto es esa lección!”. “Sí” dijo el maestro, “y antes que abran esas
+bolsas, debemos tener un plan”. Cada estudiante debía contar el número de chocolates M\&M's de cada color en su bolsa y anotar las seis cantidades; a continuación podrían determinarse los totales del grupo. En la tabla~\ref{tab1} aparece la distribución de cantidades resultante.
+
+Los totales del grupo se convirtieron a porcentajes (tabla~\ref{tab2}), y a cada estudiante se le pidió determinar los seis porcentajes que observaran en su propia bolsa de chocolates M\&M's.
+
+La discusión que siguió se centró en la variación que había de una bolsa a la
+otra, con algunos estudiantes bastante sorprendidos de ver tanta variación. Varias
+bolsas no tenían nada o sólo una pastilla de un color, y unas pocas bolsas tenían una
+proporción más bien grande de sólo uno o dos colores. ¿Alguna vez había usted observado algunos de estos extremos cuando abría una bolsa de chocolates M\&M's?
+\begin{table}[h!]
+\centering
+\begin{tabular}{cc}
+\multicolumn{2}{c}{Colores de M\&M's en porcentajes} \\ 
+\hline 
+Color & Porcentaje \\ 
+\hline 
+Café & 13.2 \\ 
+Amarillo & 16.2 \\ 
+Rojo & 14.7 \\ 
+Azul & 21.8 \\ 
+Naranja & 19.8 \\ 
+Verde & 14.3 \\ \cline{2-2} 
+ & 100.0 \\ 
+\hline 
+\end{tabular} 
+\caption{Tabla 2} \label{tab2}
+\end{table}
+
+Los porcentajes reportados en la tabla~\ref{tab2} son los de cada color hallados en esta
+muestra de 692 bolsas M\&M's’s. Los porcentajes se comportan en forma muy semejante a números de probabilidad, pero la pregunta que se hace en probabilidad es diferente. En la ilustración precedente, estamos tratando la información como datos muestrales y describiendo los resultados que encontramos. Si ahora pensamos
+en términos de una probabilidad, vamos a dar un giro y tratar todo el conjunto de
+las 692 bolsas de M\&M's’s como si fuera la lista completa de posibilidades, y hacer
+preguntas acerca de la semejanza de ciertos eventos cuando se selecciona una bolsa
+de M\&M's’s de todo el conjunto de 692 bolsas.
+
+Por ejemplo, supongamos que se vacían las 692 bolsas de M\&M's’s en un gran
+tazón y mezclamos perfectamente los chocolates. Ahora considere la pregunta “Si
+al azar se selecciona un chocolate del tazón, ¿cuál es la probabilidad de que sea de
+color naranja?” Esperamos que el lector piense así: seleccionados al azar significa
+que cada chocolate M\&M's’s tiene la misma probabilidad de ser elegido y, como hay
+137 chocolates color naranja en el tazón, la probabilidad de seleccionar un chocolate de color naranja M\&M's’s es 137/692, es decir 0.198
+
+Ya antes hemos visto este número 0.198, sólo que se expresaba como 19.8\%.
+Los porcentajes y los números de probabilidad son “lo mismo, pero diferentes.” (Es
+probable que ya antes y en algún lugar usted haya oído esto.) Los números tienen
+el mismo valor y se comportan con las mismas propiedades; no obstante, la orientación de la situación y las preguntas hechas son diferentes, como veremos más adelante.
+\subsection*{Ejercicios}
+\begin{enumerate}
+\item 
+\begin{enumerate}
+\item Si compró una bolsa de chocolates M\&M’s, ¿qué color de M\&M’s esperaría ver más? ¿Qué color menos? ¿Por qué? 
+\item Si compró una bolsa de chocolates M\&M’s, ¿esperaría hallar los porcentajes mencionados en la tabla~\ref{tab2} Si no es así, ¿por qué y qué esperaría? 
+\end{enumerate}
+\item
+\begin{enumerate}
+\item Construya una gráfica de barras que muestre los porcentajes de la tabla 4.2 obtenidos a
+partir de los 692 chocolates M\&M’s.
+\item Con base en su gráfica, ¿qué color de chocolates M\&M’s hubo con más frecuencia?
+¿Cómo se muestra esto en su gráfica?
+\item Con base en su gráfica, ¿qué color de chocolates M\&M’s hubo con menos frecuencia?
+¿Cómo se muestra esto en su gráfica?
+\end{enumerate}
+\item Si recibiera una pequeña bolsa de 40 chocolates M\&M’s, usando los porcentajes de la tabla~\ref{tab2} ¿cuán   tos de cada color “esperaría” encontrar?
+\item ¿Tablas malas? Así como hay gráficas malas, hay tablas malas, es decir, tablas engañosas y difíciles de leer. Un grupo llamado  Madres Contra Conductores Borrachos (MADD, por sus siglas en inglés) presentó la siguiente tabla referente a 6764 muertos en accidentes de tránsito que ocurrieron en 2002.
+\begin{center}
+\begin{tabular}{lcc}
+ &  & Total muertes \\ 
+ & Total muertes & relacionadas \\ 
+\hspace{15pt} Días festivos 2002 & en tránsito & con alcohol \\ 
+\hline 
+Víspera de años nuevo & 118 & 45 \\ 
+Día de año nuevo & 165 & 94 \\ 
+Días festivos de año nuevo & 575 & 301 \\ 
+Domingo de super tazón & 147 & 86 \\ 
+Día de San Patricio & 158 & 72 \\ 
+Conmemoración de los caídos & 491 & 237 \\ 
+Cuatro de julio & 683 & 330 \\ 
+Fin de semana de día del trabajo & 541 & 300 \\ 
+Halloween & 268 & 109 \\ 
+Día de gracias & 543 & 265 \\ 
+Día de gracias-año nuevo & 4019 & 1561 \\ 
+Navidad & 130 & 68 \\ 
+Víspera de año nuevo 2002 & 123 & 57 \\ 
+\hline \footnote{Fuente: Mothers Against Drunk Driving (MADD), \url{http://www.infoplease.com/ipa/A0777960.html}}
+\end{tabular}
+\end{center}
+\begin{enumerate}
+\item Los totales de columna no están incluidos porque
+serían valores que carecen de sentido. Examine la
+tabla y explique por qué.
+\item Seleccione los días festivos apropiados que no se
+traslapan (columna 1) y verifique el número total
+de 6764 muertos en accidentes de tránsito para
+2002.
+\item Usando los días festivos seleccionados en la parte b, encuentre el número total de muertos en accidentes de tránsito relacionados con alcohol en
+días festivos en 2002.
+\item Describa cómo organizaría esta tabla para hacerla que tenga sentido.
+\end{enumerate}
+\item Haga el experimento propuesto, o, utilice calculadora o computadora generando números aleatorios para simular lo siguiente:
+\begin{enumerate}
+\item Tirar 50 veces un dado; exprese sus resultados como frecuencias relativas.
+\item Tirar al aire una moneda 100 veces; exprese sus resultados como frecuencia relativa.
+\end{enumerate}
+\item Utilice ya sea, calculadora o computadora para simular la selección aleatoria de 100 números de un solo dígito, 0 al 9.
+\begin{enumerate}
+\item Haga una lista de los 100 dígitos.
+\item Elabore una distribución de frecuencia relativa de los 100 dígitos.
+\item Elabore un histograma de frecuencia relativa de la distribución en la parte b.
+\end{enumerate}
+\end{enumerate}
+\end{document}

@@ -1,0 +1,105 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{pgf,tikz}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
+\ExamName{Sustentación Recomendaciones III}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado.}
+\LineaNombre
+\begin{enumerate}
+\item Un ciclista sale de excursión a un lugar que dista 20 km. de su casa. A los quince minutos de salida, cuando se encuentra a seis km hace una parada de 10 minutos. Reanuda la marcha y llega a su destino una hora después de haber salido.
+\begin{enumerate}
+\item Representa la gráfica tiempo-distancia a su casa.
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.35,xscale=.55,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 5pt off 5pt, xstep=5.0cm,ystep=5.0cm] (-2,-0.76) grid (61,21);
+\draw[->,color=black] (-2,0) -- (61,0);
+\foreach \x in {,5,10,15,20,25,30,35,40,45,50,55,60}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-0.76) -- (0,21);
+\foreach \y in {,2,4,6,8,10,12,14,16,18,20}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2,-0.76) rectangle (61,21);
+\endtikzpicture
+\item ¿Lleva la misma velocidad antes y después de la parada? Suponemos que en cada etapa la velocidad es constante?\noanswer
+\item Busca la expresión analítica de esta función.\noanswer
+\end{enumerate}
+\newpage
+\item En un aparcamiento nos cobran por la primera hora 200 ptas y cada una de las horas siguientes a 150 ptas. Fíjate en que es una función escalonada:
+\begin{enumerate}
+\item Haz una tabla de valores para las 6 primeras horas.\\
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline 
+$t$ (tiempo) & 1 & 2 & 3 & 4 & 5 & 6 \\ 
+\hline 
+\$ (precio) & \hspace*{40pt} & \hspace*{40pt} & \hspace*{40pt} & \hspace*{40pt} & \hspace*{40pt} & \hspace*{40pt}  \\ 
+\hline 
+\end{tabular} 
+\item Represéntela gráficamente
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.75,line cap=round,line join=round,x=2.0cm,y=.100mm]
+\draw [color=cqcqcq,dash pattern=on 255pt off 255pt, xstep=2.0cm,ystep=20.0mm] (-0,0) grid (6.5,1205);
+\draw[->,color=black] (-0.34,0) -- (6.5,0);
+\foreach \x in {,1,2,3,4,5,6}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-5) -- (0,1205);
+\foreach \y in {,200,400,600,800,1000,1200}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-0.34,-5) rectangle (6.5,1205);
+\endtikzpicture
+\item ¿En qué puntos es discontinua la función?\noanswer
+\end{enumerate}
+\newpage
+\item Una sucesión aritmética inicia con 2, 5, 8, 11, 14, \ldots
+\begin{enumerate}
+\item Encuentre la diferencia común $d$ para esta sucesión.\noanswer
+\item Determine una fórmula para el n-ésimo término $a_{n}$ de la sucesión.\noanswer
+\item Halle el trigésimoquinto término de la sucesión.\noanswer
+\end{enumerate}
+\item Una sucesión geométrica inicia con 12, 3, 3/4, 3/16, 3/64, \ldots
+\begin{enumerate}
+\item Determine la razón común $r$ de esta sucesión \noanswer
+\item Encuentre una fórmula para el n-ésimo término $a_{n}$ de la sucesión.\noanswer
+\newpage
+\item Calcule el décimo término de la sucesión\noanswer
+\end{enumerate}
+ \item Un cachorro pesa 0.85 lb al nacer, y cada semana gana 24\% de peso. Sea $a_{n}$ su peso en libras al final de la n-ésima semana de vida.
+\begin{enumerate}
+\item Encuentre una fórmula para $a_{n}$\noanswer
+\item ¿Cuánto pesa el cachorro cuando tiene seis semanas de vida?\noanswer
+\item ¿Es la sucesión $a_{1},a_{2},a_{3},\ldots$ aritmética, o geométrica o de ninguno de los dos tipos?\noanswer
+\end{enumerate}
+ \end{enumerate}
+
+\end{document}

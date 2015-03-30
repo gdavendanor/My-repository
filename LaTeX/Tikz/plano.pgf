@@ -1,0 +1,7 @@
+\begin{tikzpicture}
+\draw[style=help lines] (-1,-1) grid (5,4);
+\draw[<->] (-1.2,0)--(5.3,0);
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-1.2)--(0,4.2);
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}

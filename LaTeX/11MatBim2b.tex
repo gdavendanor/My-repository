@@ -1,0 +1,320 @@
+\documentclass[10pt,letterpaper,addpoints]{exam}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage[width=7in,height=9.5in]{geometry}
+%\printanswers
+\begin{document}
+\title{\begin{minipage}{.2\textwidth}
+        \includegraphics[height=1.75cm]{Images/logo-colegio.png}
+       \end{minipage}
+\begin{minipage}{.55\textwidth}
+ \begin{center}
+'Prueba Bimestral ii'\\Matem\'{a}ticas $11^{\circ}$
+\end{center}
+\end{minipage}
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}
+}
+\author{Germ\'{a}n Avendaño Ram\'{i}rez\\Lic. Matemáticas U.D., M.Sc. U.N.}
+\date{}
+\maketitle
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+Responda las preguntas en el cuadro de respuestas rellenando el \'{o}valo completamente. Debe hacer sus procedimientos en una hoja aparte.}}}
+\end{center}
+\vspace{0.1in}
+\makebox[\textwidth]{Nombres: \hrulefill, curso:\underline{\hspace{48pt}}, fecha:\underline{\hspace{3cm}}}
+\begin{questions}
+\question Una población de seres vivos se duplica cada cierto tiempo. La expresión algebraica que describe este cambio para una población inicial de 100 individuos es:
+\[p=100\cdot 2^{(t/4)}\]
+donde $t$ representa el tiempo transcurrido en años y $p$ el número de individuos de la población.
+
+De acuerdo con la situación, ¿cuáles son los valores de $t$ para los cuales la población duplica?
+
+\begin{oneparchoices}
+\choice \{1, 2, 3, 4, \ldots \}
+\choice \{1, 2, 4, 8, \ldots \}
+\CorrectChoice \{4, 8, 12, 16, \ldots \}
+\choice \{100, 200, 300, 400, \ldots \}
+\end{oneparchoices}
+\begin{minipage}{.4\textwidth}
+\uplevel{Responda las preguntas \ref{preg-1} a \ref{preg-3} de acuerdo con la siguiente información}
+\question \label{preg-1}
+El siguiente gráfico representa la posición respecto al tiempo de un cuerpo durante 12 segundos. El movimiento en tres intervalos de 4 segundos cada uno.\\
+
+Respecto al movimiento realizado por el cuerpo en el intervalo de 4 a 8 segundos, podemos afirmar que
+\end{minipage}\hfill
+\begin{minipage}{.6\textwidth}
+\begin{tikzpicture}[scale=0.75,yscale=0.5,xscale=0.8]
+\draw[->] (0,0)node[left] {0} --(12.2,0) node[right]{$ t(s) $ };
+\draw[<->] (0,-6.5) -- (0,8.5)node[left]{$ d(m) $};
+\node[left]at(0,-6){-6};
+\node[left]at(0,8){8};
+\node[below] at (4,0){4};
+\node[below] at (8,0){8};
+\node[below] at (12,0){12};
+\draw plot [domain=0:4] (\x, 2*\x);
+\draw plot [domain=4:8] (\x,8);
+\draw plot [domain=8:12](\x,-7/2*\x+36);
+\draw[dashed](4,0)--(4,8);
+\draw[dashed](8,0)--(8,8);
+\draw[dashed](12,-6)--(12,0);
+\draw[dashed](0,8)--(4,8);
+\draw[dashed](0,-6)--(12,-6);
+\end{tikzpicture}
+\end{minipage}
+
+\begin{choices}
+\choice el cuerpo parte de la posición 4 y recorre con velocidad constante 8 metros.
+\CorrectChoice el cuerpo permanece en reposo, ya que mantiene la misma posición, mientras transcurren los 4 segundos.
+\choice el cuerpo cambia la dirección del movimiento y recorre 4 metros más en una superficie plana.
+\choice el cuerpo recorre 4 metros con velocidad constante en 8 segundos.
+\end{choices}
+\question
+Según la gráfica, se puede inferir que la velocidad del cuerpo en el transcurso de 8 a 12 segundos fue negativa, lo cual indica que
+\begin{choices}
+\choice el cuerpo disminuyó la velocidad que venía manteniendo en el intervalo de 4 a 8 segundos.
+\CorrectChoice el cuerpo se devolvió seis metros más, desde el punto de partida.
+\choice el cuerpo redujo el espacio recorrido durante los cuatro segundos respecto a los intervalos anteriores.
+\choice el cuerpo recorrió la misma distancia, pero empleó más tiempo que en los intervalos anteriores.
+\end{choices}
+\question \label{preg-3}
+En el intervalo de 12 a 16 segundos se produjo un movimiento representado por la función: $ f(t)=\frac{3}{4}t-15 $. La interpretación de este movimiento realizado por el cuerpo es
+\begin{choices}
+\CorrectChoice el cuerpo recorrió tres metros durante los cuatro segundos
+\choice el cuerpo incrementó su velocidad en 5 metros por cada segundo
+\choice el cuerpo retrocedió 15 metros durante el intervalo de tiempo.
+\choice el cuerpo disminuyó su velocidad en dos metros durante los cuatro segundos.
+\end{choices}
+\question
+Sean\\
+  \textbf{P} la gráfica de la función $ y=x^2-2x+3 $\\
+  \textbf{Q} la gráfica de la función $ y=x^2+2x+1 $\\
+  Considere las siguientes afirmaciones suponiendo que \textbf{P} y \textbf{Q} están trazadas en el mismo sistema de coordenadas
+  \begin{itemize}\begin{multicols}{2}
+    \item[I] \textbf{P} y \textbf{Q} coinciden
+    \item[II] \textbf{P} está a la izquierda de \textbf{Q}
+    \item[III] \textbf{P} está a la derecha de \textbf{Q}
+    \item[IV] \textbf{P} está más arriba que \textbf{Q}
+    \item[V] \textbf{P} está más abajo que \textbf{Q}
+  \end{multicols}
+  \end{itemize}
+  De las anteriores afirmaciones es o son verdaderas
+
+  \begin{oneparchoices}
+\choice sólo I
+\choice II y V
+\choice II y IV
+\CorrectChoice III y IV  
+  \end{oneparchoices}
+  \question Una compañía de taxis cobra una tarifa de \$3.000 por el primer kilómetro o fracción de kilómetro recorrida y \$1.000 por cada kilómetro o fracción adicional. ¿Cuál de las siguientes gráficas representa la relación entre el costo de un viaje $y$ y el número de kilómetros recorridos $x$?
+  
+  \begin{minipage}{0.45\textwidth}
+  \includegraphics[scale=.7]{Images/grafica-taxi.png}
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+  \includegraphics[scale=.7]{Images/grafica-taxi-2.png}
+\end{minipage}
+
+\question Una recta que \textbf{no} intercepta al eje \textbf{x} en el punto $ x=2 $ tiene por ecuación (recuerde que sobre el eje $x$, $y$ vale 0)
+\begin{multicols}{2}
+\begin{choices}
+\CorrectChoice $ x-2y=4 $
+\choice $ 3x+y-6=0 $
+\choice $ x-3y=2 $
+\choice $ 5x-4y=10 $
+\end{choices}
+\end{multicols}
+\question Sea $ f(x)=\dfrac{x+2}{2x} $. Considere las siguientes afirmaciones:
+\begin{multicols}{2}
+      \begin{itemize}
+        \item[I] $ f(x)=0 $ sólo si $ x=-2 $
+        \item[II] $ f(x+1)=f(x)+\frac{1}{2} $
+        \item[III] $ f(3x)=3f(x) $
+        \item[IV] Si $ f(x)=1 $, entonces $ x=2 $
+      \end{itemize}
+          \end{multicols}
+De las anteriores afirmaciones son  verdaderas
+
+\begin{oneparchoices}
+\choice I y III
+\choice II y IV
+\choice II y III
+\CorrectChoice I y IV
+\end{oneparchoices}
+
+\begin{minipage}{.5\textwidth}
+\question Una raíz real de una función $ f $ es un número real $ r $ que satisface $ f(r)=0 $. Observando las siguientes gráficas, de las raíces de las funciones $ f$, $g $ y $ h $ se puede afirmar que
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw[->,color=black] (-2.01,0) -- (3.32,0);
+\foreach \x in {-2,-1,1,2,3}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.77) -- (0,3.51);
+\foreach \y in {-1,1,2,3}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2.01,-1.77) rectangle (3.32,3.51);
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{(\x)*((\x)-1)*((\x)+1)});
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{0-((\x)*((\x)-2))});
+\draw[smooth,samples=100,domain=-2.0133333333333336:3.3200000000000007] plot(\x,{((\x)-1)^2+1});
+\draw[color=black] (-1.48,-0.73) node {$g$};
+\draw[color=black] (-0.68,-1.31) node {$f$};
+\draw[color=black] (-0.59,2.99) node {$h$};
+\endtikzpicture
+\end{minipage}
+
+\begin{multicols}{2}
+\begin{choices}
+\choice $ f $ y $ h $ tienen una raíz real en común
+\choice $ g $ tiene cuatros raíces reales
+\CorrectChoice $ f $ y $ g $ tienen una raíz real en común
+\choice $ h $ tiene una raíz real
+\end{choices}
+\end{multicols}
+
+\question Se dice que una función $ f $ es creciente si $ f(x_1)<f(x_2) $ siempre que $ x_1<x_2 $ para números reales cualesquiera $ x_1 $ y $ x_2 $. Entre las siguientes gráficas, la que representa una función creciente es
+  \begin{center}
+  \begin{tikzpicture}
+  \draw [<->](0,-1)node[below]{A}--(0,1);
+  \draw [<->](-1,0)--(3,0)node[right]{$ x $};
+  \draw plot [domain=-1:3](\x,{sin(\x r)});
+  \draw [<->](5,-1)node[below]{B}--(5,1);
+  \draw [<->](4,0)--(6,0);
+  \draw plot [domain=4:6] (\x,{(-1/2)*\x+3});
+  \draw [<->](7,0)--(9,0);
+  \draw[<->](8,-1)node[below]{C}--(8,2);
+  \draw plot [domain=7:9](\x,{exp(\x-8)});
+  \draw [<->] (10,0)--(12,0);
+  \draw[<->](11,-1)node[below]{D}--(11,1);
+  \draw plot [domain=10:12](\x,{0.6});
+  \end{tikzpicture}
+  \end{center}
+  
+  \begin{minipage}{.3\textwidth}
+\question Observe las gráficas de las funciones $ f $ y $ g $ que se presentan a continuación.\\
+
+De las siguientes afirmaciones  
+  \end{minipage}
+\begin{minipage}{.65\textwidth}
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[line cap=round,scale=.8,line join=round,x=1.0cm,y=1.0cm,scale=.8]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-6.19,-4.57) grid (4.46,4.33);
+\draw[->,color=black] (-6.19,0) -- (4.46,0);
+\foreach \x in {-6,-5,-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt);
+\draw[->,color=black] (0,-4.57) -- (0,4.33);
+\foreach \y in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt);
+\clip(-6.19,-4.57) rectangle (4.46,4.33);
+\draw[smooth,samples=100,domain=-6.193922262088143:4.457583017244411] plot(\x,{4/9*((\x)^2-9)});
+\draw[smooth,samples=100,domain=-6.193922262088143:4.457583017244411] plot(\x,{(-3)/16*((\x)-3)*((\x)+5)});
+\draw (0.91,-0.14) node[anchor=north west] {1};
+\draw[color=black] (-3.95,3.7) node {$f$};
+\draw[color=black] (-5.48,-1.3) node {g};
+\endtikzpicture
+\end{center}
+\end{minipage}
+\begin{multicols}{2}
+      \begin{itemize}
+        \item[I] $ f(4)=g(4)=0 $
+        \item[II] $ f $ y $ g $ tienen el mismo dominio
+        \item[III] $ f(t)> g(t) $
+        \item[IV] $ f $ y $ g $ interceptan el eje $ x $ en un único punto
+        \item[V] $ g(x)> f(x) $ para todo $ x $ en el intervalo $ [-4,4] $
+      \end{itemize}
+\end{multicols}
+Es o son verdaderas
+
+\begin{oneparchoices}
+\CorrectChoice I y II
+\choice II y IV
+\choice solamente II
+\choice solamente IV
+\end{oneparchoices}
+\uplevel{La probabilidad de un evento, se calcula as\'{i}:
+\[P(A)=\dfrac{\mbox{número de veces que ocurre A}}{\mbox{número de elementos del espacio muestral}}\]}
+\question Al lanzar una vez un par de dados, la probabilidad de que salgan dos números consecutivos es:
+
+\begin{oneparchoices}
+\choice $ \frac{10}{21} $
+\choice $ \frac{5}{21} $
+\CorrectChoice $ \frac{10}{36} $
+\choice $ \frac{5}{36} $
+\end{oneparchoices}
+\question En una bolsa se tienen 3 bolas rojas, 4 bolas blancas y 4 bolas azules. Se saca una bola al azar y ésta es de color azul. Si esta bola no se devuelve a la urna, ahora es más probable sacar al azar una bola \underline{\hspace{1.5cm}} que una bola \underline{\hspace{1.5cm}}
+
+\begin{oneparchoices}
+\CorrectChoice blanca - azul
+\choice azul - blanca
+\choice roja - azul
+\choice azul - roja
+\end{oneparchoices}
+\question Un grupo de estudiantes construyó una ruleta. Después de jugar todo el día con ella y registrar los resultados, concluyó que la mayoría de las veces se detuvo en un número par y en pocas ocasiones en una región sombreada.\\
+
+¿Cuál fue la ruleta construída por los estudiantes?
+\begin{center}
+\includegraphics[scale=.65]{Images/ruletas.png}
+\end{center}
+\question En el noticiero de la noche anterior se anunció que había un 20\% de probabilidades de que lloviera y en realidad no llovió. Con relación a la afirmación del noticiero, usted diría no llovió porque:
+\begin{choices}
+\choice era uno de los sucesos posibles y era el que tenía mayor probabilidad. Habría error si se dijera que la probabilidad era del 100\% y no sucediera lo que se predecía.
+\choice es un error cuantificar la ocurrencia de un fenómeno del cual no se conocen todas las variables que lo determinan.
+\CorrectChoice la probabilidad sólo mide la posibilidad de ocurrencia de un suceso, más no la certeza de su ocurrencia.
+\choice tal vez los que calcularon el dato se equivocaron o el periodista se equivocó y leyó un 20\% de probabilidades de que lloviera cuando era un 20\% de probabilidades de que no lloviera.
+\end{choices}
+\begin{minipage}{.45\textwidth}
+\uplevel{La siguiente gráfica muestra la relación entre la velocidad de un molino y el tiempo de fun-
+cionamiento en un día.}
+\question El molino aumentó más rápidamente su velocidad entre
+\begin{choices}
+\choice la hora 2 y la hora 3
+\choice 3 y la hora 3,5
+\CorrectChoice 3,5 y la hora 4,5
+\choice 4,5 y la hora 6
+\end{choices}
+\question ¿Qué expresión representa la relación entre la velocidad (v) y el tiempo (t) durante la
+primera hora y media de funcionamiento del molino?
+\end{minipage}\hfill
+\begin{minipage}{.5\textwidth}
+\includegraphics[scale=.7]{Images/velocida_molino.png} 
+\end{minipage}
+
+\begin{oneparchoices}
+\CorrectChoice $v=\dfrac{t}{2}$
+\choice $v=\dfrac{t}{3}$
+\choice $v=t+3$
+\choice $v=t-3$
+\end{oneparchoices}
+\question ¿Cuánto tiempo transcurre, desde el momento en que el molino empieza a disminuir su velocidad por \textbf{primera vez}, hasta cuando vuelve a aumentarla?
+
+\begin{oneparchoices}
+\CorrectChoice 0,5 horas.
+\choice 1,5 horas.
+\choice 3,5 horas.
+\choice 6 horas.
+\end{oneparchoices}
+\end{questions}
+%cuadro de puntajes
+%\begin{center}
+%\gradetable[h][pages]
+%\end{center}
+\end{document}

@@ -1,0 +1,155 @@
+\documentclass[11pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[papersize={6.5in,8.5in},height=7in,width=5.5in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Probabilidad $11^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller, Probabilidad eventos empíricos\\
+Probabilidad $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+ \begin{enumerate}
+  \item Si usted lanza un dado 40 veces y 9 de los tiros resultan en un ``5'', ¿qué probabilidad empírica se observó para el evento ``5''?
+  \item Explique por qué una probabilidad empírica, una proporción observada, y una frecuencia relativa son en realidad tres nombres diferentes para lo mismo.
+  \item Millones de personas viajan en ferrocarril todos los años. La Asociación Nacional de Pasajeros de Ferrocarril proporciona las siguientes cantidades de viajes en 2004.
+  \begin{table}[h!]
+\begin{center}
+\begin{tabular}{ll}
+Sistema ferroviario & Viajeros (millones)\\ \hline
+Sistema Amtrak & 25.0\\
+Corredor Noroeste & 14.2\\
+Suburbano + 0este & 10.8 \\ \hline
+  \end{tabular}
+  \end{center}\caption{Fuente: Nationa Association of Railroad Passengers \url{http://www.infoplease.com/ipa/A0855824.html}}
+              \end{table} 
+\begin{enumerate}
+ \item ¿Qué porcentaje de pasajeros de ferrocarril usaron
+el sistema Amtrak en 2004?
+\item Si uno de estos pasajeros ha de ser entrevistado, ¿cuál es la probabilidad de que él haya viajado en el sistema Amtrak en 2004 si es seleccionado al azar?
+\item Explique la diferencia y la relación entre preguntas y respuestaas  a las partes \textit{a} y \textit{b}.
+\end{enumerate}
+\item El Webster Aquatic Center ofrece varios niveles de lecciones de natación todo el año. Las lecciones vespertinas de lunes y miércoles de marzo de 2005 incluyeron clases desde bebés a adultos. El números en cada clasificación aparece en la tabla siguiente:
+\begin{center}
+\begin{tabular}{ll}
+Tipo de lección de natación & Núm. de participantes\\ \hline
+Bebés & 15\\
+Bebé muy pequeño & 12\\
+Renacuajos & 12\\
+Nivel 2 & 15\\
+Nivel 3 & 10\\
+Nivel 4 & 6\\
+Nivel 5 & 2\\
+Nivel 6 & 1\\
+Adultos & 4\\ \hline
+Total & 77
+\end{tabular}
+\end{center}
+Si se selecciona al azar un participante, encuentre la probabilidad de lo siguiente:
+\begin{enumerate}
+ \item El participante está en bebés muy pequeños
+ \item El participante están en la lección para adultos
+ \item El participante está en una lección de nivel 2 a nivel 6
+\end{enumerate}
+\item En septiembre de 2004, la American Payroll Association publicó los resultados de su encuesta nacional de semana de nómina 2004. Una de las preguntas
+inquiría acerca del ingreso familiar anual.
+\begin{table}[!h]
+\begin{center}
+\begin{tabular}{llr@{.}l}
+Ingreso familiar anual & Número &\multicolumn{2}{l}{Porcentaje} \\ \hline
+Menos de \$15\,000 & 423 & 1&9\% \\
+\$15\,001--\$30\,000 & 2225 & 9&8\%\\
+\$30\,001--\$50\,000 & 5394 & 223&9\%\\
+\$50\,001--\$75\,000 & 5772 & 25&5\%\\
+\$75\,001--\$100\,000 & 4730 & 20&9\%\\
+\$100\,001--\$150\,000 & 3065 & 13&6\%\\
+Más de \$150\,000 & 984 & 4&4\% \\\hline
+\end{tabular}
+\end{center}\caption{Fuente: American Payroll Association, \url{http://www.AmericanPayroll.org}}
+            \end{table} 
+Suponga que una de las personas que respondieron las encuesta ha de ser seleccionado al azar para una entrevista de seguimiento. Encuentre la probabilidad de los siguientes eventos.
+\begin{enumerate}
+ \item El ingreso familiar del encuestado es \$50\,000 o menos
+ \item El ingreso familiar del encuestado es \$75\,001 o más
+ \item El ingreso familiar del encuestado es entre \$30\,000 y \$100\,000.
+ \item El ingreso familiar del encuestado es al menos \$100\,001
+\end{enumerate}
+\item El U.S. Department of Transportation publica
+anualmente el número de quejas de consumidores
+contra las principales aerolíneas por categoría. A continuación aparecen las cifras para 2002
+\begin{table}[!h]
+ \begin{center}
+\begin{tabular}{p{3.5cm}p{2cm}|lp{2cm}}
+Categoría de queja & Número de quejas & Categoría de queja & Número de quejas\\ \hline
+Problemas en vuelo & 2031 & Sobreventa & 454\\
+Servicio a clientes & 1715 & Tarifas & 523\\
+Equipaje & 1421 & Incapacidad & 477\\
+Reservaciones/venta de boletos/abordar & 1159 & Publicidad & 68\\
+Devoluciones & 1106 & Otras & 322 \\ \hline
+ \end{tabular}
+ \end{center}
+
+\caption{Fuente: Office of Aviation Enforcement \& Proceedings, U.S. Department of
+Transportation, Air Travel Consumer Report, \url{http://www.infoplease.com/ipa/
+A0198353.html}}
+\end{table} 
+Si una de estas quejas se selecciona al azar para evaluación de seguimiento, ¿cuál es la probabilidad de que la queja sea:
+\begin{enumerate}
+ \item relacionada con problemas en vuelo?
+ \item acerca del servicio a clientes o equipaje?
+ \item relativa a las reservaciones/boletos/abordar o devoluciones o sobreventa?
+ \item que no sea de equipaje?
+\end{enumerate}
+\item Un número de un solo dígito ha de seleccionarse al azar. Haga una lista del espacio muestral
+\item Se lanza un solo dado. ¿Cuál es la probabilidad de que el número en su cara superior sea lo siguiente?
+\begin{enumerate}
+ \item Un 3
+ \item Un número impar
+ \item Un número menor a 5
+ \item Un número no mayor de 3
+\end{enumerate}
+\item Se lanza un par de dados. Si $P(5)$ indica que la suma de los números superiores del dado sea 5, encontrar las probabilidades $P(6)$, $P(7)$, $P(8)$, $P(9)$, $P(10)$, $P(11)$ y $P(12)$
+\item  Una caja contiene un billete de cada uno de lo
+siguiente: $1, $5, $10 y $20.
+\begin{enumerate}
+ \item Se selecciona uno al azar; haga una lista del espacio muestral.
+ \item Se sacan dos billetes al azar (sin reposición); haga una lista del espacio muestral como un diagrama de árbol.
+\end{enumerate}
+ \end{enumerate}
+\section*{Acerca de la película ``La sociedad de los poetas muertos``}
+\subsection*{Cuestionario}
+\begin{enumerate}
+ \item Haga una breve síntesis del argumento de la película
+ \item ¿Con cuál personaje de la película te identificas más y por qué?
+ \item ¿Crees que fue acertado el comportamiento de ''Nuwanda``? ¿Por qué?
+ \item Haga una lista de los personajes más relevantes de la película
+ \item ¿Qué fué lo que más le impactó de la película?
+ \item ¿Qué enseñanza te deja esta película?
+\end{enumerate}
+
+
+\end{document}
