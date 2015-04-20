@@ -888,7 +888,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen189
 \Gm@dimlist=\toks35
 )
-No file GuíaPolParo.aux.
+(./GuíaPolParo.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+)
 \openout1 = `GuíaPolParo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -906,7 +909,7 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 28.
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \. on input line 28.
@@ -954,6 +957,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
 LaTeX Info: Redefining \nameref on input line 28.
+
+(./GuíaPolParo.out) (./GuíaPolParo.out)
 \@outlinefile=\write4
 \openout4 = `GuíaPolParo.out'.
 
@@ -1049,47 +1054,36 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 30.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 30.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 30.
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images/logo-colegio.png>
  <./Images/logo-sed.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 36.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 36.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (./GuíaPolParo.aux
 LaTeX Info: Redefining \. on input line 19.
 LaTeX Info: Redefining \% on input line 19.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 36.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 36.
-
-
-Package rerunfilecheck Warning: File `GuíaPolParo.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `GuíaPolParo.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 36.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
+Package rerunfilecheck Info: File `GuíaPolParo.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
  ) 
 Here is how much of TeX's memory you used:
- 18517 strings out of 494958
- 335586 string characters out of 6179386
- 403915 words of memory out of 5000000
- 21401 multiletter control sequences out of 15000+600000
- 44728 words of font info for 55 fonts, out of 8000000 for 9000
+ 18503 strings out of 494958
+ 335490 string characters out of 6179386
+ 404019 words of memory out of 5000000
+ 21389 multiletter control sequences out of 15000+600000
+ 36710 words of font info for 45 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  55i,6n,54p,414b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/sh
 are/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmr17.pfb>
-Output written on GuíaPolParo.pdf (1 page, 156339 bytes).
+Output written on GuíaPolParo.pdf (1 page, 155734 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  26 compressed objects within 1 object stream
