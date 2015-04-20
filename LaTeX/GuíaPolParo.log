@@ -888,7 +888,10 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutvoffset=\dimen189
 \Gm@dimlist=\toks35
 )
-(./GuíaPolParo.aux)
+(./GuíaPolParo.aux
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+)
 \openout1 = `GuíaPolParo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -973,14 +976,14 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(28.90799pt, 397.48499pt, 43.36201pt)
+* h-part:(L,W,R)=(26.017pt, 404.71243pt, 39.02556pt)
 * v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
-* \textwidth=397.48499pt
+* \textwidth=404.71243pt
 * \textheight=505.89pt
-* \oddsidemargin=-43.362pt
-* \evensidemargin=-28.90797pt
+* \oddsidemargin=-46.25299pt
+* \evensidemargin=-33.24443pt
 * \topmargin=-65.90799pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -1066,7 +1069,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 34.
 Here is how much of TeX's memory you used:
  18501 strings out of 494958
  335416 string characters out of 6179386
- 403953 words of memory out of 5000000
+ 403951 words of memory out of 5000000
  21386 multiletter control sequences out of 15000+600000
  39705 words of font info for 46 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
@@ -1075,7 +1078,7 @@ Here is how much of TeX's memory you used:
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb>
-Output written on GuíaPolParo.pdf (1 page, 142956 bytes).
+Output written on GuíaPolParo.pdf (1 page, 142881 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
