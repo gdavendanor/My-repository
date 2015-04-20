@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.12)  19 APR 2015 20:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.12)  19 APR 2015 20:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -976,15 +976,15 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(24.57196pt, 408.32506pt, 36.85797pt)
-* v-part:(T,H,B)=(40.47101pt, 513.11743pt, 60.70656pt)
+* h-part:(L,W,R)=(21.681pt, 415.55249pt, 32.5215pt)
+* v-part:(T,H,B)=(36.13498pt, 523.95749pt, 54.20253pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
-* \textwidth=408.32506pt
-* \textheight=513.11743pt
-* \oddsidemargin=-47.69803pt
-* \evensidemargin=-35.41202pt
-* \topmargin=-68.79898pt
+* \textwidth=415.55249pt
+* \textheight=523.95749pt
+* \oddsidemargin=-50.58899pt
+* \evensidemargin=-39.74849pt
+* \topmargin=-73.13501pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1062,7 +1062,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 43.
- [2] [3] [4] [5]
+ [2] [3] [4]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./GuíaPolParo.aux
@@ -1076,24 +1076,26 @@ Package rerunfilecheck Info: File `GuíaPolParo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 18593 strings out of 494958
- 336491 string characters out of 6179386
- 407963 words of memory out of 5000000
- 21440 multiletter control sequences out of 15000+600000
+ 18596 strings out of 494958
+ 336537 string characters out of 6179386
+ 407961 words of memory out of 5000000
+ 21444 multiletter control sequences out of 15000+600000
  63011 words of font info for 62 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 55i,8n,54p,1590b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
-public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
-hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
-/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.
-pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmtt10.pfb>
-Output written on GuíaPolParo.pdf (5 pages, 254245 bytes).
+ 55i,14n,54p,1590b,423s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exi
+st, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pu
+blic/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/sha
+re/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/l
+m/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.
+pfb>
+Output written on GuíaPolParo.pdf (4 pages, 211584 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 26 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
