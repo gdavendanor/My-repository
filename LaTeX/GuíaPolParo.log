@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.12)  19 APR 2015 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.4.12)  19 APR 2015 20:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,22 +1076,24 @@ Package rerunfilecheck Info: File `GuíaPolParo.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 18586 strings out of 494958
- 336423 string characters out of 6179386
+ 18593 strings out of 494958
+ 336491 string characters out of 6179386
  407963 words of memory out of 5000000
- 21437 multiletter control sequences out of 15000+600000
- 54039 words of font info for 59 fonts, out of 8000000 for 9000
+ 21440 multiletter control sequences out of 15000+600000
+ 63011 words of font info for 62 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 55i,7n,54p,1590b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,54p,1590b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on GuíaPolParo.pdf (5 pages, 193454 bytes).
+mf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.
+pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/ty
+pe1/public/lm/lmtt10.pfb>
+Output written on GuíaPolParo.pdf (5 pages, 254245 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 26 named destinations out of 1000 (max. 500000)
+ 98 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
