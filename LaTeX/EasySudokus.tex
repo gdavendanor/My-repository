@@ -1,0 +1,36 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{printsudoku}
+\usepackage{multicol}
+\usepackage[papersize={13.6cm,21.20cm},height=20.2cm,width=12,6cm]{geometry}
+\newcommand*{\Lpack}[1]{\textsf{#1}}
+
+%opening
+\title{}
+\author{Germán Avendaño Ramírez}
+
+\begin{document}
+\renewcommand*{\puzzlefile}{se5.sud}
+\writepuzzle%
+{.2...5863}{56.2.3.9.}{.3...7251}%
+{..975....}{..6..47.9}{.7..286..}%
+{6.58...7.}{8....1..6}{3.7.6..4.}%
+[SSBL easy 5]
+\vfill
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE5 (easy) \\
+\sudoku{se5.sud}
+\end{center}\end{minipage}
+
+\renewcommand*{\puzzlefile}{se10.sud}
+\writepuzzle%
+{..6.497..}{.82.1.6..}{79..8.145}%
+{649.5.27.}{..7.6..5.}{.3..72.96}%
+{.2....81.}{.7..28...}{......5.7}%
+[SSBL easy 10]
+\vfill
+\begin{minipage}{0.95\linewidth}\begin{center}
+SE10 (easy) \\
+\sudoku{se10.sud}
+\end{center}\end{minipage}
+\end{document}

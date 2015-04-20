@@ -1,0 +1,135 @@
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},includeheadfoot,left=0.4in,right=0.4in,top=0.3in,bottom=0.2in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{http://www.autistici.org/mathgerman}}
+\fancyhead[RE]{}
+\fancyhead[RO]{matematicas.german@gmail.com}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{0.15\textwidth}\includegraphics[height=2cm]{Images/logo-colegio.png}
+\end{minipage}\hfill \begin{minipage}{0.7\textwidth}\begin{center}
+Taller 02\\
+Función lineal\\Álgebra $9^{\circ}$\end{center}
+\end{minipage}\hfill
+\begin{minipage}{0.15\textwidth}
+\includegraphics[height=2cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: 90\underline{\hspace{12pt}}  Fecha: \underline{\hspace{2cm}}\\
+\section*{Funciones}
+\subsection*{Introducci\'{o}n hist\'{o}rica}
+Hay muchos estudios acerca de la historia de las matemáticas, pero muy pocos se han realizado sobre el tema específico de funciones.\\
+
+El concepto de función, al igual que los conceptos de número y medida, se encuentran en la base de gran parte de las matemáticas que el hombre ha desarrollado a través de la historia.\\
+
+Parece que el nacimiento del concepto de función se sitúa a mediados del siglo XVII, ya que en este siglo se formulan las primeras definiciones y es cuando aparece por primera vez el término “función”, pero de una manera muy restringida.\\
+
+Para el estudio de la historia del concepto de función Youshkevitch (1976), distingue tres grandes períodos:
+\begin{enumerate}
+\begin{multicols}{3}
+\item[a] El mundo antiguo
+\item[b] La edad media
+\item[c] La edad moderna
+\end{multicols}
+\end{enumerate}
+EL MUNDO ANTIGUO: En esta época aparecen estudios particulares de dependencia entre cantidades, pero no aparecen nociones generales, sobre variables y funciones, por esta razón difícilmente puede hablarse de funciones en general, aunque si hay muchas ideas que sirvieron como base para el concepto completo de función.\\
+
+Algunas civilizaciones antiguas como los Babilonios, Egipcios y Griegos aportaron algo para el desarrollo de este concepto aunque se dedicaron más al estudio de la aritmética y la geometría en casos particulares de aplicación práctica.\\
+
+Sin embargo, fue a partir de mediciones astronómicas, hechas por los indios\footnote{Natural de la India, no debe confundirse con indígena, término que se refiere a los nativos americanos} ,
+que el concepto de función hace sus primeras apariciones en el mundo de la
+matemática.\\
+
+Ya en la edad media se hacen los primeros intentos sobre el tema, aparecen
+más explícitas ciertas nociones de dependencia entre dos cantidades variables, pero de una manera verbal o mediante un gráfico. Se inicia con los Arabes sin poder hablar aún de un cambio substancial. En esta edad podemos mencionar las escuelas de Oxford y París como pioneros del cambio, especialmente con los tratados sobre las representaciones geométricas de Nicolás Oresma.\\
+
+Por último la edad moderna que se inicia a fines de siglo XVI, se puede considerar, como dijimos anteriormente, el escenario de la aparición del concepto de función con aplicaciones más profundas y más generales específicamente es en siglo XVII con los trabajos de Galileo, Descartes, Fermat, Newton, Leibtnitz, Gregory, Euler y Bernoulli.\\
+
+Es así como el término “función” aparece por primera vez en un manuscrito de
+Leibnitz de 1673, y en 1718 Bernoulli da una definición más explícita del concepto de función y en 1740 Euler perfecciona la definición y da la nueva notación $f(x)$ que es la que perdura hasta nuestros días.\\
+
+Por último, con los trabajos de Lagrange, Fourier y Dirichlet se clasifica el concepto de función y con el advenimiento de la teoría de conjuntos se le generaliza hasta adquirir la forma en que hoy en día se presenta este fundamental concepto.
+\subsubsection*{Actividad 1}
+Haga una s\'{i}ntesis de cada una de las etapas de desarrollo del concepto de funci\'{o}n en su cuaderno.
+\subsection*{Funci\'{o}n lineal}
+\subsubsection*{Actividad 2 - En parejas}
+En una finca a un obrero se le paga por cada metro cuadrado que trabaje, para esto, el patrón tiene la siguiente tabla que le permite pagar sin hacer demasiadas cuentas, o sea, con solo mirar los datos de la tabla.
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+\hline 
+$X(m^{2})$ & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 15 & 20 & 25 & 30 \\ 
+\hline 
+Y(\$) & 30 & 60 & 90 & 120 & 150 & 180 & 210 & 240 & 270 & 300 & 450 & 600 & 750 & 900 \\ 
+\hline 
+\end{tabular} 
+\end{center}
+En esta tabla la $x$ representa los metros cuadrados trabajados y, \; $y=f(x)$ los pesos pagados\\
+
+Con base en la anterior situación realizamos los siguientes pasos:
+\begin{enumerate}
+\item Conformamos un conjunto de parejas donde los primeros elementos sean los metros trabajados y los segundos los pesos pagados.
+\item Buscamos el operador multiplicativo que al aplicarlo a la $x$ en cada caso nos dé la $y$, diciendo si es ampliador o reductor.
+\item Con base en las parejas, o en la tabla decimos si las magnitudes metros cuadrados y pesos son directamente proporcionales, y damos las razones.
+\item En el plano cartesiano graficamos las parejas formadas y unimos éstas por medio de una línea continua, para ampliar el dominio a los reales.
+\item De acuerdo con el factor que buscamos en el paso 2, completamos las siguientes parejas en el cuaderno, reemplazando el signo interrogación.
+\[(0,?),\left(\frac{1}{2},?\right),\left(\frac{7}{2},?\right),(11,?),(18,?).\]
+\item Con ayuda del operador encontrado en el paso 2 decimos si esta gráfica nos representa una función o no. Justificamos la respuesta.
+\end{enumerate}
+\subsubsection*{Actividad 3 - Individual}
+En la situación anterior llegué junto con mi compañero, a la fórmula para el pago según los metros trabajados mediante la función $f(x) = 30x$.
+\begin{enumerate}
+\item[7.] Observando detenidamente la gráfica, intuyo si ésta corresponde a una función lineal o no.
+\item[8.] Tomo los valores $x =2$ y $x = 4$ y hallo $f(2)$ y $f(4)$ por separado; seguidamente hallo $f(2+4)$ ó sea $f(6)$.\\
+
+Hago lo mismo con los valores $x = 3$ y $x = 4$.
+\item[9.] Ahora tomo los valores $k = 2$ y $x =4$ y realizo lo siguiente:
+Calcular $f(kx)$ luego calcular $kf(x)$ para la función $f(x)=30x$\\
+
+Hago lo mismo en los valores $k=\frac{1}{2}$ y $x=2$
+\item[10.] Trato de sacar alguna conclusión de lo realizado en los apartados 8 y 9.
+\end{enumerate}
+\subsubsection*{Actividad 4 - En parejas}
+Consideremos la función
+\[f(x)=2x-1\]
+\begin{enumerate}
+\item[11.] Hallamos los valores $f(0)$, $f(1)$, $f(-1)$, $f(-2)$, $f(2)$, $f(-3)$, $f(3)$, $f(-4)$, $f(4)$.
+\item[12.] Construimos una tabla con estos valores y hacemos la gráfica de esta función. A continuación unimos estos puntos.
+\item[13.] Hallamos: $f(2)$, $f(3)$, luego hallamos $f(2+3) = f(5)$
+\item[14.] Hallamos $f(1)$ y $f(5)$ luego $f(1+5)=f(6)$
+\item[15.] Ahora encontramos $f(kx)$ y $kf(x)$ para $x = 2$ y $k=3$.\\
+Luego para $k=2$ y $x=\frac{1}{2}$.
+\item[16.] Sacamos algunas conclusiones de los apartados 13 y 14.
+\item[17.] Comparamos estas conclusiones con las sacadas en el apartado 2, 3 y 4 de la actividad 2.
+\end{enumerate}
+\subsubsection*{Concluyamos lo aprendido}
+La función lineal se representa por $f(x) = kx$ y se caracteriza por las dos propiedades siguientes:
+\begin{enumerate}
+\item $f(x_{1}+x_{2})=f(x_{1})+f(x_{2})$
+\item $f(kx)=kf(x)$
+\end{enumerate}
+A la función lineal también se le llama función de proporcionalidad directa. $y = kx$ ó $f(x) = kx$ siempre es una recta que pasa por el origen.\\
+
+Si $(x_{1},y_{1})$, $(x_{2},y_{2})$, \ldots, $(x_{n},y_{n})$, son pares de valores correspondientes de una función lineal o función de proporcionalidad directa entonces se tiene que:
+\[\dfrac{y_{1}}{x_{1}}=\dfrac{y_{2}}{x_{2}}=\dfrac{y_{3}}{x_{3}}=\ldots=\dfrac{y_{n}}{x_{n}}=k\]
+ó lo que es lo mismo $y_i = kx_i$.\\
+
+Por último una función lineal puede considerarse como un operador multiplicativo que transforma una materia prima, como una magnitud o un número, en un producto determinado, que va a ser también una magnitud o un número.\\
+
+\emph{Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.}\footnote{Galileo Galilei (1564-1642) Físico y astrónomo italiano.}
+\end{document}

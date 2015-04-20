@@ -1,0 +1,56 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Cálculo $11^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Animaplano 01, 8$^{\circ}$,  \\
+Cálculo $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Cuestionario}
+Conteste al frente de cada pregunta, haciendo los procedimientos respectivos
+\begin{enumerate}
+ \item Halle 1/4 del número 100
+ \item Siendo $ab=57$, si $a=3$, $b=$?
+ \item Si el dividendo es 56, el cociente es 2, el divisor es:
+ \item Sea $A=\{7,5,4\}$, $B=\{5,7,6\}$, la suma de los elementos de $A\cup B$ es:
+ \item En años, 3 décadas + 1 año.
+ \item Halle y sume los números primos entre 23, 15, 27, 12, 21 y 2
+ \item Multiplique por 5, las veces en que está el 5 en 35
+ \item En unidades, 1/2 centena + 1 docena
+ \item El doble de la mitad del número 66
+ \item Sume $2^{2}+3^{3}+4^{2}-1^{2}=$
+ \item $(-11)(2)(-2)=$
+ \item Si $a=11$, luego $a+a+a=$
+ \item Si $m+n=31$, ¿cuál será la nueva suma si $m$ aumenta en 7 y $n$ aumenta en 13?
+ \item $(3\times4!)-$ raíz cuadrada de 100
+\end{enumerate}
+
+\end{document}

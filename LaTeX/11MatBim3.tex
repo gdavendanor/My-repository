@@ -1,0 +1,100 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.75cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $11^{\circ}$}
+\ExamName{Prueba Bimestral III}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Form: \underline{A} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 70 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Encuentre los siguientes 5 términos de las progresiones y encuentre el término n-ésimo
+ \begin{enumerate}
+  \item -3,1,5,\ldots \addanswer*[0pt]{5 términos siguientes:}\answer*[0pt]{$a_{n}=$}
+  \item 18, 6, 2, $\dfrac{2}{3}$, \ldots \addanswer*[0pt]{5 términos siguientes:} \answer*[0pt]{$b_{n}=$}
+ \end{enumerate}
+\item Encuentre los 10 primeros términos de las progresiones cuyo término general se da:
+\begin{enumerate}
+ \item $c_{n}=3n+5$ \answer*{Primeros diez términos}
+ \item $d_{n}=2(3)^{n-1}$ \answer*{Primeros diez términos}
+\end{enumerate}
+\item Grafique en el plano cartesiano las siguientes funciones. Puede hacer las dos en  el mismo plano. Se sugiere hacer tabla de valores para cada función para hacer su gráfica.
+\begin{enumerate}
+\begin{multicols}{2}
+ \item $f(x)=-2x+1$ \noanswer
+\item $g(x)=3-x^{2}$ \noanswer 
+\end{multicols}
+\end{enumerate}
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.75,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-3.82,-6.64) grid (3.68,4.1);
+\draw[->,color=black] (-3.82,0) -- (3.68,0);
+\foreach \x in {-3,-2,-1,1,2,3}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-6.64) -- (0,4.1);
+\foreach \y in {-6,-5,-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.82,-6.64) rectangle (3.68,4.1);
+\endtikzpicture
+\end{center}
+\newpage
+\item Con base en la gráfica, determine:
+\begin{center}
+
+\definecolor{qqqqff}{rgb}{0.33,0.33,0.33}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.75,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-3.08,-3.78) grid (3.26,4.74);
+\draw[<->,color=black] (-3.08,0) -- (3.26,0);
+\foreach \x in {-3,-2,-1,1,2,3}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[<->,color=black] (0,-3.78) -- (0,4.74);
+\foreach \y in {-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.08,-3.78) rectangle (3.26,4.74);
+\node[above] at (1,4){$f$};
+\draw[smooth,samples=100,domain=-3.0:0.99] plot(\x,{0-\x*\x+4});
+\draw[smooth,samples=100,domain=1.0:3.2600000000000007] plot(\x,{(\x)+1});
+\draw [color=qqqqff] (1,3) circle (2pt);
+\endtikzpicture
+\end{center}
+\begin{enumerate}
+\item La imagen de 1 \answer*[0pt]{$f(1)=$}
+ \item Límite de la función $f$ cuando $x$ tiende a $-1$. \answer*[0pt]{$\ds{\lim_{x\rightarrow -1}f(x)=}$}
+ \item Límite de $f$ cuando $x$ tiende a 2 \answer*[0pt]{$\ds{\lim_{x\rightarrow2}f(x)}=$}
+ \item Límite cuando $x$ tiende a 1 por la izquierda, de $f$ \answer*[0pt]{$\ds{\lim_{x\rightarrow1^{-}}}f(x)=$}
+ \item Límite cuando $x$ tiende a 1 por la derecha, de $f$ \answer*[0pt]{$\ds{\lim_{x\rightarrow1^{+}}}f(x)=$}
+ \item Límite de la función $f$ cuando $x$ tiende a 1 \answer*[0pt]{$\ds{\lim_{x\rightarrow1}f(x)}=$}
+\end{enumerate}
+
+\item Se lanzan al aires tres monedas y se registra el número de caras observadas. Encuentre la probabilidad para cada uno de los posibles resultados:
+\begin{enumerate}
+ \item ``0 caras observadas'': \answer*[0pt]{$P(0C)=$}
+ \item ``1 cara observada'': \answer*[0pt]{$P(1C)=$}
+ \item ``2 caras observadas'': \answer*[0pt]{$P(2C)=$}
+ \item ``3 caras observadas'': \answer*[0pt]{$P(3C)=$}
+\end{enumerate}
+\end{enumerate}
+\end{document}

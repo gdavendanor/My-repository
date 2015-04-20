@@ -1,0 +1,114 @@
+\documentclass[11pt,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Aritmética $6^{\circ}$}
+\ExamName{``Evaluación Operaciones en N''}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+\item Realicen las siguientes divisiones y diga si son exactas o no. 
+\begin{enumerate}
+ \item $165\div12=$ \noanswer
+ \item $1278\div18=$\noanswer
+\end{enumerate}
+\item De la división inexacta del punto anterior, ubique los términos en el siguiente gráfico:
+\begin{tabbing}
+DIVIDENDO \= = \= (DIVISOR $\times$ COCIENTE) \= + \= RESIDUO\\
+\tikz \draw (0,0) rectangle (2.2,.5); \> = \> \tikz \draw (0,0) rectangle (4.5,.5);  \> + \> \tikz \draw (0,0)rectangle(1.8,.5); 
+\end{tabbing}
+\item Resuelve la adición y escribe las dos restas asociadas a cada suma:
+\begin{enumerate}
+ \item $24+89=$\noanswer
+ \item $43+98=$\noanswer
+\end{enumerate}
+\item Resuelve y escribe la suma y la otra resta asociadas a las siguientes restas
+\begin{enumerate}
+ \item $98-45=$\noanswer
+ \item $205-128=$\noanswer
+\end{enumerate}
+\item Realiza la operación $643-35\times 7+240\div15+30=$\noanswer
+\newpage
+\item Si un operario hace en una fábrica 7 tornillos en una hora y su trabajo es constante, cuańtos tornillos hace en 2 horas, 3 horas, 4 horas, 5 horas, etc. ¿Qué significan estos resultados con respecto al número 7?\noanswer
+\item Encuentre el conjunto de divisores de los números
+\begin{enumerate}
+ \item 96 \noanswer
+ \item 120 \noanswer
+\end{enumerate}
+\item Completa el siguiente diagrama
+\begin{center}
+\begin{tikzpicture}
+[level distance=10mm,
+every node/.style={fill=red!60,circle,inner sep=1pt},
+level 1/.style={sibling distance=16mm,nodes={fill=red!45}},
+level 2/.style={sibling distance=8mm,nodes={fill=red!30}},
+level 3/.style={sibling distance=4mm,nodes={fill=red!30}}]
+\node {\textbf{7}}
+child {node {$\times$}
+child {node{0}
+child {node{0}}}
+child {node{1}
+child {node{}}}
+child {node{2}
+child {node{}}}
+child {node{3}
+child {node{}}}
+child {node{4}
+child {node{}}}
+child {node{5}
+child {node{}}}
+child {node{6}
+child {node{}}}
+child {node{7}
+child {node{}}}
+child {node{8}
+child {node{}}}
+child {node{9}
+child {node{}}}
+child {node{10}
+child {node{}}}
+child {node{11}
+child {node{}}}
+child {node{12}
+child {node{}}}
+child {node{13}
+child {node{}}}
+child {node{14}
+child {node{}}}
+child {node{15}
+child {node{}}}
+child {node{16}
+child {node{}}}
+};
+\end{tikzpicture}                 \end{center}
+Conteste las preguntas \ref{preg1}--\ref{preg3}
+\begin{minipage}{.5\textwidth}
+   \item ¿Cuál es el área del terreno en metros cuadrados?  \label{preg1}
+\end{minipage}\hfill
+\begin{minipage}{.5\textwidth}
+   \begin{tikzpicture}
+ \draw (0,0) rectangle (4,3);
+ \node[below] at (2,0){40m};
+ \node[right] at (4,1.5){30m} ;
+\end{tikzpicture}
+\end{minipage}
+\noanswer
+\item Si el terreno cuesta \$23'760\,000, ¿cuál es el valor de cada metro cuadrado?\noanswer
+\item \label{preg3} Si un padre quiere repartir el terreno entre sus 7 hijos, ¿es posible dividir el terreno en 7 partes iguales? ¿Por qué? \noanswer
+\end{enumerate}
+\end{document}

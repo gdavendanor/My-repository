@@ -1,0 +1,98 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{pgf,tikz}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
+\ExamName{Sustentación recomendaciones II}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado.}
+\LineaNombre
+\begin{enumerate}
+ \item Compruebe si los pares de valores que figuran en la siguiente tabla corresponden a la función
+ \[y=3-\dfrac{1}{x-2}\]
+ y complete los que faltan:\\
+ 
+ \begin{tabular}{|c|c|c|c|c|c|c|}
+ \hline 
+ $x$ & 2.01 & 2.5 & 1.9 & 102 &  &  \\ 
+ \hline 
+$y$ & $-97$ &  & 13 &  & 3.5 & 103 \\ 
+ \hline 
+ \end{tabular}
+ 
+ \begin{minipage}{.45\textwidth}
+ \item Represente la función a trozos
+\[f(x)=\left\{ \begin{array}{lcl}
+x+3 & \mbox{si} & x\leq 2\\
+&
+& \\
+2x+1 & \mbox{si} & x> 2\\
+\end{array}
+\right.\]
+y diga si es discontinua en algún punto. 
+ \end{minipage}
+ \begin{minipage}{.5\textwidth}
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.85,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-4.91,-4.31) grid (4.93,4.48);
+\draw[->,color=black] (-4.91,0) -- (4.93,0);
+\foreach \x in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-4.31) -- (0,4.48);
+\foreach \y in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-4.91,-4.31) rectangle (4.93,4.48);
+\endtikzpicture 
+ \end{minipage}
+ 
+\item Halle el dominio y rango de las siguientes funciones (recuerde que el dominio es el conjunto de valores que toma la variable independiente $x$ y el rango es el conjunto de valores que toma la variable dependiente $y$):
+\begin{enumerate}
+\item $y=x-3$\noanswer
+\item $y=\dfrac{1}{x-1}$\noanswer
+\item $y=+\sqrt{x-2}$\noanswer
+\item $y=+\sqrt{x+3}$\noanswer
+\end{enumerate}
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.85,line cap=round,line join=round,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 1pt off 1pt, xstep=1.0cm,ystep=1.0cm] (-3.19,-1.32) grid (5.5,3.61);
+\draw[->,color=black] (-3.19,0) -- (5.5,0);
+\foreach \x in {-3,-2,-1,1,2,3,4,5}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.32) -- (0,3.61);
+\foreach \y in {-1,1,2,3}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.19,-1.32) rectangle (5.5,3.61);
+\endtikzpicture
+
+Haga la gráfica de la última función:\\
+ \end{enumerate}
+
+\end{document}

@@ -1,0 +1,34 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Álgebra $8^{\circ}$}
+\ExamName{Expresiones algebraicas}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+   \item Exprese en lenguaje algebraico las siguientes expresiones:
+   \begin{enumerate}
+    \item El triple de un número:
+    \item El triple de la diferencia de dos números:
+    \item La suma del triple de un número y el cuádruple de otro:
+    \item La raíz cuadrada de la diferencia de dos números:
+    \item La diferencia entre el triple de un número y el quíntuple de otro:
+   \end{enumerate}
+
+\end{enumerate}
+\end{document}

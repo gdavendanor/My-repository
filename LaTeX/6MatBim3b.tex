@@ -1,0 +1,77 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{pgf,tikz}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $6^{\circ}$}
+\ExamName{Prueba Bimestral III}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Form: \underline{B} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Dispone de 70 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Encuentre el conjunto de los primeros 10 múltiplos del número 16
+ \noanswer
+ \[\text{Primero 10 múltiplos de }16=\{\]
+ \item Encuentre el conjunto de divisores del número 54
+ \noanswer
+ \[\text{Divisores de }54=\{\]
+ \item Encuentre el m.c.m (mínimo común múltiplo) de los números 15 y 18
+ \answer*{$m.c.m(12,15)=$}
+ \item Encuentre el M.C.D. (Máximo Común Divisor) de los números 36 y 60
+ \answer*{$M.C.D.(36,48)=$}
+ \newpage
+ \item Los siguientes datos corresponden al número de minutos que dedican los estudiantes de un curso a hacer tareas
+ 
+ 20, 15, 10, 20, 0, 20, 30, 40, 50, 20, 20, 30, 15, 15, 20, 15, 20, 15, 15, 12, 20, 0, 20, 30, 25, 20, 20, 30, 20, 50
+ \begin{enumerate}
+  \item Haga la tabla de frecuencias correspondiente
+  \begin{center}
+\begin{tabular}{c|c}\hline
+Dato & Frecuencia\\
+$x_{i}$ & $f_{i}$\\\hline
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & \\
+ & 
+  \end{tabular}
+  \end{center}
+  \item Determine la moda\answer*[0pt]{Moda:}
+  \item Determine la mediana \answer*[12pt]{Mediana:}
+  \item Determine la media (promedio) \answer*[50pt]{Media: $\overline{x}=$}
+  \item Haga el diagrama de barras
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\tikzpicture[line cap=round,line join=round,>=triangle 45,x=.20cm,y=.45cm]
+\draw[->,color=black] (-0.77,0) -- (61.31,0);
+\foreach \x in {,5,10,15,20,25,30,35,40,45,50,55,60}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-0.32) -- (0,7.5);
+\foreach \y in {,1,2,3,4,5,6,7}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2.77,-0.32) rectangle (61.31,7.21);
+\endtikzpicture               \end{center}
+
+ \end{enumerate}
+ \end{enumerate}
+\end{document}

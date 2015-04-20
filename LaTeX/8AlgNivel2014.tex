@@ -1,0 +1,92 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Álgebra $8^{\circ}$}
+\ExamName{Nivelación 2014}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 60 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Para los ejercicios \ref{third}--\ref{fourth}, simplifique cada expresión numérica
+ \begin{enumerate}
+ \item $-8\frac{1}{4}+\left(-4\frac{5}{8}\right)-\left(-6\frac{3}{8}\right)$\label{third}\noanswer
+\item $-8(2)-16\div (-4)+(-2)(-2)$\noanswer
+\item  $[4(-1)-2(3)]^{2}$\label{fourth}\noanswer
+ \end{enumerate}
+ \item Simplifique cada expresi\'{o}n algebraica reduciendo términos semejantes
+ \begin{enumerate}
+ \item $3a^{2}-2b^{2}-7a^{2}-3b^{2}$\noanswer
+\item $-\frac{2}{3}x^{2}y-\left(-\frac{3}{4}x^{2}y\right)-\frac{5}{12}x^{2}y-2x^{2}y$\noanswer
+\item $-5(x^{2}-4)-2(3x^{2}+6)+(2x^{2}-1)$\noanswer
+ \end{enumerate}
+ \item Resuelva los siguientes problemas
+ \begin{enumerate}
+ \item Encuentre tres enteros consecutivos tal que la suma de la mitad del menor y un tercio del mayor es uno menos que el entero del medio.\noanswer
+ \item Si el complemento de un ángulo es una d\'{e}cima parte del suplemento del \'{a}ngulo, encuentre la medida del \'{a}ngulo\noanswer
+ \end{enumerate}
+ \begin{minipage}{.45\textwidth}
+\item Encuentre un polinomio que represente el área de la región sombreada
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+\begin{tikzpicture}[scale=1.5]
+\filldraw[fill=gray!25,even odd rule]
+(-1,-1) rectangle (2,0)
+(0.66,-0.33) rectangle (1.66,-0.66);
+\node[below] at (1,-1){$3x+4$};
+\node[right] at (2,-0.5){$x$};
+\node[left] at (0.66,-0.5){$x-2$};
+\node[above] at (1,0){$x-1$}; 
+\end{tikzpicture}
+\end{minipage}\noanswer
+\begin{minipage}{.45\textwidth}
+\item Encuentre el polinomio que represente el volumen del sólido rectangular de la figura.
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+\begin{tikzpicture}[scale=1.5]
+\draw (0,0,0)--(2,0,0)--(2,1,0)--(0,1,0)--cycle;
+\draw (0,0,1)--(2,0,1)--(2,1,1)--(0,1,1)--cycle;
+\draw (0,0,0) -- (0,0,1);
+\draw (2,0,0) -- (2,0,1);
+\draw (2,1,0) -- (2,1,1);
+\draw (0,1,0) -- (0,1,1);
+\node[below] at (1,0,1){$2x$};
+\node[left] at (0,.4,1){$x$};
+\node[left] at (0,1,.5){$x+1$};
+\end{tikzpicture}
+\end{minipage}
+\noanswer
+\newpage
+\item Efectúe las operaciones indicadas
+\begin{enumerate}
+\item $(3x-2)+(4x-6)+(-2x+5)$\noanswer
+\item $[8x-(5x-y+3)]-[-4y-(2x+1)]$\noanswer
+\item $(-2a^{2})(3ab^{2})(a^{2}b^{3})$\noanswer
+\item $-2x^{3}(4x^{2}-3x-5)$\noanswer
+\item $\dfrac{20a^{4}b^{6}}{5ab^{3}}$\noanswer
+\item $(7x-9)(x+4)$\noanswer
+\end{enumerate}
+\item Factorice los siguientes polinomios
+\begin{enumerate}
+\item $10a^{2}b-5ab^{3}-15a^{3}b^{2}$\noanswer
+\item $a(x+4)+b(x+4)$\noanswer
+\item $mn+5n^{2}-4m-20n$\noanswer
+\item $36x^{2}-y^{2}$\noanswer
+\end{enumerate}
+ \end{enumerate}
+
+\end{document}

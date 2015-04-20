@@ -1,0 +1,59 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage{printsudoku}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7.1in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Matemáticas $6^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Sudokus SE15(20)-TG15(20)\\
+Matemáticas $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\vspace*{9pt}
+\cluefont{\Large}
+\cellsize{1.5\baselineskip}
+\begin{minipage}{0.45\linewidth}\begin{center}
+SE15 (easy) \\
+\sudoku{se15.sud}
+\end{center}\end{minipage}\hfill
+\begin{minipage}{0.45\linewidth}\begin{center}
+SE20 (easy) \\
+\sudoku{se20.sud}
+\end{center}\end{minipage}
+\vspace*{9pt}
+
+\begin{minipage}{0.45\linewidth}\begin{center}
+TG15 (gentle) \\
+\sudoku{tg15.sud}
+\end{center}\end{minipage}\hfill
+\begin{minipage}{0.45\linewidth}\begin{center}
+TG20 (gentle) \\
+\sudoku{tg20.sud}
+\end{center}\end{minipage}
+\end{document}

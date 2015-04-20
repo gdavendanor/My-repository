@@ -1,0 +1,100 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $11^{\circ}$}
+\ExamName{Nivelación 2014}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 60 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Para la función, $f(x)=\sqrt{x+3}$. Determine:
+\begin{enumerate}
+\item Dominio de $f$ (Recuerde que el dominio es el conjunto de valores que toma la variable independiente $x$)\noanswer
+\item Rango de $f$. (El rango es el conjunto de valores que toma la variable dependiente $y$)\noanswer
+\item Su gráfica:
+\begin{center}
+\begin{tikzpicture}
+\draw[<->] (-3.5,0)--(6.5,0)node[right]{$x$};
+\foreach \x in {-3,-2,-1,1,2,3,4,5,6} \draw[shift={(\x,0)}](0pt,2pt)--(0pt,-2pt)node[below] {\footnotesize $\x$};
+\draw[<->](0,-1.5)--(0,3.5)node[right]{$y$};
+\foreach \y in {-1,1,2,3} \draw[shift={(0,\y)}](2pt,0)--(-2pt,0)node[left]{\footnotesize $\y$};
+\draw[dotted] (-3,-1)grid(6,3);
+\end{tikzpicture}
+\end{center}
+\begin{tabular}{|p{24pt}|p{24pt}|p{24pt}|p{24pt}|p{24pt}|}
+\hline 
+$x$ &  &  &  &  \\ 
+\hline 
+$y$ &  &  &  &  \\ 
+\hline 
+\end{tabular} 
+\end{enumerate}
+ \item Para la función $g(x)=\left\{\begin{array}{lcl}
+ 3 & \mbox{ si } & x<-2\\
+ x+4 & \mbox{ si } & x\geq -2
+ \end{array}\right.$
+ Encuentre:
+\begin{enumerate}\begin{multicols}{2}
+\item $g(0)=$
+\item $g(1)=$
+\item $g(-2)=$
+\item $g(-1)=$
+\item $\ds{\lim_{x\rightarrow 1}g(x)}=$
+\item $\ds{\lim_{x\rightarrow -2^{-}}g(x)}=$
+\item $\ds{\lim_{x\rightarrow 2^{+}}g(x)}=$
+\item $\ds{\lim_{x\rightarrow 2}g(x)}=$
+\end{multicols}
+\end{enumerate}
+\item El duodécimo término de una progresión aritmética es 32, y el quinto término es 18. Encuentre el vigésimo término.\noanswer
+\begin{minipage}{.45\textwidth}
+\item Los postes de teléfono son puestos en pila, con 25 postes en el primer nivel, 24 en el segundo y así sucesivamente. Si hay 12 niveles, ¿cuántos postes de teléfono contiene la pila de postes?
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+\includegraphics[scale=.9]{Images/postes.png} 
+\end{minipage}
+\noanswer
+ \newpage
+\item Un cultivo de bacterias tiene inicialmente 5000 bacterias y su número aumenta 8\% cada hora. 
+\begin{enumerate}
+\item ¿Cuántas bacterias hay al cabo de 5 horas?\noanswer
+\item Encuentre una expresi\'{o}n que indique el n\'{u}mero de bacterias que hay al cabo de $n$ horas.\noanswer
+\end{enumerate}
+\item Evalúe los límites, si existen.
+\begin{enumerate}
+\item $\ds{\lim_{x\rightarrow 3}\dfrac{x^{2}+4x-21}{x-3}}$\noanswer
+\item $\ds{\lim_{x\rightarrow -3}\dfrac{x^{2}+4x-21}{x-3}}$\noanswer
+\item $\ds{\lim_{x\rightarrow 2}\dfrac{x^{2}+4}{x-2}}$\noanswer
+\end{enumerate} 
+\item Mil personas seleccionadas de cierta enfermedad reciben un examen clínico. Como consecuencia del examen, la muestra de 1000 personas se clasifica de acuerdo con su estatura y situaci\'{o}n de su enfermedad.
+\begin{center}
+\begin{tabular}{lccccc}
+ & \multicolumn{5}{c}{Situación de enfermedad} \\ \hline 
+Estatura & Ninguno & Benigno & Moderado & Grave & Total \\ \hline
+Alta & 122 & 78 & 139 & 61 & 400 \\ 
+Media & 74 & 51 & 90 & 35 & 250 \\ 
+Corta & 104 & 71 & 121 & 54 & 350 \\ 
+\hline 
+Total & 300 & 200 & 350 & 150 & 1000 \\ 
+\hline 
+\end{tabular} 
+\end{center}
+Use la información de la tabla para estimar la probabilidad de ser de estatura media o corta y tener situación de enfermedad moderada o grave.\noanswer
+ \end{enumerate}
+
+\end{document}

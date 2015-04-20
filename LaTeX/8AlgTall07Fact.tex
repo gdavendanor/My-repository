@@ -1,0 +1,193 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Álgebra $8^{\circ}$}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 07, Factorización  \\
+Álgebra $8^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Gu\'{i}a}
+Factorizar es un proceso mediante el cual se puede expresar como un producto un número o un polinomio. Los números enteros se pueden clasificar en números primos y compuestos. Todos los números enteros compuestos, se pueden factorizar como producto de números primos o potencias de primos y ésta factorización es única.
+
+Por ejemplo el número 35, es compuesto, ya que se puede factorizar así:
+\[35=5\cdot 7\]
+donde 5 y 7 son números primos
+
+También el número 48 se puede expresar como el producto de primos o potencias de primos así:
+\[48=2^{4}\cdot 3\]
+Generalizando, se puede decir que la factorización es un proceso inverso a multiplicación. Anteriormente hemos usado la propiedad distributiva para encontrar el producto de un monomio y un polinomio, tal como se ve en la siguiente tabla:
+\begin{center}
+\begin{tabular}{l|l|l}
+\hline 
+Expresión & Aplicando P. distributiva & Producto \\ \hline
+$3(x+2)$ & $3(x)+3(2)$ & $3x+6$ \\ 
+$5(2x-1)$ & $5(2x)+5(-1)$ & $10x-5$ \\ 
+$x(x^{2}+6x-4)$ & $x(x^{2})+x(6x)+x(-4)$ & $x^{3}+6x^{2}-4x$ \\ 
+\hline 
+\end{tabular} 
+\end{center}
+Ahora usaremos la propiedad recolectiva para reversar lo hecho por la propiedad distributiva. Así si tenemos 
+\[ab+ac=a(b+c)\]
+\begin{center}
+\begin{tabular}{l|l|l}
+\hline 
+Expresión & Expresión reescrita & Expresión factorizada \\ \hline
+$3x+6$ & $3(x)+3(2)$ & $3(x+2)$ \\ 
+$10x-5$ & $5(2x)+5(-1)$ & $5(2x-1)$ \\ 
+$x^{3}+6x^{2}-4x$ & $x(x^{2})+x(6x)+2(-4)$ & $x(x^{2}+6x-4)$ \\ 
+\hline 
+\end{tabular} 
+\end{center}
+Como podrá notar cada ejemplo ha sido factorizado como el producto de un monomio y un polinomio. Obviamente, los polinomios pueden ser factorizados de varias maneras. Considere factorizar $3x^{2}+12x$
+\begin{tabbing}
+\hspace{4cm}\=\hspace{1cm}\=\kill
+$3x^{2}+12x=3x(x+4)$ \> o \> $3x^{2}+12x=3(x^{2}+4x)$ \hspace*{1cm} o \\ 
+$3x^{2}+12x=x(3x+12)$ \> o \> $3x^{2}+12x=\frac{1}{2}(6x^{2}+24x)$ 
+\end{tabbing}
+Nosotros estaremos interesados lógicamente en el primer caso, donde se ha factorizado el polinomio de manera completa. Un polinomio con coeficientes enteros está completamente factorizado si:
+\begin{enumerate}
+\item Este está factorizado como el producto de polinomios con coeficientes enteros
+\item Ninguno de los factores polinomios puede ser factorizado nuevamente.
+
+Observe que en el tercer caso, el polinomio puede ser factorizado nuevamente, porque el factor $3x+12$ posee un factor común que es 3. Así mismo en el segundo caso, el binomio $(x^{2}+4x)$ puede ser factorizado, ya que $x$ es factor común a los dos términos.
+\end{enumerate}
+\section*{Taller}
+\subsection*{Quiz de conceptos}
+Para los problemas 1--10, conteste V o F
+\begin{enumerate}
+\item La factorizaci\'{o}n es el proceso inverso a la multiplicaci\'{o}n.
+\item La propiedad distributiva de la forma $ab+ac=a(b+c)$ es aplicada para factorizar polinomios
+\item Un polinomio puede ser factorizado de m\'{u}ltiples formas, pero solo una es la completa.
+\item El factor común mayor de $6x^{2}y^{3}-12x^{3}y^{2}+18x^{4}y$ es $2x^{2}y$
+\item Si el producto de $x$ y $y$ es cero, entonces $x$ es cero y/o $y$ es cero.
+\item El factor común siempre es un monomio
+\item Si la factorización de un polinomio puede ser factorizada nuevamente, entonces el polinomio no está completamente factorizado
+\item El polinomio factorizado, $3a(2a^{2}+4)$, está completamente factorizado.
+\item Las soluciones de la ecuación $x(x+2)=7$ son 7 y 5
+\item El conjunto solución para $x^{2}=7x$ es 7
+\end{enumerate}
+\subsection*{Ejercicios}
+Para los ejercicios 1--10, clasifique cada número como primo o compuesto
+\begin{enumerate}
+\begin{multicols}{5}
+\item 63
+\item 81
+\item 59
+\item 63
+\item 51
+\item 69
+\item 91
+\item 119
+\item 71
+\item 101
+\end{multicols}
+Para los problemas 11--20, factorice cada número compuesto como producto de números primos. Por ejemplo, $30=2\cdot 3 \cdot 5$
+\begin{multicols}{5}
+\item 28
+\item 39
+\item 44
+\item 49
+\item 56
+\item 64
+\item 72
+\item 84
+\item 87
+\item 91
+\end{multicols}
+Para los problemas 21--24, determine si el polinomio está completamente factorizado
+\item $6x^{2}+12xy^{2}=2xy(3x+6y)$
+\item $2a^{3}b^{2}+4a^{2}b^{2}=4a^{2}b^{2}\left(\frac{1}{2}a+1\right)$
+\item $10m^{2}n^{3}+15m^{4}n^{2}=5m^{2}n(2n^{2}+3m^{2}n)$
+\item $24ab+12bc-18bd=6b(4a+2c-3d)$
+
+Para los ejercicios 25--37, factorice completamente
+
+\begin{multicols}{2}
+\item $12x+8y$
+\item $15x^{2}+6x$
+\item $42y^{2}-6y$
+\item $27xy-36y$
+\item $12x^{3}-10x^{2}$
+\item $24a^{3}b^{2}+36a^{2}b$
+\item $15x^{4}y^{2}-45x^{5}y^{4}$
+\item $6x^{5}-18x^{3}+24x$
+\item $9x^{2}-17x^{4}+21x^{5}$
+\item $8x^{5}y^{3}-6x^{4}y^{5}+12x^{2}y^{3}$
+\item $x(y-1)+5(y-1)$
+\item $5x(a-b)+y(a-b)$
+\item $x(x-1)-3(x-1)$
+\end{multicols}
+Para los ejercicios 38--46 , factorice por agrupación de términos
+\begin{multicols}{2}
+\item $ax-2x+ay-2y$
+\item $2ax-bx+2ay-by$
+\item $5ax-5bx-2ay+2by$
+\item $3bx+3x+by+y$
+\item $ax^{2}-2x^{2}+3a-6$
+\item $2bx+cy+cx+2by$
+\item $2a^{2}-3bc-2ab+3ac$
+\item $x^{2}-2x+5x-10$
+\item $3x^{2}+18x-2x-12$
+\end{multicols}
+Para los ejercicios \ref{ej-pri6}--\ref{ej-ult6}, resuelva cada ecuación
+\begin{multicols}{2}
+\item $x^{2}+9x=0$\label{ej-pri6}
+\item $x^{2}-14x=0$
+\item $b^{2}=-7b$
+\item $-6x=2x^{2}$
+\item $-4x^{2}+9x=0$
+\item $3x=11x^{2}$
+\item $x-6x^{2}=0$
+\item $-5a=-a^{2}$\label{ej-ult6}
+\end{multicols}
+Para los ejercicios \ref{ej-pri7}--\ref{ej-ult7}, solucione cada ecuación para la variable indicada
+\begin{multicols}{2}
+\item $ax^{2}+bx=0$ para $x$ \label{ej-pri7}
+\item $3ay^{2}=by$ para $y$
+\item $y^{2}-ay+2by-2ab=0$ para $y$
+\item $x^{2}+ax+bx+ab=0$ para $x$ \label{ej-ult7}
+\end{multicols}
+Para los problemas \ref{ej-pri8}--\ref{ej-ult8}, plantee la ecuaci\'{o}n y solucione el problema
+\item Suponga que el \'{a}rea de un cuadrado es seis veces su per\'{i}metro. Encuentre la longitud del lado del cuadrado
+\item Encuentre la longitud del radio de un círculo cuya circunferencia es numéricamente igual a su área.
+\item Encuentre la longitud del radio de un esfera cuya superficie es numéricamente igual a su volumen. (Recuerde que la superficie de la esfera es $S_{s}=4\pi r^{2}$ y su volumen es $V_{s}=\frac{4}{3}\pi r^{3}$)
+\item El área de un cuadrado es la cuarta parte del área de un triángulo. Un lado del triángulo mide 16 cm y la altura de este lado mide lo mismo que el lado del cuadrado. Encuentre la longitud del lado del cuadrado. (sugerencia: Haga un dibujo)
+\item Suponga que el radio de una esfera es igual al radio de un círculo. Si el volumen de la esfera es numéricamente igual a cuatro veces el área del círculo, encuentre la longitud del radio para la esfera y el círculo.
+\subsection*{Pensamiento en palabras}
+\item Suponga que un amigo, factoriza $36x^{2}y+48xy^{2}$ como sigue:
+\begin{align*}
+36x^{2}y+48xy^{2}&=(4xy)(9x+12y)\\
+&=(4xy)(3)(3x+4y)\\
+&=12xy(3x+4y)
+\end{align*}
+¿Es correcto el procedimiento? ¿Podr\'{i}a sugerir algo a su amigo?
+\end{enumerate}
+\end{document}
