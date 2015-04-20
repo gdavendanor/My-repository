@@ -976,15 +976,15 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: twoside 
-* h-part:(L,W,R)=(26.017pt, 404.71243pt, 39.02556pt)
-* v-part:(T,H,B)=(43.362pt, 505.89pt, 65.043pt)
+* h-part:(L,W,R)=(24.57196pt, 408.32506pt, 36.85797pt)
+* v-part:(T,H,B)=(40.47101pt, 513.11743pt, 60.70656pt)
 * \paperwidth=469.75499pt
 * \paperheight=614.295pt
-* \textwidth=404.71243pt
-* \textheight=505.89pt
-* \oddsidemargin=-46.25299pt
-* \evensidemargin=-33.24443pt
-* \topmargin=-65.90799pt
+* \textwidth=408.32506pt
+* \textheight=513.11743pt
+* \oddsidemargin=-47.69803pt
+* \evensidemargin=-35.41202pt
+* \topmargin=-68.79898pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1062,11 +1062,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 43.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 43.
-
-Underfull \vbox (badness 6252) has occurred while \output is active []
-
- [2]
-[3] [4] [5]
+ [2] [3] [4] [5]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./GuíaPolParo.aux
@@ -1082,17 +1078,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
 Here is how much of TeX's memory you used:
  18586 strings out of 494958
  336423 string characters out of 6179386
- 407951 words of memory out of 5000000
+ 407963 words of memory out of 5000000
  21437 multiletter control sequences out of 15000+600000
  54039 words of font info for 59 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 55i,7n,54p,1590b,479s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,54p,1590b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/
 public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/tex
 mf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on GuíaPolParo.pdf (5 pages, 193362 bytes).
+Output written on GuíaPolParo.pdf (5 pages, 193454 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  69 compressed objects within 1 object stream
