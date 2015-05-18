@@ -1,0 +1,77 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Álgebra $11^{\circ}$}
+\ExamName{Función afín y lineal}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 55 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+\item Un operador de celular cobra a 150 pesos el minuto. Si se designa $t$, el tiempo en minutos y $f(t)$ el precio que se paga por $t$ minutos, 
+\begin{enumerate}
+\item complete la siguiente tabla: \hspace*{20pt}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline 
+$t$ & 0 & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ 
+\hline 
+$f(t)$ &  &  &  &  &  &  &  &  &  &  \\ 
+\hline 
+\end{tabular}
+
+\begin{minipage}{.3\textwidth}
+\item Escoja una escala conveniente para hacer la gráfica del tiempo $t$ en minutos, contra el precio ($f(t)$) en \$
+\end{minipage}
+\begin{minipage}{.65\textwidth}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\begin{center}
+\begin{tikzpicture}[scale=.65]
+\draw[color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm](-0.3,-.3)grid(9.3,9.3);
+\draw[<->] (-.3,0) -- (9.3,0)node[right]{$t$ (m)};
+\draw[<->] (0,-.3) -- (0,9.3)node[right]{$f(t)$ (\$)};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\end{tikzpicture}
+\end{center}
+\end{minipage}
+\item ¿Cuánto deberá pagar un cliente por una llamada de 20 minutos? \noanswer
+\item Si se pagara por segundos en vez de pagar por minutos, ¿cuánto deberá pagar un cliente que hable 4 minutos y medio?\noanswer
+\end{enumerate}
+\newpage
+\begin{minipage}{.35\textwidth}
+\item De acuerdo al siguiente gráfico, que muestra la distancia recorrida en kilómetros por un ciclista que viaja con una rapidez constante, encuentre la distancia recorrida ($f(t)$) por el ciclista, al cabo de:
+\end{minipage}
+\begin{minipage}{.6\textwidth}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\begin{center}
+\begin{tikzpicture}[scale=.65]
+\draw[color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm](-0.3,-.3)grid(9.3,9.3);
+\draw[<->] (-.3,0) -- (9.3,0)node[right]{$t$ (horas)};
+\draw[<->] (0,-.3) -- (0,9.3)node[right]{$f(t)$ (km)};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[thick] (-0.1,2)node[left]{60}--(.1,2);
+\draw plot[domain=0:9]  (\x,\x);
+\end{tikzpicture}
+\end{center}
+\end{minipage}
+\begin{enumerate}
+\item 3 horas \noanswer
+\item 5 horas \noanswer
+\item 2 horas y media \noanswer
+\end{enumerate}
+Ahora encuentra la rapidez media (la pendiente de la recta) del ciclista en kilómetros por hora (km/h) \noanswer
+\end{enumerate}
+\end{document}
