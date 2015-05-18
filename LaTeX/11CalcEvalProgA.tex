@@ -1,36 +1,25 @@
-\documentclass[11pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
+\documentclass[letterpaper,fleqn]{article}
 \usepackage[spanish,es-noshorthands]{babel}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage{graphicx,hyperref}
-\usepackage{tikz,pgf}
-\usepackage{multicol}
-\usepackage{subfig}
-\usepackage[papersize={6.5in,8.5in},includeheadfoot,left=0.4in,right=0.4in,top=0.3in,bottom=0.2in]{geometry}
-\usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhead[LE]{\url{https://www.autistici.org/mathgerman}}
-\fancyhead[RE]{}
-\fancyhead[RO]{\textit{matematicas.german@gmail.com}}
-\fancyhead[LO]{}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
 
-\author{Germ\'an Dar\'io Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
-\title{\begin{minipage}{0.15\textwidth}\includegraphics[height=2cm]{Images/logo-colegio.png}
-\end{minipage}\hfill \begin{minipage}{0.7\textwidth}\begin{center}
-Quiz - Progresiones\\Cálculo $11^{\circ}$\end{center}
-\end{minipage}\hfill
-\begin{minipage}{0.15\textwidth}
-\includegraphics[height=2cm]{Images/logo-sed.png} 
-\end{minipage}}
-\date{}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
+\ExamName{Progresiones y sucesiones}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
 
 \begin{document}
-\maketitle
-Nombre: \hrulefill Curso: 110\underline{\hspace{12pt}}  Fecha: \underline{\hspace{2cm}}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
 \section*{Para recordar}
 Una progresi\'on aritmética tiene como término general \fbox{$a_{n}=a_{1}+(n-1)d$}, donde $d$ es la distancia o diferencia que hay entre dos términos consecutivos.\\
 
