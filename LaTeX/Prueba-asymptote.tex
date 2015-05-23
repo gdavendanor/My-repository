@@ -1,14 +1,3 @@
-\documentclass[10pt,a4paper]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[spanish]{babel}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
-\usepackage{graphicx}
-\usepackage{lmodern}
-\author{Germán Avendaño Ramírez}
-\begin{document}
-\begin{asy}
 size(0,150);
 import geometry;
 
@@ -31,6 +20,3 @@ draw(baseline("$b$"),z2-d*I--z3-d*I,red,Arrows,Bars,PenMargins);
 draw("$c$",z3+z2*I-d*v--z2-d*v,red,Arrows,PenMargins);
 draw("$a$",z3+d--z3+z2*I+d,red,Arrows,Bars,PenMargins);
 draw("$b$",z3+z2*I+d--z3+z3*I+d,red,Arrows,Bars,PenMargins);
-
-\end{asy}
-\end{document}
