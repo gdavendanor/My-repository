@@ -1,3 +1,4 @@
+settings.outformat = "pdf";
 size(0,150);
 import geometry;
 
