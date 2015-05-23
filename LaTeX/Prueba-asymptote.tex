@@ -8,27 +8,29 @@
 \usepackage{lmodern}
 \author{Germán Avendaño Ramírez}
 \begin{document}
- /* Geogebra to Asymptote conversion, documentation at artofproblemsolving.com/Wiki, go to User:Azjps/geogebra */
-import graph; size(13.1cm); 
-real labelscalefactor = 0.5; /* changes label-to-point distance */
-pen dps = linewidth(0.7) + fontsize(10); defaultpen(dps); /* default pen style */ 
-pen dotstyle = black; /* point style */ 
-real xmin = -2.9, xmax = 10.2, ymin = -1.5, ymax = 8.7;  /* image dimensions */
+\begin{asy}
+size(0,150);
+import geometry;
 
-Label laxis; laxis.p = fontsize(10); 
-xaxis(xmin, xmax, Ticks(laxis, Step = 1., Size = 2, NoZero),EndArrow(6), above = true); 
-yaxis(ymin, ymax, Ticks(laxis, Step = 1., Size = 2, NoZero),EndArrow(6), above = true); /* draws axes; NoZero hides '0' label */ 
- /* draw figures */
-real f1 (real x) {return 3.0*x+2.0;} 
-draw(graph(f1,-2.89,10.19)); 
-real f2 (real x) {return 4.0*x;} 
-draw(graph(f2,-2.89,10.19)); 
-label("(2,8)",(2.4,8.16),SE*labelscalefactor); 
- /* dots and labels */
-label("$f$", (-0.98,-1.4), NE * labelscalefactor); 
-label("$g$", (-0.18,-1.4), NE * labelscalefactor); 
-dot((2.,8.),dotstyle); 
-label("$A$", (2.08,8.12), NE * labelscalefactor); 
-clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle); 
- /* end of picture */
+real a=3;
+real b=4;
+real c=hypot(a,b);
+
+pair z1=(0,b);
+pair z2=(a,0);
+pair z3=(a+b,0);
+perpendicular(z1,NE,z1--z2,blue);
+perpendicular(z3,NW,blue);
+draw(square((0,0),z3));
+draw(square(z1,z2));
+
+real d=0.3;
+pair v=unit(z2-z1);
+draw(baseline("$a$"),-d*I--z2-d*I,red,Bars,Arrows,PenMargins);
+draw(baseline("$b$"),z2-d*I--z3-d*I,red,Arrows,Bars,PenMargins);
+draw("$c$",z3+z2*I-d*v--z2-d*v,red,Arrows,PenMargins);
+draw("$a$",z3+d--z3+z2*I+d,red,Arrows,Bars,PenMargins);
+draw("$b$",z3+z2*I+d--z3+z3*I+d,red,Arrows,Bars,PenMargins);
+
+\end{asy}
 \end{document}
