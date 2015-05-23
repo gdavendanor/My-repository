@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.18)  22 MAY 2015 14:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.18)  23 MAY 2015 11:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,49 +479,87 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
 
+! LaTeX Error: Environment asy undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{asy}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (15.56348pt too wide) in paragraph at lines 19--26
+[]\OT1/lmr/m/n/10 pair z1=(0,b); pair z2=(a,0); pair z3=(a+b,0); perpendicular(
+z1,NE,z1--z2,blue);
+ []
+
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 29.
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 29.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 29.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 28.
+(Font)              <10> on input line 29.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 28.
+(Font)              <7> on input line 29.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 28.
-LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+(Font)              <5> on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (21.61601pt too wide) in paragraph at lines 18--34
-\OT1/lmr/m/n/10 draw(graph(f1,-2.89,10.19)); real f2 (real x) re-turn 4.0*x; dr
-aw(graph(f2,-2.89,10.19));
+Overfull \hbox (74.06395pt too wide) in paragraph at lines 27--34
+[]\OT1/lmr/m/n/10 real d=0.3; pair v=unit(z2-z1); draw(baseline("$\OML/lmm/m/it
+/10 a$\OT1/lmr/m/n/10 "),-d*I--z2-d*I,red,Bars,Arrows,PenMargins);
  []
 
 
-Overfull \hbox (21.66899pt too wide) in paragraph at lines 18--34
-\OT1/lmr/m/n/10 dot((2.,8.),dotstyle); label("$\OML/lmm/m/it/10 A$\OT1/lmr/m/n/
-10 ", (2.08,8.12), NE * la-bels-ca-le-fac-tor); clip((xmin,ymin)--
+Overfull \hbox (15.4177pt too wide) in paragraph at lines 27--34
+\OT1/lmr/m/n/10 draw(baseline("$\OML/lmm/m/it/10 b$\OT1/lmr/m/n/10 "),z2-d*I--z
+3-d*I,red,Arrows,Bars,PenMargins); draw("$\OML/lmm/m/it/10 c$\OT1/lmr/m/n/10 ",
+z3+z2*I-
  []
+
+
+Overfull \hbox (72.64536pt too wide) in paragraph at lines 27--34
+\OT1/lmr/m/n/10 d*v--z2-d*v,red,Arrows,PenMargins); draw("$\OML/lmm/m/it/10 a$\
+OT1/lmr/m/n/10 ",z3+d--z3+z2*I+d,red,Arrows,Bars,PenMargins);
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{asy}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \end{asy}
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 [1
 
@@ -530,17 +568,17 @@ LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 3432 strings out of 494917
- 44685 string characters out of 6178371
- 104959 words of memory out of 5000000
- 6595 multiletter control sequences out of 15000+600000
+ 3434 strings out of 494917
+ 44694 string characters out of 6178371
+ 103959 words of memory out of 5000000
+ 6597 multiletter control sequences out of 15000+600000
  15895 words of font info for 30 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  37i,4n,30p,248b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/e
 nc/dvips/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/
 share/texmf/fonts/type1/public/lm/lmr10.pfb>
-Output written on Prueba-asymptote.pdf (1 page, 37678 bytes).
+Output written on Prueba-asymptote.pdf (1 page, 35246 bytes).
 PDF statistics:
  18 PDF objects out of 1000 (max. 8388607)
  12 compressed objects within 1 object stream
