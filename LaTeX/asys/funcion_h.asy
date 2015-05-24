@@ -1,8 +1,12 @@
+import math;
 settings.outformat="pdf";
 unitsize(1cm);
-draw((-3.25,0) -- (4.25,0), arrow=Arrow(TeXHead));
-draw((0,-1.25) -- (0,4.25), arrow = Arrow(TeXHead));
-draw((-3,3) ..(-2,1)..(0,-1)..(1,0)..(2,3)..(3,4)..(3.5,3.65)..(4,3));
+draw((-3.25,0) -- (4.5,0),arrow=Arrow(TeXHead));
+draw((0,-1.5) -- (0,4.5), arrow = Arrow(TeXHead));
+path p = (-3,3) ..(-2,1)..(0,-1)..(1,0)..(2,3)..(3,4)..(3.5,3.65)..(4,3);
+draw (p);
+Label L1 = Label("$h$", position=EndPoint);
+label(L1, p);
 real r = 0.05pt;
 fill(circle((-3,3),r));
 fill(circle((4,3),r));
