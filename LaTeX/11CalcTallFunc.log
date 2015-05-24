@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.18)  23 MAY 2015 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.5.18)  23 MAY 2015 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1101,7 +1101,7 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 104.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [2]
-<asys/funcion_h.pdf, id=54, 220.75473pt x 170.96873pt>
+<asys/funcion_h.pdf, id=56, 220.75473pt x 170.96873pt>
 File: asys/funcion_h.pdf Graphic file (type pdf)
 
 <use asys/funcion_h.pdf>
@@ -1112,7 +1112,7 @@ Overfull \hbox (6.57407pt too wide) in paragraph at lines 126--127
 [][] 
  []
 
-<asys/funcion_g.pdf, id=55, 256.32764pt x 170.96873pt>
+<asys/funcion_g.pdf, id=57, 256.32764pt x 170.96873pt>
 File: asys/funcion_g.pdf Graphic file (type pdf)
 
 <use asys/funcion_g.pdf>
@@ -1131,44 +1131,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--135
 T1/lmr/m/n/10 (2)$ \T1/lmr/m/n/10 y
  []
 
+<asys/funciones_f_g.pdf, id=58, 256.32764pt x 201.54295pt>
+File: asys/funciones_f_g.pdf Graphic file (type pdf)
 
-LaTeX Warning: File `Images/funcion-f-g.png' not found on input line 147.
+<use asys/funciones_f_g.pdf>
+Package pdftex.def Info: asys/funciones_f_g.pdf used on input line 147.
+(pdftex.def)             Requested size: 153.79776pt x 120.9267pt.
 
+<asys/funcion_3.pdf, id=59, 247.35411pt x 190.06007pt>
+File: asys/funcion_3.pdf Graphic file (type pdf)
 
-! Package pdftex.def Error: File `Images/funcion-f-g.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.147 ...raphics[scale=.9]{Images/funcion-f-g.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `Images/funcion-3.png' not found on input line 150.
-
-
-! Package pdftex.def Error: File `Images/funcion-3.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150 ...egraphics[scale=.9]{Images/funcion-3.png}
-                                                  
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<use asys/funcion_3.pdf>
+Package pdftex.def Info: asys/funcion_3.pdf used on input line 150.
+(pdftex.def)             Requested size: 173.14668pt x 133.04114pt.
 
 Overfull \hbox (5.12456pt too wide) in paragraph at lines 118--161
 []$[]$ $[]$
  []
 
-[3 <./asys/funcion_h.pdf> <./asys/funcion_g.pdf>] [4]
+
+Overfull \hbox (5.12456pt too wide) in paragraph at lines 118--161
+[]$ $[]$
+ []
+
+[3 <./asys/funcion_h.pdf> <./asys/funcion_g.pdf>] [4 <./asys/funciones_f_g.pdf>
+ <./asys/funcion_3.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
  (./11CalcTallFunc.aux
@@ -1182,30 +1169,34 @@ Package rerunfilecheck Info: File `11CalcTallFunc.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 199.
  ) 
 Here is how much of TeX's memory you used:
- 18988 strings out of 494917
- 343151 string characters out of 6178371
- 419117 words of memory out of 5000000
- 21799 multiletter control sequences out of 15000+600000
+ 18996 strings out of 494917
+ 343359 string characters out of 6178371
+ 419154 words of memory out of 5000000
+ 21807 multiletter control sequences out of 15000+600000
  64282 words of font info for 62 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  55i,12n,54p,416b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
-/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
--mathit.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/
-share/texmf/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/t
-exmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
-7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/
-type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 11CalcTallFunc.pdf (4 pages, 290216 bytes).
+/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
+-mathsy.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/
+texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+r8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri10.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt10.pf
+b>
+Output written on 11CalcTallFunc.pdf (4 pages, 343250 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 225 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
  60 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -9,7 +9,7 @@ path q = (-4,2.5)..(-3,2)..(-2,1)..(0,0.5)..(1,1)..(2,2)..(3,4);
 draw (q);
 Label L1 = Label("$f$", position=MidPoint);
 label(L1, p);
-Label L2 = Label("$g$",position=EndPoint);
+Label L2 = Label("$g$",position=MidPoint);
 label(L2,q);
 real r = 0.075pt;
 fill(circle((-4,-2),r));
