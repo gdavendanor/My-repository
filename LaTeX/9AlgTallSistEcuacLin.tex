@@ -1,0 +1,191 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[height=9.5in,width=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{matematicas.german@gmail.com}
+\fancyhead[RE]{}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller, Sistemas de Ecuaciones \\
+Álgebra $9^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\begin{multicols}{2}
+\section*{Introducci\'on hist\'orica}
+Un arreglo formado por las ecuaciones:
+\begin{align*}
+ax+by&=m\\
+cx+dy&=n
+\end{align*}
+Con los números reales $a$, $b$, $c$, $m$, $n$ y las incógnitas $x$, $y$, es llamado un sistema de ecuaciones lineales, con dos incógnitas.
+
+Resolver el sistema es hallar las soluciones de “$x$” y de “$y$” que lo satisfagan.
+
+Estas soluciones fueron estudiadas principalmente por los babilonios, los cuales llamaban a las incógnitas con palabras tales como “longitud”, “anchura”, “área”, “volumen” sin que tuvieran relación con problemas de medida. Un ejemplo tomado de una tablilla babilónica plantea la solución de un sistema de ecuaciones en los siguientes términos:
+\begin{align*}
+\text{Longitud }+\text{ anchura}&=7 \text{ manos}\\
+\frac{1}{2}\text{longitud}+\text{ anchura}&=5\text{ manos}  
+\end{align*}
+Para resolverlo comienzan agregando el valor 10 a una mano y observando que la solución podría ser $longitud = 40$; $anchura = 30$.
+
+Para comprobarlo utilizaban un método parecido al de la eliminación, transformaban las ecuaciones a:
+\begin{align}
+x+y&=7\label{eq:1}\\
+\frac{1}{2}x+y&=5\label{eq:2}
+\end{align}
+Luego se multiplicaba por 2 la ecuaci\'on ~\ref{eq:2}, con lo cual se obtiene el sistema:
+\begin{align*}
+x+y&=7\\
+x+2y&=10
+\end{align*}
+Finalmente, restaban la primera ecuaci\'on de la segunda, por lo cual se le cambian los signos a todos su términos, obteniendo así:
+\begin{align*}
+x+2y&=10\\
+-x-y&=-7\\
+----&---\\
+0+y&=3
+\end{align*}
+Es decir $y=3$ y como $x+y=7$ según la ecuaci\'on ~\ref{eq:1}, entonces $x=4$
+
+Los babilonios también resolvían sistemas de ecuaciones donde alguna de ellas
+era cuadrática; por ejemplo:
+\begin{align}
+xy&=10\label{eq:3}\\
+9(x-y)&=x^{2}\label{eq:4}
+\end{align}
+Los griegos también resolvían algunos sistemas de ecuaciones pero usaban
+métodos geométricos.
+
+Los sistemas de ecuaciones aparecen también en los documentos indios, pero no llegan a obtener métodos generales de solución, sino que resuelven tipos especiales de ecuaciones.
+
+El libro “El arte matemático” de un autor chino desconocido (siglo III a.C.) contiene algunos problemas donde se resuelven ecuaciones usando el método de matrices.
+
+Para terminar esta introducción histórica tengamos en cuenta que la resolución de sistemas lineales de ecuaciones usando matrices y determinantes aparece en Europa con los trabajos de MacLauren (1698-1746) y Cramer (1704-1752), aunque Leibniz (1646-1716) ya había mencionado algo sobre este método, en una carta enviada al marqués de L'Hopital (1661-1784).
+\section*{Actividad 1}
+En parejas\\
+Repaso lo aprendido en octavo sobre la solución de una ecuación lineal.
+\begin{enumerate}
+\item Resuelvo para cada letra:
+\begin{enumerate}
+\item $m+5=8$
+\item $5n+4=3n+8$
+\item $6k-8=3k-2$
+\end{enumerate}
+\item Tengo en cuenta la introducción histórica en esta unidad y analizo si el valor dado para las incógnitas en cada caso satisfacen o no la ecuación o
+ecuaciones dadas.
+\begin{enumerate}
+\item $3x+2y=14$ \qquad $x=8$ \qquad $y=4$
+\item $x-2y=2$ \qquad $x=6$ \qquad $y=2$
+\item $2x-5y=7$ \qquad $x=6$ \qquad $y=3$
+\item $x+y=0$ \qquad $x=2$ \qquad $y=-2$
+\item $\left.\begin{array}{lcl}
+x+y&=&3\\
+2x-3y&=&-19 
+\end{array}\right\}$ \qquad $x=5$  \qquad $y=4$
+\item $\left.\begin{array}{lcl}
+2x-y&=&6\\
+x-3y&=&-7
+\end{array}\right\}$ \qquad $x=5$ \qquad $y=4$
+\end{enumerate}
+\end{enumerate}
+\section*{Actividad 2}
+Recuerdo, que una ecuación de gráfica lineal tiene la forma $y=mx+b$ donde $m$ es la pendiente y $b$ es el punto de corte con el eje $y$.
+
+Ahora refiriéndose al sistema de ecuaciones lineales dado en la introducción histórica de los babilonios:
+\begin{align*}
+x+2y&=10\\
+x+y&=7
+\end{align*}
+Realizo la siguiente actividad:
+\begin{enumerate}
+\item Grafico cada una de las dos rectas. Para esto:
+\begin{enumerate}
+\item Despejo $y$ de cada ecuaci\'on
+\item Doy valores arbitrarios a $x$ en cada una, para obtener los de $y$.
+\item Tabulo
+\item Dibujo
+\item El punto de intersección de las dos gráficas (punto donde se cortan es el conjunto solución del sistema).
+\item Verifico si este punto satisface ambas ecuaciones (o sea, satisface el sistema de ecuaciones).
+\end{enumerate}
+\item Realizo los mismos pasos anteriores para resolver el sistema de ecuaciones lineales dado por:
+\begin{align*}
+x+y&=4\\
+2x+5y&=11
+\end{align*}
+Si tengo la siguiente gráfica:
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{qqqqff}{rgb}{0.33,0.33,0.33}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.8,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm,scale=.9]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-2.47,-1.96) grid (6.47,5.81);
+\draw[->,color=black] (-2.47,0) -- (6.47,0);
+\foreach \x in {-2,-1,1,2,3,4,5,6}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.96) -- (0,5.81);
+\foreach \y in {-1,1,2,3,4,5}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-2.47,-1.96) rectangle (6.47,5.81);
+\draw [domain=-2.47:6.47] plot(\x,{(-0--3*\x)/2});
+\draw [domain=-2.47:6.47] plot(\x,{(--25-5*\x)/5});
+\fill [color=qqqqff] (0,0) circle (1.5pt);
+\fill [color=qqqqff] (2,3) circle (1.5pt);
+\fill [color=qqqqff] (0,5) circle (1.5pt);
+\fill [color=qqqqff] (5,0) circle (1.5pt);
+\endtikzpicture
+\end{center}
+\begin{enumerate}
+\item Hallo las ecuaciones de las dos rectas.
+\item Me ideo alguna manera para hallar la intersección entre ellas.
+\end{enumerate}
+\end{enumerate}
+\section*{Concluyamos}
+Para resolver un sistema de ecuaciones lineales con 2 incógnitas:
+\begin{align*}
+ax+by&=m\\
+cx+dy&=n
+\end{align*}
+Despejamos $y$ de cada caso:
+\begin{align*}
+y&=-\frac{a}{b}x+\frac{m}{b} & b&\neq 0\\
+y&=-\frac{c}{d}x+\frac{n}{d} & d&\neq 0
+\end{align*}
+Damos valores arbitrarios a x en cada una de estas ecuaciones para obtener los valores de $y$. Luego tabulamos y graficamos.
+
+El punto de intersección (punto donde se cortan) las dos gráficas es el conjunto solución del sistema de ecuaciones.
+
+Este punto lo reemplazamos en ambas ecuaciones para comprobar si satisface el sistema.
+
+Este método que acabamos de efectuar se llama LA SOLUCIÓN GRÁFICA DE UN
+SISTEMA DE ECUACIONES LINEALES.
+\end{multicols}
+\end{document}
