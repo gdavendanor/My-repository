@@ -1,0 +1,143 @@
+\documentclass[letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage{fancyhdr}
+\usepackage{marvosym}
+\usepackage[includeheadfoot,left=0.4in,right=0.3in,top=0.3in,bottom=0.3in]{geometry}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{www.autistici.org/mathgerman}}
+\fancyhead[RE]{\Email~ matematicas.german@gmail.com}
+\fancyhead[RO]{\url{www.autistici.org/mathgerman}}
+\fancyhead[LO]{\Email~ matematicas.german@gmail.com}
+
+\author{Germ\'an Dar\'io Avenda\~no Ram\'irez~\thanks{Lic. Mat U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{0.15\textwidth}\includegraphics[height=2cm]{Images/logo-colegio.png}
+\end{minipage}\hfill \begin{minipage}{0.7\textwidth}\begin{center}
+Guía 5, Probabilidad condicional\\
+Probabilidad $11^{\circ}$\end{center}
+\end{minipage}\hfill
+\begin{minipage}{0.15\textwidth}
+  \includegraphics[height=2cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: 110\underline{\hspace{12pt}}  Fecha: \underline{\hspace{2cm}}\\
+
+\begin{multicols}{2}
+\section*{Para recordar}
+Es muy importante para resolver problemas de probabilidad, tener claro cual es el espacio muestra $S$
+\subsubsection*{Espacios muestrales}
+Un conjunto que consiste en todos los resultados de un experimento aleatorio se llama un espacio muestral y cada uno de los resultados se denomina punto muestral. Con frecuencia habrá más de un espacio muestral que describe los resultados de un experimento pero hay comúnmente
+sólo uno que suministra la mayoría de la información. Obsérvesé que $S$ córresponde al conjunto universal.
+\subparagraph*{Ejemplo:}  si lanzamos una moneda dos veces y utilizamos 0 para representar sellos y 1 para representar caras el espacio muestral puede dibujarse por puntos como en la Fig. donde, por ejemplo, (0,1 ) representa sello en el primer lanzamiento y cara en el segundo lanzamiento, es decir SC,
+\begin{center}
+\begin{tikzpicture}
+\draw[->](-1,0)--(2,0) ;
+\draw[->](0,-.5)--(0,1.5);
+\fill(1,0)node[below right]{(1,0)} circle(2pt) ;
+\fill(0,0)node[below left]{(0,0)}circle(2pt) ;
+\fill(0,1)node[left]{(0,1)}circle(2pt) ;
+\fill(1,1)node[right]{(1,1)}circle(2pt);
+\end{tikzpicture}
+\end{center}
+\subsection*{Sucesos:}
+Un suceso es un subconjunto $A$ del espacio muestral $S$, es decir es un conjunto de resultados posibles. Si el resultado de un experimento es un elemento de $A$ decimos que el suceso $A$ ha ocurrido. Un suceso que consiste de un solo punto de $S$ frecuentemente se llama un \emph{Suceso elemental} o \emph{simple}.\\
+
+Puesto que los sucesos son conjuntos es lógico que las
+proposiciones relativas a sucesos pueden traducirse en el lenguaje de la teoría de conjuntos e inversamente. En particular tenemos un álgebra de sucesos que corresponde al álgebra de conjuntos.\\
+
+Empleando las operaciones de conjuntos en sucesos en $S$ podemos obtener otros sucesos en $S$. Así si $A$ y $B$ son sucesos, entonces
+\begin{enumerate}
+\item $A\cup B$ es el suceso "$A$ ó $B$ o ambos".
+\item $A\cap B$ es el suceso "tanto $A$ como $B$".
+\item $A^{\complement}$ es el suceso "no $A$".
+\item $A-B$ es el suceso "$A$ pero no $B$".
+\end{enumerate}
+\subparagraph*{Ejemplo}: Haciendo referencia al experimento de lanzar una moneda dos veces, sea $A$ el suceso "por lo menos resulte una cara" y $B$ el suceso "el segundo lanzamiento sea un sello". Entonces $A=\{CS,SC,CC\}$, $B=\{CS,SS\}$, así tenemos
+\[A\cup B=\{CS,SC,CC,SS\}=S\qquad A\cap B=\{CS\}\]
+\[A^{\complement}=\{SS\}, \qquad A-B=\{SC,CC\}\]
+\subsection*{El concepto de probabilidad}
+En cualquier experimento aleatorio siempre hay incertidumbre sobre si un suceso específico ocurrirá o no. Como medida de la \emph{oportunidad} o \emph{probabilidad} con la que podemos esperar que un suceso ocurra es conveniente asignar un número entre 0 y 1. Si estamos seguros de que el suceso ocurrirá decimos que su probabilidad es \%100 ó 1, pero si estamos seguros de que el suceso no ocurrirá decimos que su probabilidad es cero. Por ejemplo, si la probabilidad es de 1/4, diríamos que hay un 25\% de oportunidad de que ocurra y un 75\% de oportunidad de que no ocurra. Equivale a decir que la \emph{probabilidad} contra su ocurrencia es del 75\% al 25\% o de 3 a 1.
+
+Ahora bien, tenemos dos reglas que nos permiten trabajar con problemas de probabilidad donde se involucran dos o más sucesos (dependientes o independientes) y son:
+\begin{equation}
+P(A\cup B)=P(A)+P(B)-P(A\cap B)\label{eq1}
+\end{equation}
+y
+\begin{equation}
+P(A\cap B)=P(A)P(B|A) \label{eq2}
+\end{equation}
+Obsérvese que si los eventos $A$ y $B$ son independientes, tanto $P(A\cap B)=0$ y $P(B|A)=P(B)$ (la ocurrencia de $A$ no afecta la ocurrencia de $B$) con lo cual las ecuaciones \ref{eq1} y \ref{eq2} quedarían $P(A\cup B)=P(A)+P(B)$ y $P(A\cap B)=P(A)P(B)$ respectivamente.
+\subsubsection*{Ejemplo 1}
+Un sistema contiene dos componentes $A$ y $B$ y se conecta de manera que éste funciona si cualesquiera de las componentes funciona. Se sabe que la probabilidad de que $A$ funciones es $P(A)=0.9$ y la de $B$ es $P(B)=0.8$ y la probabilidad de ambos $P(A\cap B)=0.72$. Determinar la probabilidad de que el sistema funcione.
+
+La probabilidad de que el sistema funcione es igual a la probabilidad de la unión entre $A$ y $B$; de esta manera
+\begin{align*}
+P(A\cup B)&=P(A)+P(B)-P(A\cap B)\\
+&=0.9+0.8-0.72=0.98
+\end{align*}
+\subsubsection*{Ejemplo 2}
+A los habitantes de una gran ciudad se les hizo una encuesta con el propósito de determinar el número de lectores de \textit{Time} y \textit{Newsweek}. Los resultados de la encuesta fueron los siguientes: 20\% de los habitantes leen el \textit{Time}, el 16\% lee le \textit{Newsweek} y un 1\% lee ambos semanarios. Si se selecciona al azar a un lector de \textit{Time}, ¿cuál es la probabilidad de que también lea el \textit{Newsweek}?
+
+Sean $A$ y $B$ los eventos que representan el número de lectores del \textit{Time} y \textit{Newsweek} respectivamente; dado que $P(A)=0.2$, $P(B)=0.16$ y $P(A\cap B)=0.01$
+\[P(B|A)=\dfrac{P(A\cap B)}{P(A)}=\dfrac{0.01}{0.2}=0.05\]
+Esta última ecuación se deriva de la ecuación \ref{eq2} despejando la probabilidad de que ocurra $B$ dado que ha ocurrido $A$
+
+Por otra parte, también puede determinarse la probabilidad de que un lector del \textit{Newsweek} lea también el \textit{Time}; esto es:
+\[P(A|B)=\dfrac{P(A\cap B)}{P(B)}=\dfrac{0.01}{0.16}=0.0625\]
+y se verifica la relación $P(A)P(B|A)=P(B)P(A|B)$, o $(0.2)(0.05)=(0.16)(0.0625)$
+\section*{Actividad}
+\begin{enumerate}
+\item En una cadena de producción el producto fabricado pasa por tres procesos independientes. En el primero hay un 5\% de fallos, en el segundo un 10\% y en el tercero un 15\%. Calcula la probabilidad de que un producto tenga:
+\begin{enumerate}
+\begin{multicols}{3}
+\item 0 defectos
+\item 1 defecto
+\item 2 defectos
+\end{multicols}
+\end{enumerate}
+\item De cada 8 partidos que juegan los equipos de Cabanillas y Fustiñana, Cabanillas gana 5, empata 2 y pierde 1. Si ambos juegan un torneo a tres partidos, calcula la probabilidad de que:
+\begin{enumerate}
+\item Cabanillas gane los tres partidos.
+\item Dos partidos terminen en empate.
+\end{enumerate}
+\item El coche de Quique no funciona muy bien, pues el 15\% de las veces no arranca a la primera. Cuando arranca, llega tarde al trabajo con una probabilidad de 0,3, pero si no arranca, la probabilidad de que llegue tarde es de 0,8.
+\begin{enumerate}
+\item Calcula la probabilidad de que llegue tarde y haya arrancado el coche a la primera
+\item ¿Cuál es la probabilidad de que llegue pronto al trabajo?
+\end{enumerate}
+\item En un país hay elecciones para la presidencia del Gobierno y se presentan dos candidatos. El 35\% de los votantes vota al candidato A, el 32\% al candidato B y el resto se abstiene. Se sabe, además, que el 12\% de los votantes de A, el 20\% de los de B y el 10\% de los que se abstienen pertenecen a la clase media. Si elegimos un votante, ¿cuál es la probabilidad de que pertenezca a la clase media?
+\item Una caja de galletas contiene siete galletas de chocolate y cuatro de coco, otra caja tiene cinco de chocolate y tres de coco. Si elegimos una caja al azar y de ella se extraen dos galletas sin reemplazamiento, calcula:
+\begin{enumerate}
+\item ¿Cuál es la probabilidad de que las dos sean de chocolate?
+\item ¿Y de que las dos sean de coco?
+\item ¿Cuál es la probabilidad de que sea una de chocolate y una de coco?
+\end{enumerate}
+\item La probabilidad de que un alumno apruebe matemáticas es de 0,5 y la probabilidad de aprobar ciencias, habiendo aprobado matemáticas, es de 0,6. ¿Cuál es la probabilidad de aprobar matemáticas y ciencias?
+\item Se sacan dos cartas sucesivamente y sin devolución de una baraja española. Hallar las siguientes probabilidades:
+\begin{enumerate}
+\item Que la segunda carta extraída sea espada, sabiendo que la primera carta fue espada
+\item Que la segunda carta extraída sea espada, sabiendo que la primera carta fue copa
+\end{enumerate}
+\item De una urna que contiene nueve bolas negras y cinco rojas se extraen sucesivamente dos bolas. Halla la probabilidad de los siguientes sucesos:
+\begin{enumerate}
+\item Que las dos bolas sean negras
+\item Que las dos bolas sean rojas
+\item Que la primera sea roja y la segunda negra
+\item Que una sea roja y la otra negra
+\end{enumerate}
+\item Se lanza un dado diez veces. ¿Cuál es la probabilidad de obtener sólo números pares?
+\item Un producto está formado por tres partes: A, B y C. El proceso de fabricación es tal
+que la probabilidad de un defecto en A es 0,03, de un defecto en B es 0,04 y de un defecto en C es 0,08. ¿Cuál es la probabilidad de que el producto no sea defectuoso?
+\end{enumerate}
+\end{multicols}
+\end{document}
