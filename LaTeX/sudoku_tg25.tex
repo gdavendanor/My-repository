@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[papersize={5.5in,8.5in},top=1cm,bottom=1cm,right=1cm,left=1cm]{geometry}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage{printsudoku}
+\usepackage{comment}
+\newcommand*{\Lpack}[1]{\textsf{#1}}
+
+\begin{document}
+\begin{center}
+\large SUDOKUS
+\end{center}
+\begin{center}
+Germ\'an Avenda\~no Ram\'irez, Lic. Mat. U.D., M.Sc. U.N.
+\end{center}
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\cluefont{\Large}
+\cellsize{1.75\baselineskip}
+
+\begin{center}
+\renewcommand*{\puzzlefile}{tg25.sud}
+\writepuzzle%
+{7..4..5..}{.61..5.7.}{.9.7.1..6}%
+{8...27...}{.........}{...34...1}%
+{1..8.2.3.}{.7.1..62.}{..3..9..7}%
+[DT2 gentle 25]
+\vfill
+\begin{minipage}{0.6\linewidth}\begin{center}
+TG25 (gentle) \\
+\sudoku{tg25.sud}
+\end{center}\end{minipage}
+\end{center}
+
+\begin{center}
+\renewcommand*{\puzzlefile}{st1226.sud}
+\writepuzzle%
+{9....4.31}{7452.....}{.8..674..}%
+{.26.4...5}{5..6.9..8}{4...2.37.}%
+{..759..6.}{.....1823}{21.3....7}%
+[Seattle Times 2005/12/26 1 star]
+\vfill
+\begin{minipage}{0.6\linewidth}\begin{center}
+ST1226 (1 star) \\
+\sudoku{st1226.sud}
+\end{center}\end{minipage}
+\end{center}
+\end{document}

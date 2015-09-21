@@ -1,12 +1,11 @@
-\documentclass[letterpaper,twoside]{article}
+\documentclass[letterpaper,fleqn]{article}
 \usepackage[spanish,es-noshorthands]{babel}
 \usepackage[utf8]{inputenc} 
-\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
 \usepackage{mathexam}
 \usepackage{amsmath}
 \usepackage{graphicx}
 \usepackage{tikz,pgf}
-\usepackage{multicol}
 
 \ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
 \ExamName{Límites}
@@ -21,29 +20,32 @@ Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hsp
 \begin{document}
 \ExamInstrBox{
 Para resolver estos ejercicios debe tener en cuenta las propiedades de los límites; además debe tener presente que si al resolver directamente se obtiene indeterminación, ésta debe solucionarse mediante factorización.\\
-Presentar la evaluación equivale a 1 unidad en la calificación, el primero y segundo punto valen cada uno 1 unidad y el tercer punto vale 2 unidades}
+Presentar la evaluación equivale a 1 unidad en la calificación si contesta honestamente la pregunta 0.}
 \LineaNombre
-\vspace*{12pt}
-\emph{Para recordar:}
-\section*{Casos de factorizaci\'on}
-\begin{itemize}
-\item Diferencia de cuadrados: $a^{2}-b^{2}=(a-b)(a+b)$
-\item Trinomios
-\begin{itemize}
-\item[i)] $x^{2}+3x-10$.\\
-En este caso debemos buscar dos números que multiplicados den el tercer término $-10$ y sumados den el coeficiente del segundo término $3$, los cuales son 5 y $-2$. De tal forma que la factorización es: \[x^{2}+3x-10=(x-2)(x+5)\]
-\item[ii)] $6x^{2}+7x-20$\\Se puede resolver este caso de forma similar al anterior, multiplicando y dividiendo por el coeficiente del primer término $6$. Así:
-\begin{align*}
-6x^{2}+7x-20&=\dfrac{6(6x^{2})+7x(6)-20(6)}{6}\\
-&=\dfrac{36x^{2}+7(6x)-120}{6} & \mbox{Buscamos dos n\'umeros que sumados}\\
-&=\dfrac{(6x+15)(6x-8)}{6} & \mbox{den 7 y multiplicados }-120\\
-&=\dfrac{3(2x+5)2(3x-4)}{6} & \mbox{Cancelamos los factores 3 y 2 con}\\
-&=(2x+5)(3x-4) & \mbox{el 6 del denominador}
-\end{align*}
-\end{itemize}
-\end{itemize}
- \newpage
+%\vspace*{12pt}
+%\emph{Para recordar:}
+%\section*{Casos de factorizaci\'on}
+%\begin{itemize}
+%\item Diferencia de cuadrados: $a^{2}-b^{2}=(a-b)(a+b)$
+%\item Trinomios
+%\begin{itemize}
+%\item[i)] $x^{2}+3x-10$.\\
+%En este caso debemos buscar dos números que multiplicados den el tercer término $-10$ y sumados den el coeficiente del segundo término $3$, los cuales son 5 y $-2$. De tal forma que la factorización es: \[x^{2}+3x-10=(x-2)(x+5)\]
+%\item[ii)] $6x^{2}+7x-20$\\Se puede resolver este caso de forma similar al anterior, multiplicando y dividiendo por el coeficiente del primer término $6$. Así:
+%\begin{align*}
+%6x^{2}+7x-20&=\dfrac{6(6x^{2})+7x(6)-20(6)}{6}\\
+%&=\dfrac{36x^{2}+7(6x)-120}{6} & \mbox{Buscamos dos n\'umeros que sumados}\\
+%&=\dfrac{(6x+15)(6x-8)}{6} & \mbox{den 7 y multiplicados }-120\\
+%&=\dfrac{3(2x+5)2(3x-4)}{6} & \mbox{Cancelamos los factores 3 y 2 con}\\
+%&=(2x+5)(3x-4) & \mbox{el 6 del denominador}
+%\end{align*}
+%\end{itemize}
+%\end{itemize}
+% \newpage
  \section*{Cuestionario}
+ \begin{enumerate}
+ \item[0.] El tiempo que le he dedicado a preparar esta evaluación fue de: \hrulefill 
+ \end{enumerate}
 \begin{enumerate}
  \item Sabiendo que
 \begin{center}
@@ -110,16 +112,19 @@ y teniendo en cuenta el álgebra de límites, resuelva si existen o no existen, 
 \item $\ds{\lim_{x\rightarrow 1}[f(x)\cdot g(x)]}=$
 \item $\ds{\lim_{x\rightarrow -2}\dfrac{f(x)}{g(x)}}=$
 \end{enumerate}
-
+	\item Resuelva los siguientes límites, justificando los pasos hechos mediante el uso de las propiedades de los límites.
+	\begin{enumerate}
+	\item $\ds{\lim_{x\rightarrow 3}x^{2}-4x+6}=$\noanswer
+	\item $\ds{\lim_{x\rightarrow 4}\dfrac{3x-4}{x}}=$\vspace*{20pt}
+	\end{enumerate}
    \item Evalúe los siguientes límites (recuerde que cuando al hacer sustitución directa se obtiene indeterminación, ésta se debe evitar usando los métodos vistos en clase y en la guía:
    \begin{enumerate}
-   \item $\ds{\lim_{x\rightarrow 3}x^{2}-4x+6}=$\noanswer
    \item $\ds{\lim_{x\rightarrow 7}\dfrac{x^{2}-49}{x-7}}=$\noanswer
    \item $\ds{\lim_{x\rightarrow 5}\dfrac{x^{2}+3x-40}{x-5}}=$\noanswer
    \item $\ds{\lim_{x\rightarrow 3}\dfrac{2x^{2}-x-15}{x-3}}=$\noanswer
    \item $\ds{\lim_{x\rightarrow 9}\dfrac{\sqrt{x+7}-4}{x-9}}=$\noanswer
    \end{enumerate}
  \end{enumerate}
- \newpage
-\section*{Espacio para operaciones}
+% \newpage
+%\section*{Espacio para operaciones}
 \end{document}
