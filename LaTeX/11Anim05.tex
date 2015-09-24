@@ -1,0 +1,109 @@
+\documentclass[letterpaper,11pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[height=9.5in,width=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{matematicas.german@gmail.com}
+\fancyhead[RE]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{\Email matematicas.german@gmail.com}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Animaplano 05\\
+Matemáticas $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\begin{multicols}{2}
+\textit{Debe resolver el cuestionario siguiente, mostrando los procedimientos hechos para llegar a la respuesta. Respuesta que requiera procedimiento y éste no se explicite, no se tendrá en cuenta.}
+\section*{Cuestionario}
+Resuelva las preguntas ~\ref{q01}--\ref{q02} de acuerdo a la siguiente información.
+
+Para la construcción de un nuevo parque un arquitecto realizó el siguiente diseño en el que el área de los semicírculos $A_{1}$, $A_{2}$ y $A_{3}$ incluyen atracciones para niños, adultos y adultos mayores respectivamente.
+\begin{tikzpicture}
+\draw (0,0)--node[above]{$b$} (2,0)--node[left]{$a$}(0,1.5)--node[right]{$c$} cycle;
+\draw[dashed] (2,0) arc [start angle=0,end angle=-180,radius=1cm];
+\draw[dashed] (0,1.5) arc [start angle=90,end angle=270,radius=0.75cm];
+\draw[dashed] (2,0) arc (-36.87:143.13:1.25);
+\node at (-0.325,.75){$A_{1}$};
+\node at (1,-.5){$A_{3}$};
+\node at (1.25,1){$A_{2}$};
+\end{tikzpicture}
+\begin{enumerate}
+\item \label{q01} Si las medidas de los lados $a$ y $b$ son 17 Dm y 15 Dm respectivamente, el área de juegos para niños equivale a
+\begin{enumerate}
+\item $\left[\pi \left(\dfrac{17-15}{2}\right)^{2}\right]\div 2$ \qquad (\textbf{49})
+\item $\left[\pi \sqrt{\left(\dfrac{17^{2}-15^{2}}{2}\right)}\right]\div 2$ \qquad (\textbf{63})
+\item $\left[\pi \dfrac{\sqrt{17^{2}-15^{2}}}{2}\right]\div 2$ \qquad (\textbf{58})
+\end{enumerate}
+\item \label{q02} El área de adultos es equivalente a la suma de las áreas para niños y adultos mayores porque
+\begin{enumerate}
+\item $A_{1}$ es el área más amplia y puede contener a $A_{2}$ y $A_{3}$ \quad \textbf{(72)}
+\item el área $A_{2}$ es $\frac{3}{4}$ de $A_{1}$ y, $A_{3}$ es $\frac{1}{4}$ de $A_{1}$ \quad \textbf{(47)}
+\item el cuadrado de $a$ es equivalente a la suma de los cuadrados de $b$ y $c$ \quad \textbf{(69)}
+\end{enumerate}
+\item El área de juegos para adultos equivale a
+\begin{enumerate}
+\item $36,125\pi\, Dm^{2}$ \quad \textbf{(89)}
+\item $8,5\pi \, Dm^{2}$ \quad \textbf{(100)}
+\item $72,25\pi \, Dm^{2}$ \quad \textbf{(93)}
+\end{enumerate}
+\item El doble del cuadrado del cuarto número primo
+\item El cuádruple del noveno número primo
+\item El vigésimo número primo
+\item Décimo sexto número primo
+\item Las edades de Pedro y Juan suman 59 años y Pedro es 7 años mayor que Juan. La edad de Pedro es?
+\item La edad de Juan es?
+\item El valor de $\displaystyle{\lim_{x\rightarrow 9}\dfrac{x^{2}-x-72}{x-9}}=$
+\item La altura de un triángulo rectángulo cuya base mide 24 y su hipotenusa mide 30.
+\item El valor de $\displaystyle{\lim_{x\rightarrow 5}\dfrac{x^{2}-3x-10}{x-5}}$
+\item La base de un triángulo rectángulo cuya hipotenusa mide 5 y cuya altura mide 3
+\item El ancho de un rectángulo cuyo perímetro es 108 y su ancho es 10 unidades menos que el largo
+\item El largo del rectángulo del item anterior.
+
+Si $a\circledast b=a+b\cdot (ab)$. Observe el punto \ref{q03}
+\item $(5\circledast 4)+(-42)=\textbf{43}$ \label{q03}
+\item $(2\circledast 3)+6=$?
+\item $(12\circledast 2)+(-41)=$?
+\item $(3\circledast 2)+(7\times 2)=$?
+\item $(3\circledast 4)-13=$?
+\item $(5\circledast 5)-95=$?
+\item $(4\circledast 2)+5^{2}+10=$?
+\item $(9\circledast 1)+2(23)=$?
+\item $(2\circledast 5)+62/2$?
+\item $(2\circledast 7)-\sqrt{36}=$?
+\item $(7\circledast 3)+3(-2)$?
+\item $(5\circledast 2)+(7\times 6)=$?
+\item $(3\circledast 3)+8^{2}+\sqrt{9}=$?
+\item $(3\circledast 4)+3^{2}=$?
+\item $(6\circledast 2)+74/2=$?
+\item $(9\circledast 3)-2(16)=$?
+\item $(3\circledast 6)-(7\times 9)=$?
+\item $(\sqrt{36}\circledast 2)+\sqrt{49}=$?
+\end{enumerate}
+\end{multicols}
+\section*{Animaplano}
+\begin{center}
+\input{Tikz/Anim_1-100}
+\end{center}
+\end{document}
