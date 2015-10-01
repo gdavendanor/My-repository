@@ -1,0 +1,159 @@
+\documentclass[letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[height=9.75in,width=7.75in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\Email matematicas.german@gmail.com}
+\fancyhead[RE]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{\Email matematicas.german@gmail.com}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller 02, Números complejos\\
+Álgebra $9^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace{30pt}}  Fecha: \underline{\hspace{2cm}}\\
+
+\begin{multicols}{2}
+  \section{Números complejos}
+  De la combinación de las cantidades imaginarias con los números reales, surgen los números complejos, los cuales tienen una parte real y una parte imaginaria. En general un número complejo se escribe de la forma:
+  \[ a+bi, \] donde $ a $ es la parte real y $ b $ es la parte imaginaria.
+  \subsection{Operaciones con números complejos}
+  En los números complejos se pueden realizar las operaciones que hacemos con los números reales: Adición, sustracción, multiplicación, división y potenciación.
+  \subsubsection{Adición y sustracción}
+  La adición o sustracción de números complejos, siendo $ z_1=a+bi $ y $ z_2=c+di $ números complejos se define así:
+  \begin{align*}
+  z_1+z_2&=(a+bi)+(c+di)=(a+c)+(b+d)i\\
+  z_1-z_2&=(a+bi)-(c+di)=(a-c)+(b-d)i
+  \end{align*}
+  Es decir para sumar o restar números complejos, basta con sumar o restar la parte real con la parte real y la parte imaginaria con la parte imaginaria.
+  \paragraph{Ejemplo:}
+  Hallar $ (3+4i)+(5-2i) $. Para efectuar la operación, sumamos la parte real con la parte real y la parte imaginaria con la parte imaginaria así:
+  \begin{align*}
+  (3+4i)+(5-2i)&=3+5+(4i+(-2i))\\
+  &=8+2i
+  \end{align*}
+  \subsubsection{Multiplicación}
+  Para multiplicar números complejos, se aplica la propiedad distributiva así:
+\begin{align*}
+    z_1\cdot z_2&=(a+bi)(c+di)=a(c+di)+bi(c+di)\\
+    &=ac+adi+bci+bdi^2\\
+    &=ac+(ad+bc)i-bd\qquad \text{ ya que }i^2=-1\\
+    &=ac-bd+(ad+bc)i
+  \end{align*}
+  \paragraph{Ejemplo:} Hallar $ (2+3i)(4-6i) $. Para multiplicar estos números complejos, usamos la propiedad distributiva así:
+  \begin{align*}
+  (2+5i)(4-6i)&=2(4-6i)+5i(4-6i)\\
+  &=2\cdot4+2\cdot-6i+5i\cdot4+5i\cdot-6i\\
+  &=8-12i+20i-30i^2\\
+  &=8+(-12+20)i-30(-1)\\
+  &=8+8i+30=8+30+8i=38+8i
+  \end{align*}
+  \subsubsection{División}
+  Para dividir números complejos, se deben multiplicar el dividendo y divisor, por el conjugado del divisor así:
+  \paragraph{Ejemplo:} Efectuar $ (3-2i)\div(5+2i)$. Para realizar este ejercicio, se busca el conjugado del divisor $ 5+2i $, que es $ 5-2i $, para luego multiplicar tanto el dividendo como el divisor por el conjugado del divisor. El conjugado de un número complejo se obtiene al cambiarle el signo a la parte imaginaria. Entonces para hacer esta división, se procede así:
+  \begin{align*}
+  (3-2i)\div(5+4i)&=\dfrac{(3-2i)(5-4i)}{(5+4i)(5-4i)}\\
+  &=\dfrac{3(5-4i)-2i(5-4i)}{5^2-(4i)^2}\\
+  &=\dfrac{3\cdot5-3\cdot4i-2i\cdot5-2i\cdot4i}{25-16i^2}\\
+  &=\dfrac{15-12i-10i-8i^2}{25-16(-1)}\\
+  &=\dfrac{15-(12+10)i-8(-1)}{25+16}\\
+  &=\dfrac{15+8-22i}{41}=\dfrac{23-22i}{41}\\
+  &=\dfrac{23}{41}-\dfrac{22}{41}i
+  \end{align*}
+  \section{Taller}
+  \subsection{Evaluación de conceptos}
+  Conteste V o F para cada una de las siguientes afirmaciones, justificando su elección.
+  \begin{enumerate}
+    \item El producto de dos números complejos nunca es un número real
+    \item En el conjunto de los números complejos, $ -16 $ tiene dos ráices cuadradas 
+    \item Cada número complejo es un número real
+    \item Todo número real es un número complejo
+    \item La parte real de el número complejo $ 6i $ es $ 0 $
+    \item Cada número complejo es un número imaginario puro
+    \item La suma de dos números complejos es siempre un número complejo
+    \item La parte imaginaria de el número complejo 7 es 0
+    \item La suma de dos números complejos a veces es un número real
+    \item La suma de dos números imaginarios puros es siempre un número imaginario puro\\
+    \subsection{Problemas}
+    Para los problemas 11-19, sume o reste según esté indicado
+    \begin{multicols}{2}
+    \item $ (6+3i)+(4+5i) $
+    \item $ (-8+4i)+(2+6i) $
+    \item $ (3+2i)-(5+7i) $
+    \item $ (-7+3i)-(5-2i) $
+    \item $ (-3-10i)+(2-13i) $
+    \item $ (4-8i)-(8-3i) $
+    \item $ (-1-i)-(-2-4i) $
+    \item $ \left(\frac{3}{2}+\frac{1}{3}i\right)+\left(\frac{1}{6}-\frac{3}{4}i\right) $
+    \item $ \left(-\frac{5}{9}+\frac{3}{5}i\right)-\left(\frac{4}{3}-\frac{1}{6}i\right) $
+    \end{multicols}
+    
+    Para los problemas 20-34, escriba cada uno en términos de $ i $ y simplifique. Por ejemplo, 
+    \[ \sqrt{-20}=\sqrt{20}\sqrt{-1}=\sqrt{4}\sqrt{5}i=2\sqrt{5}i \]
+    \begin{multicols}{3}
+    \item $ \sqrt{-81} $ \item $ \sqrt{-49} $ \item $ \sqrt{-14} $
+    \item $ \sqrt{-33} $ \item $ \sqrt{-\dfrac{16}{25}} $ \item $ \sqrt{-\dfrac{64}{36}} $
+    \item $ \sqrt{-18} $ \item $ \sqrt{-84} $ \item $ \sqrt{-75} $
+    \item $ \sqrt{-63} $ \item $ 3\sqrt{-28} $ \item $ 5\sqrt{-72} $
+    \item $ -2\sqrt{-80} $ \item $ -6\sqrt{-27} $ \item $ 12\sqrt{-90} $
+    \end{multicols}
+    Para los problemas 35-44, escriba cada uno en términos de $ i $, haga las operaciones indicadas y simplifique. Por ejemplo,
+    \[ \sqrt{-3}\sqrt{-8}=\sqrt{3}i\sqrt{8}i=\sqrt{24}i^2=\sqrt{4}\sqrt{6}(-1)=-2\sqrt{6} \]
+    \begin{multicols}{2}
+    \item $ \sqrt{-4}\sqrt{-16} $ \item $ \sqrt{-81}\sqrt{-25} $
+    \item $ \sqrt{-3}\sqrt{-5} $ \item $ \sqrt{-7}\sqrt{-10} $
+    \item $ \sqrt{-9}\sqrt{-6} $ \item $ \sqrt{-15}\sqrt{-5} $
+    \item $ \sqrt{-2}\sqrt{-27} $ \item $ \sqrt{6}\sqrt{-8} $
+    \item $ \dfrac{\sqrt{-25}}{\sqrt{-4}} $ \item $ \dfrac{\sqrt{-56}}{\sqrt{-7}} $
+    \end{multicols}
+    Para los problemas 45-56, encuentre el producto y exprese las respuestas en la forma estandard de un número complejo ($ a+bi $).
+    \begin{multicols}{2}
+      \item $ (5i)(4i) $ \item $ (7i)(-6i) $
+      \item $ (3i)((2-5i) $ \item $ (-6i)(-2-7i) $
+      \item $ (3+2i)(5+4i) $ \item $ (6-2i)(7-i) $
+      \item $ (-3-2i)(5+6i) $ \item $ (9+6i)(-1-i) $
+      \item $ (4+5i)^2 $ \item $ (-2-4i)^2 $
+      \item $ (6+7i)(6-7i) $ \item $ (-1+2i)(-1-2i) $
+    \end{multicols}
+    Para los problemas 57-64, encuentre cada uno de los siguientes cocientes y exprese las respuestas en la forma estandard para un número complejo $ a+bi $
+    \begin{multicols}{2}
+      \item $ \dfrac{3i}{2+4i} $ \item $ \dfrac{-2i}{3-5i} $ 
+      \item $ \dfrac{-2+6i}{3i} $ \item $ \dfrac{2}{7i} $
+      \item $ \dfrac{2+6i}{1+7i} $ \item $ \dfrac{3+6i}{4-5i} $
+      \item $ \dfrac{-2+7i}{-1+i} $ \item $ \dfrac{-1-3i}{-2-10i} $
+    \end{multicols}
+    Algunas de los conjuntos solución de las ecuaciones cuadráticas contienen números complejos como $ \frac{-4+\sqrt{-12}}{2} $ y $ \frac{-4-\sqrt{-12}}{2} $. Podemos simplificarlas así:
+    \begin{align*}
+    \dfrac{-4+\sqrt{-12}}{2}&=\dfrac{-4+\sqrt{12}i}{2}=\dfrac{-4+\sqrt{4}\sqrt{3}i}{2}=\dfrac{-4+2\sqrt{3}i}{2}\\
+    &=\dfrac{2(-2+\sqrt{3}i)}{2}=-2+\sqrt{3}i  
+    \end{align*}
+    La última expresión se obtiene al factorizar el numerador y simplificar el factor con el denominador. Simplifique las siguientes expresiones:
+    \begin{multicols}{2}
+    \item $ \dfrac{-4-\sqrt{-12}}{2} $ \item $ \dfrac{-1-\sqrt{-18}}{2}$
+    \item $ \dfrac{10+\sqrt{-45}}{4} $ \item $ \dfrac{4-\sqrt{-48}}{2} $
+    \end{multicols}
+    \end{enumerate}
+  \end{multicols}
+  \end{document}
