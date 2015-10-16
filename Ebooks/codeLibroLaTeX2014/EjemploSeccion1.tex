@@ -1,0 +1,36 @@
+\documentclass{book}
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  \usepackage{xcolor} 
+   \definecolor{azulF}{rgb}{.0,.0,.3} 
+   \definecolor{verdeF}{RGB}{5,92,8}
+     
+  \makeatletter
+    \renewcommand{\@seccntformat}[1]{\llap{\textcolor{verdeF}{
+    \csname  the#1\endcsname}\hspace{1em}}}                    
+    \renewcommand{\section}{\@startsection{section}{1}{\z@}
+    {-4ex \@plus -1ex \@minus -.4ex}
+    {1ex \@plus.2ex }
+    {\color{azulF}\normalfont\huge\sffamily\bfseries}}
+    \renewcommand{\subsection}{\@startsection {subsection}{2}{\z@}
+    {-3ex \@plus -0.1ex \@minus -.4ex}
+   {0.5ex \@plus.2ex }
+   {\normalfont\sffamily\bfseries}}
+   \renewcommand{\subsubsection}{\@startsection {subsubsection}{3}{\z@}
+   {-2ex \@plus -0.1ex \@minus -.2ex}
+   {0.2ex \@plus.2ex }
+   {\normalfont\small\sffamily\bfseries}}                        
+   \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}
+   {-2ex \@plus-.2ex \@minus .2ex}
+   {0.1ex}
+   {\normalfont\small\sffamily\bfseries}}
+\makeatother
+%%--
+\begin{document}
+\chapter{Pensamiento de Kant}
+...
+\section{?`Qué dice Kant?}
+...
+\section{Lo que sigue}
+...
+\end{document}

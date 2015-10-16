@@ -1,0 +1,30 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=18cm
+\topmargin=-2cm
+%SÃ­mbolos matemÃ¡ticos de la AMS
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm mÃ¡x}}} % mÃ¡ximo
+\def\min{\mathop{\mbox{\rm mÃ­n}}} % mÃ­nimo
+
+
+\begin{document}
+De acuerdo al lema de Euclides tenemos que
+\begin{eqnarray*} % Espacio entre filas aumentado \\[0.2cm]
+	\mbox{mcd}(a,b) & = & \mbox{mcd}(a-r_0q,r_0) \\[0.2cm]
+	& = & \mbox{mcd}(r_1,r_0) \\[0.2cm]
+	& = & \mbox{mcd}(r_1,r_0-r_1q_2)\\[0.2cm]
+	& = & \mbox{mcd}(r_1,r_2) \\[0.2cm]
+	& = & \mbox{mcd}(r_1-r_2q_2,r_2)\\[0.2cm]
+\end{eqnarray*}
+\end{document}

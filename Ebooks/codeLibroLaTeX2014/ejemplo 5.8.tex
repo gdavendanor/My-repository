@@ -1,0 +1,24 @@
+\documentclass[table,x11names]{book} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} 
+\usepackage{xcolor,pstricks} % las opciones "x11names" y "table" están en las opciones
+                    % del documentclass para evitar choques de paquetes
+
+
+\begin{document}
+
+\begin{tabular}{ll}
+\rowcolor{LightBlue2} $x_{n+1}$ & $|x_{n+1}-x_n|$\\ \hline
+\cellcolor[gray]{0.80} 1.20499955540054 & 0.295000445\\
+1.17678931926590 & 0.028210236\\
+1.17650196994274 & 0.000287349\\
+1.17650193990183 & 3.004$\times10^{-8}$\\
+\cellcolor[gray]{0.80} 1.17650193990183 & 4.440$\times10^{-16}$\\ \hline
+\end{tabular}
+
+\end{document}

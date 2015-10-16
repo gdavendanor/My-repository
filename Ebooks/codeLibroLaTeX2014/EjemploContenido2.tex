@@ -1,0 +1,53 @@
+\documentclass{book}
+  \usepackage[text={15cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+
+%--Diseño de la tabla de contenido  
+\usepackage{tikz}
+\usepackage{kpfonts}
+\usepackage{titletoc}
+\contentsmargin{0cm}
+\titlecontents{chapter}[0pc]
+{\addvspace{30pt}%
+\begin{tikzpicture}%
+\draw[help lines,step=.4cm,color=red] (0,0) grid (3.2,1.2);%
+\pgftext[left,x=.1cm,y=.6cm]{\Large\sc chapter};%
+\fill[fill=white,draw=red] (2.7,.6) circle (0.35cm);%
+\pgftext[x=2.7cm,y=.6cm]{\thecontentslabel};%
+\end{tikzpicture}\\\color{red}\large\sc\bfseries}%
+{}
+{}
+{\;\titlerule\;\large\bfseries \thecontentspage}%
+\titlecontents{section}[2.4pc]
+{\addvspace{1pt}}
+{\contentslabel[\thecontentslabel]{2.4pc}}
+{}
+{\hfill\small \thecontentspage}
+[]
+\titlecontents*{subsection}[4pc]
+{\addvspace{-1pt}\small}
+{}
+{}
+{\ --- \small\thecontentspage}
+[ \textbullet\ ][]
+%%--
+
+
+\begin{document}
+\tableofcontents
+\chapter{(Título  capítulo 1)}
+\section{(Título  section 1)}
+\subsection{(Título  sub-section 1)}
+\subsection{(Título  sub-section 2)}
+\section{(Título  section 2)}
+\subsection{(Título  sub-section 1)}
+\subsection{(Título  sub-section 2)}
+\chapter{(Título  capítulo 2)}
+\section{(Título  section 1)}
+\subsection{(Título  sub-section 1)}
+\subsection{(Título  sub-section 2)}
+\section{(Título  section 2)}
+\subsection{(Título  sub-section 1)}
+\subsection{( sub-section 2)}
+\end{document} 

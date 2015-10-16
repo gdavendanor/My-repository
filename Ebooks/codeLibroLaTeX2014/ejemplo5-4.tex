@@ -1,0 +1,74 @@
+\documentclass{article} %o report o book
+\textheight=15cm
+\textwidth=17cm
+\topmargin=-2cm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage{longtable,multirow,booktabs}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm m\'ax}}} % mximo
+\def\min{\mathop{\mbox{\rm m\'{\i}n}}} % m­nimo
+
+
+\begin{document}   
+	%\usepackage{longtable,multirow,booktabs}
+	
+	\begin{longtable}[c]{llr}
+		\caption{Tabla de varias p\'aginas con encabezado y pie.}\\ \toprule
+		Nombre & Apellido & Edad \\ \midrule
+		\endfirsthead
+		\multicolumn{3}{c} {{\tablename\ \thetable{} -- continua de la p\'agina
+				anterior}} \\    \toprule
+		Nombre & Apellido & Edad \\ \midrule
+		\endhead
+		\midrule
+		\multicolumn{3}{r}{{Contin\'ua en la siguiente p\'agina...}}\\ \midrule
+		\endfoot
+		\bottomrule
+		%\endlasthead
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\Julio & Cort\'es & 11 \\
+		Marco & Villalta & 13 \\
+		Mario & Ram\'{\i}rez & 12\\
+	\end{longtable}
+\end{document}

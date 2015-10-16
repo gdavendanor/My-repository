@@ -1,0 +1,36 @@
+\documentclass{book}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+  %Helvética
+\newcommand{\helv}{\fontfamily{phv}\fontsize{9}{11}\selectfont}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{} % borra cabecera y pie actuales
+\fancyhead[LE,RO]{\helv\thepage} %Left Even page - Right Odd page
+\fancyhead[LO]{\helv\rightmark}
+\fancyhead[RE]{\helv\leftmark}
+\renewcommand{\headrulewidth}{0pt} % Sin raya. Con raya?: cambiar {0} por {0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt} % espacio para la raya
+\fancypagestyle{plain}{%
+\fancyhead{} % elimina cabeceras y raya en páginas "plain"
+\renewcommand{\headrulewidth}{0pt}}
+
+\begin{document}
+
+\chapter{Cabeceras con el paquete fancyhdr}
+\newpage
+\section{Eliminar la línea}
+\renewcommand{\headrulewidth}{0pt}
+\newpage
+\section{Dejar la línea con grosor {\tt 0.5pt}}
+\renewcommand{\headrulewidth}{0.5pt} % grosor 0.5pt
+\addtolength{\headheight}{0.5pt} % espacio para la raya
+
+
+\end{document}
+

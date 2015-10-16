@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+ \usepackage[shortlabels]{enumitem}
+
+\begin{document}
+% \usepackage[shortlabels]{enumitem}
+% Etiqueta (a.) -> (a), (b),...
+\begin{enumerate}[(a.)]
+\item $11^2=121$
+\item $(1+1)^2=1+2+1$
+\item $12^2=144$
+\item $(1+2)^2=1+4+4$
+\end{enumerate}
+Otra lista con A.1), A.2),...\\
+\begin{enumerate}[font=\sffamily\bfseries,
+label=A.\arabic*)]
+\item $11^2=121$
+\item $(1+1)^2=1+2+1$
+\item $12^2=144$
+\item $(1+2)^2=1+4+4$
+\end{enumerate}
+
+\end{document}

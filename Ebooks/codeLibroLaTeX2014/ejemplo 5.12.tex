@@ -1,0 +1,31 @@
+\documentclass[x11names,table]{article} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} 
+
+\usepackage{xcolor,pstricks}
+\usepackage{booktabs}
+
+
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{lll}
+&\multicolumn{2}{c}{Estimación del error}\\
+&\multicolumn{2}{c}{absoluto y relativo}\\
+\rowcolor{LightBlue2} $x_n$ &$x_{n+1}$
+& $|x_{n+1}-x_n|/|x_{n+1}|$\\ \midrule
+-3.090721649 & 2.990721649 &1.6717\\
+-2.026511552 & 1.064210097 &0.525143859\\
+-1.205340185 & 0.821171367 &0.681277682\\ \bottomrule
+\end{tabular}
+\caption{}
+\end{table}
+
+\end{document}

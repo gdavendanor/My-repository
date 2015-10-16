@@ -1,0 +1,27 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\usepackage[ruled,vlined,lined,linesnumbered,algosection,spanish]{algorithm2e}
+\begin{document}
+\begin{frame}{MARCO 3}
+\hyperlink{MARCO3}{$>$ Ir a Marco 4}
+\hypertarget<2>{MARCO4}{$<$}
+\end{frame}
+\begin{frame}{MARCO 4}
+\hyperlink{MARCO4}{Regresar a Marco 3}
+\hypertarget<2>{MARCO3}{}
+\end{frame}
+\end{document}

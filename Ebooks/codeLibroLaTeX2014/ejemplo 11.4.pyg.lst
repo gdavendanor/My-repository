@@ -1,0 +1,7 @@
+import javax.swing.*;
+import java.awt.*;
+public class app_prg1 extends JApplet
+{ public void init(){}
+public void paint ( Graphics g ){
+g.drawString(" 3 +46 = "+(3+46),30, 30 );}
+}

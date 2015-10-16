@@ -1,0 +1,24 @@
+\documentclass{article}
+
+\usepackage[total={12cm,21cm},top=2cm, left=2cm]{geometry}
+\parindent=0mm
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc} %
+\usepackage[spanish]{babel}
+%----- Paquete TiKz ------------------------
+\usepackage{tikz}
+\usepackage{enumitem}
+\newcommand*{\itembolasazules}[1]{ % bolas 3D
+\footnotesize\protect\tikz[baseline=-3pt] %
+\protect\node[scale=.7, circle, shade, ball
+color=blue]{\color{white}\Large\bf#1};}
+%---------------------------------------------
+\begin{document}
+Listas enumeradas con bolas3D\\\\
+\begin{enumerate}[label=\itembolasazules{\arabic*}]
+\item Paso 1
+\item Paso 2
+\item Paso 3
+\end{enumerate}
+
+\end{document}

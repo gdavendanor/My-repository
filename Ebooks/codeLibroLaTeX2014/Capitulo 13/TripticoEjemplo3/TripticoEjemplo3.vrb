@@ -1,0 +1,23 @@
+\frametitle {}\begin {columns}[t]
+\begin{column}{0.33\textwidth}
+
+Texto de la p\'agina 2
+
+\end{column}
+
+\begin{column}{0.33\textwidth}
+
+\begin{block}{Bloque 1}
+
+Texto del bloque
+
+\end{block}
+
+\end{column}
+
+\begin{column}{0.33\textwidth}
+
+Texto de la p\'agina 4
+
+\end{column}
+\end{columns}

@@ -1,0 +1,33 @@
+\documentclass[xcolor=pdftex,table]{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{caption}
+\definecolor{ZurichBlue}{rgb}{.255,.41,.884}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+
+\begin{document}
+\begin{frame}{Multicolumnas}
+	\begin{columns}[t]
+		\begin{column}{.48\linewidth}
+			\begin{block}{Bloque 1}
+				Bloque de la primera columna
+			\end{block}
+		\end{column}
+		\begin{column}{.48\linewidth}
+			
+			\begin{block}{Bloque 2}
+				Bloque en la segunda columna
+			\end{block}
+			
+			\begin{block}{Bloque 3}
+	Bloque en la segunda columna
+			\end{block}
+		  \end{column}
+		\end{columns}
+\end{frame}
+\end{document}

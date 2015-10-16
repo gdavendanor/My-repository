@@ -1,0 +1,27 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,pstricks}
+\usepackage[latin1]{inputenc}
+\newcommand{\Z}{\mathbb{Z}}
+\usepackage{xparse}
+\newcounter{midefi}[chapter] % Contador 1.1, 1.2,... en rojo
+\renewcommand{\themidefi}{{\red\thechapter.\arabic{midefi}}}
+\NewDocumentEnvironment{midefinicion}{O{}O{}}{%2 argumentos opcionales
+	%Inicio del entorno
+	\bigskip
+	\begin{minipage}{\textwidth}
+		% Definición - número - descripción (opcional)
+		\textbf{Definicion \;\themidefi \;{\small\sffamily #1}}
+	}{% Parámetro #2: Contenido del entorno
+	#2
+\end{minipage}
+\bigskip
+}%
+\begin{document}
+	\begin{midefinicion}[(Principio de induccion).]
+		Si $P$ es una formula en la artimetica de Peano, entonces
+		$$(P(0) \land (\forall n)(P(n) \to P(n+1)) \to (\forall n)(P(n))$$
+		En particular, $P$ puede ser la formula $(m < n)\to Q(m)$ y a este
+		caso
+		algunas personas le llaman "Induccion fuerte".
+	\end{midefinicion}
+\end{document}

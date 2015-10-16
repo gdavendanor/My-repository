@@ -1,0 +1,43 @@
+\documentclass[letterpaper, 12pt]{article} 
+\usepackage[total={14cm,21cm},top=2cm, left=2cm]{geometry}
+\parindent = 0mm % Sin sangría
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} % Idioma español
+\renewcommand{\baselinestretch}{1.1} % espaciado 1.1
+\pagestyle{myheadings}
+\markright{...... texto .......} % Encabezados simples
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{pstricks}
+\usepackage{marginnote}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\N}{\mathbb{N}}
+
+\begin{document}
+
+\renewcommand{\labelenumi}{\Roman{enumi}.}
+\renewcommand{\labelenumii}{\arabic{enumii}$)$ }
+\renewcommand{\labelenumiii}{\alph{enumiii}$)$ }
+\renewcommand{\labelenumiv}{$\bullet$ }
+\begin{enumerate}
+\item Primer nivel (en Romanos)
+\begin{enumerate}
+\item Segundo nivel (en numeración arábiga)
+\begin{enumerate}
+\item Tercer nivel (numeración alfabética)
+\begin{enumerate}
+\item Cuarto nivel (usamos {\tt bullet})
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+
+\end{document}

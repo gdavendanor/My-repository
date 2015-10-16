@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{verbments}%Requiere Python, Pygments y Habilitar ’shell escape’
+\definecolor{verbmentsbgcolor}{rgb}{0.9764, 0.9764, 0.9762}
+\definecolor{verbmentscaptionbgcolor}{rgb}{0.1647, 0.4980, 1}
+\begin{document}
+%opciones verbments----------------------------------------------------------
+\fvset{frame=bottomline,framerule=0.01cm}
+\plset{language=java,texcl=true,style=vs,%
+listingnamefont=\sffamily\bfseries\color{white},%
+bgcolor=verbmentsbgcolor,captionfont=\sffamily\color{white},%
+captionbgcolor=verbmentscaptionbgcolor, listingname=\textbf{Programa}}
+%Entorno -------------------------------------------------------------------
+\begin{pyglist}[caption={Imprimir.java}]
+import javax.swing.*;
+import java.awt.*;
+public class app_prg1 extends JApplet
+{ public void init(){}
+public void paint ( Graphics g ){
+g.drawString(" 3 +46 = "+(3+46),30, 30 );}
+}
+\end{pyglist}
+\end{document}

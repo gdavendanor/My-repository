@@ -1,0 +1,54 @@
+\documentclass{book}
+
+\usepackage[text={10cm,25cm},centering]{geometry}
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage[latin1]{inputenc}
+%
+\usepackage[explicit]{titlesec}
+\usepackage{tikz}
+\usetikzlibrary{shapes.misc,arrows}
+%defining subsection titles
+\newcommand\titlebar{%
+\tikz[baseline,trim left=0cm,trim right=3cm] {
+\node [
+text = red!70!green,
+anchor= base east,
+minimum height =3.5ex] (a) at (3cm,0) {
+\textbf{\arabic{chapter}.\thesection}
+};
+\path[fill=red!70!blue] (a.east) circle (.5ex);
+\draw[color=red!70!blue, thick,rounded corners=1ex] (a.east)
+|- (\textwidth+1cm,-0.75ex);
+}%
+}
+\titleformat{\section}{\large\sf}{\titlebar}{0.25cm}{%
+\textcolor{blue!60!green}{#1}}
+\titlespacing*{\section}{-2cm}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex}
+\renewcommand*{\thesection}{\arabic{section}}
+%defining subsection titles
+\newcommand\subtitlebar{%
+\tikz[baseline,trim left=0cm,trim right=3cm] {
+\node [
+text = red!70!green,
+anchor= base east,
+minimum height =3.5ex] (b) at (3cm,0) {
+\textbf{\arabic{chapter}.\arabic{section}.\thesubsection}
+};
+\path[fill=red!70!blue] (b.east) circle (.5ex);
+\draw[color=red!70!blue, thick,rounded corners=1ex] (b.east)
+|- (\textwidth+0.8cm,-0.75ex);
+}%
+}
+\titleformat{\subsection}{\normalfont\sf}{\subtitlebar}{0.2cm}{%
+\textcolor{blue!60!green}{#1}}
+\titlespacing*{\subsection}{-1.8cm}{3.5ex plus 1ex minus .2ex}%
+{2.3ex plus .2ex}
+\renewcommand*{\thesubsection}{\arabic{subsection}}
+%%--
+\begin{document}
+\chapter{Usando titlesec}
+\section{Sección 1}
+...
+\section{Sección 2}
+...
+\end{document}

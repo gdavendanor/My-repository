@@ -1,0 +1,29 @@
+\documentclass{book}
+  \usepackage[text={10cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+%
+  \usepackage{titlesec}
+  \usepackage{tikz}\usetikzlibrary{shapes.misc}
+  \newcommand\titlebar{%
+  \tikz[baseline,trim left=3.1cm,trim right=3cm] {
+    \fill [cyan!25] (2.5cm,-1ex) rectangle (\textwidth+3.1cm,2.5ex);
+    \node [
+        fill=cyan!60!white,
+        anchor= base east,
+        rounded rectangle,
+        minimum height=3.5ex] at (3cm,0) {
+        \textbf{\arabic{chapter}.\thesection.}
+    };
+   }%
+  }
+\titleformat{\section}{\large}{\titlebar}{0.1cm}{}
+\renewcommand*{\thesection}{\arabic{section}}
+%%--
+\begin{document}
+ \chapter{Usando titlesec}
+  \section{Sección 1}
+   ...
+  \section{Sección 2}
+  ...
+\end{document}

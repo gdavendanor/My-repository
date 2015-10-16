@@ -1,0 +1,39 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage{longtable,multirow,booktabs}
+% redefinir cuadro por tabla
+\AtBeginDocument{\renewcommand\tablename{Tabla}}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm máx}}} % mximo
+\def\min{\mathop{\mbox{\rm mín}}} % m­nimo
+
+
+\begin{document}	
+
+%\usepackage{longtable,multirow,booktabs}
+%--Redefinir cuadro por tabla
+%\AtBeginDocument{\renewcommand\tablename{Tabla} }
+\begin{longtable}[c]{llr} 
+	\caption{Tabla grande}\label{ej1:longtable} \\ \toprule
+	Nombre & Apellido & Edad \\ \midrule
+	Julio & Cort\'es & 11 \\
+	Marco & Villalta & 13 \\
+	Mario & Rami­rez & 12 \\ \bottomrule
+\end{longtable}
+
+
+
+\end{document}

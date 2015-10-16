@@ -1,0 +1,38 @@
+\documentclass{book} 
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage[latin1]{inputenc}  
+\definecolor{azulF}{rgb}{.0,.0,.3}
+\definecolor{rojoF}{RGB}{212,0,0}
+\newcommand{\Z}{\mathbb{Z}}
+% Estilo B
+\newtheoremstyle{estiloB}{}{}{}{} % 
+  {\color{azulF}\bfseries} % fuente del encabezado
+  {.}         % puntuación
+  {\newline}  % espacio después del encabezado
+  {\thmname{#1}~\thmnumber{\color{rojoF} #2}\thmnote{~\color{azulF}(#3)}}
+  %--
+  \theoremstyle{estiloB}
+  \newtheorem{unadefiB}{Definición}[chapter]
+  \newtheorem{unteoB}{Teorema}[section]
+  
+% Estilo C
+\newtheoremstyle{estiloC}{}{}{}{}% 
+  {\color{rojoF}\bfseries}%
+  {.}{\newline}{}%
+  %--
+  \swapnumbers % Intercambiar número-teorema
+  \theoremstyle{estiloC}
+  \newtheorem{unteoC}{Teorema}
+  %-- 
+\begin{document}
+   \begin{unadefiB}[Divisibilidad]\label{divisibilidad}
+     Sean $a,b$ enteros con $b \not = 0.$ Decimos  que $b$ divide a $a$ 
+     si existe un entero $c$ tal que $a=bc.$
+    \end{unadefiB} 
+   \begin{unteoB}
+      Si $a,b \in \Z,\;$ y si  $a|b\;$ y $\;b|a$ entonces  $\;|a|=|b|$
+   \end{unteoB}
+  \begin{unteoC}
+     Si $a,b \in \Z,\;$ y si  $a|b\;$ y $\;b|a$ entonces  $\;|a|=|b|$
+   \end{unteoC}
+  \end{document}

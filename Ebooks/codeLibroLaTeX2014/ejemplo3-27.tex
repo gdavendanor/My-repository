@@ -1,0 +1,25 @@
+
+\documentclass{book}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{makeidx}
+\makeindex
+
+% Modo de uso: Compile PDFlatex, luego makeindex [en el menú] y PDFlatex de nuevo
+
+
+\begin{document}
+	...
+	\index{Entrada para el Índice}
+	
+	Página 1: \index{Manzana}
+	Página 6: \index{Naranja}
+	Página 10: \index{Banano}
+	Página 12: \index{Naranja}
+	
+	\printindex
+	
+	
+
+\end{document}	
+	

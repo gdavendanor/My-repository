@@ -1,0 +1,28 @@
+\documentclass{article}
+  \usepackage[total={18cm,21cm},top=2cm, left=2cm]{geometry}
+  %Paquetes adicionales
+  \usepackage{latexsym,amsmath,amssymb,amsfonts}
+  \usepackage[latin1]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{graphicx}
+  \usepackage[spanish]{babel} % Idioma español
+  %\usepackage{epstopdf} Habilitar si usa MikTeX 2009 o TexLive 2009 o menos.
+
+
+\begin{document} % Compilar con opción PDFLATEX 
+                 % Si usa TeXLive2010 o superior, no hay que hacer nada más.
+                 % Si usa MikTeX 2009 o TeXLive 2009,  debe habilitar el paquete  'epstopdf'
+                 % Figuras en subcarpeta 'images'
+
+   \section{Compilar con PDF\LaTeX. Incluir un gráficos  con varios formatos} 
+   
+   %logo escalado a un centímetro de ancho
+   Logo .eps,  \includegraphics[width=1cm]{images/ubuntu1}\\
+   
+   Logo .pdf,  \includegraphics[width=1cm]{images/ubuntu2}\\
+    
+   Logo .jpeg, \includegraphics[width=1cm]{images/ubuntu3}\\
+     
+   Logo .png  \includegraphics[width=1cm]{images/ubuntu4}\\
+
+\end{document}

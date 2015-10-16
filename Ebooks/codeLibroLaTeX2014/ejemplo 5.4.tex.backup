@@ -1,0 +1,31 @@
+\documentclass[letterpaper, 12pt]{article} 
+
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel} 
+\usepackage{longtable,multirow,booktabs}
+
+
+
+\begin{document}
+
+\begin{longtable}[c]{llr} 
+    \toprule 
+    \caption{Tabla grande}\label{tabla:ejem}\\% 
+Nombre & Apellido & Edad \\ \midrule
+Julio & Cortés & 11 \\ 
+Marco & Villalta & 13 \\
+Alejandro & González & 15 \\ 
+Alberto & Montalbán & 13 \\
+Pedro & Núñez & 12 \\ 
+Carlos & Montero & 10 \\
+Daniel & Hernández & 11 \\ 
+Diego & Villalobos & 14 \\
+Doryan & Loría & 15 \\ 
+Eduardo & Torres & 17 \\
+Mario & Ramírez & 12 \\ \bottomrule 
+\end{longtable}
+
+\end{document}

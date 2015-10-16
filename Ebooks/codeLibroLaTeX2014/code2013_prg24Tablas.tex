@@ -1,0 +1,30 @@
+\documentclass{article}
+  \textheight    = 20cm
+  \textwidth     = 18cm
+  \topmargin     = -2cm
+  \oddsidemargin = -3cm
+  \parindent     =  0mm
+
+  \usepackage{amsmath, amssymb, amsfonts, latexsym}
+  \usepackage[T1]{fontenc}
+  \usepackage[latin1]{inputenc}
+\usepackage[x11names,table]{xcolor}
+
+
+  %Inicio del cuerpo del documento
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\rowcolors{1}{}{gray!20}
+\begin{tabular}{ll}
+\rowcolor{LightBlue2} $x_{n+1}$  & $|x_{n+1}-x_n|$\\ \hline
+                1.20499955540054 & 0.295000445\\
+               1.17678931926590  & 0.028210236\\
+               1.17650193990183  & 3.004$\times10^{-8}$\\
+               1.17650193990183  & 4.440$\times10^{-16}$\\ \hline
+\end{tabular}
+\caption{Iteración de Newton para $x^2-\cos(x)-1=0$ con $x_0=1.5.$}
+\end{table}
+
+\end{document}

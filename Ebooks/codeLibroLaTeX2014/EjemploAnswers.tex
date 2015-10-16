@@ -1,0 +1,110 @@
+\documentclass{book}
+% Dimensiones-márgenes
+\usepackage[centering,text={18cm,22cm},showframe=false]{geometry}
+
+\usepackage{tcolorbox}        
+\tcbuselibrary{skins,breakable} 
+
+\usepackage{xparse}   % paquete para hacer entornos con parámetros
+\usepackage{answers}  % paquete answers
+\newtheorem{exer}{}[chapter]
+\newenvironment{ejer}{\begin{exer}\normalfont}{\end{exer}}
+\Newassociation{solu}{Soln}{ans}
+% Entorno "ejercicios"------------------------------------------------
+\NewDocumentEnvironment{ejercicios}{O{}}{%
+\bigskip\begin{minipage}{\textwidth}{\bf Ejercicios}\\#1}{\end{minipage}\bigskip}
+%-- Entorno con cajas --
+%-- Caja
+\colorlet{color1}{gray!5!white}
+\definecolor{color2}{RGB}{117,184,68} 
+\newtcolorbox{wwlistaejercicios}[1][]{%
+arc=0mm,breakable,enhanced,colback=color1,boxrule=0pt,top=8mm, 
+enlarge top by=\baselineskip/2+1mm, enlarge top at break by=0mm,pad at break=2mm,fontupper=\normalsize,
+overlay ={
+\node[rectangle, minimum width=4cm, top color=color2, bottom color=color2, 
+inner sep=1mm,anchor=west,font=\normalsize] at ([xshift=0pt,yshift=-3mm]frame.north west)%
+{\textbf{Ejercicios}};}#1}
+\NewDocumentEnvironment{ejerciciosCaja}{O{}}{%
+\bigskip\begin{wwlistaejercicios}%
+ #1}{\end{wwlistaejercicios}\bigskip } % 
+%----------------------------------------
+\newcount\ansj
+%\ansj=1  % sin tabla de contenidos
+\ansj=\thechapter
+\makeatletter % -- redefinir chapter solo con la modificación pertinente
+\let\stdchapter\chapter
+\renewcommand*\chapter{% -- abrir y cerrar archivos ans j
+\expandafter\ifx\csname Closesolutionfile\endcsname \relax\else
+\Closesolutionfile{ans}\fi
+\expandafter\ifx\csname Opensolutionfile\endcsname \relax\else
+\Opensolutionfile{ans}[ans\number\ansj]\advance\ansj by 1\fi
+                       %-- continuar
+\@ifstar{\starchapter}{\@dblarg\nostarchapter}}
+\newcommand*\starchapter[1]{\stdchapter*{#1}}
+\def\nostarchapter[#1]#2{\stdchapter[{#1}]{#2}}
+\makeatother % -- 
+
+%-- Cerrar   el último archivo "ans"
+\def\soluciones{ 
+        \expandafter\ifx\csname Closesolutionfile\endcsname \relax\else
+        \Closesolutionfile{ans}\fi }
+%-- Imprimir soluciones del capítulo i
+\def\solucionesCap#1{\section*{Soluciones del Cap\'{\i}tulo #1}
+                     \input{ans#1}}
+%---------------------------------------------------------------------
+
+\begin{document}
+
+\tableofcontents
+
+\chapter{A} %--
+\section{Ejercicios: Lista A1}
+
+\begin{ejerciciosCaja}
+  \begin{ejer}   Resolver $|\tan(\theta)|=1$  con $\theta \in\, R.$ 
+    \begin{solu}
+      {\bf Sugerencia:} Mmmmmm
+    \end{solu}
+  \end{ejer}
+  \begin{ejer}  Resolver $|\sec(\theta)|=1$ con $\theta \in\, R^+$
+    \begin{solu}
+	$|\sec(\theta)|=1 \Longrightarrow....$
+    \end{solu}
+  \end{ejer}
+\end{ejerciciosCaja}
+%...
+\section{Ejercicios: Lista A2}
+
+\begin{ejercicios}
+  \begin{ejer}  Resolver $a+1=2$
+    \begin{solu}
+          $a=1$
+    \end{solu}
+  \end{ejer}
+  ...
+\end{ejercicios}
+
+\chapter{B} % --
+            % ... No hay ejercicios aquí
+
+\chapter{C} % --
+\section{Ejercicios: Lista C1}
+
+\begin{ejercicios}
+  \begin{ejer}  Resolver $c+1=2$
+    \begin{solu}
+      ...$c=1$
+    \end{solu}
+  \end{ejer}
+  ...
+\end{ejercicios}
+% ----------------------------------------------------------------
+
+
+% Imprimir respuestas --
+\soluciones  % Obligatorio
+\solucionesCap{1}
+%\solucionesCap{2} % no hay en este capítulo
+\solucionesCap{3}
+
+\end{document}

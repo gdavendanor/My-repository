@@ -1,0 +1,73 @@
+\documentclass{article}
+  % Esta plantilla requiere paquetes adicionales. 
+  % Si hay un error de compilación, ver sección 2.4
+
+  \usepackage[total={12cm,21cm},top=2cm, left=2cm]{geometry} 
+  \parindent=0mm
+  \usepackage{latexsym,amsmath,amssymb,amsfonts}
+  \usepackage[latin1]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{graphicx}
+  \usepackage[spanish]{babel} % Idioma español
+  \renewcommand{\baselinestretch}{1.1} % espaciado 
+  \usepackage{textcomp} % Caracteres adicionales
+  \usepackage{anyfontsize}
+  \usepackage{pslatex,concrete}
+  \usepackage{multicol}
+  \usepackage{fancyvrb}
+   \usepackage{xcolor}
+    \usepackage{pstricks}
+   \usepackage{marginnote}
+
+
+
+
+
+\begin{document}
+
+   \section{Caracteres} 
+   
+   \begin{itemize}
+   
+   \item '\#' se obtiene con el comando \verb+\#+\\
+   
+   \item Paquete \verb+textcomp+: Por ejemplo, el  apóstrofo \quad\textquotesingle\quad se obtiene
+   con el comando \verb+\textquotesingle+ y el símbolo de copyright: © se obtiene    con    \verb+\textcopyright+.
+     
+   \end{itemize} 
+   
+   \section{Tama\~no}
+   
+   \begin{itemize}
+   \item \verb+{\large \bf Nota:}+ produce: {\large \bf Nota:}\\
+   
+   \item \verb+{\large\textit{\textbf{Nota}}}+ produce: {\large\textit{\textbf{Nota}}}.\\
+
+   \item Este es {\fontsize{50}{1}\selectfont LaTeX}
+   \end{itemize}
+   
+   \section{Columnas}
+   
+  \begin{multicols}{2}
+Hace que el texto que está entre los delimitadores salga a doble columna,
+\LaTeX{} se encarga de manera automática de distribuir el texto entre las
+columnas de la mejor manera, además ... * * * * * * * * * * * * * * * * * 
+-- - -- - - -- - - - -- - - - - - - - - - - - - - - - - - - - - - - - - 
+-- - -- - - -- - - - -- - - - - - - - - - - - - - - - - - - - - - - - -
+-- - -- - - -- - - - -- - - - - - - - - - - - - - - - - - - - - - - - -  
+\end{multicols}
+
+\section{Notas en el margen}
+
+... podemos poner una nota en el margen como se muestra en el margen derecho; 
+    el código que produce esta nota es
+   \marginnote{\cyan Regla de la cadena: $z_t=\nabla z \cdot \vec{v}$}
+   
+   
+   
+   
+      
+\end{document}
+
+
+

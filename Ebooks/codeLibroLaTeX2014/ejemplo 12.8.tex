@@ -1,0 +1,36 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\begin{document}
+\begin{frame}[fragile] % "fragile" es obligatorio
+\frametitle{Un algoritmo para buscar números primos}
+\begin{semiverbatim}
+\uncover<1->{\alert<0>{int main (void)}}
+\uncover<1->{\alert<0>{\{}}
+\uncover<1->{\alert<1>{ \alert<4>{std::}vector is_prime(100,true)}}
+\uncover<1->{\alert<1>{ for (int i = 2; i < 100; i++)}}
+\uncover<2->{\alert<2>{ if (is_prime[i]))}}
+\uncover<2->{\alert<0>{ \{}}
+\uncover<3->{\alert<3>{ \alert<4>{std::}cout << i << " ";}}
+\uncover<3->{\alert<3>{ for (int j = 1; j < 100;}}
+\uncover<3->{\alert<3>{ is_prime [j] = false, j+=i);}}
+\uncover<2->{\alert<0>{ \}}}
+\uncover<1->{\alert<0>{ return 0;}}
+\uncover<1->{\alert<0>{\}}}
+\end{semiverbatim}
+\visible<4->{Notar el uso de \alert{\texttt{std::}}.}
+\end{frame}
+\end{document}

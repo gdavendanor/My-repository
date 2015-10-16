@@ -1,0 +1,31 @@
+\documentclass{article}
+  \usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+  %Paquetes adicionales
+  \usepackage{latexsym,amsmath,amssymb,amsfonts}
+  \usepackage[latin1]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{graphicx}
+  \usepackage[spanish]{babel} % Idioma español
+
+
+\begin{document} 
+
+\documentclass {article} % Compilar -> LaTeX
+\usepackage{graphicx}
+\usepackage{caption}
+\begin{document}
+Logo centrado y escalado a {\tt 3cm}
+\begin{center}
+\includegraphics[width =3cm]{images/ubuntu.eps}
+\end{center}
+En la figura \ref{fig:ubuntu} se
+muestra el logo de Ubuntu, centrado y
+escalado.\\
+\begin{center}
+\includegraphics[scale=0.2]{images/ubuntu.eps}
+\captionof{figure}{Logo de Ubuntu}\label{fig:
+ubuntu}
+\end{center}
+\end{document}
+
+\end{document}

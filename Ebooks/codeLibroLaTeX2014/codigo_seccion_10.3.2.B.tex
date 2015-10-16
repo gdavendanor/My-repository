@@ -1,0 +1,30 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+
+\usepackage{caption}
+\usepackage{tikz}
+%--
+\begin{document}
+
+\tikzset{ % Lista de opciones de nodo
+% opción draw = color borde
+% opacity = porcentaje transparencia
+% opción fill = color relleno
+opciones/.style={%
+draw= red!50!black!50,
+top color = white,
+bottom color = red!50!black!20,
+fill opacity = 0.6,
+rectangle, font=\small\bf\sffamily}
+}
+\begin{center}
+\begin{tikzpicture}
+\draw[draw= yellow!30,fill=yellow!30] (0,0) rectangle(2,2);
+\node[draw=black,rectangle, anchor=center] at (1,1) {$\bullet$};
+\node[opciones, anchor=south east] at (1,1) {ancla en el sur-este};
+\node[opciones, anchor=north west] at (1,1) {ancla en el norte-oeste};
+\end{tikzpicture}
+\captionof{figure}{Nodos rectangular con anclaje en el sureste y noroeste}
+\end{center}
+
+\end{document}

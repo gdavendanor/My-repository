@@ -1,0 +1,37 @@
+\documentclass[letterpaper, 12pt]{book} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel} % Idioma español
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{pstricks}
+
+\usepackage{makeidx}
+\makeindex
+
+%Compilar 1ro PDFLaTeX -  2do MakeIndeX - 3ro  PDFLaTeX
+
+\begin{document}
+Página 1: \index{Manzana|textbf}
+\newpage
+Página 2: \index{Naranja|(}
+\newpage
+Página 3: \index{Manzana!De agua}
+\newpage
+Página 4: \index{Banano|see{Manzana}}
+\newpage
+Página 5: \index{Naranja|)}
+\newpage
+Página 6: \index{Manzana!Nacional}
+\newpage
+Página 7: \index{Beta@$\beta$}
+\newpage
+Página 8: \index{Manzana!Americana}
+
+
+% % %%%%%%%%%%% ImprimirIndice
+\printindex
+
+\end{document}

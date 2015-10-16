@@ -1,0 +1,27 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel,pstricks,esvect} %Para color %\blue \red etc. necesitan pstricks
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm máx}}} % 
+\def\min{\mathop{\mbox{\rm mín}}} % 
+\newcommand{\wref}[2]{\hyperref[#2]{#1 \ref*{#2}}}
+\newcommand{\colr}[1]{\red #1}
+\newcommand{\colb}[1]{\blue #1}
+\newcommand{\proy}[2]{\displaystyle\mbox{proy}_{_{\vv{\blue #2}}}^{^{\vv{#1}}}}
+
+\begin{document}
+$\proy{v}{\blue w} \;=\;\dfrac{\vv{v} \cdot \colb{\vv{ w}} }{
+	||\colb{\vv{w}}||^2 } \,\colb{w}$
+\end{document}

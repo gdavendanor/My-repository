@@ -1,0 +1,35 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage{tabularx}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rmax}}} 
+\def\min{\mathop{\mbox{\rmax}}} 
+
+\begin{document}	
+
+\newcolumntype{D}{>{$\displaystyle}c<{$}}
+%Las columnas M aceptan texto matemático ala izquierda: |l|
+\newcolumntype{M}{>{$}l<{$}}
+%Se usa ’tabular’ normal.
+\begin{tabular}{|D|D|D|D|M|D|M|r|}\hline
+	n & -1 & 0 & 1 & 2 & 3 & 5 & 5 \\ \hline
+	a_n & 8 & 5 & 2 & 2 & 4 & n & n \\ \hline
+	r_n & 0 & 1 & 2 & 5 & 22 & 444 & 444 \\ \hline
+	s_n & 1 & 0 & 1 & 2 & 9 &7& 7\\ \hline
+	F & 0 &-2 &\frac{n}{4}& \frac{n}{4} & n^2 & 2 & 2
+	\rule[-0.3cm]{0cm}{1cm}\\ \hline
+\end{tabular}
+
+\end{document}

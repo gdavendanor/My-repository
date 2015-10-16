@@ -1,0 +1,20 @@
+% Abrir en RStudio y guardar como nombre.Rnw
+% Instalar los paquetes xtable y stargazer
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[latin1]{inputenc}
+\begin{document}
+\section{Incluir tablas}
+<<echo=FALSE, results="asis">>=
+#install.packages("xtable")
+library(xtable)
+d<-data.frame(tail=c(12,11,32,0),legs=c(4,4,4,2),height =c(31,35,62,68))
+d
+xtable(d)
+@
+<<echo=FALSE, results="asis">>=
+#install.packages("stargazer")
+library(stargazer)
+stargazer(d)
+@
+\end{document}

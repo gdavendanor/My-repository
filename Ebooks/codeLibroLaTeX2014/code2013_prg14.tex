@@ -1,0 +1,20 @@
+\documentclass{article}
+  \usepackage{amsmath}
+  \usepackage{boiboites}
+     %Definiendo colores para los entornos 'bteo' y 'bdefi'
+  \newboxedtheorem[boxcolor=orange, background=blue!5, titlebackground=blue!20,
+                   titleboxcolor = black]{ bteo }{Theorem}{thCounter}
+  \newboxedtheorem[boxcolor=orange, background=blue!5, titlebackground=blue!20,
+                   titleboxcolor = black]{ bdefi }{Definición}{thCounter}
+                   
+\begin{document}
+
+ \begin{bteo}[Ley de Grandes Números]
+    Sea $(X_n)_{n\in \mathbb{N}}$ una sucesión infinita de variables i.i.d. con
+    valor esperado finito. Entonces:
+
+    $$\frac{1}{n} \sum_{i=1}^n X_i \overset{\textnormal{a.s.}}{\longrightarrow}
+    \mathbb{E} (X_1) .$$
+ \end{bteo}
+
+\end{document}

@@ -1,0 +1,12 @@
+\select@language {spanish}
+\addvspace {20pt}
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {\color {myyellow}\fboxrule 2pt\relax \Circle {\hfil I\hfil }}\\[2ex]\color {myred}\sffamily Edici\'on con \textlatin {\LaTeX }}{3}
+\contentsline {chapter}{\numberline {1}Primeros pasos \textlatin {\LaTeX }}{5}
+\contentsline {section}{\numberline {1.1}Esta es la primera}{5}
+\contentsline {subsection}{\numberline {1.1.1}Esta es la segunda un poc m\'as larga}{5}
+\addvspace {20pt}
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {\color {myyellow}\fboxrule 2pt\relax \Circle {\hfil II\hfil }}\\[2ex]\color {myred}\sffamily HTML}{123}
+\contentsline {chapter}{\numberline {2}Primeros pasos en HTML}{125}
+\contentsline {section}{\numberline {2.1}javascript}{125}
+\contentsline {subsection}{\numberline {2.1.1}No es java}{125}
+\contentsfinish 

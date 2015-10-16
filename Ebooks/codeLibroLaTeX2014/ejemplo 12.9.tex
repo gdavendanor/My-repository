@@ -1,0 +1,29 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\begin{document}
+\begin{frame}[fragile]{Programación java} % fragile
+\begin{minted}[frame=lines, rulecolor=\color{gray}]{java}
+import javax.swing.*;
+import java.awt.*;
+public class app_prg1 extends JApplet
+{ public void init(){}
+public void paint ( Graphics g ){
+g.drawString(" 3 +46 = "+(3+46),30, 30 );}
+}
+\end{minted}
+\end{frame}
+\end{document}

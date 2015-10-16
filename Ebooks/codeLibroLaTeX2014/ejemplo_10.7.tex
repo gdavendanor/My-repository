@@ -1,0 +1,52 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage[latin1]{inputenc}
+\definecolor{azulF}{rgb}{.0,.0,.3} % Azul
+\definecolor{rojoF}{RGB}{212,0,0} % Rojo
+\newcommand{\Z}{\mathbb{Z}} % \Z
+% Estilo B
+\newtheoremstyle{estiloB}{}{}{}{}%
+{\color{azulF}\bfseries} % fuente del encabezado
+{.} % puntuación
+{\newline} % espacio después del encabezado
+{\thmname{#1}~\thmnumber{\color{rojoF} #2}\thmnote{~\color{azulF}(#3)}}
+%%--
+\theoremstyle{estiloB}
+\newtheorem{unadefiB}{Definici�n}[chapter]
+\newtheorem{unteoB}{Teorema}[section]
+%%--
+% Estilo C
+\newtheoremstyle{estiloC}{}{}{}{}%
+{\color{rojoF}\bfseries}%
+{.}{\newline}{}%
+%--
+\swapnumbers % Intercambiar número-teorema
+\theoremstyle{estiloC}
+\newtheorem{unteoC}{Teorema}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+\tcbset{opteqA/.style={%
+tcboxraise base,
+nobeforeafter,
+extrude by=-2mm,
+colback=red!50!black!20,
+colframe=red!50!black!20}}
+
+\begin{document}
+
+\tcbset{opteqC/.style={skin=beamer,colback=red!10!white}}
+\begin{tcolorbox}[opteqC]
+\begin{eqnarray}
+A &=& \dfrac{\partial u}{\partial x} + \lambda a \\[0.5cm]
+B &=& \dfrac{\partial u}{\partial z}
++ \dfrac{\partial^2 u}{\partial x} b + \gamma \\[0.5cm]
+CD &=&\dfrac{\partial f}{\partial x} c
++ \dfrac{\partial f}{\partial z} \\[0.5cm]
+E &=& d\Gamma(x) d + \Xi(y)
+\end{eqnarray}
+\end{tcolorbox}
+
+\end{document}

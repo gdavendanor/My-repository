@@ -1,0 +1,43 @@
+\documentclass{book} %% ESTA ES SOLO UNA PLANTILLA -- 
+
+  \usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry} %% ESTA ES SOLO UNA PLANTILLA -- 
+  
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage[latin1]{inputenc}
+\definecolor{azulF}{rgb}{.0,.0,.3} % Azul
+\definecolor{rojoF}{RGB}{212,0,0} % Rojo
+
+\usepackage{xparse}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+\tcbset{opteqA/.style={%
+tcboxraise base,
+nobeforeafter,
+extrude by=-2mm,
+colback=red!50!black!20,
+colframe=red!50!black!20}}
+
+\newcounter{tcbteorema}[chapter] % Contador
+\renewcommand{\thetcbteorema}{\thechapter.\arabic{tcbteo}}% Formato 1.1,1.2,
+
+%% ESTA ES SOLO UNA PLANTILLA -- 
+
+\begin{document}
+\newtcolorbox{cajaTeorema}[3][]{opt1,opt2,...optn,
+enhanced, % habilitar código TikZ
+breakable,
+overlay unbroken = { objetos gráficos },
+overlay first = {objetos gráficos parte superior},
+overlay middle = {objetos gráficos parte media},
+overlay last = {objetos gráficos parte final}
+#1
+}
+% Entorno #1=Descripción, #2=label, #3=contenido
+\NewDocumentEnvironment{teorema}{O{} O{} O{}}{%
+\bigskip
+\begin{wwteorema}{#1}{#2}%
+#3}{\end{wwteorema}\bigskip }
+\end{document}

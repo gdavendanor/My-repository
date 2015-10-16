@@ -1,0 +1,47 @@
+\documentclass{book}
+\usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+
+\usepackage{amsthm,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+
+
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+\usepackage{varwidth}
+
+%% - Definiendo el entorno "cajaInterludio"-------------------------------
+\newtcolorbox{cajaInterludio}[2][]{%
+skin=enhancedlast jigsaw,interior hidden,
+boxsep=0pt,top=0pt,colframe=red,coltitle=red!50!black,
+fonttitle=\bfseries\sffamily,
+attach boxed title to bottom center,
+boxed title style={empty,boxrule=0.5mm},
+varwidth boxed title=0.5\linewidth,
+underlay boxed title={
+\draw[white,line width=0.5mm]
+([xshift=0.3mm-\tcboxedtitleheight*2,yshift=0.3mm]title.north west)
+--([xshift=-0.3mm+\tcboxedtitleheight*2,yshift=0.3mm]title.north east);
+\path[draw=red,top color=white,bottom color=red!50!white,line width=0.5mm]
+([xshift=0.25mm-\tcboxedtitleheight*2,yshift=0.25mm]title.north west)
+cos +(\tcboxedtitleheight,-\tcboxedtitleheight/2)
+sin +(\tcboxedtitleheight,-\tcboxedtitleheight/2)
+-- ([xshift=0.25mm,yshift=0.25mm]title.south west)
+-- ([yshift=0.25mm]title.south east)
+cos +(\tcboxedtitleheight,\tcboxedtitleheight/2)
+sin +(\tcboxedtitleheight,\tcboxedtitleheight/2); },
+title={#2},#1}
+
+
+
+\begin{document}
+
+\begin{cajaInterludio}{Interludio}
+Como una curiosidad adicional, las funciones continuas tienen primitiva...
+...
+\end{cajaInterludio}
+
+\end{document}

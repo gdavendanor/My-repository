@@ -1,0 +1,27 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\begin{document}
+\begin{frame}{Ejemplo}
+\begin{enumerate}
+\item<1-|alert@1> $x^4-x=0$ % <-
+\item<2-|alert@2> $x(x^3-1)=0$
+\item<3-|alert@3> $x =0 \;$ o $\;x^3-1=0$
+\item<4-|alert@4> $x =0 \;$ o $\;x=\sqrt[3]{1}$
+\item<1-|alert@1> $\Longrightarrow x=0,\; x=1$ % <-
+\end{enumerate}
+\end{frame}
+\end{document}

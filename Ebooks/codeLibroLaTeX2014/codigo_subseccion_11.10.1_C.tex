@@ -1,0 +1,40 @@
+\documentclass{book}
+
+\usepackage[text={15cm,25cm},centering]{geometry}
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage[latin1]{inputenc}
+
+% Diseño de encabezado de capítulo----
+\usepackage[ruled,vlined,lined,linesnumbered,algochapter,spanish]{algorithm2e}
+% Nuevo en la versión 5.0 (2013)
+% Incompatible con versiones antiguas
+\begin{document}
+% Nuevo en la versión 5.0 (2013)
+% Incompatible con versiones antiguas
+% Nuevo en la versión 5.0 (2013)
+% Incompatible con versiones antiguas
+\begin{algorithm}[H]
+\caption{Criba de Eratóstenes} \label{CribaEraostenes}
+\SetAlgoLined
+\KwData{$n \in\, N$}
+\KwResult{Primos entre $2$ y $n$}
+\LinesNumbered
+max$=\left[\;\frac{(n-3)}{2}\;\right]$\;
+boolean esPrimo$[i],\;\;\; i=1,2,...,max$\;
+\SetAlgoVlined
+\For{$j=1,2,...,max$ }{ esPrimo$[j]=$True\;}
+$i=0$\;
+\While{$(2i+3)(2i+3) \leq n$}{
+$k=i+1$\;
+\If{\rm esPrimo$[i]$}{
+\While{$(2k+1)(2i+3) \leq n$}
+{
+esPrimo$[((2k+1)(2i+3)-3)/2]=$False\;
+$k=k+1$\;
+}}
+$i=i+1$\; }
+Imprimir\;
+\For{$j=1,2,...,max$ }{
+\If{\rm esPrimo$[j]=$True}{Imprima $j$ } }
+\end{algorithm}
+\end{document}

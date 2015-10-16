@@ -1,0 +1,37 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+
+\usepackage{booktabs}
+% Comandos especiales
+\usepackage[x11names,table]{xcolor}
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+
+
+\begin{document}	
+
+\begin{table}[h!]
+	\centering
+	\begin{tabular}{lll}
+		&\multicolumn{2}{c}{Estimación del error}\\
+		&\multicolumn{2}{c}{absoluto y relativo}\\
+		\rowcolor{LightBlue2} $x_n$ &$x_{n+1}$
+		& $|x_{n+1}-x_n|/|x_{n+1}|$\\ \midrule
+		-3.090721649 & 2.990721649 &1.6717\\
+		-2.026511552 & 1.064210097 &0.525143859\\
+		-1.205340185 & 0.821171367 &0.681277682\\ \bottomrule
+	\end{tabular}
+	\caption{}
+\end{table}
+\end{document}

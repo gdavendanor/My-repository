@@ -1,0 +1,48 @@
+\documentclass{book}
+\usepackage[text={10cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  \usepackage{xcolor} 
+  \usepackage[explicit]{titlesec}
+  \usepackage{tikz}
+  \usetikzlibrary{shapes,shadows,calc}
+  \usepackage{kantlipsum}
+  \definecolor{visgreen}{rgb}{0.733, 0.776, 0}
+
+%%  Imagen TikZ
+%  \SecTitle{<signal direction>}{<node anchor>}%
+%           {<node horiz, shift>}{<node x position>}{#5}
+% el quinto argumento será utilizado por 
+% \TitleFormat para escribir el título de la sección usando # 1
+\newcommand\SecTitle[5]{%
+\begin{tikzpicture}[overlay,every node/.style={signal, draw, text=white, signal to=nowhere}]
+  \node[visgreen,fill, signal to=#1, inner sep=1em, drop shadow,
+    text=white,font=\Huge\sffamily,anchor=#2,
+    xshift=\the\dimexpr-\marginparwidth-\marginparsep-#3\relax] 
+    at (#4,0) {#5};
+\end{tikzpicture}%
+}
+
+\titleformat{name=\section,page=odd}
+{\normalfont}{}{0em}
+{\SecTitle{east}{west}{16pt}{0}{#1}}[\addvspace{4ex}]
+
+\titleformat{name=\section,page=even}
+{\normalfont}{}{0em}
+{\SecTitle{east}{west}{16pt}{0}{#1}}[\addvspace{4ex}]
+
+
+
+\begin{document}
+
+\section{Sección 1}
+\kant[2]
+\section{Sección 2}
+\kant[2]
+\clearpage
+\section{Sección 3}
+\kant[2]
+\section{Sección 4}
+\kant[2]
+
+\end{document}

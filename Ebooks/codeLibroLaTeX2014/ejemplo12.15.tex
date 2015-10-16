@@ -1,0 +1,37 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\usepackage[ruled,vlined,lined,linesnumbered,algosection,spanish]{algorithm2e}
+\usepackage{multimedia}
+\begin{document}
+\begin{frame}{Multicolumnas}
+\begin{columns}[t]
+\begin{column}{.48\linewidth}
+\begin{block}{Bloque 1}
+Bloque de la primera columna
+\end{block}
+\end{column}
+\begin{column}{.48\linewidth}
+\begin{block}{Bloque 2}
+Bloque en la segunda columna
+\end{block}
+\begin{block}{Bloque 3}
+Bloque en la segunda columna
+\end{block}
+\end{column}
+\end{columns}
+\end{frame}
+\end{document}

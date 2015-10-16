@@ -1,0 +1,28 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=18cm
+\topmargin=-2cm
+%SÃ­mbolos matemÃ¡ticos de la AMS
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm mÃ¡x}}} % mÃ¡ximo
+\def\min{\mathop{\mbox{\rm mÃ­n}}} % mÃ­nimo
+
+
+\begin{document}
+% Sin numeración >>
+\begin{eqnarray*}
+	y=\sqrt[n]{x} &\Longrightarrow & y^n=x \\
+	&\Longrightarrow & n\log \,y=\log \,x,\;\mbox{si}\;x,y>0\\
+	& \Longrightarrow & \log \sqrt[n]{x}={1 \over n}\log \,x
+\end{eqnarray*}
+\end{document}

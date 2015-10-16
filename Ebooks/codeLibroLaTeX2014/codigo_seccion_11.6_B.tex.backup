@@ -1,0 +1,49 @@
+\documentclass{book}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+  %Helvética
+\newcommand{\helv}{\fontfamily{phv}\fontsize{9}{11}\selectfont}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{} % borra cabecera y pie actuales
+%\fancyhead[LE,RO]{\helv\thepage} %Left Even page - Right Odd page
+
+\rhead{%
+\setlength{\unitlength}{1mm}
+\begin{picture}(0,0)
+% Figura
+\put(-10,2){\includegraphics[width =10mm]{images/ubuntu.png}}
+% Texto
+\put(-92,5){
+\parbox[t]{90mm}{
+\begin{flushright}
+\begin{scriptsize}
+\textsf{Ubuntu}
+\end{scriptsize}
+\end{flushright}
+}
+}
+\end{picture}}%
+
+
+%%--
+
+
+
+\begin{document}
+
+\chapter{Nada}
+
+\section{Nada}
+
+\newpage
+\chapter{Nada}
+
+\section{Nada}
+
+\end{document}

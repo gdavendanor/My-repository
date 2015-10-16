@@ -1,0 +1,23 @@
+\documentclass{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{multicol}
+
+
+
+\begin{document}
+\begin{verbatim}
+Sub Trapecio(a,b,n,delta)
+Dim N As Integer
+Dim F As New clsMathParser
+suma = 0
+h = (b - a) / N
+For i = 1 To N - 1
+xi = a + i * h
+suma = suma + F.Eval1(xi)
+Next i
+End Sub
+\end{verbatim}
+\end{document}

@@ -1,0 +1,77 @@
+\documentclass{book}
+
+% Márgenes-------------------------------------------------------
+\usepackage[total={18cm,21cm},top=2cm, left=2cm]{geometry}
+\parindent=0mm
+
+% Otros paquetes --------------------------------------------------
+\usepackage{mathpazo} %fuente palatino
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{pstricks}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc} % 
+\usepackage[spanish]{babel}   % Idioma español
+\usepackage{latexsym,amsmath,amssymb,amsfonts,cancel}
+% Referencias - ligas
+\usepackage[hyphens]{url}
+\usepackage[breaklinks,colorlinks=true, pdfstartview=FitV, linkcolor=red,
+citecolor=styrmitcrnred, urlcolor=styrmitcrnblue]{hyperref}
+\setcounter{chapter}{0}
+\newtheorem{teo}{Teorema}[chapter]           %entorno para teoremas
+\newtheorem{ejemplo}{{\it Ejemplo}}[chapter] %entorno para ejemplos
+\newtheorem{defi}{Definici\'on}[chapter]     %entorno para definiciones
+%Comandos -------------------------------------------------------
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+
+
+\begin{document}
+  \title{\Huge Manual de \LaTeX\\
+         {\small  \gray {\fontfamily{phv}\selectfont % gris y Helvetica
+                         Instituto Tecnol\'ogico de Costa Rica\\
+                         Escuela de Matem\'atica\\
+                         Ense\~nanza de la Matem\'atica\\
+                        }
+          }}
+  \author{Preparado por Prof. Walter Mora F. y Alexander Borb\'on A.}
+  \date{2013}
+  \maketitle %despliega el t\'itulo
+  \tableofcontents
+  
+  \chapter{\LaTeX}
+  \section{?`Qué es \LaTeX?}
+
+   ...
+     \subsection{Preámbulo}
+   ...
+     \subsubsection{Acerca del Título}
+  
+  \section{Deficiones, teoremas y ejemplos}
+    \begin{defi}\label{definicion1} $f$ es de clase $C^1[a,b]$  si ....
+    \end{defi}
+    
+    En la definición \ref{definicion1} se puede notar\\
+    
+     %Teorema
+    \begin{teo} {\rm Si  $f \in C^1[a,b]$ entonces....} %fuente roman normal
+    \end{teo}
+    
+         %Teorema
+    \begin{ejemplo} Si $f(x)=\frac{1}{x-2}$ entonces  $f \in C^1[-1,1]$.
+    \end{ejemplo}
+  
+
+  \addcontentsline{toc}{chapter}{Bibliografía}
+  \begin{thebibliography}{99}
+    \bibitem{Hahn} Hahn, J.``\LaTeX $\,$ for eveyone''. Prentice Hall,
+              New Jersey, 1993.
+    ...
+  \end{thebibliography}
+  
+  
+\end{document}
+
+
+

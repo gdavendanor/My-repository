@@ -1,0 +1,39 @@
+\documentclass{article}
+
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{xcolor}
+
+
+
+
+
+\begin{document}
+	
+
+
+
+
+
+\renewcommand{\labelenumi}{\Roman{enumi}.}
+\renewcommand{\labelenumii}{\arabic{enumii}$)$ }
+\renewcommand{\labelenumiii}{\alph{enumiii}$)$ }
+\renewcommand{\labelenumiv}{$\bullet$ }
+\begin{enumerate}
+	\item Primer nivel (en Romanos)
+	\begin{enumerate}
+		\item Segundo nivel (en numeración arábiga)
+		\begin{enumerate}
+			\item Tercer nivel (numeración alfabética)
+			\begin{enumerate}
+				\item Cuarto nivel (usamos {\tt bullet})
+			\end{enumerate}
+		\end{enumerate}
+	\end{enumerate}
+\end{enumerate}
+	
+	
+
+
+\end{document}

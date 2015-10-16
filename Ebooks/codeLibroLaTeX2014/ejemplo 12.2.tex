@@ -1,0 +1,32 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\begin{document}
+\begin{frame}
+\frametitle{Campo Galois $GF(p^r)$}
+\framesubtitle{Resumen}
+\begin{enumerate}[<+->] % <- Nueva opción
+\item Sea $F$ un campo con $q$ elementos y $a$ un elemento no
+nulo de $F$. Si $n$ es el orden de $a$, entonces $n|(q-1)$.
+\item Sea $p$ primo y $m(x)$ un polinomio irreducible de grado
+$r$ en $Z_p[x]$.
+Entonces la clase residual $Z_p[x]/\equiv_{m(x)}$ es un campo
+con $p^r$ elementos que contiene $Z_p$ y una raíz de $m(x)$.
+\item Sea $F$ un campo con $q$ elementos.
+Entonces $q=p^r$ con $p$ primo y $r \in \, N$
+\end{enumerate}
+\end{frame}
+\end{document}

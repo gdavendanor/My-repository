@@ -1,0 +1,51 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage[latin1]{inputenc}
+\definecolor{azulF}{rgb}{.0,.0,.3} % Azul
+\definecolor{rojoF}{RGB}{212,0,0} % Rojo
+\newcommand{\Z}{\mathbb{Z}} % \Z
+% Estilo B
+\newtheoremstyle{estiloB}{}{}{}{}%
+{\color{azulF}\bfseries} % fuente del encabezado
+{.} % puntuación
+{\newline} % espacio después del encabezado
+{\thmname{#1}~\thmnumber{\color{rojoF} #2}\thmnote{~\color{azulF}(#3)}}
+%%--
+\theoremstyle{estiloB}
+\newtheorem{unadefiB}{Definici�n}[chapter]
+\newtheorem{unteoB}{Teorema}[section]
+%%--
+% Estilo C
+\newtheoremstyle{estiloC}{}{}{}{}%
+{\color{rojoF}\bfseries}%
+{.}{\newline}{}%
+%--
+\swapnumbers % Intercambiar número-teorema
+\theoremstyle{estiloC}
+\newtheorem{unteoC}{Teorema}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+\begin{document}
+
+
+\begin{minipage}{7cm}
+\begin{enumerate}[font=\sffamily\bfseries,label=I.\arabic*), series=Is]
+\item $11^2=121$
+\item $(1+1)^2=1+2+1$
+\item $12^2=144$
+\item $(1+2)^2=1+4+4$
+\end{enumerate}
+\end{minipage} \hfill \begin{minipage}{7cm}
+\begin{enumerate}[label=I.\arabic*),resume*=Is]
+\item $3^3 + 4^4 + 3^3 + 5^5 = 3435$
+\item $2^4 = 4^2$
+\item $2592=2^59^2$
+\item $10^2+11^2+12^2=13^2+14^2$
+\end{enumerate}
+\end{minipage}
+\end{tcolorbox}%
+
+\end{document}

@@ -1,0 +1,131 @@
+\documentclass[letterpaper,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[height=9.5in,width=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\Email matematicas.german@gmail.com}
+\fancyhead[RE]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{\Email matematicas.german@gmail.com}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Rectas tangentes y derivadas\\
+Cálculo $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\begin{multicols}{2}
+\section*{El problema de la recta tangente}
+Una recta tangente a una curva, es una recta que solamente toca un punto de la curva en un sector vecino de éste en la curva. Por ejemplo en la figura se observa la parábola $y=x^{2}$ y su recta tangente $t$ que toca el punto $P(1,1)$. 
+\begin{center}
+\begin{tikzpicture}[scale=1.25]
+\draw[<->] (-1.2,0)--(2.3,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-1.2)--(0,3.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\draw[smooth, domain = -1:1.75]
+plot (\x,\x*\x) node[right] {$y = x^{2}$};
+\filldraw (1,1) circle (1.5pt)node[right]{$P$};
+\draw[smooth, domain = -0.3:1.75,color=red]
+plot (\x,2*\x-1) node[right] {$t$};
+\end{tikzpicture}
+\end{center}
+Se puede determinar la ecuación de la recta tangente conociendo la pendiente $m$ de ésta. La dificultad está en que solamente conocemos un punto de ésta recta y para calcular la pendiente de una recta necesitamos al menos dos puntos de ésta. Sin embargo podemos hacer una aproximación a $m$ eligiendo un punto vecino $Q(x,x^{2})$ en la parábola como se muestra en la figura y calculando la pendiente $m_{PQ}$ de la secante $PQ$.
+\begin{center}
+\begin{tikzpicture}[scale=1.25]
+\draw[<->] (-1.2,0)--(2.3,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-1.2)--(0,3.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\draw[smooth, domain = -1:1.75]
+plot (\x,\x*\x) node[right] {$y = x^{2}$};
+\filldraw (1,1) circle (1.25pt)node[right]{$P$};
+\draw[smooth, domain = -0.3:1.75,color=red]
+plot (\x,2*\x-1) node[right] {$t$};
+\filldraw (1.4142,2) circle (1.25pt)node[left]{$Q(x,x^{2})$};
+\draw[smooth, domain = 0.2:1.75,color=blue]
+plot (\x,2.4143*\x-1.4143);
+\end{tikzpicture}
+\end{center}
+Podemos elegir $x\neq 1$ así que $Q\neq P$, luego
+\[m_{PQ}=\dfrac{x^{2}-1}{x-1}\]
+Ahora aproximamos $x$ a 1, con lo cual $Q$ se aproxima a $P$ a lo largo de la parábola. 
+
+La pendiente de la recta tangente es el límite de las pendientes de las rectas secantes
+\[m=\displaystyle{\lim_{Q\rightarrow P}m_{PQ}}\]
+Ahora usando lo aprendido en la solución de límites se tiene:
+\begin{align*}
+m&=\displaystyle{\lim_{x\rightarrow 1}\dfrac{x^{2}-1}{x-1}=\lim_{x\rightarrow 1}\dfrac{(x-1)(x+1)}{x-1}}\\
+&=\displaystyle{\lim_{x\rightarrow 1}(x+1)=1+1=2}
+\end{align*}
+Ahora que se conoce la pendiente de la recta tangente que es $m=2$, se puede usar la forma punto-pendiente de la ecuación de una recta para encontrar la ecuación de la recta tangente $t$ así:
+\[y-1=2(x-1)\]
+es decir \[y=2x-1\]. Esto se hace sabiendo que la recta tangente pasa por el punto $P(1,1)$
+
+De forma general se puede calcular la pendiente de la recta tangente en el punto $P(a,f(a))$ para cualquier curva dada por una función $f$ cualquiera, haciendo la aproximación por una recta secante que pase también por otro punto cercano a $P(a,f(a))$ que podemos llamar $Q(x,f(x))$, de tal manera que calculamos la pendiente de la recta secante que pasa por los puntos $P$ y $Q$ así:
+\[m_{PQ}=\dfrac{f(x)-f(a)}{x-a}\]
+Luego hacemos que $Q$ se aproxime a $P$ a lo largo de la curva $C$ dada por la función $f$ haciendo que $x$ tienda a $a$. Si $m_{PQ}$ se aproxima a el número $m$, entonces se dice que la tangente $t$ pasa por $P$ con pendiente $m$. Es decir la recta tangente es el límite de la secante $PQ$ cuando $Q$ se aproxima a $P$
+\section*{Ejercicios}
+Para los puntos \ref{q01}--\ref{q02}, encuentre la pendiente de la recta tangente a la gráfica de $f$ en el punto dado
+\begin{enumerate}
+\item \label{q01} $f(x)=3x+4$ en el punto (1,7)
+\item $f(x)=4x^{2}-3x$ en (--1,7)
+\item \label{q02} $2x^{3}$ en (2,16)
+
+Para los puntos \ref{q03}--\ref{q04}, encuentre la ecuación de la recta tangente a la curva en el punto dado. Grafique la curva y su recta tangente
+\item \label{q03} $y=x+x^{2}$ en (--1,0)
+\item $y=\dfrac{x}{x-1}$ en (2,2)
+\item \label{q04} $y=\sqrt{x+3}$ en (1,2)
+
+\ref{q05}--\ref{q06}, encuentre la derivada de la función para el número dado
+\item \label{q05} $f(x)=1-3x^{2}$ en $x=2$
+\item $g(x)=x^{4}$ en $x=1$
+\item \label{q06} $F(x)=\dfrac{1}{\sqrt{x}}$ en $x=4$
+
+\ref{q07}--\ref{q08}, encuentre $f'(a)$, donde $a$ está en el dominio de $f$
+\item \label{q07} $f(x)=x^{2}+2x$
+\item $f(x)=\dfrac{x}{x+1}$
+\item \label{q08} \begin{enumerate}
+\item Sí $f(x)=x^{3}-2x+4$, encuentre $f'(a)$
+\item Encuentre ecuaciones de las rectas tangentes a la gráfica de $f$ en los puntos cuyas coordenada en $x$ son 0, 1 y 2
+\item Grafique $f$ y las tres rectas tangentes
+\end{enumerate}
+\section*{Aplicaciones}
+\item \textbf{Velocidad de una bola} Si una pelota es lanzada al aire con una velocidad inicial de 40 pies/segundo, su altura en pies después de $t$ segundos está dada por $y=40t-16t^{2}$. Encuentre la velocidad cuando $t=2$ s.
+\item \textbf{Velocidad en la luna} Si una flecha es disparada hacia arriba en la luna con una velocidad de 58 m/s, su altura (en metros) después de $t$ segundos está dada por $H=58t-0.83t^{2}$
+\begin{enumerate}
+\item Encuentre la velocidad de la flecha después de 1 segundo
+\item Encuentre la velocidad de la flecha cuando $t=a$
+\item ¿En qué instante $t$, la flecha caerá a la superficie lunar?
+\item Con qué velocidad cae la flecha en la superficie lunar?
+\end{enumerate}
+\item \textbf{Cambio de temperatura} Una porción de carne de pavo es retirada de la plancha cuando su temperatura es de 185$^{\circ}F$ y es puesta en una mesa en un cuarto cuya temperatura es de 75$^{\circ}F$. La gráfica muestra como la temperatura del pavo disminuye y eventualmente se aproxima a la temperatura del cuarto. Midiendo la pendiente de la recta tangente, calcule la razón de cambio de la temperatura después de una hora.
+\begin{center}
+\includegraphics[scale=1]{Images/"Captura de pantalla - 121015 - 20:47:44".png} 
+\end{center}
+\end{enumerate}
+
+\end{multicols}
+
+
+\end{document}

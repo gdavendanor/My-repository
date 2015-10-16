@@ -1,0 +1,69 @@
+\documentclass{book}
+  \usepackage[text={15cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  
+%--Diseño de la tabla de contenido   
+\usepackage{xcolor}
+\usepackage{framed}
+
+\definecolor{myred}{RGB}{127,0,0}
+\definecolor{myyellow}{RGB}{169,121,69}
+
+\renewenvironment{leftbar}{%
+  \def\FrameCommand{{\color{myyellow}\vrule width 2pt depth 6pt} \hspace{10pt}}%
+  \MakeFramed {\advance\hsize-\width \FrameRestore}}%
+ {\endMakeFramed}
+\makeatletter
+\def\@chapter[#1]#2{\ifnum \c@secnumdepth >\m@ne
+                       \if@mainmatter
+                         \refstepcounter{chapter}%
+                         \typeout{\@chapapp\space\thechapter.}%
+                         \addtocontents{toc}%
+                                   {%
+                                       {\protect\parbox{3.5em}{\hfill\Huge\color{myred}\bfseries\thepage}}%
+                                         \protect\hspace*{.5em}
+                                        \protect\parbox{\dimexpr\linewidth-4em\relax}{%
+                                           \protect\begin{leftbar}
+                                              {\scshape\small\chaptername~\thechapter}\\\sffamily#1%
+                                           \protect\end{leftbar}}\par\noindent
+                                    }%
+                       \else
+                         \addcontentsline{toc}{chapter}{#1}%
+                       \fi
+                    \else
+                      \addcontentsline{toc}{chapter}{#1}%
+                    \fi
+                    \chaptermark{#1}%
+                    \addtocontents{lof}{\protect\addvspace{10\p@}}%
+                    \addtocontents{lot}{\protect\addvspace{10\p@}}%
+                    \if@twocolumn
+                      \@topnewpage[\@makechapterhead{#2}]%
+                    \else
+                      \@makechapterhead{#2}%
+                      \@afterheading
+                    \fi}
+\makeatother
+
+\begin{document}
+
+\tableofcontents
+\tableofcontents
+\chapter{(Título  capítulo 1)}
+
+\section{(Título  Sección1)}
+\subsection{(Título  sub-Sección1)}
+\subsection{(Título  sub-Sección2)}
+\section{(Título  Sección2)}
+\subsection{(Título  sub-Sección1)}
+\subsection{(Título  sub-Sección2)}
+
+\chapter{(Título  Capítulo 2)}
+
+\section{(Título  Sección1)}
+\subsection{(Título  sub-Sección1)}
+\subsection{(Título  sub-Sección2)}
+\section{(Título  Sección2)}
+\subsection{(Título  sub-Sección1)}
+\subsection{( sub-Sección2)}
+\end{document} 

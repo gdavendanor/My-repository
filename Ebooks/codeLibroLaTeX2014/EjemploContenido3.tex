@@ -1,0 +1,80 @@
+\documentclass{book}
+  \usepackage[text={15cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  
+%--Diseño de la tabla de contenido    
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{tikz}
+\usepackage{titletoc}
+\usepackage{etoolbox}
+\usepackage{lmodern}
+
+% 
+\definecolor{myred}{RGB}{127,0,0}
+\definecolor{myyellow}{RGB}{169,121,69}
+
+% C{irculo
+\newcommand\Circle[1]{\tikz[overlay,remember picture] 
+  \node[draw,circle, text width=18pt,line width=1pt] {#1};}
+
+% 
+\patchcmd{\tableofcontents}{\contentsname}{\sffamily\contentsname}{}{}
+\makeatletter
+\patchcmd{\@part}
+  {\addcontentsline{toc}{part}{\thepart\hspace{1em}#1}}
+  {\addtocontents{toc}{\protect\addvspace{20pt}}
+    \addcontentsline{toc}{part}{\huge{\protect\color{myyellow}%
+      \setlength\fboxrule{2pt}\protect\Circle{%
+        \hfil\thepart\hfil%
+      }%
+    }\\[2ex]\color{myred}\sffamily#1}}{}{}
+\makeatother
+
+\renewenvironment{leftbar}
+  {\def\FrameCommand{\hspace{6em}%
+    {\color{myyellow}\vrule width 2pt depth 6pt}\hspace{1em}}%
+    \MakeFramed{\parshape 1 0cm \dimexpr\textwidth-6em\relax\FrameRestore}\vskip2pt%
+  }
+ {\endMakeFramed}
+
+\titlecontents{part}
+  [0em]{\centering}
+  {\contentslabel}
+  {}{}
+\titlecontents{chapter}
+  [0em]{\vspace*{2\baselineskip}}
+  {\parbox{4.5em}{%
+    \hfill\Huge\sffamily\bfseries\color{myred}\thecontentspage}%
+   \vspace*{-2.3\baselineskip}\leftbar\textsc{\small\chaptername~\thecontentslabel}\\\sffamily}
+  {}{\endleftbar}
+\titlecontents{section}
+  [8.4em]
+  {\sffamily\contentslabel{3em}}{}{}
+  {\hspace{0.5em}\nobreak\itshape\color{myred}\contentspage}
+\titlecontents{subsection}
+  [8.4em]
+  {\sffamily\contentslabel{3em}}{}{}  
+  {\hspace{0.5em}\nobreak\itshape\color{myred}\contentspage}
+%%--
+
+\begin{document}
+
+\tableofcontents
+
+\part{Edición con \LaTeX}
+
+\chapter{Primeros pasos \LaTeX}
+\section{Esta es la primera}
+\subsection{Esta es la segunda un poc más larga}
+
+\newpage\setcounter{page}{123}% just for the example
+
+\part{HTML}
+
+\chapter{Primeros pasos en HTML}
+\section{javascript}
+\subsection{No es java}
+
+\end{document}

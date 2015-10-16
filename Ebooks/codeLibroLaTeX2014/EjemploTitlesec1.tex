@@ -1,0 +1,35 @@
+\documentclass{book}
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc} 
+  \usepackage{titlesec}
+  \usepackage{kantlipsum}
+  \titleformat{\section}[frame]{\normalfont}%
+ {\filright\footnotesize\enspace SECCIÓN \thesection\enspace}%
+ {8pt}{\Large\bfseries\filcenter}%
+ 
+%%--
+\titleformat{\chapter}[display]{\normalfont\Large\filcenter\sffamily}%
+{\titlerule[1pt]\vspace{1pt}%
+\titlerule
+\vspace{1pc}%
+\LARGE\MakeUppercase{\chaptertitlename} \thechapter}
+{1pc}
+{\titlerule
+\vspace{1pc}%
+\Huge}
+%%--
+\begin{document}
+\chapter{Pensamiento de Kant}
+\kant[3]
+\section{?`Qué dice Kant?}
+\kant[1-2]
+
+% Cambio de formato de la sección
+\titleformat{\section}
+{\titlerule
+\vspace{.8ex}%
+\normalfont\itshape}
+{\thesection.}{.5em}{}
+\section{Lo que sigue}
+\kant[2]
+\end{document}

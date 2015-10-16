@@ -1,0 +1,22 @@
+\documentclass{book}
+
+\usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+
+
+\usepackage{tikz}
+%--
+
+
+\begin{document}
+\begin{tikzpicture}
+\draw (0,0) -- (2,2); % segmento
+\end{tikzpicture}
+
+\begin{tikzpicture} % ejes
+\draw[thin, blue] (0,2) -- (0,0) -- (2,0);
+% segmento
+\draw[line width =0.051cm, red, dashed]
+(-1,-1) -- (1.5,1.5);
+\end{tikzpicture}
+
+\end{document}

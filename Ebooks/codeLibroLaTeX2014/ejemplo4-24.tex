@@ -1,0 +1,36 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+o
+
+
+\begin{document}
+\begin{align*}
+	a &= b + c - d\\
+	&\quad + e - f\\
+	&= m
+\end{align*}
+
+\bigskip
+% alinear en un espacio reducido
+\begin{minipage}{5cm}
+\begin{multline*}
+	a+b+c+d+e+f+t+x+y\\
+	+m+n+r+t+y
+\end{multline*}
+\end{minipage}
+
+\end{document}

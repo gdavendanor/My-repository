@@ -1,0 +1,23 @@
+\documentclass[12pt]{article}
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor, pstricks}
+%------------------------------------------------------------
+\usepackage{listings}%
+\lstset{ %
+language=Pascal, % lenguaje
+basicstyle=\bfseries\ttfamily,
+keywordstyle=\color{blue},
+commentstyle=\color{brown},
+backgroundcolor=\color{gray!90},
+showstringspaces=false
+}
+%-----------------------------------------------------------
+\begin{frame}{MARCO 3}
+\hyperlink{MARCO3}{$>$ Ir a Marco 4}
+\hypertarget<2>{MARCO4}{$<$}
+\end{frame}
+\begin{frame}{MARCO 4}
+\hyperlink{MARCO4}{Regresar a Marco 3}
+\hypertarget<2>{MARCO3}{}
+\end{frame}

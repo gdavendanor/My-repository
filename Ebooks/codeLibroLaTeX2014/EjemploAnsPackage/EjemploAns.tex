@@ -1,0 +1,91 @@
+\documentclass{book}
+\usepackage[spanish,es-nodecimaldot]{babel}
+\usepackage[latin1]{inputenc}                      % Entrada de acentos
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel,stmaryrd,amsthm}
+
+%---------------------------------------------------------------------
+\usepackage{ans}   % > Debe haber al menos un ejercicio por cada sección
+                   % > Use \exer:  si usted NO va a contestar la pregunta
+                   % > Use \exera: si usted  va a contestar la pregunta
+                   % > \subanswer ...(seguido de \exera). Use \par
+                   %    para cambiar de párrafo y dejar un renglón al final,
+                   %    se usa para delimitar la respuesta.
+                   % > Subproblemas: puede usar \exer y \subexer o
+                   %   \exera y \subexera
+                   % > \exer\annot{hard}
+\makeanswers
+\artsec
+\makesolutions
+%---------------------------------------------------------------------
+
+\begin{document}
+
+\chapter{I}
+
+
+\section{Lista de ejercicios con solución }
+
+\exercises
+
+\exera Determine la ecuación canónica de la parábola $y=2x^2-4x+1.$
+\answer  $2x^2-4x+1=y \;\Rightarrow\; 2(x-1)^2= y+1 \;\Rightarrow\;(x-1)^2=\frac{1}{2}(y+1).$
+ 
+
+\exera Determine la ecuaci\'{o}n can\'{o}nica de las siguientes parábolas,\subexera $-9\,y^2 - 8\,x - 3=0$\\
+  \subanswer $y^2=-\frac{8}{9}(x+\frac{3}{8})$
+  %Se debe dejar un renglón
+  
+ \subexera $y^2+2 y-4 x=7$\\
+ \subanswer $(y + 1)^2 = 4 (x + 2)$
+ 
+  \subexera $x^2+2 x-2 y+5=0$\\
+  \subanswer$(x + 1)^2 = 2 (y - 2)$
+  
+\exer Determine la ecuación canónica de la parábola $y=4x^2-5x+1.$  
+  
+\eexer
+
+
+
+
+\section{Lista 2 - sin solución}
+
+\exercises
+
+\exer Determine la ecuación canónica de la parábola $y=2x^2-4x+1.$
+\solution $2x^2-4x+1=y \;\Rightarrow\; 2(x-1)^2= y+1 \;\Rightarrow\;(x-1)^2=\frac{1}{2}(y+1).$
+ 
+
+\exer Determine la ecuaci\'{o}n can\'{o}nica de las siguientes parábolas,\subexer $-9\,y^2 - 8\,x - 3=0$\\
+  \solution $y^2=-\frac{8}{9}(x+\frac{3}{8})$\\
+  %Se debe dejar un renglón
+  
+ \subexer $y^2+2 y-4 x=7$\\
+ \solution $(y + 1)^2 = 4 (x + 2)$\\
+ 
+  \subexer $x^2+2 x-2 y+5=0$\\
+  \solution $(x + 1)^2 = 2 (y - 2)$\\
+  
+\eexer
+
+Mensajes de error:\\
+
+\begin{verbatim}
+% \exera This exercise tests an error message.  
+% It is marked to
+% have an answer, but does not.
+
+% \exer This exercise tests an error message too.
+% \subanswer This should not be here.
+\end{verbatim}
+
+
+
+
+\doanswers %Para ejercicios con solución
+
+%\dosolutions % Para ejer "sin solución"
+
+
+\end{document}

@@ -1,0 +1,25 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+
+\usepackage{multimedia}
+\begin{document}
+\begin{frame}
+\frametitle{Mi animación}
+\begin{figure}[t]
+\centering
+\includegraphics<1>[scale=0.2]{images/ubuntu1}
+\includegraphics<2>[scale=0.2]{images/ubuntu2}
+\includegraphics<3>[scale=0.2]{images/ubuntu3}
+\includegraphics<4->[scale=0.2]{images/ubuntu4}
+\end{figure}
+\end{frame}
+\end{document}

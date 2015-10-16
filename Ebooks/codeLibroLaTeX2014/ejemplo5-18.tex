@@ -1,0 +1,40 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage{tabularx}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rmax}}} 
+\def\min{\mathop{\mbox{\rmax}}} 
+
+\begin{document}	
+
+\begin{table}[h!] \label{ML:tabla_escalada}
+	\centering
+	\scalebox{0.8}{\begin{tabular}{cccccccccccccc}
+			Est.&P.16(a)&Pr.14&Pr.16(b)&Pr.1&Pr.9&Pr.5&Pr.4&Pr.15&Pr.3&Pr.13&Pr.11&Pr.7&Cal.
+			\\\hline
+			L & & 0 & & 0 & 0 & 2 & 2 & 2 & 1 & 2 & 2 & 2 &54
+			\\ \hline
+			S & & 0 & & 2 & 2 & 0 & 1 & 1 & 0 & 2 & 0 & 2 &42
+			\\ \hline
+			R & 0 & 1 & 0 & 0 & 0 & 1 & 1 & 1 & 2 & 0 & 2 & 2 &38
+			\\ \hline
+			Total& 0 & 1 & 2 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 10 & 14 &
+			\\ \hline
+			\multicolumn{12}{l}{Abreviaturas.Est.:Estudiante,Pr.:Pregunta,Cal.:Calificación}\\
+		\end{tabular}}
+		\caption{Resultados del cuestionario diagnóstico}
+	\end{table}
+
+\end{document}

@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+ \usepackage[shortlabels]{enumitem}
+
+\begin{document}
+\begin{minipage}{7cm}
+\begin{enumerate}[font=\sffamily\bfseries,label=A.\arabic*), series=Aes]
+\item $11^2=121$
+\item $(1+1)^2=1+2+1$
+\item $12^2=144$
+\item $(1+2)^2=1+4+4$
+\end{enumerate}
+\end{minipage} \hfill \begin{minipage}{7cm}
+\begin{enumerate}[label=I.\arabic*),resume*=Aes]
+\item $3^3 + 4^4 + 3^3 + 5^5 = 3435$
+\item $2^4 = 4^2$
+\item $2592=2^59^2$
+\item $10^2+11^2+12^2=13^2+14^2$
+\end{enumerate}
+\end{minipage}
+
+\end{document}

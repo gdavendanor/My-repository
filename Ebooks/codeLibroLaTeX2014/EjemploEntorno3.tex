@@ -1,0 +1,85 @@
+\documentclass{article}                      
+  \usepackage[text={15cm,25cm},centering]{geometry} 
+  \usepackage{kantlipsum}
+  \usepackage{tikz}
+     \usetikzlibrary{calc}
+  \usepackage{tcolorbox}
+     \tcbuselibrary{breakable,skins} 
+
+  \newcounter{contaCaja}    % contador
+  \setcounter{contaCaja}{1} % contador en 1
+  \def\thecontaCaja{\thesection-\arabic{contaCaja}}% Contador con # sección
+  \newenvironment{otraCaja}[1]{
+   \bigskip
+    \begin{tcolorbox}[
+       blank,breakable,parbox=false,top=5pt,left=5pt,bottom=5pt, right=5pt,       
+       overlay unbroken = {% 
+       \draw[black,line width=0.5pt] ($(interior.north west)+( 0pt,-5pt)$) |-
+                ($(interior.north)     +( 0pt, 4pt)$) -|
+                ($(interior.north east)+( 0pt,-5pt)$);
+            \node [black,fill=white] at ($(interior.north west)+(40pt, 4pt)$)
+                   {\sffamily\bfseries #1  \thecontaCaja};
+            \draw[black, line width=0.5pt] 
+                ($(interior.south east)+( 0pt,10pt)$) |-
+                ($(interior.south)     +( 0pt, 0pt)$) -|
+                ($(interior.south west)+( 0pt,10pt)$);
+            },
+        overlay first={
+            \draw[black,line width=0.5pt] ($(interior.north west)+( 0pt,-5pt)$) |-
+                ($(interior.north)     +( 0pt, 4pt)$) -|
+                ($(interior.north east)+( 0pt,-5pt)$);
+            \node [black,fill=white] at ($(interior.north west)+(40pt, 4pt)$) {\sffamily\bfseries #1 \thecontaCaja};
+            },
+        overlay last={
+            \draw[black,line width=0.5pt] ($(interior.south east)+( 0pt,10pt)$) |-
+                ($(interior.south)     +( 0pt, 0pt)$) -|
+                ($(interior.south west)+( 0pt,10pt)$);}
+        ]
+}{
+    \end{tcolorbox}
+    \bigskip
+}
+
+\newcounter{contaCajaB}    % contador
+  \setcounter{contaCajaB}{1} % contador en 1
+  \newenvironment{otraCajaB}[1]{
+   \bigskip
+    \begin{tcolorbox}[
+       blank,breakable,parbox=false,top=6mm,left=5pt,bottom=5pt, right=5pt,      
+       overlay unbroken = {% 
+       \draw[draw=blue!15!white,line width=6mm] ($(interior.north west)+( 0pt,0pt)$) |-
+                ($(interior.north)     +( 0pt, 0pt)$) -|
+                ($(interior.north east)+( 0pt,0pt)$);
+            \node [black,fill=white] at ($(interior.north west)+(40pt, 4pt)$)
+                   {\sffamily\bfseries #1  \thecontaCajaB};
+            \draw[draw=blue!15!white, line width=0.2mm] 
+                ($(interior.south east)+( 0pt,10pt)$) |-
+                ($(interior.south)     +( 0pt, 0pt)$) -|
+                ($(interior.south west)+( 0pt,10pt)$);
+            },
+        overlay first={
+            \draw[black,line width=0.5pt] ($(interior.north west)+( 0pt,-5pt)$) |-
+                ($(interior.north)     +( 0pt, 4pt)$) -|
+                ($(interior.north east)+( 0pt,-5pt)$);
+            \node [black,fill=white] at ($(interior.north west)+(40pt, 4pt)$) {\sffamily\bfseries #1 \thecontaCajaB};
+            },
+        overlay last={
+            \draw[black,line width=0.5pt] ($(interior.south east)+( 0pt,10pt)$) |-
+                ($(interior.south)     +( 0pt, 0pt)$) -|
+                ($(interior.south west)+( 0pt,10pt)$);},
+        ]
+}{
+    \end{tcolorbox}
+    \bigskip
+}
+
+\begin{document}
+ \section{Cajas}
+   \begin{otraCaja}{Comentario}
+     \kant[3]
+   \end{otraCaja}
+   
+      \begin{otraCajaB}{Comentario}
+     \kant[3]
+   \end{otraCajaB}
+\end{document}

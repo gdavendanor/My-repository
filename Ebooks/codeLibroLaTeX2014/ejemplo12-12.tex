@@ -1,0 +1,21 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd,graphicx}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{caption}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+
+\begin{document}
+\begin{frame}{MARCO 1}
+	\hyperlink{MARCO1}{\beamergotobutton{Ir a Marco 2}}
+	\hypertarget<2>{MARCO2}{}
+\end{frame}
+\begin{frame}{MARCO 2}
+	\hyperlink{MARCO2}{\beamerreturnbutton{Regresar a Marco 1}}
+	\hypertarget<2>{MARCO1}{}
+\end{frame}
+\end{document}

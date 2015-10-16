@@ -1,0 +1,53 @@
+\documentclass[letterpaper, 12pt]{article} 
+\usepackage[total={14cm,21cm},top=2cm,
+left=2cm]{geometry}
+\textheight =20cm
+\textwidth=18cm
+\topmargin=-2cm
+\parindent = 0mm % Sin sangría
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} % Idioma español
+\renewcommand{\baselinestretch}{1.1} % espaciado 1.1
+\pagestyle{myheadings}
+\markright{...... texto .......} % Encabezados simples
+\usepackage{multicol}
+\usepackage{xcolor}
+\usepackage{pstricks}
+\usepackage{marginnote}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\I}{\mathbb{I}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\N}{\mathbb{N}}
+\usepackage[shortlabels]{enumitem}
+%En el preámbulo
+\usepackage{tikz}
+%Define un comando para bolas 3D numeradas y de color azul
+\newcommand*{\itembolasazules}[1]{% l
+\footnotesize\protect\tikz[baseline=-3pt]%
+\protect\node[scale=.7, circle, shade,
+ball color=blue]{\color{white}\Large\bf#1};}
+\usepackage{makeidx}
+\makeindex
+\usepackage{anyfontsize}
+\usepackage{fix-cm}
+\usepackage{calligra}
+\usepackage{mathptmx}
+\usepackage{fancyvrb}
+
+\begin{document}
+
+\begin{Verbatim}[xleftmargin=3.1cm,xrightmargin=4.5cm,resetmargins=true,
+frame=lines,formatcom=\color{blue},fontfamily=ptm, commandchars=\\\{\},
+codes={\catcode?$=3\catcode?^{0}=7\catcode?_=8}]
+
+$x$ $y=x^2$
+0.000005 2.5$\times 10^{-11}$
+
+\end{Verbatim}
+\end{document}

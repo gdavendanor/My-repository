@@ -1,0 +1,22 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage[T1]{fontenc}
+
+
+\begin{document} % > Compilar con PDFLaTeX
+\begin{tabular}{|c|c|}\hline
+	\verb+\includegraphics{fig}+
+	& \verb+\includegraphics[scale=0.8]{fig}+ \\ \hline
+	\includegraphics{fig1}
+	& \includegraphics[scale=0.8]{fig1} \\ \hline
+	\verb+\includegraphics[width =0.2\textwidth]{fig}+
+	& \verb+\includegraphics[angle=-45]{fig}+ \\ \hline
+	\includegraphics[width =0.2\textwidth]{fig}
+	& \includegraphics[width =2cm, angle=-45]{fig} \\ \hline
+	\verb+\includegraphics[width =2cm,height =4cm]{fig}+
+	& \verb+\includegraphics[trim=2cm 2cm 4cm 0cm,clip]{fig}+ \\ \hline
+	\includegraphics[width =2cm, height =4cm]{fig}
+	& \includegraphics[trim = 2cm 2cm 4cm 0cm, clip]{fig} \\ \hline
+\end{tabular}
+\end{document}

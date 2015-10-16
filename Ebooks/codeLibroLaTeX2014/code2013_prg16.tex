@@ -1,0 +1,50 @@
+ \documentclass[12pt]{article}
+    \usepackage{amsmath,amssymb,amsfonts,latexsym}
+    \usepackage[spanish]{babel}
+    \usepackage[latin1]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage[shortlabels]{enumitem}
+ %answers-------------------------------------
+   \usepackage{answers}
+   \newtheorem{ejer}{}[section]%\begin{ejer}...Ejercicio... \end{ejer}
+   \Newassociation{sol}{Solution}{ans} %\begin{sol}...\end{sol}
+ %--------------------------------------------
+  \newcommand{\sen}{\mathop{\rm sen}\nolimits}
+  \newcommand{\R}{\mathbb{R}}
+  \newcommand{\Z}{\mathbb{Z}}
+ %---------------------------------------------
+ \begin{document}
+ \Opensolutionfile{ans}[ans1] % Primera lista de ejercicios
+ \section{Ejercicios}%Inicio lista #1
+   \begin{ejer}\rm Resolver $|\cos(\theta)|=1$  con $\theta \in\, \R.$%roman
+      \begin{sol}
+         $|\cos(\theta)|=1 \Longrightarrow \theta=k\pi, \; k \in\, \Z$
+      \end{sol}
+   \end{ejer}
+%- Ejercicio sin solución
+\begin{ejer}  \rm Resolver 
+   \begin{enumerate}[a.)]
+     \item $|2\sen(\theta)\cos(\theta)|=1$ con $\theta \in\, \R^+$
+     \item $|2\sen(\theta)\cos(\theta)|=1$ con $\theta \in\, \R$
+   \end{enumerate}
+\end{ejer}
+\Closesolutionfile{ans} %-----------------------------------------
+\Opensolutionfile{ans}[ans2] %% Segunda lista de ejercicios
+\section{Ejercicios}%Inicio lista #2
+\begin{ejer}\rm Resolver $|\tan(\theta)|=1$  con $\theta \in\, \R.$%roman
+   \begin{sol}
+     {\bf Sugerencia:} Mmmmmm
+   \end{sol}
+\end{ejer}
+%-----------------------
+\begin{ejer}  Resolver $|\sec(\theta)|=1$ con $\theta \in\, \R^+$
+   \begin{sol}
+    $|\sec(\theta)|=1 \Longrightarrow....$
+   \end{sol}
+\end{ejer}
+\Closesolutionfile{ans} %----------------------------------------
+ %Imprimir las soluciones
+ \section*{Soluciones del capítulo 1}
+  \input{ans1} % soluciones de la primera lista de ejercicios
+  \input{ans2} % soluciones de la segunda lista de ejercicios
+ \end{document}                                                                                      

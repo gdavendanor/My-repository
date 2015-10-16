@@ -1,0 +1,9 @@
+\indexentry{Entrada para el \~A\GenericError  {(inputenc)                }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \def document{document}\edef { on input line 13}\GenericError  {               }{LaTeX Error: Can be used only in preamble}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.\MessageBreak Type  I <command> <return>  to replace it with another command,\MessageBreak or  <return>  to continue without it.}##1 ${}\def \@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def \nobreakspace  {}}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def \nobreakspace  {}}efore using this key.}\^A\GenericError  {(inputenc)                }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \def document{document}\edef { on input line 13}\GenericError  {               }{LaTeX Error: Can be used only in preamble}{See the LaTeX manual or LaTeX Companion for explanation.}{Your command was ignored.\MessageBreak Type  I <command> <return>  to replace it with another command,\MessageBreak or  <return>  to continue without it.}##1 ${}\def \@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def \nobreakspace  {}}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def \nobreakspace  {}}efore using this key.}ndice}{1}
+\indexentry{Manzana|textbf}{1}
+\indexentry{Naranja|(}{2}
+\indexentry{Manzana!De agua}{3}
+\indexentry{Banano|see{Manzana}}{4}
+\indexentry{Naranja|)}{5}
+\indexentry{Manzana!Nacional}{6}
+\indexentry{Beta@$\beta$}{7}
+\indexentry{{Manzana!Americana}}{8}

@@ -1,0 +1,21 @@
+\documentclass{article} %o report o book
+\usepackage[total={18cm,21cm},top=2cm,left=2cm]{geometry}
+
+\parindent=0mm
+
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel,pstricks}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\usepackage{xargs}
+
+\newcommandx{\coord}[3][1=0, 3=n]{ \left(#2_{#1},\ldots,#2_{#3}\right)}
+
+
+\begin{document}
+$\coord{x}$\\
+$\coord[0]{y}$\\
+$\coord{z}[m]$\\
+$\coord[0]{t}[m]$\\
+\end{document}

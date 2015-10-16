@@ -1,0 +1,23 @@
+\documentclass{article}
+  \usepackage{amsmath}
+  \usepackage[latin1]{inputenc}
+   \usepackage{minted} %minted requiere Python, Pygments y habilitar 'shell escape'
+   %\usemintedstyle{vs} % estilo
+
+
+ \begin{document}
+        
+      %Lenguaje=python
+      %Texto matemático habilitado por la opción 'mathescape',
+     % solo funciona después del símbolo de comentario del lenguaje actual                          
+ \begin{minted}[mathescape, frame=lines, fontseries=b,
+                   rulecolor=\color{gray}]{python} 
+                   
+   # Returns $\displaystyle\sum_{i=1}^{n}i$  
+     
+   def sum_from_one_to(n):
+      r = range(1, n + 1)
+   return sum(r)
+  
+ \end{minted}
+\end{document}

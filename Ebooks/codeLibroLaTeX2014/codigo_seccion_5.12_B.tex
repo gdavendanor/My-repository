@@ -1,0 +1,54 @@
+\documentclass{book}
+   \usepackage[T1]{fontenc} 
+   \usepackage{amsmath,caption, array, pstricks, booktabs}
+   
+   
+   %---------------Entorno DataTable----------------------------------
+   \usepackage{tikz}
+      \usetikzlibrary{calc,fit,shadows,arrows,positioning}
+      \pgfdeclarelayer{background}
+      \pgfdeclarelayer{foreground}
+       \pgfsetlayers{background,main,foreground}
+   % Data Table
+   \newsavebox{\dataTableContent} % Caja
+   \newenvironment{dataTable}[1] % Inicio nuevo entorno
+     {%
+      \begin{lrbox}{\dataTableContent}%
+      \begin{tabular}{#1}}%
+      {%
+       \end{tabular}
+       \end{lrbox}
+       \begin{tikzpicture}
+       \node [inner xsep=0pt] (tbl){\usebox{\dataTableContent}};
+       \begin{pgfonlayer}{background}
+       % tabla
+       \draw[rounded corners=1pt,top color=gray!1,bottom color=gray!30,
+             draw=black](tbl.north east) rectangle (tbl.south west);
+      % línea superior
+      \draw[rounded corners=1pt,top color=gray!10!black,
+            bottom color=gray!50!black,draw=black]%
+      ($(tbl.north west)$) rectangle 
+                           ($(tbl.north east)-(0,1.5\baselineskip)$);
+      % línea inferior
+      \draw[rounded corners=0.25pt,fill=gray,draw=black]%
+      (tbl.south west) rectangle ($(tbl.south east)+(0,0.05)$);
+      \end{pgfonlayer}
+      \end{tikzpicture}}
+%---------------Entorno DataTable----------------------------------
+      
+\begin{document}
+
+% Usando el entorno 
+\begin{center}
+  \begin{dataTable}{cll}%
+     {\white $i$}  & {\white $x_i$} & {\white $y_i=f(x_i)$} \\ \midrule[0pt]
+     1 & $x_0=0$                    & $0$\\            \midrule
+     2 & $x_1=0.75$                 &  $-0.0409838$\\  \midrule
+     3 & $x_2=1.5$                  &  $1.31799$\\     
+\end{dataTable}
+\captionof{table}{Tabla usando Tikz} 
+\end{center}
+
+\end{document}
+
+\end{document}

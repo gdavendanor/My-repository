@@ -1,0 +1,50 @@
+\documentclass{book}
+
+\usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+\usepackage{amsthm,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+
+\usepackage{varwidth}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+
+\newtcolorbox{miEjemplo}[2][]{%
+enhanced,skin=enhancedlast jigsaw,
+attach boxed title to top left={xshift=-4mm,yshift=-0.5mm},
+fonttitle=\bfseries\sffamily,varwidth boxed title=0.7\linewidth,
+colbacktitle=blue!45!white,colframe=red!50!black,
+interior style={top color=blue!10!white,bottom color=red!10!white},
+boxed title style={empty,arc=0pt,outer arc=0pt,boxrule=0pt},
+underlay boxed title={
+\fill[blue!45!white] (title.north west) -- (title.north east)
+-- +(\tcboxedtitleheight-1mm,-\tcboxedtitleheight+1mm)
+-- ([xshift=4mm,yshift=0.5mm]frame.north east) -- +(0mm,-1mm)
+-- (title.south west) -- cycle;
+\fill[blue!45!white!50!black] ([yshift=-0.5mm]frame.north west)
+-- +(-0.4,0) -- +(0,-0.3) -- cycle;
+\fill[blue!45!white!50!black] ([yshift=-0.5mm]frame.north east)
+-- +(0,-0.3) -- +(0.4,0) -- cycle; },
+title={#2},#1}
+
+%%-Usando el entorno "cajamiEjemplo"-----------------------------------------
+\newcommand{\sen}{{\rm sen}}
+\newcommand{\Co}{\mathbb{C}}
+
+
+
+
+\begin{document}
+%- Uso \begin{teorema}... o \begin{teorema}[de tal] o \begin{teorema}[][ref]
+
+\begin{miEjemplo}{Ejemplo}
+El campo $K=\Co(x, \sen x, \cos x)$ es el conjunto de fracciones
+$$\frac{p(x, \sen x, \cos x)}{q(x, \sen x, \cos x)}$$
+con $p, q \in \Co[X,Y,Z]$ con $q\neq 0.$ Por ejemplo, no podemos
+usar $q=y^2+Z^2-1$ pues $\sen^2x+\cos^2x-1=0.$
+\end{miEjemplo}
+
+\end{document}

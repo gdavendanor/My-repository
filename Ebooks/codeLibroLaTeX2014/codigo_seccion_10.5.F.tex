@@ -1,0 +1,51 @@
+\documentclass{book}
+
+\usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xparse}
+\usepackage[latin1]{inputenc}
+
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+\newtcolorbox[auto counter,number within=section]{cajalema}[2][]{
+arc=0mm,breakable,enhanced,colback=gray!5,boxrule=0pt, top=1mm, left=3pt,
+%"Lema..."+texto del cuerpo
+fontupper={\small\bf\sffamily {\color{red}Lema \thetcbcounter \;#2}
+}~\normalfont,
+overlay unbroken={% Barra vertical
+\draw[color=gray,line width =3pt]
+([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west);
+},
+overlay first = {% Barra vertical
+\draw[color=gray,line width =3pt] ([xshift=2pt]
+frame.north west)--([xshift=2pt] frame.south west);
+},
+% Mantener borde en cambio de página
+overlay middle ={\draw[color=gray,line width =3pt]
+([xshift=2pt] frame.north west)--([xshift=2pt] frame.south west);
+},
+overlay last ={\draw[color=gray,line width =3pt] ([xshift=2pt]
+frame.north west)--([xshift=2pt] frame.south west);
+}
+#1}
+%-
+
+\NewDocumentEnvironment{lema}{O{} O{}}{
+\smallskip\begin{cajalema}{#1}%
+#2
+}{\end{cajalema}\smallskip }
+
+
+
+\begin{document}
+%- Uso \begin{teorema}... o \begin{teorema}[de tal] o \begin{teorema}[][ref]
+
+\begin{lema}[ (Equivalencia$-$Axioma de Elección). ]
+El producto cartesiano de una familia de conjuntos no vacíos es no vacío
+\end{lema}
+
+\end{document}

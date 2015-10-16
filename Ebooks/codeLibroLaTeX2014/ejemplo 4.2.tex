@@ -1,0 +1,34 @@
+\documentclass[letterpaper, 12pt] {article} %o report o book
+\usepackage[total={14cm,21cm},top=2cm,
+left=2cm]{geometry}
+\textheight=20cm
+\textwidth=18cm
+\topmargin=-2cm
+%Símbolos matemáticos de la AMS
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm máx}}} % máximo
+\def\min{\mathop{\mbox{\rm mín}}} % mínimo
+
+
+\begin{document}
+
+$$ L_{n,k}(x)
+= \prod_{\overset{i=0}{i\neq k}}^{n}\,\frac{x-x_i}{x_k-x_i}
+= \frac{(x-x_0)(x-x_1)\cdots(x-x_{k-1})(x-x_{k+1})\cdots(x-x_n)}{
+(x_k-x_0)\cdots(x_k-x_{k-1})(x_k-x_{k+1})\cdots(x_k-x_n)
+} $$
+
+\end{document}
+
+
+

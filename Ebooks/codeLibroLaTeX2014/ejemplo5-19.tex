@@ -1,0 +1,32 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel,longtable}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage[small,bf,labelsep=period]{caption}
+\usepackage{booktabs}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm máx}}} 
+\def\min{\mathop{\mbox{\rm mín}}} 
+
+\begin{document}	
+
+\begin{center}
+	\begin{tabular}{cll} % usa "booktabs" y "caption"
+		$i$ & $x_i$ & $y_i=f(x_i)$ \\ \midrule
+		1 & $x_0=0$ & $0$ \\
+		2 & $x_1=0.75$ & $-0.0409838$ \\
+		3 & $x_2=1.5$ & $1.31799$ \\ \bottomrule
+	\end{tabular}
+	\captionof{table}{Tabla usando {\tt "captionof\{table\}\{...\}" }}
+\end{center}
+\end{document}

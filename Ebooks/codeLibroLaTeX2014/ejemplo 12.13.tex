@@ -1,0 +1,32 @@
+\documentclass{beamer}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,stmaryrd}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+% Conversión eps to pdf, requiere habilitar shell-escape.
+% Texlive 2010 o superior No lo necesita
+%\usepackage{epstopdf}
+%\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usefonttheme{professionalfonts} % fuentes de LaTeX
+\usetheme{Warsaw} % Tema escogido en este ejemplo
+\setbeamercovered{transparent} % Velos
+\newtheorem{teo}{Teorema}
+\newtheorem{ejemplo}{Ejemplo}
+\newtheorem{defi}{Definición}
+\newtheorem{coro}{Corolario}
+\newtheorem{prueba}{Prueba}
+\usepackage[ruled,vlined,lined,linesnumbered,algosection,spanish]{algorithm2e}
+\usepackage{multimedia}
+\begin{document}
+%\documentclass[xcolor=pdftex,table]{beamer}
+%\definecolor{ZurichBlue}{rgb}{.255,.41,.884}
+\begin{frame}
+\transdissolve % <--- Efecto de transición
+\begin{center}
+\rowcolors{1}{ZurichBlue!20}{ZurichBlue!5} %Porcentaje de color
+\begin{tabular}{|l|l|c|}\hline
+Enteros &long & de $-2^{63 }$ a $2^{63}-1$\\\hline
+...
+\end{tabular}
+\end{center}
+\end{frame}
+\end{document}

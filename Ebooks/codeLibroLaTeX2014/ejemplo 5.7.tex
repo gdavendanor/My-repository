@@ -1,0 +1,29 @@
+\documentclass[table,x11names]{book} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} 
+\usepackage{multicol}
+\usepackage{pstricks}
+\usepackage{xcolor} % las opciones "x11names" y "table" están en las opciones
+                    % del documentclass para evitar choques de paquetes
+
+\begin{document}
+
+\begin{table}[h!]
+\centering
+\rowcolors{1}{}{gray!20}
+\begin{tabular}{ll}
+\rowcolor{LightBlue2} $x_{n+1}$ & $|x_{n+1}-x_n|$\\ \hline
+1.20499955540054 & 0.295000445\\
+1.17678931926590 & 0.028210236\\
+1.17650193990183 & 3.004$\times10^{-8}$\\
+1.17650193990183 & 4.440$\times10^{-16}$\\ \hline
+\end{tabular}
+\caption{Iteración de Newton para $x^2-\cos(x)-1=0$ con $x_0=1.5.$}
+\end{table}
+
+\end{document}

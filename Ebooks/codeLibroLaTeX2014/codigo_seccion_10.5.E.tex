@@ -1,0 +1,90 @@
+\documentclass{book}
+
+ \usepackage[total={8cm,21cm},top=2cm, left=2cm]{geometry}
+\usepackage{amsthm,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+
+
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+
+\usepackage{tcolorbox, empheq, xparse}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+\definecolor{colordominanteD}{RGB}{74,0,148}
+
+\newcounter{tcbteo}[chapter] % Contador
+\renewcommand{\thetcbteo}{\thechapter.\arabic{tcbteo}}% Formato 1.1,1.2
+
+
+
+% Estilo "nodoTeorema" para nodos
+\tikzset{nodoTeorema/.style={%
+rectangle, top color=gray!5, bottom color=gray!5,
+inner sep=1mm,anchor=west,font=\small\bf\sffamily}
+}
+% Caja de entorno
+\newtcolorbox{cajaTeorema}[3][]{%
+% Opciones generales
+arc=0mm,breakable,enhanced,colback=gray!5,boxrule=0pt,top=7mm,
+drop fuzzy shadow, fontupper=\normalsize,
+% label
+step and label={tcbteo}{#3},
+overlay unbroken= {%
+% Borde superior grueso.
+% "--+(0pt,3pt)" significa: 3pt hacia arriba desde la posición anterior
+\draw[colordominanteD,line width =2.5cm]
+([xshift=1.25cm, yshift=0cm]frame.north west)--+(0pt,3pt);
+% Borde superior 1
+\draw[color=colordominanteD,line width =0.2pt]
+(frame.north west)--([xshift=0pt]frame.north east);
+% Caja Teorema-contador
+\node[nodoTeorema](tituloteo)
+at ([xshift=0.2cm, yshift=-4mm]frame.north west)
+{\textbf{\color{colordominanteD} Teorema \thetcbteo \;#2}};
+},
+overlay first = {
+% Borde superior grueso
+\draw[colordominanteD,line width =2.5cm]
+([xshift=1.25cm, yshift=0cm]frame.north west)--+(0pt,3pt);
+% Borde superior 1
+\draw[color=colordominanteD,line width =0.2pt]
+(frame.north west)--([xshift=0pt]frame.north east);
+% Caja Teorema-contador
+\node[nodoTeorema](tituloteo)
+at ([xshift=0.2cm, yshift=-4mm]frame.north west)
+{\textbf{\color{colordominanteD} Teorema \thetcbteo \;#2}};
+}, %First
+% Nada que mantener en los cambios de página
+overlay middle = { },
+overlay last = { }
+#1}
+
+
+%- Uso \begin{teorema}... o \begin{teorema}[de tal] o \begin{teorema}[][ref]
+\NewDocumentEnvironment{teorema}{O{} O{} O{}}{
+\bigskip\begin{cajaTeorema}{#1}{#2}%
+#3
+}{\end{cajaTeorema}\bigskip } 
+
+\usepackage[shortlabels]{enumitem}
+
+
+\begin{document}
+
+
+
+\begin{teorema}[ (Método de Inducción sobre $R$)]
+Supongamos que tenemos $A \subset \mathbb{R}$ con las siguientes propiedades,
+\begin{enumerate}[(a)]%\usepackage[shortlabels]{enumitem}
+\item $0 \in A.$
+\item Si $x \in A$ entonces $x+1 \in A$.
+\item Si $x \in A$ entonces $-x \in A$.
+\item Si $x,y \in A$ y $y\neq 0$ entonces $\dfrac{x}{y} \in A$
+\item $A$ satisface el axioma del extremo superior
+\end{enumerate}
+Entonces, $A=R$
+\end{teorema}
+
+\end{document}

@@ -1,0 +1,25 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,pstricks,xparse}
+\usepackage[latin1]{inputenc}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+	calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+
+\tcbset{opteqA/.style={%
+		tcboxraise base,
+		nobeforeafter,
+		extrude by=-2mm,
+		colback=red!50!black!20,
+		colframe=red!50!black!20}}
+
+
+\begin{document}
+El discriminante del polinomio $ax^2+bx+c\;$ es
+\tcbox[tcbox raise base, nobeforeafter,
+extrude by=-2mm]{\( \Delta = b^2 - 4ac \)}\\
+
+\tcbox[opteqA]{\( \Delta = b^2 - 4ac \)}
+	
+\end{document}

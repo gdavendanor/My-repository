@@ -1,0 +1,122 @@
+\documentclass{book}
+% VER SECCION "PLANTILLAS LATEX" PARA UN EJEMPLO COMPLETO
+
+\usepackage{xcolor}
+\definecolor{colordominante}{RGB}{11,17,79}
+\definecolor{colortitulo}{RGB}{11,17,79}
+\definecolor{grisamarillo}{RGB}{248,248,245}
+\definecolor{grisF}{rgb}{.6,.6,.6}
+
+
+\usepackage{fancyhdr}
+% Números de página en rectángulos y capítulo. Posicionar los nodos
+\usepackage[absolute]{textpos}
+\setlength{\TPHorizModule}{10mm}%
+\setlength{\TPVertModule}{10mm}%
+\textblockorigin{0mm}{0mm}% Origen: esquina superior izquierda
+\makeatletter
+% Redefinir \chaptermark sin "Capítulo" ni número de capítulo.
+\renewcommand{\chaptermark}[1]{\markboth{\if@mainmatter\ ~~\fi#1}{}}
+\makeatother
+
+%--------------------------------------------------------------------------
+% Decoración de cabeceras
+% Texto en secciones
+\renewcommand{\sectionmark}[1]{\markright{\sffamily\normalsize\thesection
+\hspace{5pt}#1}{}}
+\fancyhf{}
+% Páginas con la seción a la izquierda y en rectángulo con bordes difusos
+\usepackage{tikzpagenodes}
+\usetikzlibrary{decorations.pathmorphing,calc,shadows.blur,shadings}
+\pgfmathsetseed{1}
+
+\pgfdeclaredecoration{irregular fractal line}{init}
+{
+  \state{init}[width=\pgfdecoratedinputsegmentremainingdistance]
+  {
+    \pgfpathlineto{\pgfpoint{random*\pgfdecoratedinputsegmentremainingdistance}{(random*\pgfdecorationsegmentamplitude-0.02)*\pgfdecoratedinputsegmentremainingdistance}}
+    \pgfpathlineto{\pgfpoint{\pgfdecoratedinputsegmentremainingdistance}{0pt}}
+  }
+}
+
+\tikzset{
+   paper/.style={draw=black!10, blur shadow, shade=bilinear interpolation,
+                 lower left=black!20, upper left=black!15, upper right=white, lower right=black!10},
+   irregular border/.style={decoration={irregular fractal line, amplitude=0.2},
+           decorate,
+     },
+   ragged border/.style={ decoration={random steps, segment length=7mm, amplitude=2mm},
+           decorate,
+   }
+}
+%L=Left, Odd Even - Decoración en encabezado
+\fancyhead[LO,LE]{\rightmark {\color{grisF}
+  \href{http://www.tec-digital.itcr.ac.cr/revistamatematica/}{\sffamily\normalsize   \;(http://www.tec-digital.itcr.ac.cr/revistamatematica/).}}
+\begin{textblock}{1}(0,0)
+\begin{tikzpicture}[remember picture,overlay]
+  \fill[verdep,opacity=0.7]
+        decorate[irregular border]{decorate{decorate{decorate{decorate[ragged border]{
+        ($(current page header area.south east-|current page.east) - (0, random*5mm)$) -- ($(current page header area.south west-|current page.west) - (0, random*5mm)$)
+        }}}}}
+        -- (current page.north west) -- (current page.north east) -- cycle;
+\end{tikzpicture}
+\end{textblock}
+}
+% Fin decoración cabeceras
+
+\renewcommand{\headrulewidth}{0pt}   % Ancho de la línea bajo el encabezado
+%\addtolength{\headheight}{2.5pt}     % Aumente el espacio alrededor de la cabecera 
+\renewcommand{\footrulewidth}{0pt}   % Elimina la línea en el pie de página
+% Estilo para  "pagestyle plain"
+\fancypagestyle{plain}{\fancyhead{}\renewcommand{\headrulewidth}{0pt}} 
+
+
+
+% Números de página+chaptertitle en rectángulo en el borde
+\fancyfoot[LE]{
+\begin{textblock}{3}(21,5)
+\begin{tikzpicture}[overlay]
+\node[draw=colordominante,
+rectangle,minimum width=2cm, minimum height=2cm,
+anchor=west,
+fill=colordominante,font=\fontsize{25}{1}\sffamily\bfseries,inner sep=2pt,outer sep=2pt] 
+at (-1.5cm,0pt){\textcolor{gray!10}{\thepage}};
+%cap
+\node[right,line width=1pt,rectangle,
+fill=grisamarillo,font=\fontsize{35}{1}\sffamily\bfseries,inner sep=20pt,outer sep=60pt,
+rotate=-90] at (current page.south west){\textcolor{gray!30}{\leftmark}};  
+\end{tikzpicture}
+\end{textblock}
+}
+
+\fancyfoot[RO]{
+\begin{textblock}{3}(18,5)
+\begin{tikzpicture}[overlay]
+\node[draw=colordominante,rectangle,minimum width=2cm, minimum height=2cm,
+anchor=west,
+fill=colordominante,font=\fontsize{25}{1}\sffamily\bfseries,inner sep=2pt,outer sep=2pt] 
+at (-1.5cm,0pt){\textcolor{gray!10}{\thepage}};   
+\end{tikzpicture}
+\end{textblock}
+}
+\setlength\headheight{23.04095pt} %requerido según compilación 
+%--
+
+
+\begin{document}
+\chapter{Nada}
+
+\newpage
+\section{Nada}
+
+\newpage
+\section{Nada}
+
+\newpage
+\chapter{Nada}
+
+\section{Nada}
+
+\section{Nada}
+
+\end{document}

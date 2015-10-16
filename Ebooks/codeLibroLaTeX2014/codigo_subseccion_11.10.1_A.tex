@@ -1,0 +1,23 @@
+\documentclass{book}
+\usepackage[text={15cm,25cm},centering]{geometry}
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage[latin1]{inputenc}
+% Diseño de encabezado de capítulo----
+\usepackage[ruled,vlined,lined,linesnumbered,algochapter,spanish]{algorithm2e}
+% Nuevo en la versión 5.0 (2013)
+% Incompatible con versiones antiguas
+\begin{document}
+% Nuevo en la versión 5.0 (2013)
+% Incompatible con versiones antiguas
+\begin{algorithm}[H]
+\caption{Inverso Multiplicativo mod $m$.}
+\SetAlgoLined
+\KwData{$a\in Z_m$}
+\KwResult{$a^{-1}\mbox{mod}\;m,$ si existe.}
+\LinesNumbered
+\SetAlgoVlined
+Calcular $x,t$ tal que $xa+tm=\mbox{\rm MCD}(a,m)$\;
+\eIf{\rm MCD$(a,m)>1$}{$a^{-1}\; \mbox{mod}\; m$ no existe}{
+\Return $\mbox{rem}\,(x,m).$}
+\end{algorithm}
+\end{document}

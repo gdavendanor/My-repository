@@ -1,0 +1,29 @@
+\documentclass{book}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{makeidx}
+\makeindex
+
+% Modo de uso: Compile PDFlatex, luego makeindex [en el menÃº] y PDFlatex de nuevo
+
+
+\begin{document}
+	\index{Entrada para el Índice}
+	Página 1: \index{Manzana|textbf}
+\newpage
+	Página 6: \index{Naranja|(}
+	\newpage
+	Página 8: \index{Manzana!De agua}
+	\newpage
+	Página 10: \index{Banano|see{Manzana}}
+	\newpage
+	Página 12: \index{Naranja|)}
+	\newpage
+	Página 13: \index{Manzana!Nacional}
+	\newpage
+	Página 14: \index{Beta@$\beta$}
+	\newpage
+	Página 14: \index{{Manzana!Americana}}
+		\newpage	
+	\printindex
+\end{document}	

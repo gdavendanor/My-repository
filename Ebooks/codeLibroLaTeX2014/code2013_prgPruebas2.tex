@@ -1,0 +1,51 @@
+\documentclass{book}
+               %La numeración incluye el número de capítulo
+   \newtheorem{ejemplo}{Ejemplo}[chapter]
+   \newtheorem{defi}{Definición}[chapter]
+  % \usepackage[english]{babel}
+     \usepackage[latin1]{inputenc}
+     \usepackage{supertabular}
+\usepackage{blindtext}
+
+\begin{document}
+
+
+
+\blindtext[3]
+
+
+
+
+
+
+    \begin{center}
+    \begin{supertabular}{|r@{\hspace{6.5mm}}|c@{\hspace{5.5mm}}|l|r|}\hline
+    1 & 1 & 1 & 1 \\
+    2 & 4 & 16 & 2 \\
+    3 & 9 & 81 & 6 \\
+    4 & 16 & 256 & 24 \\
+    ...
+    19 & 361 & 130321 & 1.21645100E+17\\\hline
+    20 & 400 & 160000 & 2.43290200E+18\\ \hline
+    1 & 1 & 1 & 1 \\
+    2 & 4 & 16 & 2 \\
+    3 & 9 & 81 & 6 \\
+    4 & 16 & 256 & 24 \\
+        ...
+    19 & 361 & 130321 & 1.21645100E+17\\
+    20 & 400 & 160000 & 2.43290200E+18\\ 
+    1 & 1 & 1 & 1 \\
+    2 & 4 & 16 & 2 \\
+    3 & 9 & 81 & 6 \\\hline
+    4 & 16 & 256 & 24 \\ \hline
+    \end{supertabular}
+    \end{center}
+    
+    \blindtext[2]
+        
+           
+    ...
+\end{document}
+
+
+

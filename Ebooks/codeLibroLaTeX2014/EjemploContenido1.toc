@@ -1,0 +1,15 @@
+\select@language {spanish}
+{\parbox {3.5em}{\hfill \relax \fontsize {24.88}{30}\selectfont \color {myred}\bfseries 5}}\hspace *{.5em} \parbox {\dimexpr \linewidth -4em\relax }{\begin {leftbar} {\scshape \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Cap\'{\i }tulo~1}\\\sffamily (T\IeC {\'\i }tulo cap\IeC {\'\i }tulo 1)\end {leftbar}}\par \noindent 
+\contentsline {section}{\numberline {1.1}(T\IeC {\'\i }tulo Secci\'on1)}{5}
+\contentsline {subsection}{\numberline {1.1.1}(T\IeC {\'\i }tulo sub-Secci\'on1)}{5}
+\contentsline {subsection}{\numberline {1.1.2}(T\IeC {\'\i }tulo sub-Secci\'on2)}{5}
+\contentsline {section}{\numberline {1.2}(T\IeC {\'\i }tulo Secci\'on2)}{5}
+\contentsline {subsection}{\numberline {1.2.1}(T\IeC {\'\i }tulo sub-Secci\'on1)}{5}
+\contentsline {subsection}{\numberline {1.2.2}(T\IeC {\'\i }tulo sub-Secci\'on2)}{5}
+{\parbox {3.5em}{\hfill \relax \fontsize {24.88}{30}\selectfont \color {myred}\bfseries 7}}\hspace *{.5em} \parbox {\dimexpr \linewidth -4em\relax }{\begin {leftbar} {\scshape \relax \fontsize {9}{11}\selectfont \abovedisplayskip 8.5\p@ plus3\p@ minus4\p@ \abovedisplayshortskip \z@ plus2\p@ \belowdisplayshortskip 4\p@ plus2\p@ minus2\p@ \def \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ {\leftmargin \leftmargini \topsep 4\p@ plus2\p@ minus2\p@ \parsep 2\p@ plus\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip Cap\'{\i }tulo~2}\\\sffamily (T\IeC {\'\i }tulo Cap\IeC {\'\i }tulo 2)\end {leftbar}}\par \noindent 
+\contentsline {section}{\numberline {2.1}(T\IeC {\'\i }tulo Secci\'on1)}{7}
+\contentsline {subsection}{\numberline {2.1.1}(T\IeC {\'\i }tulo sub-Secci\'on1)}{7}
+\contentsline {subsection}{\numberline {2.1.2}(T\IeC {\'\i }tulo sub-Secci\'on2)}{7}
+\contentsline {section}{\numberline {2.2}(T\IeC {\'\i }tulo Secci\'on2)}{7}
+\contentsline {subsection}{\numberline {2.2.1}(T\IeC {\'\i }tulo sub-Secci\'on1)}{7}
+\contentsline {subsection}{\numberline {2.2.2}( sub-Secci\'on2)}{7}

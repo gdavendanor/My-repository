@@ -1,0 +1,32 @@
+\documentclass[12pt]{article}
+\textheight=20cm
+\textwidth=18cm
+\topmargin=-2cm
+\usepackage[latin1]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb}
+\usepackage{xcolor, pstricks}
+%------------------------------------------------------------
+\usepackage{listings}% uso: \lstinline|section|
+\lstset{ %
+language=Pascal, % lenguaje
+basicstyle=\bfseries\ttfamily,
+keywordstyle=\color{blue},
+commentstyle=\color{brown},
+backgroundcolor=\color{gray!10},
+showstringspaces=false
+}
+\definecolor{fondo}{rgb}{0.9764, 0.9764, 0.9762}
+\pagecolor{fondo}
+%-----------------------------------------------------------
+\begin{document}
+Usamos la instrucción \lstinline|for i:= maxint to 0 do|.\\
+\begin{lstlisting}
+for i:= maxint to 0 do
+begin{
+do nothing
+}
+end;
+Write('Case insensitive');
+Write('Pascal keywords');
+\end{lstlisting}
+\end{document}

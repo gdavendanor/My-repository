@@ -1,0 +1,20 @@
+\ansection*{Sección 1.1}\nopagebreak
+\typeout{Answers to Section 1.1}
+\markboth{Answers for Section 1.1} {Answers for Section 1.1\enskip}
+\antwort[1]
+  $2x^2-4x+1=y \;\Rightarrow\; 2(x-1)^2= y+1 \;\Rightarrow\;(x-1)^2=\frac{1}{2}(y+1).$
+\immsubantwort[2][a]
+ $y^2=-\frac{8}{9}(x+\frac{3}{8})$
+  %Se debe dejar un renglón
+\subantwort[2][b]
+ $(y + 1)^2 = 4 (x + 2)$
+\subantwort[2][c]
+$(x + 1)^2 = 2 (y - 2)$
+\markboth{Answers for Section 1.1} {Answers for Section 1.1\enskip}
+\pagebreak[3]\medbreak\noindent 
+\ansection*{Sección 1.2}\nopagebreak
+\typeout{Answers to Section 1.2}
+\markboth{Answers for Section 1.2} {Answers for Section 1.2\enskip}
+\markboth{Answers for Section 1.2} {Answers for Section 1.2\enskip}
+\pagebreak[3]\medbreak\noindent 
+\par

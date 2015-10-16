@@ -1,0 +1,126 @@
+\documentclass{book}
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  
+%--Diseño de la tabla de contenido    
+\usepackage{kpfonts}
+\usepackage[tmargin=2cm,rmargin=3.8cm,lmargin=3.8cm,bmargin=2cm]{geometry}
+\usepackage{tikz}
+\definecolor{doc}{RGB}{0,60,110}
+\usepackage{titletoc}
+\contentsmargin{0cm}
+\titlecontents{chapter}[0pc]
+{\addvspace{30pt}%
+\begin{tikzpicture}[remember picture, overlay]%
+\draw[fill=doc!30,draw=doc!30] (-4,-.1) rectangle (-1,.5);%
+\pgftext[left,x=-3.7cm,y=0.2cm]{\color{white}\Large\sc\bfseries chapter\ \thecontentslabel};%
+\end{tikzpicture}\color{doc!40}\large\sc\bfseries}%
+{}
+{}
+{\;\titlerule\;\large\sc\bfseries Page \thecontentspage
+\begin{tikzpicture}[remember picture, overlay]
+\draw[fill=doc!25,draw=doc!20] (2pt,0) rectangle (6,0.1pt);
+\end{tikzpicture}}%
+\titlecontents{section}[2.4pc]
+{\addvspace{1pt}}
+{\contentslabel[\thecontentslabel]{2.4pc}}
+{}
+{\hfill\small \thecontentspage}
+[]
+\titlecontents*{subsection}[4pc]
+{\addvspace{-1pt}\small}
+{}
+{}
+{\ --- \small\thecontentspage}
+[ \textbullet\ ][]
+\makeatletter
+
+%%--
+\begin{document}
+\tableofcontents
+\chapter{(title chapter 1)}
+\section{(title section 1)}
+\subsection{(title sub-section 1)}
+\subsection{(title sub-section 2)}
+\section{(title section 2)}
+\subsection{(title sub-section 1)}
+\subsection{(title sub-section 2)}
+\chapter{(title chapter 2)}
+\section{(title section 1)}
+\subsection{(title sub-section 1)}
+\subsection{(title sub-section 2)}
+\section{(title section 2)}
+\subsection{(title sub-section 1)}
+\subsection{(title sub-section 2)}
+\end{document} 
+
+toc tikz 1
+
+EDIT 2: second try but I do not know how to access the title of a chapter with titletoc?
+
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage{kpfonts}
+\usepackage[tmargin=2cm,rmargin=3.8cm,lmargin=3.8cm,bmargin=2cm]{geometry}
+\usepackage{tikz}
+\definecolor{doc}{RGB}{0,60,110}
+\usepackage{titletoc}
+\contentsmargin{0cm}
+\titlecontents{chapter}[0pc]
+{\addvspace{30pt}%
+\begin{tikzpicture}[remember picture, overlay]%
+\draw[fill=doc!30,draw=doc!30] (-4,-.1) rectangle (-1,.5);%
+\pgftext[left,x=-3.7cm,y=0.2cm]{\color{white}\Large\sc\bfseries chapter\ \thecontentslabel};%
+\end{tikzpicture}\color{doc!40}\large\sc\bfseries}%
+{}
+{}
+{\;\titlerule\;\large\sc\bfseries Page \thecontentspage
+\begin{tikzpicture}[remember picture, overlay]
+\draw[fill=doc!25,draw=doc!20] (2pt,0) rectangle (6,0.1pt);
+\end{tikzpicture}}%
+\titlecontents{section}[2.4pc]
+{\addvspace{1pt}}
+{\contentslabel[\thecontentslabel]{2.4pc}}
+{}
+{\hfill\small \thecontentspage}
+[]
+\titlecontents*{subsection}[4pc]
+{\addvspace{-1pt}\small}
+{}
+{}
+{\ --- \small\thecontentspage}
+[ \textbullet\ ][]
+
+\makeatletter
+\renewcommand{\tableofcontents}{%
+\chapter*{%
+\vspace*{-20\p@}%
+\begin{tikzpicture}[remember picture, overlay]%
+\pgftext[right,x=15cm,y=0.2cm]{\color{doc!30}\Huge\sc\bfseries \contentsname};%
+\draw[fill=doc!30,draw=doc!30] (13,-.75) rectangle (20,1);%
+\clip (13,-.75) rectangle (20,1);
+\pgftext[right,x=15cm,y=0.2cm]{\color{white}\Huge\sc\bfseries \contentsname};%
+\end{tikzpicture}}%
+\@starttoc{toc}}
+\makeatother
+%%--
+
+\begin{document}
+
+\tableofcontents
+
+\part{Edición con \LaTeX}
+
+\chapter{Primeros pasos \LaTeX}
+\section{Esta es la primera}
+\subsection{Esta es la segunda un poc más larga}
+
+\newpage\setcounter{page}{123}% just for the example
+
+\part{HTML}
+
+\chapter{Primeros pasos en HTML}
+\section{javascript}
+\subsection{No es java}
+
+\end{document}

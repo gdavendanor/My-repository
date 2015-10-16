@@ -1,0 +1,35 @@
+\documentclass{article} %o report o book
+\textheight=20cm
+\textwidth=17cm
+\topmargin=-2cm
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc} %Acentos desde el teclado
+\usepackage[T1]{fontenc}
+\usepackage[x11names,table]{xcolor}
+%\usepackage{xargs}
+% Comandos especiales
+\newcommand{\sen}{\mathop{\rm sen}\nolimits} %seno
+\newcommand{\arcsen}{\mathop{\rm arcsen}\nolimits}
+\newcommand{\arcsec}{\mathop{\rm arcsec}\nolimits}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\def\max{\mathop{\mbox{\rm máx}}} 
+\def\min{\mathop{\mbox{\rm mín}}}
+
+
+\begin{document}	
+\begin{table}[h!]
+	\centering
+	\rowcolors{1}{}{gray!20}
+	\begin{tabular}{ll}
+		\rowcolor{LightBlue2} $x_{n+1}$ & $|x_{n+1}-x_n|$\\ \hline
+		1.20499955540054 & 0.295000445\\
+		1.17678931926590 & 0.028210236\\
+		1.17650193990183 & 3.004$\times10^{-8}$\\
+		1.17650193990183 & 4.440$\times10^{-16}$\\ \hline
+	\end{tabular}
+	\caption{Iteración de Newton para $x^2-\cos(x)-1=0$ con $x_0=1.5.$}
+\end{table}
+\end{document}

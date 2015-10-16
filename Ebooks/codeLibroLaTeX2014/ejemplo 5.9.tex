@@ -1,0 +1,30 @@
+\documentclass[table,x11names]{book} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel} 
+\usepackage{xcolor,pstricks} % las opciones "x11names" y "table" están en las opciones
+                    % del documentclass para evitar choques de paquetes
+\usepackage{rotating}
+
+
+\begin{document}
+
+\begin{sideways}
+\begin{tabular}{lc}
+$x_{n+1}$ &$|x_{n+1}-x_n|$\\ \hline
+\cellcolor[gray]{0.80} 1.17 & 3.$\times10^{-8}$\\
+1.17 & 4.$\times10^{-16}$\\ \hline
+\end{tabular}
+\end{sideways}
+
+\begin{tabular}{lc}
+$x_{n+1}$ &\begin{sideways}$|x_{n+1}-x_n|$\end{sideways}\\ \hline
+\cellcolor[gray]{0.80} 1.17 & 3.$\times10^{-8}$\\
+1.173 & 4.$\times10^{-16}$\\ \hline
+\end{tabular}
+
+\end{document}

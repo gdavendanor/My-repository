@@ -1,0 +1,23 @@
+\documentclass{book}
+  \usepackage[text={15cm,25cm},centering]{geometry} 
+  \usepackage[english,spanish,es-tabla]{babel}
+  \usepackage[latin1]{inputenc}
+  \usepackage{epigraph}
+  \usepackage{xcolor}
+  \definecolor{verdep}{RGB}{166,206,58}
+%
+\usepackage{titlesec}
+\newcommand{\hsp}{\hspace{15pt}}
+\titleformat{\chapter}[hang]{\huge\bfseries}{{
+        \fontsize{6em}{6em}\selectfont
+        \thechapter}\hsp\textcolor{verdep}{\vrule height 4em width 2pt}\hsp}{0pt}{\huge\bfseries}
+
+\begin{document}
+
+\chapter{Un ejemplo }
+
+\epigraph{In theory there is no difference \\ between theory and practice. \\ In practice there is.}{Lawrence ``Yogui'' Berra,1925 \\ New York Yankees baseball player}
+
+\chapter{Otro Capítulo}
+
+\end{document}

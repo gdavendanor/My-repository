@@ -1,0 +1,61 @@
+\documentclass{book}
+\usepackage{amsthm,amsmath,amssymb,amsfonts,xcolor}
+\usepackage[latin1]{inputenc}
+\definecolor{azulF}{rgb}{.0,.0,.3} % Azul
+\definecolor{rojoF}{RGB}{212,0,0} % Rojo
+\newcommand{\Z}{\mathbb{Z}} % \Z
+% Estilo B
+\newtheoremstyle{estiloB}{}{}{}{}%
+{\color{azulF}\bfseries} % fuente del encabezado
+{.} % puntuación
+{\newline} % espacio después del encabezado
+{\thmname{#1}~\thmnumber{\color{rojoF} #2}\thmnote{~\color{azulF}(#3)}}
+%%--
+\theoremstyle{estiloB}
+\newtheorem{unadefiB}{Definici�n}[chapter]
+\newtheorem{unteoB}{Teorema}[section]
+%%--
+% Estilo C
+\newtheoremstyle{estiloC}{}{}{}{}%
+{\color{rojoF}\bfseries}%
+{.}{\newline}{}%
+%--
+\swapnumbers % Intercambiar número-teorema
+\theoremstyle{estiloC}
+\newtheorem{unteoC}{Teorema}
+\usepackage{tikz,tkz-tab}%
+\usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+calc, shapes, tikzmark}
+\usepackage{tcolorbox, empheq}%
+\tcbuselibrary{skins,breakable,listings,theorems}
+\tcbset{opteqA/.style={%
+tcboxraise base,
+nobeforeafter,
+extrude by=-2mm,
+colback=red!50!black!20,
+colframe=red!50!black!20}}
+
+\begin{document}
+
+%\newcommand{\dpr}[2]{\dfrac{\partial #1}{\partial #2}}
+\tcbset{opteqB/.style={% opteqB = Opciones habilitadas
+nobeforeafter,
+extrude by=-2mm,
+colback=red!50!black!20,
+colframe=red!50!black!20}}
+\begin{eqnarray}%
+z_t & = & \tcboxmath[opteqB]{\dpr{z}{x}}x?(t)
++\tcboxmath[opteqB]{\dpr{z}{y}}y?(t)
+\end{eqnarray}%
+\tcbset{opteqC/.style={% opteqC = Opciones habilitadas
+skin=beamer,
+extrude by=-2mm,
+nobeforeafter,
+colback=blue!60!green!10!white,
+colframe=LightBlue4!50!black}}
+\begin{eqnarray}%
+z_x & = & \tcboxmath[opteqC]{\dpr{z}{u}}u_x
++\tcboxmath[opteqC]{\dpr{z}{v}}v_x
+\end{eqnarray}%
+
+\end{document}

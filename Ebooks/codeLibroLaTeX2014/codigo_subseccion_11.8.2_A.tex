@@ -1,0 +1,42 @@
+\documentclass{book}
+\usepackage[spanish]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts,latexsym,cancel,stmaryrd,amsthm}
+%---------------------------------------------------------------------
+% Puede poner el archivo "ans.sty" en su carpeta de trabajo
+\usepackage{ans} % > Debe haber al menos un ejercicio por cada sección
+% > Use \exer: si usted NO va a contestar la pregunta
+% > Use \exera: si usted va a contestar la pregunta
+% > \subanswer ...(seguido de \exera). Use \par
+% para cambiar de párrafo y dejar un renglón al final,
+% éste se usa para delimitar la respuesta.
+% > Subproblemas: puede usar \exer y \subexer o
+% \exera y \subexera
+% > \exer\annot{hard}
+\makeanswers
+\artsec
+\makesolutions
+%---------------------------------------------------------------------
+\begin{document}
+\chapter{I}
+\section{Lista de ejercicios con solución }
+%--Inicio de la lista de ejercicios
+\exercises
+\exera Determine la ecuación canónica de la parábola $y=2x^2-4x+1.$
+\answer $2x^2-4x+1=y \;\Rightarrow\; 2(x-1)^2= y+1 \;
+\Rightarrow\;(x-1)^2=\frac{1}{2}(y+1).$
+\exera Determine la ecuaci\?{o}n can\?{o}nica de las siguientes parábolas,
+\subexera $-9\,y^2 - 8\,x - 3=0$\\
+\subanswer $y^2=-\frac{8}{9}(x+\frac{3}{8})$
+% Se debe dejar un renglón para indicar el final de la respuesta
+\subexera $y^2+2 y-4 x=7$\\
+\subanswer $(y + 1)^2 = 4 (x + 2)$
+%-
+\subexera $x^2+2 x-2 y+5=0$\\
+\subanswer$(x + 1)^2 = 2 (y - 2)$
+%-
+\exer Determine la ecuación canónica de la parábola $y=4x^2-5x+1.$
+\eexer
+%--Fin de la lista de ejerciciosde esta sección
+...

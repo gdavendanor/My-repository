@@ -1,0 +1,72 @@
+
+ \documentclass[12pt,a4paper]{article}
+ 	\usepackage{amsmath,amssymb,amsfonts,latexsym}
+ 	\usepackage[spanish]{babel}
+ 	\usepackage[latin1]{inputenc} %acentos desde el teclado
+ 	\usepackage[T1]{fontenc}
+
+ 
+ %answers-------------------------------------
+   \usepackage{answers}
+   \newtheorem{ejer}{}[section]
+     %\begin{ejer}...Ejercicio... \end{ejer}
+   \Newassociation{sol}{Solution}{ans}
+     %\begin{sol}...\end{sol}
+ %--------------------------------------------
+ %--------------------------------------------
+  \newcommand{\sen}{\mathop{\rm sen}\nolimits}
+  \newcommand{\R}{\mathbb{R}}
+  \newcommand{\Z}{\mathbb{Z}}
+ %---------------------------------------------
+ 
+ \begin{document}
+
+ 
+\Opensolutionfile{ans}[ans1] %---------------------------------------------------------
+\section{Ejercicios}
+\begin{ejer}  \rm   Resolver $|\cos(\theta)|=1$  con $\theta \in\, \R.$ %fuente roman
+   \begin{sol}
+     $|\cos(\theta)|=1 \Longrightarrow \theta=k\pi, \; k \in\, \Z$
+   \end{sol}
+\end{ejer}
+%-----------------------
+\begin{ejer}  Resolver $|\sen(\theta)|=1$ con $\theta \in\, \R^+$
+   \begin{sol}
+    $|\sen(\theta)|=1 \Longrightarrow \theta=(2k+1)\displaystyle\frac{\pi}{2}, \; k \in\, \Z^+$
+   \end{sol}
+\end{ejer}
+%----------------------- Sin solución
+\begin{ejer}  \rm Resolver 
+   \begin{enumerate}
+     \item[a.)] $|2\sen(\theta)\cos(\theta)|=1$ con $\theta \in\, \R^+$
+     \item[b.)] $|2\sen(\theta)\cos(\theta)|=1$ con $\theta \in\, \R$
+   \end{enumerate}
+\end{ejer}
+\Closesolutionfile{ans} %--------------------------------------------------------------
+
+\Opensolutionfile{ans}[ans2] %---------------------------------------------------------
+\section{Ejercicios}
+\begin{ejer}  \rm   Resolver $|\tan(\theta)|=1$  con $\theta \in\, \R.$ %fuente roman
+   \begin{sol}
+     {\bf Sugerencia:} Mmmmmm
+   \end{sol}
+\end{ejer}
+%-----------------------
+\begin{ejer}  Resolver $|\sec(\theta)|=1$ con $\theta \in\, \R^+$
+   \begin{sol}
+    $|\sec(\theta)|=1 \Longrightarrow....$
+   \end{sol}
+\end{ejer}
+%----------------------- Sin solución
+\Closesolutionfile{ans} %--------------------------------------------------------------
+ 
+ 
+
+ %-------------------------------------------------------------------------------------
+ %Imprimir las soluciones
+ %\appendix{Soluciones}
+ \section*{Soluciones del capítulo 1}
+  \input{ans1} % soluciones de la primera lista de ejercicios
+  \input{ans2} % soluciones de la segunda lista de ejercicios
+ 
+ \end{document}

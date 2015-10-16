@@ -1,0 +1,7 @@
+\select@language {spanish}
+\contentsline {chapter}{\numberline {1}\LaTeX }{5}{chapter.1}
+\contentsline {section}{\numberline {1.1}?`Qu\'e es \LaTeX ?}{5}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Pre\'ambulo}{5}{subsection.1.1.1}
+\contentsline {subsubsection}{Acerca del T\IeC {\'\i }tulo}{5}{section*.2}
+\contentsline {section}{\numberline {1.2}Deficiones, teoremas y ejemplos}{5}{section.1.2}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{5}{ejemplo.1.1}

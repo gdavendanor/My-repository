@@ -1,0 +1,26 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{color}
+\usepackage{listings}
+
+\usetheme{Warsaw}
+
+
+
+\begin{document}
+\begin{frame}[fragile]{Programaci\'on java} % fragile
+   \begin{lstlisting}[language=Java]
+
+        import javax.swing.*;
+        import java.awt.*;
+        public class app_prg1 extends JApplet
+        { public void init(){}
+            public void paint ( Graphics g ){
+                g.drawString(" 3 +46 = "+(3+46),30, 30 );}
+        }
+    \end{lstlisting}   
+\end{frame}
+\end{document}

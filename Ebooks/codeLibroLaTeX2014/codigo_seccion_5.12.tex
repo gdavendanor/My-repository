@@ -1,0 +1,37 @@
+\documentclass[table, x11names]{article} 
+\usepackage[total={14cm,21cm},top=2cm,left=2cm]{geometry}
+
+\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[spanish]{babel}
+
+\usepackage{tikz,tkz-tab}%
+ \usetikzlibrary{matrix,arrows, positioning,shadows,shadings,backgrounds,
+                       calc, shapes, tikzmark}
+                       
+\usepackage{tcolorbox, empheq}%%tcolorbox 2014 
+ \tcbuselibrary{skins,breakable,listings,theorems} 
+
+\usepackage{xcolor,pstricks}
+\usepackage{tabularx} 
+
+
+\begin{document}
+
+\newcolumntype{Y}{>{\raggedleft\arraybackslash}X} % Ver tabularx
+%
+\tcbset{enhanced,fonttitle=\bfseries\large,fontupper=\normalsize\sffamily,
+colback=LightCyan1,colframe=DarkOrange4,colbacktitle=DarkOrange4,
+coltitle=black,center title
+}
+%%-Tabla - Estilo beamer
+\begin{tcolorbox}[tabularx={X||X||X},title= {\white Iteración}, beamer]
+& $x_i$ & $y_i=f(x_i)$ \\\hline\hline
+A & $x_0=0$ & $0$ \\\hline
+B & $x_1=0.75$ & $-0.0409838$ \\\hline
+C & $x_2=1.5$ & $1.31799$
+\end{tcolorbox}
+
+\end{document}
