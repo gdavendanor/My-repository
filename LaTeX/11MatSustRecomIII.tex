@@ -1,0 +1,95 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $11^{\circ}$}
+\ExamName{Sustentación Plan de Mejoramiento 3}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+No se admite el uso de ningún artefacto electrónico (celular, calculadora, etc), si no hace caso a esta advertencia, su evaluación puede ser anulada. Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\section*{Cálculo}
+\begin{enumerate}
+ \item Explique con sus propias palabras que significa la ecuación \[\displaystyle{\lim_{x\rightarrow 3}f(x)=4}\] ¿Es posible que esto pueda ser verdadero aunque $f(3)=8$?\noanswer
+ \item Explique que significa decir que:
+ \[\displaystyle{\lim_{x\rightarrow 2^{-}}g(x)=8} \quad \text{y} \quad \displaystyle{\lim_{x\rightarrow 2^{+}}g(x)=5}\]
+ En esta situaci\'{o}n, ¿es posible que $\displaystyle{\lim_{x\rightarrow 2}g(x)}$ exista?\noanswer
+ \item La gr\'{a}fica de $h$ se muestra en la figura. Encuentre cada l\'{i}mite o explique por qu\'{e} no existe.
+ 
+ \begin{minipage}{0.5\textwidth}
+  \begin{center}
+  \begin{tikzpicture}
+ \draw[dotted,style=help lines] (-3,-2) grid (4,3);
+\draw[<->] (-3.2,0)--(4.2,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-2.2)--(0,3.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\draw plot [domain=-3:-2] (\x, -1);
+\filldraw (-2,-1) circle (1.5pt);
+\draw plot [domain=-1.95:2] (\x,\x);
+\draw (-2,-2) circle (1.5pt);
+\draw plot [domain=2:4] (\x,{sqrt((\x)+2.0)});
+ \end{tikzpicture}
+  \end{center}
+ \end{minipage}\hfill
+ \begin{minipage}{.45\textwidth}
+ \begin{enumerate}
+\item $\displaystyle{\lim_{x\rightarrow -2^{-}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow -2^{+}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow -2}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2^{-}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2^{+}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2}f(x)}$\noanswer
+ \end{enumerate}
+ \end{minipage}
+\item Sea \[f(x)= \left\{ \begin{array}{lcl}
+3 & \mbox{ si } & x<-1 \\
+x^{2}+1 & \mbox{ si } & -1\leq x\leq 2\\
+x+3 & \mbox{ si } & x>2
+\end{array}
+\right.\]
+Encuentre
+\begin{enumerate}
+\item $\displaystyle{\lim_{x\rightarrow -1^{-1}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow -1^{+}}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow -1}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2^{-}}f(x)}$\newpage
+\item $\displaystyle{\lim_{x\rightarrow 2^{+}}f(x)}$
+\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 0}f(x)}$\noanswer
+\item $\displaystyle{\lim_{x\rightarrow 3}(f(x))^{2}}$\noanswer
+ \end{enumerate}
+ \item Use las propiedades de los límites para evaluar el límite si existe
+ \begin{enumerate}
+\item $\displaystyle{\lim_{t\rightarrow 1}(t^{3}-3t+6)}$ \noanswer
+\item $\displaystyle{\lim_{x\rightarrow -2}\dfrac{x^{2}-4}{x^{2}+x-2}}$ \noanswer
+\item $\displaystyle{\lim_{z\rightarrow 9}\dfrac{\sqrt{z}-3}{z-9}}$ \noanswer
+ \end{enumerate}
+ \section*{Probabilidad}
+ \item Se extrae una bola aleatoriamente de una caja que contiene 10 bolas rojas, 20 bolas blancas, 15 azules y 5 naranjas. Hallar la probabilidad de que sea
+ \begin{enumerate}
+ \item naranja o roja \noanswer
+ \item ni roja ni azul \noanswer
+ \end{enumerate}
+ \item Se extraen dos bolas sucesivamente de la caja del problema anterior, remplazando la bola extraída después de cada extracción. Halle la probabilidad
+ \begin{enumerate}
+ \item ambas sean blancas\noanswer
+ \item la primera sea roja y la segunda blanca \noanswer
+ \end{enumerate}
+ \item Resuelva el problema anterior si no hay remplazamiento.\noanswer
+\end{enumerate}
+\end{document}
