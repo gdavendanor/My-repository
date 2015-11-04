@@ -1,0 +1,67 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Probabilidad $11^{\circ}$}
+\ExamName{Probabilidad condicional}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{36pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Observe como se desarrolla el ejemplo y con base en lo trabajado en el último taller, resuelva la presente evaluación.}
+\LineaNombre
+\section*{Ejercicio - Ejemplo}
+\begin{enumerate}
+\item[A] Una caja de galletas contiene siete galletas de chocolate y cuatro de coco, otra caja tiene cinco de chocolate y tres de coco. Si elegimos una caja al azar y de ella se extraen dos galletas sin reemplazamiento, calcula:
+\begin{enumerate}
+\item[i] ¿Cuál es la probabilidad de que las dos sean de chocolate?\\
+
+Sea $A_{1}$: "Sacar galleta de chocolate por primera vez" y $A_{2}$: Sacar galleta por segunda vez" Mientras que I y II designan los sucesos de escoger la caja I o la caja II respectivamente. Por tanto la probabilidad pedida será:
+\begin{align*}
+P(A_{1}\cap A_{2})&=P(I)P(A_{1}|I)P(A_{2}|(A_{1}|I))+P(II)P(A_{1}|II)P(A_{2}|(A_{1}|II))\\
+&=\left(\frac{1}{2}\right)\left(\frac{7}{7+4}\right)\left(\frac{6}{6+4}\right)+\left(\frac{1}{2}\right)\left(\frac{5}{5+3}\right)\left(\frac{4}{4+3}\right)\\
+&=\left(\frac{1}{2}\right)\left(\frac{7}{11}\right)\left(\frac{6}{10}\right)+\left(\frac{1}{2}\right)\left(\frac{5}{8}\right)\left(\frac{4}{7}\right)\\
+&=\frac{21}{110}+\frac{5}{28}\\
+&=\frac{294}{1540}+\frac{275}{1540}\\
+&=\frac{569}{1540}
+\end{align*}
+\item[ii] ¿Y de que las dos sean de coco?. Con un proceso similar al anterior se puede resolver.
+\item[iii] ¿Cuál es la probabilidad de que sea una de chocolate y una de coco?
+\end{enumerate}
+\end{enumerate}
+\subsection*{Soluci\'on}
+
+ 
+\begin{enumerate}
+	\item \label{prob:1} Una bola se extrae aleatoriamente de una caja que contiene 4 bolas rojas, 5 bolas blancas y 6 bolas azules. Determinar la probabilidad de que sea:
+	\begin{enumerate}
+	\item Roja \noanswer
+	\item Blanca \noanswer
+	\item Azul\noanswer
+	\item No roja \noanswer
+	\item Roja o blanca\noanswer
+	\end{enumerate}
+	\newpage
+   \item Un talego contiene 3 bolas blancas y 4 bolas negras; otro contiene 2 bolas blancas y 6 bolas negras. Si se extrae una bola de cada talego, hallar la probabilidad de que:
+      \begin{enumerate}
+	 \item Ambas sean blancas\noanswer
+	 \item ambas sean negras \noanswer
+	 \item Una sea blanca y una sea negra\noanswer
+      \end{enumerate}
+   \item Se extraen tres bolas consecutivamente de la caja del problema~\ref{prob:1}. Hallar la probabilidad de que sea extraigan en el orden roja, blanca y azul si las bolas:
+   \begin{enumerate}
+   \item Se reemplazan\noanswer
+   \item No se reemplazan\noanswer
+   \end{enumerate}
+   \end{enumerate}
+\end{document}
