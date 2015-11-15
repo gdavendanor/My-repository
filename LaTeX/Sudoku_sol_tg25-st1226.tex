@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[papersize={5.5in,8.5in},top=1cm,bottom=1.25cm,right=1cm,left=1cm]{geometry}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage{printsudoku}
+\usepackage{comment}
+\newcommand*{\Lpack}[1]{\textsf{#1}}
+
+\begin{document}
+\begin{center}
+\large ``SUDOKUS''
+\end{center}
+\begin{center}
+Germ\'an Avenda\~no Ram\'irez, Lic. Mat. U.D., M.Sc. U.N.
+\end{center}
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\cluefont{\Large}
+\cellsize{1.75\baselineskip}
+
+\begin{center}
+\renewcommand*{\puzzlefile}{tg25.ans}
+\writepuzzle%
+{782463519}{461295378}{395781246}%
+{819527463}{634918752}{527346891}%
+{156872934}{978134625}{243659187}%
+[DT2 gentle 25 solution]
+\vfill
+\noindent\begin{minipage}{0.47\linewidth}\begin{center}
+TG25 (gentle solution) \\
+\sudoku{tg25.ans}
+\end{center}\end{minipage}
+\end{center}
+
+\begin{center}
+\renewcommand*{\puzzlefile}{st1226.ans}
+\writepuzzle%
+{962854731}{745213689}{183967452}%
+{326748915}{571639248}{498125376}%
+{837592164}{659471823}{214386597}%
+[Seattle Times 2005/12/26 1 star solution]
+\vfill
+\noindent\begin{minipage}{0.47\linewidth}\begin{center}
+ST1226 (1 star solution) \\
+\sudoku{st1226.ans}
+\end{center}\end{minipage}
+\end{center}
+\end{document}
