@@ -1,0 +1,95 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $11^{\circ}$}
+\ExamName{Nivelación 2015}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 55 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item La luz tarda aproximadamente 8 minutos en recorrer la distancia del sol a la tierra. Si la luz recorre 300\,000 kilómetros por segundo, encuentre la distancia aproximada que hay entre el sol y la tierra. Exprese su respuesta en notación científica \noanswer
+ \item Sea 
+$
+f(x)= \left\{ \begin{array}{lcl}
+4 & \mbox{ si } & x\leq 2 \\
+x-3 & \mbox{ si } & x>2
+\end{array}
+\right.
+$
+\begin{enumerate}
+\item Evalúe 
+\begin{enumerate}
+\begin{multicols}{2}
+\item $f(0)=$ \noanswer
+\item $f(1)=$ \noanswer
+\item $f(2)=$ \noanswer
+\item $f(3)=$ \noanswer
+\item $f(4)=$ \noanswer
+\end{multicols}
+\end{enumerate}
+\item Haga la gráfica de $f$
+\begin{center}
+\begin{tikzpicture}[scale=.9]
+\draw[dotted,style=help lines] (-2,-2) grid (5,5);
+\draw[<->] (-2.2,0)--(5.3,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-2.2)--(0,5.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
+\end{center}
+\item Encuentre los siguientes límites
+\begin{enumerate}
+\begin{multicols}{2}
+\item $\displaystyle{\lim_{x\rightarrow 2^{-}}f(x)}=$ \noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2^{+}}f(x)}=$ \noanswer
+\item $\displaystyle{\lim_{x\rightarrow 2}f(x)}=$ \noanswer
+\item $\displaystyle{\lim_{x\rightarrow 3}f(x)}=$ \noanswer
+\end{multicols}
+\end{enumerate}
+\end{enumerate}
+\item Sea la función cuadrática $f(x)=x^{2}-4x+5$
+\begin{enumerate}
+\item Exprese $f$ en la forma estándar $f(x)-k=(x-h)^{2}$\noanswer
+\newpage
+\item Encuentre el mínimo o máximo valor de $f$\noanswer[20pt]
+\item Haga su gráfica
+\begin{center}
+\begin{tikzpicture}[scale=.9]
+\draw[dotted,style=help lines] (-1,-1) grid (5,5);
+\draw[<->] (-1.2,0)--(5.3,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-1.2)--(0,5.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
+\end{center}
+\item Encuentre el intervalo en el cual $f$ es creciente y el intervalo en el cual $f$ es decreciente \noanswer[30pt]
+\end{enumerate}
+\item Para cada sucesión, encuentre los 5 primeros términos y el término n-ésimo $a_{n}$
+\begin{enumerate}
+\item La progresión aritmética cuyo primer término es $a_{n}=\frac{1}{2}$ y su diferencia común $d=3$ \noanswer[50pt]
+\item La progresión geométrica cuyo primer término es $a_{n}=12$ y cuyo razón geométrica es $\frac{5}{6}$ \noanswer[50pt]
+\end{enumerate}
+\item Dada la función $g(x)=2x^{2}-3x$ 
+\begin{enumerate}
+\item Encuentre la pendiente de la recta tangente al punto (2,2)\noanswer
+\item Encuentre la ecuación de la recta tangente al punto (2,2)\noanswer
+\end{enumerate}
+ \end{enumerate}
+
+\end{document}
