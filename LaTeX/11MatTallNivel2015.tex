@@ -10,7 +10,7 @@
 \usepackage{tikz,pgf}
 \usepackage{multicol}
 \usepackage{subfig}
-\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage[width=7.5in,height=9.5in]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Matemáticas $11^{\circ}$}
@@ -23,7 +23,7 @@
 \includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
 \begin{minipage}{.55\textwidth}
 \begin{center}
-Taller de Nivelación 2014\\
+Taller de Nivelación 2015\\
 Matemáticas $11^{\circ}$
 \end{center}
 \end{minipage}\hfill
@@ -152,7 +152,7 @@ $
 \end{multicols}
 \end{itemize}
 \begin{center}
-\includegraphics[scale=.6]{Images/funciones_2014-11-17_14:27:06.png} 
+\includegraphics[scale=.75]{Images/funciones_2014-11-17_14:27:06.png} 
 \end{center}
 \item Una suma de \$25\,000 es depositada en una cuenta que paga 5.4\% de interés compuesto por año.
 \begin{enumerate}
@@ -198,6 +198,7 @@ Para las secuencias dadas en \ref{first}--\ref{second}
 \begin{minipage}{.45\textwidth}
 \includegraphics[scale=.9]{Images/postes.png} 
 \end{minipage}
+
 \ref{five}--\ref{eight} Dado el n-ésimo término de la progresi\'{o}n.
 \begin{enumerate}
 \item Encuentre los cinco primeros t\'{e}rminos
@@ -219,14 +220,14 @@ Para las secuencias dadas en \ref{first}--\ref{second}
  \end{multicols}
 \item Las frecuencias de las notas musicales (medidas en ciclos por segundo) forman una progresión geométrica. El DO central tiene una frecuencia de 256, y el DO una octava arriba tiene una frecuencia de 512. Encuentre la frecuencia del DO dos octavas abajo del DO central.
 \item Un cultivo de bacterias tiene inicialmente 5000 bacterias y su número aumenta 8\% cada hora. ¿Cuántas bacterias hay al cabo de 5 horas? Encuentre una expresi\'{o}n que indique el n\'{u}mero de bacterias que hay al cabo de $n$ horas.
+\section*{L\'{i}mites}
 \item Sea la función $f(x)=\left\{\begin{array}{lcl}
 3 & \mbox{ si } & x<0\\
 2 & \mbox{ si } & x=0\\
-3-x \mbox{ si } & 0<x<2\\
-x \mbox{ si } & x\geq 2
+3-x & \mbox{ si } & 0<x<2\\
+x & \mbox{ si } & x\geq 2
 \end{array}\right.$
 \begin{enumerate}
-\section*{L\'{i}mites}
 \item Grafique la funci\'{o}n $f$
 \item Eval\'{u}e
 \begin{enumerate}
@@ -246,6 +247,12 @@ x \mbox{ si } & x\geq 2
 \item $\ds{\lim_{x\rightarrow -3}\dfrac{x^{2}+4x-21}{x-3}}$
 \item $\ds{\lim_{x\rightarrow 2}\dfrac{x^{2}+4}{x-2}}$
 \end{multicols}
+\end{enumerate}
+\section*{Derivadas}
+\item Dada la función $g(x)=x^{3}$, encuentre
+\begin{enumerate}
+\item La pendiente de la recta tangente en el punto $a=-3$ del dominio.
+\item La ecuación de la recta tangente a la gráfica de $g$ en el punto $(2,8)$
 \end{enumerate}
 \section*{Probabilidad}
 \item La administración Federal de Ferrocarriles proporcionó las cinco categorías principales de violaciones para el ferrocarril CSX para los años 1999-2003 en la tabla siguiente. Hubo un total de 1897 violaciones. La información estuvo contenida en el artículo \textit{Democrat and Chronicle}, 29 de diciembre, 2004, titulado "Rail cop lacks a big stick". (El uniformado no lleva "garrote").
@@ -289,7 +296,31 @@ Corta & 104 & 71 & 121 & 54 & 350 \\
 Total & 300 & 200 & 350 & 150 & 1000 \\ 
 \hline 
 \end{tabular} 
-
-\end{center}Use la información de la tabla para estimar la probabilidad de ser de estatura media o corta y tener situación de enfermedad moderada o grave.
+\end{center}
+Use la información de la tabla para estimar la probabilidad de ser de estatura media o corta y tener situación de enfermedad moderada o grave.
+\item Determinar o estimar la probabilidad $p$ de cada uno de los eventos siguientes:
+\begin{enumerate}
+\item Al lanzar una vez un dado obtener un número non.
+\item Al lanzar dos veces una moneda obtener por lo menos una cara.
+\item Al sacar una carta de una baraja, bien barajada, con 52 cartas obtener un as, un 10 de diamantes o un 2 de
+espadas.
+\item Al lanzar una vez un par de dados su suma sea siete.
+\item Si en 100 lanzamientos de una moneda se obtuvieron 56 caras, en el siguiente lanzamiento obtener una cruz.
+\end{enumerate}
+\item Un experimento consiste en lanzar una moneda y un dado. Si $E_{1}$ es el evento en que se obtenga ``cara'' al lanzar la moneda y $E_{2}$ es el evento en que se obtenga ``3 o 6'' al lanzar el dado, expresar en palabras cada uno de los eventos siguientes:
+\begin{multicols}{3}
+\begin{enumerate}
+\item $E_{1}$
+\item $E_{2}$
+\item $E_{1}E_{2}$
+\item $P(E_{1}E_{2})$
+\item $P_{1}|E_{2}$
+\item $P(E_{1}+E_{2})$
+\end{enumerate}
+\end{multicols}
+\item \label{q6.3} De una caja que contiene 6 pelotas rojas, 4 pelotas blancas y 5 pelotas azules se extrae, de manera aleatoria, una pelota. Determinar la probabilidad de que la pelota extraída sea: a) roja, b) blanca, c) azul, d) no sea roja y e) sea roja o blanca.
+\item Un dado se lanza dos veces. Encontrar la probabilidad de obtener un 4, un 5 o un 6 en el primer lanzamiento y un 1, 2, 3 ó 4 en el segundo lanzamiento.
+\item De una baraja, bien barajada, con 52 cartas se extraen dos cartas. Encuentre la probabilidad de que las dos sean ases si la primera carta: a) se devuelve a la baraja y b) no se devuelve a la baraja.
+\item De la caja del problema \ref{q6.3} se extraen, sucesivamente, tres pelotas. Encuéntrese la probabilidad de que se extraigan en el orden roja, blanca y azul: a) si cada pelota se devuelve a la caja y b) si no se devuelve.
 \end{enumerate}
 \end{document}
