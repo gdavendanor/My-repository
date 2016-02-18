@@ -1,0 +1,237 @@
+\documentclass[twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[papersize={5.5in,8.5in},left=.75cm,right=.75cm,top=1.5cm,bottom=1.3cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\Email ~iedabgerman@autistici.org}
+\fancyhead[RE]{}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Introducción\\
+Probabilidad $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section{Nivel I}
+\begin{enumerate}
+  \item Sea el experimento aleatorio “lanzar un dado”. Escribe el es pacio muestral e indica dos sucesos aleatorios que consten
+de tres sucesos elementales cada uno.
+\item Se saca una carta de una baraja española de 40 cartas. Escribe los sucesos contrarios de los siguientes:
+\begin{enumerate}
+  \item A = “sacar un as”
+  \item B = “obtener un número primo”
+  \item C = “obtener puntuación impar”
+  \item D = “obtener puntuación positiva”
+\end{enumerate}
+\item Se lanza un dado. Escribe los siguientes sucesos y halla sus probabilidades:
+\begin{enumerate}
+  \item A = “obtener un número mayor que 3”
+  \item B = “obtener un número primo”
+  \item C = “obtener puntuación impar”
+  \item D = “obtener puntuación positiva”
+\end{enumerate}
+\item Con los datos del problema anterior, indica qué sucesos son
+los siguientes y halla la probabilidad de cada uno.
+\begin{multicols}{3}
+  \begin{enumerate}
+    \item $ \overline{A} $
+    \item $ \overline{B} $
+    \item $ A\cup B $
+    \item $ A\cap B $
+    \item $ B\cap \overline{B} $
+    \item $ \overline{A\cap B} $
+    \item $ \overline{A}\cap \overline{B} $
+    \item $ \overline{A\cup B} $
+    \item $ \overline{A}\cup \overline{B} $
+    \item $ (A\cap B)\cap C $
+    \item $ \overline{(A\cap B)\cap C} $
+    \item $ (\overline{A}\cap\overline{B})\cup\overline{C} $
+  \end{enumerate}
+\end{multicols}
+\item El espacio muestral de un experimento aleatorio es  \{1,2,3,4,5,6,7,8,9\}. Sean los sucesos:
+\[ A=\{3,5,6,8\}\qquad B=\{1,2,3,4,8,9\}\qquad C=\{1,4,5,7,9\} \]
+Calcule la probabilidad de los sucesos:
+\begin{multicols}{3}
+  \begin{enumerate}
+    \item $ \overline{C} $
+    \item $ A\cup C $
+    \item $ A\cup\overline{C}\cup B $
+    \item $ A\cap\overline{B} $
+    \item $ A\cup\overline{B} $
+    \item $ \overline{A}\cap B $
+  \end{enumerate}
+\end{multicols}
+\item Con los datos anteriores, halla los siguientes sucesos y sus probabilidades.
+\begin{multicols}{2}
+  \begin{enumerate}
+    \item $ (\overline{A}\cap\overline{B})\cap\overline{C} $
+    \item $ \overline{(A\cap B)\cap C} $
+    \item $ (\overline{A}\cap\overline{B})\cup\overline{C} $
+    \item $ B\cup(A\cap C) $
+    \item $ (B\cup A)\cap(B\cup C) $
+    \item $ B\cap (A\cup C) $
+  \end{enumerate}
+\end{multicols}
+\item Se considera el experimento aleatorio “lanzar tres monedas”. Construye el espacio muestral.
+\item Sea el experimento del problema anterior. Se  consideran los sucesos:
+\begin{multicols}{2}
+  A = “sacar solo una cara”\\
+  B = “sacar al menos una cruz”\\
+  C = “sacar tres caras o tres cruces”\\
+\end{multicols}
+Halla las probabilidades de:
+\begin{multicols}{3}
+  \begin{enumerate}
+    \item $ A\cap B $
+    \item $ A\cup C $
+    \item $ C\cap \overline{B} $
+    \item $ \overline{A\cup \overline{B}} $
+    \item $ \overline{A}\cup B $
+    \item $ (\overline{A}\cap\overline{B})\cap \overline{C} $
+  \end{enumerate}
+\end{multicols}
+\item En un determinado experimento aleatorio el espacio muestral consta de sólo tres sucesos elementales siendo la probabilidad de los dos primeros son 0,2 y 0,5. ¿Cuál es la probabilidad del tercero?
+\item En un experimento aleatorio el espacio muestral es E = \{a, b, c, d\} sabiendo que:
+\[ P(\{a\})=P(\{b\})=\dfrac{1}{8}\qquad \mbox{y}\qquad P(\{c\})=\dfrac{1}{5} \qquad \mbox{Halle }P(\{d\}) \]
+\item Sea el experimento aleatorio ''lanzar un dado``. Halla la probabilidad de los sucesos:
+\begin{enumerate}
+\item $A_{1}=$"Sacar un número"
+\item $A_{2}=$"sacar un número primo"
+\item $A_{3}=$"sacar un número menor que 3"
+\item $A_{4=}$"sacar un número par mayor que 4"
+\item $A_{5}=$"sacar un número par o mayor que 4"
+\end{enumerate}
+\item Halla la probabilidad de que al lanzar dos dados aparezca:
+\begin{enumerate}
+  \item en el primero un número impar y en el segundo un múltiplo de 3
+\item en el primero par y en el segundo mayor que 2
+\end{enumerate}
+\item Calcula la probabilidad de que al lanzar dos dados la suma de sus puntos sea:
+\begin{enumerate}
+\begin{multicols}{3}
+\item 5
+\item mayor o igual que 10
+\item múltiplo de 3
+\end{multicols}
+\end{enumerate}
+\item Durante el curso 1986/87 el número de estudiantes de los antiguos BUP y COU, en Aragón, fue:
+
+\begin{tabular}{|c|c|c|c|}
+\hline 
+ & Huesca & Teruel & Zaragoza \\ 
+\hline 
+Centro público & 5091 & 2277 & 17805 \\ 
+\hline 
+Centro privado & 1284 & 896 & 12775 \\ 
+\hline 
+\end{tabular} 
+
+Si hubiese elegido una de esas personas al azar, calcula la probabilidad de que estudiase en:
+\begin{enumerate}
+\begin{multicols}{2}
+\item Zaragoza
+\item Un centro privado de Teruel
+\item Un centro público
+\end{multicols}
+\end{enumerate}
+\item Calcula la probabilidad de que al levantar una ficha del dominó:
+\begin{enumerate}
+\item Sea una ficha doble
+\item la suma de sus puntos sea 6
+\end{enumerate}
+\item Tengo en la mano seis cartas con los números 1, 2, 3, 5, 6, 7. Mi amigo toma una al azar:
+\begin{enumerate}
+\item ¿Cuál es la probabilidad de que obtenga un número menor que 4?
+\item ¿Cuál es la probabilidad de que el número que obtenga sea divisible por 2?
+\end{enumerate}
+\item Si extraes una carta de una baraja española, calcula la probabilidad de:
+\begin{enumerate}
+\begin{multicols}{2}
+\item Que sea un caballo
+\item Que sea una copa
+\item Que sea el caballo de copas
+\item Que sea un caballo o una copa
+\end{multicols}
+\end{enumerate}
+\item Una urna contiene 8 bolas rojas, 5 amarillas y 7 verdes. Se extrae una al azar. Determina la probabilidad de que:
+\begin{enumerate}
+\begin{multicols}{2}
+\item Sea roja o verde
+\item No sea roja
+\item Sea roja o amarilla
+\end{multicols}
+\end{enumerate}
+\item Una bolsa contiene 100 papeletas de una rifa numeradas del 1 al 100. Se extrae una papeleta al azar. ¿Cuál el la probabilidad de que:
+\begin{enumerate}
+\item el número extraído tenga una sola cifra;
+\item el número extraído tenga dos cifras;
+\item el número extraído tenga tres cifras;
+\item el número extraído tenga cuatro cifras?
+\end{enumerate}
+\item Tres amigos de edades 14, 15 y 16 años están esquiando juntos. Teniendo en cuenta que llegan al arrastre de uno en uno, ¿cuál es la probabilidad de que lleguen por orden de edades?
+\item Se lanza una moneda cuatro veces. ¿Cuál el la probabilidad de que todas sean caras? ¿Y de que todas sean cruces? ¿Y de que todas sean o bien caras o bien cruces?
+\item En un instituto hay 1.000 alumnos repartidos por cursos de esta forma:
+
+\begin{tabular}{|c|c|c|c|c|}
+\hline 
+ & Primero & Segundo & Tercero & Cuarto \\ 
+\hline 
+Chicos & 120 & 100 & 95 & 85 \\ 
+\hline 
+Chicas & 200 & 150 & 130 & 120 \\ 
+\hline 
+\end{tabular}
+
+Elegido un alumno al azar, calcula las siguientes probabilidades:
+\begin{enumerate}
+\begin{multicols}{2}
+\item Ser chico
+\item Ser chica
+\item Ser alumno de primero
+\item Ser alumno de segundo
+\item Ser alumno de tercero
+\item Ser alumno de cuarto
+\item Ser chica y alumno de cuarto
+\item Ser chico y alumno de segundo
+\end{multicols}
+\end{enumerate}
+\item En una urna hay 50 bolas entre blancas, rojas y negras. ¿Cuántas bolas hay de cada color en los siguientes casos?
+\begin{enumerate}
+\item Si $P(B)=\frac{2}{5}$ \quad y \quad $P(N)=\frac{1}{10}$
+\item Si $P(B)=\frac{2}{5}$ \quad y \quad $P(N)=P(R)$
+\end{enumerate}
+\item Se lanzan dos dados a la vez. ¿Cuál es la probabilidad de obtener los siguientes sucesos?
+\begin{enumerate}
+\begin{multicols}{2}
+\item Un 4 y un 5
+\item Primero 4 y después 5
+\item Suma 9
+\item Ni 4 ni 5
+\end{multicols}
+\end{enumerate}
+\end{enumerate}
+
+
+\end{document}
