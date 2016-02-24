@@ -1,0 +1,210 @@
+\documentclass[twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage[papersize={5.5in,8.5in},left=.75cm,right=.75cm,top=1.5cm,bottom=1.25cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\Email~matematicas.german@gmail.com}
+\fancyhead[RE]{}
+\fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Número naturales $\mathbb{N}$\\
+Aritmética $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\thispagestyle{plain}
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section*{Nivel I}
+\begin{enumerate}
+\item Cita tres ejemplos en cada uno de los casos en los que se
+usen los números naturales para contar, ordenar e identificar.
+\item Escribe tres números cardinales hasta el número 15, señala el lugar que ocupan atendiendo al orden y escribe como se leen.
+\item Representa en la recta numérica los siguientes números: 4, 15, 7, 9, 2, 6. ¿Qué observas en la recta? ¿Dónde está situado el número mayor, y el menor? ¿Qué conclusiones sacamos al observar la recta?
+\item Escribe los números que corresponden a cada uno de los
+puntos representados en esta recta:
+
+\begin{tikzpicture}
+\draw[|->] (0,0) -- (10.5,0);
+\foreach \x in {2,4,6,10} \draw[shift={(\x,0)},color=black,thick] (0,4pt)--(0,-4pt) ;
+\foreach \x in {3,5,7,8,9}\draw[shift={(\x,0)},color=black,thin](0,2pt)--(0,-2pt);
+\foreach \x in {0,1} \draw[shift={(\x,0)},color=black,thin](0,2pt)--(0,-2pt)node[below]{$\x$};
+\end{tikzpicture}
+\item Ordena los números utilizando los signos $<$, $>$.
+\begin{enumerate}
+\item De menor a mayor los siguientes números: 3.030,
+3.300, 3.003, 3.333, 30.003.
+\item De mayor a menor los siguientes números: 6.030,
+6.300, 63.000, 6.003, 60.300, 6.303.
+\end{enumerate}
+\item Lee y escribe los siguientes números:
+\begin{enumerate}
+\begin{multicols}{3}
+\item 57\,803
+\item 602\,008
+\item 130\,005
+\item 41\,222
+\item 907\,003
+\item 101\,001
+\end{multicols}
+\end{enumerate}
+\item Haz un esquema poniendo los distintos términos de las operaciones elementales. Recuerda que son suma, resta, multiplicación y división.
+\item Busca el término desconocido e indica su nombre en las siguientes operaciones:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $327+\underline{\hspace*{40pt}}=1\,208$
+\item $\underline{\hspace*{40pt}}-4\,121=626$
+\item $321\times \underline{5\,457}$
+\item $28\,035\div \underline{\hspace*{30pt}}=623$
+\end{multicols}
+\end{enumerate}
+\item Comprueba la propiedad conmutativa de la suma y el pro-
+ducto con estos números:
+\begin{enumerate}
+\begin{multicols}{4}
+\item 4 y 5
+\item 7 y 9
+\item 25 y 30
+\item 100 y 345
+\end{multicols}
+\end{enumerate}
+\item Comprueba la propiedad asociativa de la suma y el producto:
+\begin{enumerate}
+\begin{multicols}{2}
+\item 4, 5 y 6
+\item 7, 8 y 9
+\item 15, 45 y 50
+\item 100, 200 y 300
+\end{multicols}
+\end{enumerate}
+\item Realiza las siguientes operaciones teniendo en cuenta su prioridad: (Se priorizan las multiplicaciones y divisiones sobre las adiciones y sustracciones)
+\begin{enumerate}
+\begin{multicols}{2}
+\item $27+3\cdot 5-16=$
+\item $27+3-45\div 5+16=$
+\item $3\cdot 9+(6+5-3)-12\div 4=$
+\end{multicols}
+\end{enumerate}
+\item Expresa con un ejemplo una potencia y señala en ella los distintos términos y qué representa cada uno de ellos:
+\item Resuelve las siguientes potencias:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $3^{2}+5^{2}-3^{2}+17=$
+\item $2^{3}\cdot 3^{2}-5^{2}+6^{3}=$
+\item $2^{5}\div 4^{2}+6^{3}\div 3^{3}=$
+\end{multicols}
+\end{enumerate}
+\item Escribe en forma de una sola potencia:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $3^{3}\cdot 3^{4}\cdot 3=$
+\item $5^{7}\div 5^{3}=$
+\item $(5^{3})^{4}=$
+\item $(5\cdot 2\cdot 3)^{4}=$
+\end{multicols}
+\end{enumerate}
+La descomposición polinómica consiste en descomponer el número teniendo en cuenta la posición ocupada, siendo éstas unidades, decenas, centenas, etc.
+Por ejemplo el número 12\,326 se descompone así:
+\begin{align*}
+12\,326&=(1\times 10^{4})+(2\times 10^{3})+(3\times 10^{2})+(2\times 10)+6\\
+&=10\,000+2\,000+300+20+6
+\end{align*}
+\item Realiza la descomposición polinómica de los siguientes números:
+\begin{enumerate}
+\begin{multicols}{2}
+\item 24\,349=
+\item 4\,003=
+\item 123\,687=
+\item 1'234\,568=
+\end{multicols}
+\end{enumerate}
+\item Señala en una raíz cuadrada, sus términos.
+\item Halla los cuadrados perfectos de los 15 primeros números naturales.
+\item Calcula mentalmente la raíz cuadrada de los siguientes números, señalando cuales son exactas y cuales enteras: 81, 92, 16, 47, 35, 49, 64, 25, 9, 18.
+\item Calcula la raíz cuadrada de los siguientes números, señalando en cada una de ellas el radicando, la raíz y el resto: 1.347, 4.126, 6.132, 9.047, 525.
+\item Di que números son, si su raíz cuadrada es: 25, 15, 17, 11, 3
+\item Juan tiene 12 años más que su primo Ángel. Ángel tiene 15 años más que su hermano Andrés. Si Andrés tiene 20 años. ¿Cuántos años tienen entre los tres?
+\item El domingo salí de casa con una cierta cantidad de dinero. Pagué 550 pesetas en la entrada del cine y me compré dos paquetes de papadeltas a cinco duros cada uno y un zumo de 125 pesetas. Cuando llegué a casa tenía 240 pesetas. ¿Con cuánto dinero salí de casa?
+\item Un agricultor recogió 245.374 kilos de peras. El primer día vendió la mitad. De la otra mitad, se le estropearon 456 kilos. ¿Cuántos kilos le quedaron para vender el segundo día?
+\item Un agricultor recolecta 7.200 kilos de uva, de 12 grados hectolitro, y se liquida a 14 pesetas grado/hectolitro ¿Cuánto ha cobrado el agricultor? 25. Un niño está de vacaciones y envía cartas a sus 5 amigos, en cada carta pone 5 postales y en cada postal un sello que vale 5 pesetas. ¿Cuántas pesetas se ha gastado en sellos
+\item He dibujado en el cuaderno un cuadrado, como es cuadriculado he contado los cuadros y me dan 169 cuadros. Si lo quieres dibujar tú en el cuaderno, ¿cuántos cuadros
+pondrás de lado?
+\end{enumerate}
+\section*{Nivel II}
+\begin{enumerate}
+\item ¿Por qué son necesarios los números? ¿Para qué sirven? Pon ejemplos, sacados del periódico en los que se utilicen los números naturales para contar, ordenar e identificar.
+\item Expresa en forma ordinal y escribe el nombre de los números siguientes: 20, 73, 85, 100.
+\item Comprueba que el cero es el elemento neutro de la suma y el uno el de la multiplicación. Explica por qué.
+\item Escribe las dos restas asociadas a cada suma:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $45 + 56 = 101$
+\item $38 + 72 = 110$
+\item $95 + 125 = 220$
+\item $275 + 125 = 400$
+\end{multicols}
+\end{enumerate}
+\item Escribe la suma y la resta asociadas a las siguientes restas:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $75 - 23 = 52$
+\item $97 - 48 = 49$
+\item $126 - 38 = 88$
+\item $125 - 75 = 50$
+\end{multicols}
+\end{enumerate}
+\item Realiza las siguientes operaciones combinadas:
+\begin{enumerate}
+\item $645 - 62 \cdot 9 + 640 \div 4 + 60 =$
+\item $600 - 25 \cdot 6 + 512 \div 8 - 89 =$
+\item $250 \cdot 2 \div 4 + 36 - 60 \div 2 =$
+\item $(540 - 312) \cdot 15 \div (75 - 4 \cdot 15)=$
+\end{enumerate}
+\item Halla el valor de $n$ en las siguientes potencias:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $5^{n}\cdot 5^{2} = 5^{7}$
+\item $n^{5}\div n^{3}=5^{2}$
+\item $(3^{n})^{4}=3^{12}$
+\item $(3\cdot 5)^{n} = 15^{6}$
+\end{multicols}
+\end{enumerate}
+\item Calcula la raíz cuadrada de los números: 56.998; 345.987, 456.234; 23.006.
+\item El producto de dos números es 3.024 y uno de los números es igual al cociente de 576 entre 12. ¿Cuál es el otro número?
+\item Escribe una división en la que el divisor sea igual al doble del cociente y al triple del resto
+\item Escribe los números que faltan:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $4\cdot (5 + \underline{\hspace*{30pt}}) = 36$
+\item $(30 - \underline{\hspace*{30pt}})\div 5 + 4 = 8$
+\item $18 \cdot \underline{\hspace*{30pt}} + 4 \cdot \underline{\hspace*{30pt}} = 56$
+\item $30 - \underline{\hspace*{30pt}} \div 8 = 25$
+\end{multicols}
+\end{enumerate}
+\item Escribe el número que tiene 237 centenas, el 7 ocupa el lugar de las unidades y el valor de posición de 8 es 80.
+\item Se da la multiplicación 4.857 por 63.
+\begin{enumerate}
+\item Redondea cada término y estima su valor.
+\item Utilizando la estimación anterior, señala cuales de los siguientes resultados son falsos: 23.332, 2.600.000; 288.734; 2164
+\end{enumerate}
+\end{enumerate}
+\end{document}
