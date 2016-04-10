@@ -1,0 +1,14 @@
+\begin{tikzpicture}
+\draw (0,0) circle (10pt) node  (a){};
+\draw (2,0) circle (10pt) node (b){};
+\draw (4,0) circle (10pt) node (c){};
+\draw (1,2) circle (10pt) node (d){};
+\draw (3,2) circle (10pt) node (e){};
+\draw (2,4) circle (10pt) node (f){};
+\draw (a) -- (b);
+\draw (b) -- (c);
+\draw (c) -- (e);
+\draw (e) -- (f);
+\draw (f) -- (d);
+\draw (d)--(a);
+\end{tikzpicture}
