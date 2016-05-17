@@ -1,0 +1,20 @@
+ /* Geogebra to Asymptote conversion, documentation at artofproblemsolving.com/Wiki, go to User:Azjps/geogebra */
+import graph; usepackage("amsmath"); size(17.91cm); 
+real labelscalefactor = 0.5; /* changes label-to-point distance */
+pen dps = linewidth(0.7) + fontsize(10); defaultpen(dps); /* default pen style */ 
+pen dotstyle = black; /* point style */ 
+real xmin = -7.93125, xmax = 9.97875, ymin = -8.695, ymax = 17.81;  /* image dimensions */
+pen qqwuqq = rgb(0.,0.39215686274509803,0.); 
+Label laxis; laxis.p = fontsize(10); 
+xaxis(xmin, xmax, Ticks(laxis, Step = 2., Size = 2, NoZero),EndArrow(6), above = true); 
+yaxis(ymin, ymax, Ticks(laxis, Step = 2., Size = 2, NoZero),EndArrow(6), above = true); /* draws axes; NoZero hides '0' label */ 
+ /* draw figures */
+real f1 (real x) {return (x^(3.0)-1.0)/(x+1.0);} 
+draw(graph(f1,-7.92125,9.96875), linewidth(1.2) + qqwuqq); 
+draw((-1.,ymin)--(-1.,ymax), linetype("2 2")); /* line */
+label("$f(x)=\dfrac{x^3-1}{x+1}, \qquad x\neq -1$",(0.97875,-1.81),SE*labelscalefactor); 
+ /* dots and labels */
+label("$f$", (-3.11625,17.135), NE * labelscalefactor,qqwuqq); 
+label("$g$", (-0.64125,17.135), NE * labelscalefactor); 
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle); 
+ /* end of picture */
