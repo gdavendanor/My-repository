@@ -1,0 +1,195 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{marvosym}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},top=1.45cm,bottom=1.25cm,left=.75cm,right=.75cm]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{https://www.autistici.org/mathgerman}}
+\fancyhead[RE]{}
+\fancyhead[RO]{\Email~iedabgerman@autistici.org}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{0.15\textwidth}\includegraphics[height=1.75cm]{Images/logo-colegio.png}
+\end{minipage}\hfill \begin{minipage}{0.7\textwidth}\begin{center}
+Sucesiones y series\\C\'{a}lculo  $11^{\circ}$\end{center}
+\end{minipage}\hfill
+\begin{minipage}{0.15\textwidth}
+ \includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+\section*{Sucesiones - progresiones}
+\subsection*{Introducci\'{o}n}
+En la vida diaria observamos la sucesión u ocurrencia de una serie de fenómenos que se repiten a diario. Por ejemplo después de un día vendrá la noche y después de la noche vendrá el día y así sucesivamente. Por lo tanto podemos decir que la vida en la tierra transcurre a través de una sucesión de días y noches.\\
+
+Así mismo, podemos encontrar otras situaciones en las cuales se dan fenómenos que se suceden una tras otro, en el cual podemos hallar alguna regularidad. Por ejemplo, si empezamos a dividir una figura (un cuadrado) siempre en mitades, el número de partes del cuadrado que se pueden observar cada vez que hacemos una división de la figura en sus mitades es:
+\[1,2,4,8,16,32,\ldots\] tal como se puede observar en la figura siguiente
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{zzttqq}{rgb}{0.27,0.27,0.27}
+\tikzpicture[scale=.5,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\clip(-0.2,-1) rectangle (16.72,4.31);
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (0,0) -- (4,0) -- (4,4) -- (0,4) -- cycle;
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (5,0) -- (9,0) -- (9,4) -- (5,4) -- cycle;
+\fill[color=zzttqq,fill=zzttqq,fill opacity=0.1] (10,0) -- (14,0) -- (14,4) -- (10,4) -- cycle;
+\draw [color=zzttqq] (0,0)-- (4,0);
+\draw [color=zzttqq] (4,0)-- (4,4);
+\draw [color=zzttqq] (4,4)-- (0,4);
+\draw [color=zzttqq] (0,4)-- (0,0);
+\draw [color=zzttqq] (5,0)-- (9,0);
+\draw [color=zzttqq] (9,0)-- (9,4);
+\draw [color=zzttqq] (9,4)-- (5,4);
+\draw [color=zzttqq] (5,4)-- (5,0);
+\draw (5,2)-- (9,2);
+\draw [color=zzttqq] (10,0)-- (14,0);
+\draw [color=zzttqq] (14,0)-- (14,4);
+\draw [color=zzttqq] (14,4)-- (10,4);
+\draw [color=zzttqq] (10,4)-- (10,0);
+\draw (10,2)-- (14,2);
+\draw (12,4)-- (12,0);
+\draw (1.96,-0.4) node[anchor=north west] {1};
+\draw (6.94,-0.37) node[anchor=north west] {2};
+\draw (11.92,-0.4) node[anchor=north west] {4};
+\draw (16.09,-0.1) node[anchor=north west] {...};
+\endtikzpicture
+\end{center}
+As\'i, se dice que la sucesi\'{o}n es una funci\'{o}n en $\mathbb{N}$, ya que el primer término es 1 (la imagen de 1 es 1), el segundo término es 2 (la imagen de 2 es 2), el tercer término es 4 (la imagen de 3 es 4) el cuarto término es 8 (la imagen de 4 es 8) y así sucesivamente. Es decir se puede proceder así:
+\[\begin{array}{ccc}
+a_{1}=1&a_2=2 &a_3=4\\
+a_4=8&a_5=16&\ldots
+\end{array}\]
+Ahora la cuestión es encontrar la regla general que me permita encontrar cualquier término de la sucesión, es decir, debo encontrar la expresión para $a_{n}$, siendo $n\in\mathbb{N}$. Cada término se obtiene multiplicando el término anterio por 2, luego como empezamos en 1, entonces se tiene:
+\[1,1\cdot2,2\cdot2,4\cdot2,8\cdot2\ldots=1,2,2^2,2^3,2^4,\ldots\]
+por tanto se tienen las potencias de 2, pero empezando en uno, no en dos que sería la primera potencia. Por tanto habrá que restarle uno al exponente, para hacer que la sucesión empiece en 1. Así que el término general quedaría definido así:
+\[a_{n}=2^{n-1}\] para $n\in\mathbb{N}$. Se puede verificar que la fórmula funciona, dándole valores a $n\in\mathbb{N}$, empezando por 1, para hallar $a_1$, luego reemplazando $n$ por 2 para hallar $a_2$ y así sucesivamente.
+\subsubsection*{Definici\'{o}n}
+Una sucesi\'{o}n es una función cuyo dominio es el conjunto $\mathbb{N}$.
+\section*{Actividad}
+\subsection*{Nivel I}
+\begin{enumerate}
+\item Hallar los dos términos siguientes de las sucesiones que se indican:
+\begin{enumerate}
+\begin{multicols}{3}
+\item 4, 6, 8, 10, \dots
+\item $-5,-2,1,4,7,\dots$
+\item $\frac{1}{2},\frac{3}{2},\frac{5}{2},\frac{7}{2},\ldots$
+\item $0, \frac{1}{4},\frac{2}{5},\frac{3}{6},\frac{4}{7},\ldots$
+\item $-3,5,-7,9,-11,\ldots$
+\item $1,4,9,16,25,\ldots$
+\item $1,2,4,7,11,\ldots$
+\item $\frac{5}{3},\frac{10}{4},\frac{17}{5},\frac{26}{6},\frac{37}{7},\ldots$
+\item $1,-2,3,-4,5,-6,\ldots$
+\item $\frac{1}{3},\frac{4}{5},\frac{9}{7},\frac{16}{9},\frac{25}{11},\ldots$
+\end{multicols}
+\end{enumerate}
+\item Cada día me duplican el dinero que tengo y me dan una peseta más. Si el primer día tengo 5 ptas, construye la sucesión que indica el dinero que tengo cada día.
+\item Formamos la siguiente secuencia de figuras: la primera es un cubo; la segunda figura, dos cubos unidos por una de sus caras; la tercera, tres cubos, uno a continuación de otro, unidos cada dos por una de sus caras, y así sucesivamente.\\
+Construye las sucesiones siguientes:
+\begin{enumerate}
+\item La que nos indica el número de caras ocultas.
+\item La que nos indica el número de caras visibles.\\
+¿Cuál es el criterio de formación de cada una?
+\end{enumerate}
+\item Comprueba cuales de las siguientes sucesiones son progresiones y, las que lo sean, indica si son aritméticas o geométricas:
+\begin{enumerate}
+\begin{multicols}{3}
+\item $-3,0,6,9,\ldots$
+\item 2, 4, 7, 11, 16, \ldots
+\item 7, 5, 3, 1, $-1$, $-3$, \ldots
+\item 5, 15, 45, 135, \ldots
+\item 2, 4, 8, 24, 96, \ldots
+\item 2/3, 2/9, 2/27, 2/81, \ldots
+\end{multicols}
+\end{enumerate}
+\item Halla los siete primeros términos una progresión aritmética:
+\begin{enumerate}
+\item cuyo primer término es 5 y su diferencia 3
+\item cuyo primer término es $-4$ y su diferencia 2
+\item cuyo tercer término es 7 y su diferencia 3
+\item cuyo quinto término es 17 y su diferencia $-3$
+\end{enumerate}
+\item Halla el término general de la una progresión aritmética si su primer término es 5 y su diferencia es 3.
+\item Halla el término general de una progresión aritmética si sus dos primeros términos son 4 y 9. Halla también su vigésimo término y la suma de los veinte primeros.
+\item En una granja hay 200 pollos y cada día nacen 15. ¿Cuántos hay al cabo de 20 días si no ha muerto ninguno?
+\item Interpola cinco números entre 5 y 23 de manera que estén en progresión aritmética.
+\item Un agricultor posee una finca a la orilla de una carretera. Decide vallar este lado de la finca que tiene una longitud de 240 metros. Si dispone de 61 estacas, ¿cuál deberá ser la separación entre ellas?
+\item Si en una progresión aritmética quitamos los términos pares, lo que queda ¿es una progresión? En caso afirmativo indica cuál es la diferencia o la razón.
+\item Halla la suma de los 200 primeros números naturales.
+\item Halla la suma de los 100 primeros números pares.
+\item Alberto decide ahorrar y guarda en la hucha 100 ptas la primera semana, 125 la segunda, 150 la tercera y así sucesivamente. ¿Cuánto tiene ahorrado al cabo de 20 semanas?
+\item Entre las siguientes progresiones, identifica las aritméticas y las geométricas. Indica en cada caso cuál es la diferencia o la razón:
+\begin{enumerate}
+\begin{multicols}{2}
+\item 2, 4, 8, 16, \ldots
+\item 4, 12, 36, 108, \ldots
+\item 20, 40, 60, 80, \ldots
+\item 2/3, 4/9, 8/27, 16/81, \ldots
+\item 2, $-4$, 8, $-16$, 32, \ldots
+\item 6, 3, 3/2, 3/4, \ldots
+\item 2, $-2$, 2, $-2$, \ldots
+\item $\sqrt{2}$, 2, $2\sqrt{2}$, 4, \ldots
+\item $\sqrt{2}$, $2\sqrt{2}$, $3\sqrt{2}$, $4\sqrt{2}$, \ldots
+\end{multicols}
+\end{enumerate}
+\item Halla el término general de una progresión geométrica de razón 3 y cuyo primer término es 2. Halla también el séptimo término.
+\item Halla el término general de una progresión geométrica cuyos segundo y tercer términos son 6 y 12, respectivamente.¿Cuál es su octavo término?
+\item Construye la progresión geométrica que empieza por 25 y en la que cada término es los 2/5 del anterior.
+\item Se deja caer una pelota desde una altura de 12 metros. Cada vez que rebota en el suelo alcanza una altura igual a los 2/3 de la altura anterior. Construye la sucesión que nos da la altura alcanzada tras los sucesivos rebotes. ¿Qué tipo de sucesión es? Halla el término general.
+\item Halla la suma de los diez primeros términos de la progresión geométrica de razón 3 sabiendo que su primer término es 1/9.
+\item Un asalariado gana un sueldo bruto de 3 millones de pesetas. La Dirección decide subirle el sueldo durante diez años, de manera que el nuevo sueldo de cada año va a ser el del anterior multiplicado por 1,1 (es decir, aumentado en un 10\%). Construye la sucesión que indica el sueldo en los distintos años, halla el término general y cuánto ganará en el último año.
+\item Un buscador de oro encuentra el primer día 3 gr. de dicho metal y cada día consigue doble cantidad que el día anterior. ¿Cuánto oro reunió en 15 días?
+\end{enumerate}
+\subsection*{Nivel II}
+\begin{enumerate}
+\item Hallar el término general de las siguientes sucesiones:
+\begin{enumerate}\begin{multicols}{3}
+\item $-3$, $-1$, 1, 3, 5, \ldots
+\item 1, 8, 27, 64, \ldots
+\item 2, 5, 10, 17, 26, \ldots
+\item $\frac{1}{3}$, $\frac{8}{5}$, $\frac{27}{7}$, $\frac{64}{9}$, \ldots
+\item $\frac{3}{-3}$, $\frac{6}{1}$, $\frac{9}{5}$, $\frac{12}{9}$, $\frac{15}{13}$, \ldots
+\item $-1$, 2, $-3$, 4, $-5$, \ldots
+\item $\frac{5}{3}$, $\frac{10}{4}$, $\frac{17}{5}$, $\frac{26}{6}$, $\frac{37}{7}$, \ldots
+\item 4, 8, 16, 32, \ldots
+\end{multicols}
+\end{enumerate}
+\item Halla los términos 4o y 7o de las sucesiones cuyo término general es:
+\begin{enumerate}
+\begin{multicols}{2}
+\item $\dfrac{n^{2}-3}{n+1}$
+\item $(-1)^{n}(n+3)$
+\end{multicols}
+\end{enumerate}
+\item Halla los cinco primeros términos de las sucesiones cuya ley de recurrencia es:
+\begin{enumerate}
+\item $a_{1}=2$; $a_{n}=a_{n-1}+2n$ (para $n>1$)
+\item $a_{1}=a_{2}=1$; $a_{n}=a_{n-1}+a_{n-2}$ (para $n>2$)
+\end{enumerate}
+\item Halla el término general de una progresión aritmética en los siguientes casos.
+\begin{enumerate}
+\item $a_{5}=23$ y $a_{10}=43$
+\item $a_{4}=10$ y $d=3$, donde $d$ es la diferencia común entre los términos.
+\item $a_{4}=13$ y $a_{2}+a_{11}=41$
+\item $a_{2}=5$ y $S_{20}=610$, donde $S_{20}$ indica la suma de los primeros 20 términos.\\
+Representa gráficamente la progresión en cada uno de los casos.
+\end{enumerate}
+\item Comprueba que la sucesión de término general $a_n = 4n - 5$ es una p.a. y halla su diferencia.\\
+¿Es 395 un término de la progresión?¿Qué lugar ocupa?\\
+¿Es 900 un término de la progresión?
+\end{enumerate}
+\end{document}
