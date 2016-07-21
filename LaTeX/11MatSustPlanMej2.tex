@@ -1,0 +1,195 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{pgf,tikz}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
+\ExamName{Sustentación recomendaciones II}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado.}
+\LineaNombre
+\begin{enumerate}
+\begin{minipage}{.5\textwidth}
+ \item Compruebe si los pares de valores que figuran en la siguiente tabla corresponden a la función
+ \[y=3-\dfrac{1}{x-2}\]
+ y complete los que faltan:
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+ \begin{tabular}{|c|c|c|c|c|c|c|}
+ \hline 
+ $x$ & 2.01 & 2.5 & 1.9 & 102 &  &  \\ 
+ \hline 
+$y$ & $-97$ &  & 13 &  & 3.5 & 103 \\ 
+ \hline 
+ \end{tabular}
+\end{minipage}
+ \noanswer
+ \begin{minipage}{.45\textwidth}
+ \item Represente la función a trozos
+\[f(x)=\left\{ \begin{array}{lcl}
+x+3 & \mbox{si} & x\leq 2\\
+&
+& \\
+2x+1 & \mbox{si} & x> 2\\
+\end{array}
+\right.\]
+y diga si es discontinua en algún punto.
+ \end{minipage}
+ \begin{minipage}{.5\textwidth}
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.75,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-4.91,-4.31) grid (4.93,4.48);
+\draw[->,color=black] (-4.91,0) -- (4.93,0);
+\foreach \x in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-4.31) -- (0,4.48);
+\foreach \y in {-4,-3,-2,-1,1,2,3,4}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-4.91,-4.31) rectangle (4.93,4.48);
+\endtikzpicture 
+ \end{minipage}
+ \noanswer
+\item Halle el dominio y rango de las siguientes funciones (recuerde que el dominio es el conjunto de valores que toma la variable independiente $x$ y el rango es el conjunto de valores que toma la variable dependiente $y$):
+\begin{enumerate}
+\item $y=x-3$\noanswer
+\item $y=\dfrac{1}{x-1}$\noanswer
+\item $y=+\sqrt{x-2}$\noanswer
+\item $y=+\sqrt{x+3}$\noanswer
+\end{enumerate}
+Haga la gráfica de la última función ítem d)
+\begin{center}
+%Uncomment next line if XeTeX is used
+%\def\pgfsysdriver{pgfsys-xetex.def}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.85,line cap=round,line join=round,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 1pt off 1pt, xstep=1.0cm,ystep=1.0cm] (-3.19,-1.32) grid (5.5,3.61);
+\draw[->,color=black] (-3.19,0) -- (5.5,0);
+\foreach \x in {-3,-2,-1,1,2,3,4,5}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-1.32) -- (0,3.61);
+\foreach \y in {-1,1,2,3}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.19,-1.32) rectangle (5.5,3.61);
+\endtikzpicture
+\end{center}
+\newpage
+\begin{minipage}{.5\textwidth}
+\item Una científica del Centro Superior de Investigaciones Científicas estudia el crecimiento de una población de bacterias. Con los datos que tiene ha elaborado la siguiente tabla:
+\end{minipage}
+\begin{minipage}{.45\textwidth}
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline 
+Tiempo (min) & 0 & 1 & 2 & 3 & 4 & 5 \\ 
+\hline 
+\# de bacterias & 2 & 4 & 8 & 16 & 32 & 64 \\ 
+\hline 
+\end{tabular} 
+\end{center}
+\end{minipage}
+
+\begin{enumerate}
+\item ¿Son variables directamente proporcionales?\noanswer
+\item ¿Cuál es la expresión matemática que representa el crecimiento de esta población de bacterias?\noanswer
+
+\begin{minipage}[b]{.5\textwidth}
+\item Representa la función gráficamente
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+\begin{center}
+ \begin{tikzpicture}[scale=.85,xscale=1,yscale=.15]
+ \draw[help lines,dotted,xstep=1,ystep=2](-.025,-.25)grid(5.25,64.25);
+\foreach \x in {1,2,...,5}
+\draw (\x,-2pt) -- (\x,1pt) node[anchor=north]{\x};
+ \draw[->] (-.125,0) -- coordinate (x axis mid) (5.125,0)node[right]{$x$};
+\foreach \y in {2,16,64}
+\draw (-.25pt,\y) -- (.25pt,\y)node[left]{\y};
+\draw[->] (0,-.25) --coordinate (y axis mid)  (0,64.25)node[above]{$y$};
+ \end{tikzpicture}
+\end{center}
+\end{minipage}
+\end{enumerate}
+\begin{minipage}{.5\textwidth}
+\begin{center}
+ \begin{tikzpicture}[scale=.6]
+ \draw[help lines,dashed](-5,-1)grid(5,5);
+ \draw[->] (-5,0) -- coordinate (x axis mid) (5,0)node[right]{$x$};
+\draw[->] (0,-1) --coordinate (y axis mid)  (0,5)node[left]{$y$};
+\draw[domain=-5:-2,thick] plot(\x,4);
+\draw[domain=-2:0,smooth,thick,samples=100] plot(\x,\x*\x);
+\draw[domain=0:5,samples=100,thick] plot(\x,\x);
+ \end{tikzpicture}
+\end{center}
+\end{minipage}
+\begin{minipage}[t]{.5\textwidth}
+ \item Escriba la ecuación que corresponde a la gráfica:
+\end{minipage}
+\noanswer
+\newpage 
+\item Los ángulos de un triángulo rectángulo están en progresión aritmética. Hállalos.\noanswer
+\item Una persona se quiere hacer un plan de pensiones aportando al principio de cada año \$500\,000. El banco le da un interés compuesto del 6\% anual. ¿Con qué capital contará al cabo de 20 años? \noanswer
+ \item Sea el experimento aleatorio “lanzar un dado”. Halla la probabilidad de los sucesos:
+ \begin{enumerate}
+ \item $A_{1}=$ "sacar un número par"
+ \item $A_{2}=$ "sacar un número primo"
+ \item $A_{3}=$ "sacar un número menor que 3"
+ \item $A_{4}=$ "sacar un número par mayor que 4"
+ \item $A_{5}=$ "sacar un número par o mayor que 4" 
+ \end{enumerate}
+ \item Calcula la probabilidad de que al lanzar dos dados la suma de sus puntos sea:
+ \begin{enumerate}
+ \item 5
+ \item mayor o igual que 10
+ \item múltiplo de 3
+ \end{enumerate}
+ \item En un instituto hay 1.000 alumnos repartidos por cursos de esta forma:
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline 
+ & Primero & Segundo & Tercero & Cuarto \\ 
+\hline 
+Chicos & 120 & 100 & 95 & 85 \\ 
+\hline 
+Chicas & 200 & 150 & 130 & 120 \\ 
+\hline 
+\end{tabular} 
+\end{center}
+Elegido un alumno al azar, calcula las siguientes probabilidades:
+\begin{enumerate}
+\item Ser chico
+\item Ser chica
+\item Ser alumno de primero
+\item Ser alumno de segundo
+\item Ser alumno de tercero
+\item Ser alumno de cuarto
+\item Ser chica y alumno de cuarto
+\item Ser chico y alumno de segundo
+\end{enumerate}
+ \end{enumerate}
+
+\end{document}
