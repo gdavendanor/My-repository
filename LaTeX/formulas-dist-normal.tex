@@ -1,0 +1,22 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\author{Laura Camila Avendaño C.}
+\begin{document}
+Función de densidad para la distribución normal está definida por:
+\[f(x)=\dfrac{1}{\sigma \sqrt{2\pi}}e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^{2}}\], donde $\mu$ es la media que coincide con la moda y la mediana y $\sigma$ la desviación standard 
+
+Su correspondiente función de distribución en el intervalo de $x=a$ a $x=b$ es:
+\[P(a\leq x \leq b)=F(x)=\int_{a}^{b}f(x)dx\] donde $f(x)$ se define en la anterior ecuación.
+
+Haciendo $z=\dfrac{x-\mu}{\sigma}$ se estandariza a una distribución normal, con $\mu=0$ y $\sigma=1$. Por tanto se obtiene que su función de densidad es:
+\[f(z)=\dfrac{1}{\sqrt{2\pi}}e^{-\frac{z}{2}^{2}}\]
+y su correspondiente función de distribución entre $0$ y $z$ es:
+\[F(z)=F(0\leq z)=\dfrac{1}{\sqrt{2\pi}}\int_{0}^{z}e^{-\frac{u^{2}}{2}}du\]
+
+\end{document}

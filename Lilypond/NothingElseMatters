@@ -1,0 +1,12 @@
+\version "2.18.2"
+{
+  \time 6/8
+  \key e \minor
+  <<
+  \new Voice ="first"
+  {\voiceOne r8 g' b' e'' b' g' }
+  \new Voice = "second"
+  {\voiceTwo e2. }>>
+ e8 g' b' e'' b' g'
+  e8 g' b' e'' b' g'
+}
