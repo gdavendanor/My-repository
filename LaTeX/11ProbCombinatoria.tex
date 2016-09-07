@@ -1,0 +1,66 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz,pgf}
+\usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{www.autistici.org/mathgerman}}
+\fancyhead[RE]{}
+\fancyhead[RO]{\Email~ matematicas.german@gmail.com}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Taller Combinatoria\\
+Probabilidad $11^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+\begin{document}
+\maketitle
+\section*{Permutaciones}
+El número de permutaciones de $n$ objetos de los cuales $n_{1}$ son iguales, $n_{2}$ son iguales, . . . es
+\[\dfrac{n!}{n_{1}!n_{2}!\cdot \ldots} \qquad \text{donde }\; n=n_{1}+n_{2}+\ldots\]
+\subsection*{Ejemplo:}
+El número de permutaciones de las letras en la palabra statistics es:
+\[\dfrac{10!}{3!3!1!2!1!}=50\,400\] porque hay 3 eses, 3 tes, 1 a, 2 íes y 1 c.
+\begin{enumerate}
+\item ¿De cuántas maneras se pueden acomodar en línea 5 canicas de colores diferentes?
+\item ¿De cuántas maneras se pueden sentar 10 personas en una banca en la que sólo hay 4 asientos disponibles?
+\item Se desea sentar en hilera a 5 hombres y 4 mujeres de manera que las mujeres ocupen los lugares pares. ¿De cuántas maneras es posible hacer esto?
+\item ¿Cuántos números de cuatro dígitos se pueden formar con los 10 dígitos 0, 1, 2, 3, \ldots , 9, si: a) puede haber
+repeticiones, b) no puede haber repeticiones y c) no puede haber repeticiones y el último dígito debe ser cero?
+\item En un librero se van a acomodar cuatro libros diferentes de matemáticas, 6 libros diferentes de física y 2 libros diferentes de química. ¿Cuántos son los acomodos posibles si: a) los libros de cada materia tienen que estar juntos y b) sólo los libros de matemáticas tienen que estar juntos?
+\item Cinco canicas rojas, 2 canicas blancas y 3 azules están ordenadas en línea. Si las canicas de un mismo color no se distinguen unas de otras, ¿cuántas ordenaciones distintas se pueden tener?
+\item ¿De cuántas maneras pueden sentarse 7 personas a una mesa redonda si: a) las 7 se pueden sentar en cualquier lugar y b) 2 determinadas personas no pueden sentarse juntas?
+\section*{Combinaciones}
+\item ¿De cuántas maneras pueden colocarse 10 objetos en dos grupos, uno de 4 y otro de 6 objetos?
+\item ¿De cuántas maneras puede formarse de un grupo de 9 personas un comité de 5 personas?
+\item Con 5 matemáticos y 7 físicos hay que formar un comité que conste de 2 matemáticos y 3 físicos. ¿De cuántas maneras se puede formar este comité si: a) puede incluirse a cualquiera de los matemáticos y a cualquiera de los físicos, b) hay uno de los físicos que tiene que formar parte del comité y c) hay dos de los matemáticos que no pueden formar parte del comité?
+\item Una niña tiene 5 flores que son todas distintas. ¿Cuántos ramos puede formar?
+\item Con 7 consonantes y 5 vocales ¿cuántas palabras con 4 consonantes distintas y 3 vocales distintas pueden formarse? No importa que las palabras no tengan significado.
+\section*{Probabilidad y análisis combinatorio}
+\item Una caja contiene 8 pelotas rojas, 3 blancas y 9 azules. Si se extraen 3 pelotas en forma aleatoria, determinar
+la probabilidad de que: a) las 3 sean rojas, b) las 3 sean blancas, c) 2 sean rojas y 1 sea blanca, d ) por lo menos 1 sea blanca, e) se extraiga una de cada color y f ) se extraigan en el orden roja, blanca, azul.
+\item De una baraja de 52 cartas bien barajadas se extraen 5 cartas. Encontrar la probabilidad de que: a) 4 sean ases; b) 4 sean ases y 1 sea rey; c) 3 sean dieces y 2 sean sotas; d ) sean 9, 10, sota, reina y rey en cualquier orden; e) 3 sean de un palo y 2 de otro palo, y f ) se obtenga por lo menos 1 as.
+\item Determinar la probabilidad de tener 3 seises en cinco lanzamientos de un dado.
+%\item En una fábrica se encuentra que en promedio 20\% de los tornillos producidos con una máquina están defectuosos. Si se toman aleatoriamente 10 tornillos producidos con esta máquina en un día, encontrar la probabilidad de que: a) exactamente 2 estén defectuosos, b) 2 o más estén defectuosos y c) más de 5 estén defectuosos.
+\end{enumerate}
+
+\end{document}

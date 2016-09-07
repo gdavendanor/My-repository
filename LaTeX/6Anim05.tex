@@ -1,13 +1,14 @@
-\documentclass[10pt]{article}
+\documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
-\usepackage[spanish]{babel}
+\usepackage[spanish,es-noshorthands]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{graphicx,hyperref}
-\usepackage{multicol}
 \usepackage{tikz,pgf}
 \usepackage{marvosym}
+\usepackage{multicol}
+\usepackage{fancyhdr}
 \usepackage[papersize={5.5in,8.5in},left=.75cm,right=.75cm,top=1.5cm,bottom=1.25cm]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
@@ -16,13 +17,13 @@
 \fancyhead[RO]{\url{https://www.autistici.org/mathgerman}}
 \fancyhead[LO]{}
 
-\author{Germán Avendaño Ramírez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
 \title{\begin{minipage}{.2\textwidth}
 \includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
 \begin{minipage}{.55\textwidth}
 \begin{center}
-Animaplano 01\\
-Matemáticas $6-7^{\circ}$
+Animaplano 05\\
+Matemáticas $6^{\circ}$
 \end{center}
 \end{minipage}\hfill
 \begin{minipage}{.2\textwidth}
@@ -32,52 +33,40 @@ Matemáticas $6-7^{\circ}$
 \thispagestyle{plain}
 \begin{document}
 \maketitle
-Nombre: \hrulefill Curso: \underline{\hspace{1cm}}  Fecha: \underline{\hspace{2cm}}\\
-
-Un animaplano consiste de un cuestionario y un plano en el que se ubican las respuestas a las preguntas en su orden.
-\section*{Cuestionario}
+Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+\section{Cuestionario}
+Resuelva cada una de las siguientes preguntas o ejercicios al frente, con procedimientos. \textit{``Este animaplano será recogido al finalizar la clase por los estudiantes Karen Sofía López Pinzón y Wilman Andrey Chiquillo''}
 \begin{enumerate}
- \item En grados, la mitad de un \'angulo recto\begin{multicols}{2}
-\item Resuelva $2^4=$
-\item Reste $\sqrt{9}$, a la mitad de 30 =
-\item Halle $\sqrt{25}\times \sqrt{25}=$
-\item El triple del n\'umero 15=
-\item Halle $4!$, (Nota: $4!=4\cdot 3\cdot 2\cdot 1$)
-\item Reste $3^2$, al cu\'adruple de 10 =
-\item La mitad de 68 =
-\item Represente XLV =
-\item Resuelva $50-(6\times 3)=$
-\item Sume $15^0$, al triple de 20 =
-\item 1 hora, menos 18 minutos =
-\item $11+11+11+11=$
-\item Reste $2^3$, al cu\'adruple de 15 =
-\item Halle $9^2-\sqrt{100}=$
-\item Reste $3^2$, a $\sqrt{10000}=$
-\item $200-107$
-\item 3 docenas + 3 decenas = \hspace{1cm}u.
-\item $100-(7\times2)=$
-\item Reste 6, al doble de 50 =
-\item Sume $(9\times9)+(18\div3)=$
-\item 1/2 centena + 6 unidades = \hspace{1cm}u.
-\item Represente LXVII =
-\item Halle $10^2-\sqrt{9}=$
-\item Resuelva $8^2+\sqrt{16}=$
-\item Sume $40+(2^2)^2=$
-\item El doble de 29 =
-\item $(9\times9)+2^3=$
-\item Resuelva $7^2\times12^0=$
-\item 3 docenas + 2 decenas =
-\item El triple de $4^2=$
-\item Halle $7\times2^2=$
-\item Si $2m+8=60$, entonces $m=$
-\item El 50\% de 90 = \end{multicols}
+\item $28\div 7=$
+\item $3\times 9-5=$
+\item $(3+9)\times 2=$
+\item $(10+12)\times 3=$
+\item $4^{3}=$
+\item $5\times 3^{2}=$
+\item $6\times 7=$
+\item $(4+7)\times 3=$
+\item $7^{2}-4=$
+\item Décimo tercer número primo
+\item El área en cm$^{2}$ cuadradas de un rectángulo cuyo ancho mide 6 cm y su largo 8 cm
+\item $8\times 5+5=$
+\item $(11+2)\times 2=$
+\item $3\times 9+1=$
+\item $36\div 6=$
+\item El cociente entre 36 y 9
+\item $5\times 6-9=$
+\item $7\times 8-5=$
+\item $7^{2}+3=$
+\item $9\times 7+20=$
+\item $\sqrt{36}\times 3^{2}+40=$
+\item $\sqrt{49}\times \sqrt[3]{512}+40=$
+\item $\log_{(4)}64\times 3^{2}+60=$
+\item $6\times \sqrt{64}+10=$
+\item $7\times 8+\sqrt[4]{81}=$
+\item $(18\div 2)+20=$
+\item $42\div 7=$
 \end{enumerate}
-As\'i que empezamos con la pregunta n\'umero uno y su respuesta ser\'a un n\'umero entre 1 y 100. Luego respondemos la pregunta n\'umero dos y su respuesta (entre 1-100) se debe conectar por medio de un segmento de recta con la respuesta de la pregunta n\'umero uno.\\
-
-As\'i al final lograremos un gr\'afico que puede llegar a ser curiosos; un animal, un objeto, etc.
-\section*{Animaplano}
 \begin{center}
-\begin{tikzpicture}[scale=.8]
+\begin{tikzpicture}[scale=.9]
  \fill (1,0) node[above]{1} circle (0.2ex);
  \fill (2,0) node[above]{2} circle (0.2ex);
  \fill (3,0) node[above]{3} circle (0.2ex);
@@ -178,7 +167,9 @@ As\'i al final lograremos un gr\'afico que puede llegar a ser curiosos; un anima
  \fill (8,-9) circle (0.2ex);
  \fill (9,-9) circle (0.2ex);
  \fill (10,-9) node[right]{100} circle (0.2ex);
-% \draw (5,-4)--(6,-1)--(2,-1)--(5,-2)--(5,-4)--(4,-2);
+% \draw (4,0)--(2,-2)--(4,-2)--(6,-6)--(4,-6)--(5,-4)--(2,-4)--(3,-3)--(5,-4)--(7,-3)--(8,-4)--(5,-4)--(6,-2)--(8,-2)--(6,0)--(4,0)--(1,-2)--(1,-5)--(2,-5)--(3,-8)--(4,-9)--(6,-9)--(7,-8)--(8,-5)--(9,-5)--(9,-2)--(6,0);
+ \filldraw (3.2,-3.5) circle (6pt) ;
+ \filldraw (6.8,-3.5) circle (6pt);
+ \draw (3,-6)--(4,-7)--(6,-7)--(7,-6)--(6,-8)--(4,-8)--(3,-6);
 \end{tikzpicture}
-\end{center}
-\end{document}
+\end{center}\end{document}

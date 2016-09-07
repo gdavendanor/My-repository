@@ -1,0 +1,252 @@
+\documentclass[10pt,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{graphicx,hyperref}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{subfig}
+\usepackage[papersize={8.5in,11in},width=7in,height=9.5in]{geometry}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{\url{http://germandario.byethost4.com}}
+\fancyhead[RE]{}
+\fancyhead[RO]{\textit{Germ\'an Dar\'io Avenda\~no Ram\'irez, Lic - M.Sc.}}
+\fancyhead[LO]{}
+
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
+\title{\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
+\begin{minipage}{.55\textwidth}
+\begin{center}
+Plan de mejoramiento III \\
+Aritmética $6^{\circ}$
+\end{center}
+\end{minipage}\hfill
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}}
+\date{}
+
+\begin{document}
+\maketitle
+Nombre: \hrulefill Curso: \underline{\hspace{1cm}}  Fecha: \underline{\hspace{2cm}}\\
+\section*{Representación gráfica}
+Se puede representar el producto de dos números usando el concepto de área así:\\
+
+\begin{minipage}{0.4\textwidth}
+\begin{tikzpicture}
+\draw (0,0) grid (3,2);
+\node[below] at (1.5,0) {3};
+\node[right] at (3,1) {2};
+\end{tikzpicture}
+\end{minipage}\hfill
+\begin{minipage}{0.55\textwidth}
+  $ 3\times2=6 $
+\end{minipage}
+Así mismo se puede representar el producto de tres números usando el concepto de volumen así:
+
+\begin{minipage}{0.45\textwidth}
+  \begin{tikzpicture}
+\draw (0,0,2)--(3,0,2)--(3,2,2)--(0,2,2)--cycle;
+\draw (0,2,2)--(0,2,0)--(3,2,0)--(3,2,2);
+\draw (3,2,0)--(3,0,0)--(3,0,2);
+\draw (1,0,2)--(1,2,2)--(1,2,0);
+\draw (2,2,0)--(2,2,2)--(2,0,2);
+\draw (0,1,2)--(3,1,2)--(3,1,0) [right] node{2};
+\draw (0,2,1)--(3,2,1)--(3,0,1) [right] node{2};
+\node [below] at (1.5,0,2) {3};
+\end{tikzpicture}
+\end{minipage}\hfill
+\begin{minipage}{0.5\textwidth}
+  $ 3\times2\times2=3\times2^2=3\times4=12 $
+\end{minipage}
+\section*{Actividad}
+\begin{enumerate}
+  \item Complete el dibujo para representar la siguiente operación. ¿Cuántos cubos forman cada caja?
+  \begin{enumerate}
+    \begin{minipage}{0.45\textwidth}
+    \item $ 3\times(4\times2) $
+    \end{minipage}\hfill
+    \begin{minipage}{0.5\textwidth}
+      \begin{tikzpicture}
+      \draw (0,4,0)--(3,4,0)--(3,4,2)--(0,4,2)--cycle;
+      \draw (0,4,2)--(0,0,2)--(3,0,2)--(3,4,2);
+      \draw (3,4,0)--(3,0,0)--(3,0,2);
+      \draw (0,1,2)--(1,1,2);
+      \node[below] at (1.5,0,2) {3};
+      \node [right] at (3,0,1) {2};
+      \node [right] at (3,2,0) {4};
+      \draw (1,4,2)--(1,0,2);
+      \draw (2,4,2)--(2,0,2);
+      \draw (0,4,1)--(3,4,1);
+      \end{tikzpicture}
+    \end{minipage}
+    
+    \begin{minipage}{0.55\textwidth}
+      \begin{tikzpicture}
+      \draw (0,3,0)--(5,3,0)--(5,3,2)--(0,3,2)--cycle;
+      \draw (0,3,2)--(0,0,2)--(5,0,2)--(5,3,2);
+      \draw (5,3,0)--(5,0,0)--(5,0,2);
+      \draw (0,3,1)--(5,3,1)--(5,0,1);
+      \draw (0,1,2)--(1,1,2);
+      \draw (1,3,2)--(1,0,2);
+      \draw (2,3,2)--(2,0,2);
+      \node [below] at (2.5,0,2){5};
+      \node [right] at (5,1.5,0){3};
+      \node [right] at (5,0,1){2};
+      \end{tikzpicture}
+    \end{minipage}\hfill
+    \begin{minipage}{0.4\textwidth}
+    \item $ 5\times(3\times2) $      
+    \end{minipage}
+  \end{enumerate}
+  \item Construye cajas que estén formadas por cubos como este \tikz \draw (0,.5) --(0,0) -- (.5,0) -- (.5,.5) -- (0,.5) -- (.2,.7) -- (.7,.7) --(.5,.5)--(.5,0)--(.7,.2)--(.7,.7); de manera que el número total de cubos represente las siguientes operaciones:
+  \begin{enumerate}\begin{multicols}{2}
+    \item $ 2\times(2\times2) $
+    \item $ 3\times(2\times4) $
+    \item $ 4\times(1\times3) $
+    \item $ 1\times(2\times3) $
+    \item $ 2\times(3\times3) $
+    \item $ 4\times(4\times4) $
+    \end{multicols}
+  \end{enumerate}
+  Observe como se pueden representar en la recta numérica el producto de factores iguales
+  
+  \begin{tikzpicture}[>=stealth]
+\draw[|->] (0,0) node[below]{0}-- (10,0) node[below]{10};
+\draw [thick] (1,-.1) node[below]{1} -- (1,0.1);
+\draw [thick] (2,-.1) node[below]{2} -- (2,0.1);
+\draw [thick] (3,-.1) node[below]{3} -- (3,0.1);
+\draw [thick] (4,-.1) node[below]{4} -- (4,0.1);
+\draw [thick] (5,-.1) node[below]{5} -- (5,0.1);
+\draw [thick] (6,-.1) node[below]{6} -- (6,0.1);
+\draw [thick] (7,-.1) node[below]{7} -- (7,0.1);
+\draw [thick] (8,-.1) node[below]{8} -- (8,0.1);
+\draw [thick] (9,-.1) node[below]{9} -- (9,0.1);
+\draw [|->] (0,.3) -- (3,.3);
+\draw [|->] (3,.3) -- (6,.3);
+\draw [|->] (6,.3) -- (9,.3);
+\node [above] at (1.5,.3) {1 vez 3};
+\node [above] at (4.5,.3) {1 vez 3};
+\node [above] at (7.5,.3) {1 vez 3};
+\draw [|->|] (0,.9) -- (9,.9);
+\node [above] at (4.5,.9) {3 veces 3};
+\node [below] at (4.5,-.6) {Como producto $ 3\times3 $: Como potencia $ 3^2 $};
+\end{tikzpicture}
+
+ \begin{tikzpicture}[>=stealth]
+\draw[|->] (0,0) node[below]{0}-- (10,0) node[below]{10};
+\draw [thick] (1,-.1) node[below]{1} -- (1,0.1);
+\draw [thick] (2,-.1) node[below]{2} -- (2,0.1);
+\draw [thick] (3,-.1) node[below]{3} -- (3,0.1);
+\draw [thick] (4,-.1) node[below]{4} -- (4,0.1);
+\draw [thick] (5,-.1) node[below]{5} -- (5,0.1);
+\draw [thick] (6,-.1) node[below]{6} -- (6,0.1);
+\draw [thick] (7,-.1) node[below]{7} -- (7,0.1);
+\draw [thick] (8,-.1) node[below]{8} -- (8,0.1);
+\draw [|->] (0,.3) -- (4,.3);
+\draw [|->] (4,.3) -- (8,.3);
+\node [above] at (2,.3) {2 vez 2};
+\node [above] at (6,.3) {2 vez 2};
+\draw [|->|] (0,.9) -- (8,.9);
+\node [above] at (4,.9) {2 veces (2 veces 2)};
+\node [below] at (4,-.6) {Como producto $ 2\times2\times2 $: Como potencia $ 2^2\times2=2^3 $};
+\end{tikzpicture}
+\item Represente sobre la recta numérica cada potencia y escríbala como una multiplicación de factores iguales.
+\begin{enumerate}\begin{multicols}{4}
+  \item $ 2^2 $  \item $ 3^2 $  \item $ 4^2 $ \item $ 2^4 $
+\end{multicols}
+\end{enumerate}
+\item \begin{enumerate}
+  \item Si se forma un cuadrado con 36 cuadrados como este \tikz \draw (0,0) rectangle (.4,.4);, ¿cuántos cuadrados caben por cada lado? Dibújelo y represente su respuesta por medio de una operación.
+  \item  Se forma un cubo con 8 cubitos como este \tikz \draw (0,.5) --(0,0) -- (.5,0) -- (.5,.5) -- (0,.5) -- (.2,.7) -- (.7,.7) --(.5,.5)--(.5,0)--(.7,.2)--(.7,.7);. Dibuje y explique cuáles serían las dimensiones del cubo. Represente por medio de una operación.
+  \item Si se forma un rectángulo con 18 cuadrados como éste \tikz \draw (0,0) rectangle (.4,.4);, ¿cuántos cuadrados debería agregar para formar un cuadrado? Dibuje. ¿Cuántos cuadrados quedarían por cada lado? Represente por medio de una operación.
+\end{enumerate}
+\item Represente en la recta numérica
+\begin{enumerate}\begin{multicols}{3}
+  \item $2\times3$ \item $ 2^3 $ \item $3^2$
+\end{multicols}
+\end{enumerate}
+\item Escriba el número que corresponda en cada cuadrado
+\begin{enumerate}\begin{multicols}{3}
+  \item $ 5^2= $ \tikz \draw (0,0) rectangle (.6,.4);
+  \item $ 6^3= $ \tikz \draw (0,0) rectangle (.6,.4);
+  \item $ 7^2= $ \tikz \draw (0,0) rectangle (.6,.4);
+  \item $ 2^4= $ \tikz \draw (0,0) rectangle (.6,.4);
+  \item $ 11^2= $ \tikz \draw (0,0) rectangle (.6,.4);
+  \item $ 3^5= $ \tikz \draw (0,0) rectangle (.6,.4);
+\end{multicols}
+\end{enumerate}
+En los anteriores ejercicios buscamos la potencia, pues conocemos la base y el exponente.
+\item Escriba el número que corresponde a cada rectángulo:
+\begin{enumerate}\begin{multicols}{2}
+  \item $ \tikz \draw (0,0) rectangle (.6,.4);^2=25 $
+  \item $ \tikz \draw (0,0) rectangle (.6,.4);^3=216 $
+  \item $ \tikz \draw (0,0) rectangle (.6,.4);^2=49 $
+  \item $ \tikz \draw (0,0) rectangle (.6,.4);^4=16 $
+\end{multicols}
+\end{enumerate}
+Buscamos la base, pues conocemos la potencia y el exponente
+\item Resuelvo los siguientes ejercicios y justifico la respuesta:
+\begin{enumerate}\begin{multicols}{3}
+  \item $ \tikz \draw (0,0) rectangle (1,.4);^2=81 $
+  \item $ \tikz \draw (0,0) rectangle (1,.4);^4=81 $
+  \item $ \tikz \draw (0,0) rectangle (1,.4);^2=100 $
+  \item $ \tikz \draw (0,0) rectangle (1,.4);^2=144 $
+  \item $ \sqrt[4]{81}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \sqrt[4]{625}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \tikz \draw (0,0) rectangle (1,.4);^4=625 $
+  \item $ \sqrt[5]{32}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \sqrt{25}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \sqrt[3]{27}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \sqrt[2]{100}= $ \tikz \draw (0,0) rectangle (1,.4);
+  \item $ \sqrt[3]{125}= $ \tikz \draw (0,0) rectangle (1,.4);
+\end{multicols}
+\end{enumerate}
+\item ¿Cuál es el exponente?
+\begin{enumerate}\begin{multicols}{3}
+  \item $ 9^{\tikz \draw (0,0) rectangle (.5,.3);}=81 $
+  \item $ 11^{\tikz \draw (0,0) rectangle (.5,.3);}=1331 $  
+  \item $ 12^{\tikz \draw (0,0) rectangle (.5,.3);}=12 $
+\end{multicols}
+\end{enumerate}
+\item La base es 13 y la potencia 169, ¿cuál es el exponente?
+\item La potencia es 64 y la base 2, ¿cuál es el exponente?
+\item La potencia es 625 y la base es 5, ¿cuál es el exponente?
+\item Encuentre los siguientes logaritmos
+\begin{enumerate}\begin{multicols}{3}
+  \item $ \log_3{81} $  \item $ \log_5{25} $ \item $ \log_6{6} $
+  \item $ \log_{10}{10} $ \item $ \log_{10}{1000} $
+  \item $ \log_{10}{10000} $ \item $ \log_{10}{10\,0000} $
+  \item $ \log_3{81}\Leftrightarrow 3^{\tikz \draw (0,0) rectangle (.5,.3);}=81 $
+\end{multicols}
+\end{enumerate}
+\item Compruebe cada uno de las respuestas de los ejercicios anteriores, escribiéndolas como potencias.
+\item Para hallar el cuadrado de un número, se eleva al exponente \textbf{2}. Complete:
+
+\begin{tabular}{|c|c|c|}\hline
+\textbf{Número} & \textbf{Cuadrado} & \textbf{Se lee}\\
+\hline 5 & $ 5^2=5\times5=25 $ & El cuadrado de 5 es 25\\
+\hline 7 & &\\
+\hline & $ 8^2=8\times8=64 $ & \\
+\hline 10 & &\\
+\hline & & El cuadrado de 12 es 144\\
+\hline 15 & & \\
+\hline & $ 21^2= $ & \\ \hline
+\end{tabular}
+\item Para hallar el cubo de un número se eleva al exponente \textbf{3}. Complete:
+
+\begin{tabular}{|c|c|c|}\hline
+\textbf{Número} & \textbf{Cubo} & \textbf{Se lee}\\
+\hline 5 & $ 5^3=5\times5\times5=125 $ & El cubo de 5 es 125 \\
+\hline 7 & & \\
+\hline & $ 8^3 $ & \\
+\hline & & El cubo de 12 es 1728\\
+\hline 15 & & \\
+\hline 21 & & \\ \hline
+\end{tabular}
+\end{enumerate}
+\end{document}

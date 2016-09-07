@@ -1,0 +1,44 @@
+\documentclass[letterpaper]{recipe}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{bookman}
+
+\newcommand{\bsi}[2]{%
+  \fontencoding{T1}\fontfamily{pbs}\fontseries{xl}\fontshape{n}%
+  \fontsize{#1}{#2}\selectfont}
+
+\renewcommand{\inghead}{\textbf{Ingredientes (para 2 raciones)}:\ }
+\renewcommand{\rechead}{\centering\bsi{24pt}{30pt}}
+
+\makeatletter
+\renewcommand*\l@subsubsection{\@dottedtocline{3}{3em}{0em}}
+\makeatother
+
+\setlength\parindent{0pt}
+\setlength\parskip{2ex plus 0.5ex}
+
+\begin{document}
+\chapter{Sopas}
+\recipe{Crema de champiñones}
+\ingred{2 cebollas cortadas finas; 1 coliflor pequeña cortada a trozos; 2 tazas de champiñones cortados finos; aceite; sal marina; laurel; 1 y 1/2 cucharada de miso blanco; 2 cucharadas de aceite de oliva}
+\begin{enumerate}
+\item Sofreír las cebollas con un poco de aceite, una pizca de sal marina y laurel durante unos 12 minutos
+\item Añadir coliflor y dos tazas de agua. Tapar y cocer a fuego medio durante 20 minutos
+\item Retirar el laurel y hacer un puré
+\item Añadir los champiñones cortados finamente y cocer 5 minutos
+\item Añadir más líquido, según la consistencia deseada y una cucharada de miso blanco. Servir la crema caliente o fría.
+\end{enumerate}
+\chapter{Legumbres}
+\renewcommand{\inghead}{\textbf{Ingredientes (para 3 raciones)}:\ }
+\recipe{Cocido de lentejas}
+\ingred{1 tira de alga kombu; 1 taza de lentejas (remojadas de 2 a 3 horas; 1/4 de calabaza pequeña cortada a dados; 3 zanahorias cortadas a grandes trozos; 2 cebollas cortadas a dados; 1 diente de ajo picado; 1 cucharadita de mugi miso; aceite de oliva; tomillo; sal marina}
+
+Saltear las cebollas y el ajo con un poco de aceite de oliva y una pizca de sal marina.
+
+Añadir las lentejas (sin el agua del remojo), el alga kombu, la calabaza, el tomillo y agua que cubra el volumen de los ingredientes. Llevar a ebullición, tapar y cocer a fuego lento durante unos 45 minutos o hasta que las lentejas estés blandas.
+
+Diluir el miso con un poco del jugo de cocción y añadirlo a las lentejas. Cocer durante dos minutos más y apagar el fuego. Servir con la guarnición
+\paragraph*{Guarnición} Cebollinos cortados finos
+\tableofcontents
+\end{document}
