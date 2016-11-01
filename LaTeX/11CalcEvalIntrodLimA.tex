@@ -1,0 +1,110 @@
+\documentclass[fleqn,10pt]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.7cm, bottom=1.5cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{pgf,tikz}
+\usepackage{multicol}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Cálculo $11^{\circ}$}
+\ExamName{Límites Introducción}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Debe mostrar los procedimientos! Respuestas sin el procedimiento requerido, no tendrán puntuación. Puede usar calculadora, pero no se aceptan préstamos de éstas durante el examen.}
+\ExamNameLine
+\begin{enumerate}
+   \item Calcule los siguientes límites, usando una tabla de valores. Recuerde que debe escoger valores cercanos donde no se sugieren.
+      \begin{enumerate}
+	 \item $\ds{\lim_{x\rightarrow5}\frac{x^2-5x}{x-5}}=$
+\begin{center}
+   \begin{tabular}{|c|p{1.5cm}|p{1.5cm}|p{1.5cm}||p{1.5cm}|p{1.5cm}|p{1.5cm}|}
+\hline 
+$x$ & 4,9 & 4,99 & 4,999 & 5,001 & 5,01 & 5,1  \\ 
+\hline 
+$f(x)$ &  &  &  &  & & \\ 
+\hline 
+\end{tabular} 
+\end{center}	 
+	 \item $\ds{\lim_{x\rightarrow5}\frac{\sqrt{x}-\sqrt{5}}{x-5}}=$
+\begin{center}
+   \begin{tabular}{|c|p{1.5cm}|p{1.5cm}|p{1.5cm}||p{1.5cm}|p{1.5cm}|p{1.5cm}|}
+\hline 
+$x$ &  &  &  &  &  &  \\ 
+\hline 
+$f(x)$ &  &  &  &  & & \\ 
+\hline 
+\end{tabular} 
+\end{center}	
+	\item $\ds{\lim_{x\rightarrow3}\dfrac{x^2-x-6}{x-3}}=$
+	\begin{center}
+   \begin{tabular}{|c|p{1.5cm}|p{1.5cm}|p{1.5cm}||p{1.5cm}|p{1.5cm}|p{1.5cm}|}
+\hline 
+$x$ &  &  &  &  &  &  \\ 
+\hline 
+$f(x)$ &  &  &  &  & & \\ 
+\hline 
+\end{tabular} 
+\end{center}	
+	\item $\ds{\lim_{x\rightarrow0}\dfrac{1-\cos(x)}{x}}=$
+	\begin{center}
+   \begin{tabular}{|c|p{1.5cm}|p{1.5cm}|p{1.5cm}||p{1.5cm}|p{1.5cm}|p{1.5cm}|}
+\hline 
+$x$ &  &  &  &  &  &  \\ 
+\hline 
+$f(x)$ &  &  &  &  & & \\ 
+\hline 
+\end{tabular} 
+\end{center}	
+      Recuerde que la calculadora debe estar en radianes para trabajar con las funciones trigonométricas
+      \end{enumerate}
+      \newpage
+   \item Con base en la siguiente gr\'afica, determine los l\'imites pedidos y valores pedidos:
+\begin{center}
+\usetikzlibrary{arrows}
+\baselineskip=10pt
+\hsize=6.3truein
+\vsize=8.7truein
+\definecolor{qqwwtt}{rgb}{0.2,0.2,0.2}
+\definecolor{ttqqff}{rgb}{0.4,0.4,0.4}
+\definecolor{ccqqtt}{rgb}{0.33,0.33,0.33}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\tikzpicture[scale=.9,line cap=round,line join=round,>=triangle 45,x=1.0cm,y=1.0cm]
+\draw [color=cqcqcq,dash pattern=on 2pt off 2pt, xstep=1.0cm,ystep=1.0cm] (-3.6,-2.19) grid (3.93,6.25);
+\draw[->,color=black] (-3.6,0) -- (3.93,0);
+\foreach \x in {-3,-2,-1,1,2,3}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {$\x$};
+\draw[->,color=black] (0,-2.19) -- (0,6.25);
+\foreach \y in {-2,-1,1,2,3,4,5,6}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {$\y$};
+\draw[color=black] (0pt,-10pt) node[right] {$0$};
+\clip(-3.6,-2.19) rectangle (3.93,6.25);
+\draw[line width=1.6pt,color=ccqqtt, smooth,samples=100,domain=-3.6024908318923226:-1.0] plot(\x,{(\x)+1});
+\draw[line width=1.6pt,color=ttqqff, smooth,samples=100,domain=-1.0:2.0] plot(\x,{2*(\x)^2-2});
+\draw[line width=1.6pt,color=qqwwtt, smooth,samples=100,domain=2.05:3.9261156369459806] plot(\x,{0-2*(\x)+5});
+\fill [color=black] (2,6) circle (2.0pt);
+\draw [color=black] (2,1) circle (2.5pt);
+\fill [color=black] (-1,0) circle (2.0pt);
+\endtikzpicture
+\end{center}
+\begin{enumerate}
+\item $\ds{\lim_{x\rightarrow -3}f(x)}=$
+\item $\ds{\lim_{x\rightarrow-1}f(x)=}$
+\item $\ds{\lim_{x\rightarrow0}f(x)=}$
+\item $\ds{\lim_{x\rightarrow2^{-}}f(x)=}$ \hfill Por la izquierda de 2
+\item $\ds{\lim_{x\rightarrow2^{+}}f(x)=}$ \hfill Por la derecha de 2
+\item $\ds{\lim_{x\rightarrow2}f(x)=}$
+\item $\ds{\lim_{x\rightarrow 3}f(x)}=$
+\item $f(2)=$
+\end{enumerate}
+\end{enumerate}
+\end{document}
