@@ -1,0 +1,134 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{tikz,pgf}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas  11$^{\circ}$}
+\ExamName{Nivelación 2016}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 50 minutos para contestar esta prueba.}
+\LineaNombre
+Los números Reales $\mathbb{R}$ se componen de ciertos subconjuntos, tal como se muestra a continuación.
+\begin{center}
+\begin{tikzpicture}[level 1/.style={sibling distance=30mm},
+level 2/.style={sibling distance=15mm}
+level 3/.style={sibling distance=10mm}
+level 4/.style={sibling distance=1mm}]
+\node {Reales $\mathbb{R}$}
+child {node {Racionales $\mathbb{Q}$}
+child {node {Enteros $\mathbb{Z}$}
+child {node {Naturales $\mathbb{N}$}}
+child {node {Cero $0$} }
+child {node {Negativos}}
+}
+}
+child {node {Irracionales $\mathbb{I}$}};
+\end{tikzpicture}
+\end{center}
+\begin{enumerate}
+\item Teniendo en cuenta el diagrama anterior, diga a que conjunto o conjuntos pertenecen los siguientes números: (\emph{Recuerde que $i$ es la unidad imaginaria y surge de $\sqrt{-1}=i$ \quad o \quad $i^{2}=-1$})
+\begin{enumerate}
+\begin{multicols}{2}
+\item $-\sqrt{4}$
+\item $3i$
+\item $7,\overline{25}$
+\item $\sqrt{7}$
+\item $\pi$
+\item $3-\frac{1}{2}$
+\item $-e$
+\item $16$
+\item $\sqrt{-8}+3$
+\end{multicols}
+\end{enumerate}
+ \item El duodécimo término de una progresión aritmética es 32, y el quinto término es 18. Encuentre el vigésimo término.\noanswer
+\begin{minipage}{.45\textwidth}
+\item Los postes de teléfono son puestos en pila, con 25 postes en el primer nivel, 24 en el segundo y así sucesivamente. Si hay 12 niveles, ¿cuántos postes de teléfono contiene la pila de postes?
+\end{minipage}\hfill
+\begin{minipage}{.45\textwidth}
+\includegraphics[scale=.9]{Images/postes.png} 
+\end{minipage}
+\noanswer
+\item Un cultivo de bacterias tiene inicialmente 5000 bacterias y su número aumenta 8\% cada hora. 
+\begin{enumerate}
+\item ¿Cuántas bacterias hay al cabo de 5 horas?\noanswer
+\item Encuentre una expresi\'{o}n que indique el n\'{u}mero de bacterias que hay al cabo de $n$ horas.\noanswer
+\end{enumerate}
+\newpage
+ \item Sea 
+$
+f(x)= \left\{ \begin{array}{lcl}
+4 & \mbox{ si } & x\leq 2 \\
+x-2 & \mbox{ si } & x>2
+\end{array}
+\right.
+$
+\begin{enumerate}
+\item Evalúe 
+\begin{enumerate}
+\begin{multicols}{3}
+\item $f(0)=$ 
+\item $f(1)=$
+\item $f(2)=$ 
+\item $f(3)=$ 
+\item $f(4)=$ 
+\item $f(5)=$
+\end{multicols}
+\end{enumerate}
+\item Haga la gráfica de $f$
+\begin{center}
+\begin{tikzpicture}[scale=.9]
+\draw[dotted,style=help lines] (-2,-2) grid (5,5);
+\draw[<->] (-2.2,0)--(5.3,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-2.2)--(0,5.2)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
+\end{center}
+\item Encuentre los siguientes límites
+\begin{enumerate}
+\begin{multicols}{2}
+\item $\displaystyle{\lim_{x\rightarrow 2^{-}}f(x)}=$ 
+\item $\displaystyle{\lim_{x\rightarrow 2^{+}}f(x)}=$ 
+\item $\displaystyle{\lim_{x\rightarrow 2}f(x)}=$ 
+\item $\displaystyle{\lim_{x\rightarrow 3}f(x)}=$ 
+\end{multicols}
+\end{enumerate}
+\end{enumerate}
+\item Evalúe los límites, si existen, usando el procedimiento que crea conveniente.
+\begin{enumerate}
+\item $\ds{\lim_{x\rightarrow 3}\dfrac{x^{2}+4x-21}{x-3}}=$\noanswer
+\item $\ds{\lim_{x\rightarrow -3}\dfrac{x^{2}+4x-21}{x-3}}=$\noanswer
+\item $\ds{\lim_{x\rightarrow 2}\dfrac{x^{2}+4}{x-2}}=$\noanswer
+\end{enumerate} 
+\item Mil personas seleccionadas de cierta enfermedad reciben un examen clínico. Como consecuencia del examen, la muestra de 1000 personas se clasifica de acuerdo con su estatura y situaci\'{o}n de su enfermedad.
+\begin{center}
+\begin{tabular}{lccccc}
+ & \multicolumn{5}{c}{Situación de enfermedad} \\ \hline 
+Estatura & Ninguno & Benigno & Moderado & Grave & Total \\ \hline
+Alta & 122 & 78 & 139 & 61 & 400 \\ 
+Media & 74 & 51 & 90 & 35 & 250 \\ 
+Corta & 104 & 71 & 121 & 54 & 350 \\ 
+\hline 
+Total & 300 & 200 & 350 & 150 & 1000 \\ 
+\hline 
+\end{tabular} 
+\end{center}
+Use la información de la tabla para estimar la probabilidad de ser de estatura media o corta y tener situación de enfermedad moderada o grave.\noanswer
+ \end{enumerate}
+
+\end{document}
