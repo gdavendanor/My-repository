@@ -1,0 +1,72 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+%\usepackage{pst-solides3d}
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $8^{\circ}$}
+\ExamName{Áreas y volúmenes}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+\item Halle el volumen y el área superficial de un cubo cuya arista mide 9 cm \noanswer
+
+\begin{minipage}{0.5\textwidth}
+    \item Complete el dibujo.¿Cuántos cubos como éste \tikz \draw (0,.5) -- (0,0) -- (.5,0) -- (.5,.5) -- (0,.5) -- (.2,.7) -- (.7,.7) --(.5,.5)--(.5,0)--(.7,.2)--(.7,.7); de $1u^{3}$, forman el prisma cuadrangular de la figura?
+     \end{minipage}\hfill
+    \begin{minipage}{0.4\textwidth}
+      \begin{tikzpicture}[scale=.5]
+      \draw (0,4,0)--(3,4,0)--(3,4,2)--(0,4,2)--cycle;
+      \draw (0,4,2)--(0,0,2)--(3,0,2)--(3,4,2);
+      \draw (3,4,0)--(3,0,0)--(3,0,2);
+      \draw (0,1,2)--(1,1,2);
+      \node[below] at (1.5,0,2) {3};
+      \node [right] at (3,0,1) {2};
+      \node [right] at (3,2,0) {4};
+      \draw (1,4,2)--(1,0,2);
+      \draw (2,4,2)--(2,0,2);
+      \draw (0,4,1)--(3,4,1);
+      \end{tikzpicture}
+    \end{minipage} \noanswer  
+ \item  \begin{minipage}{.2\textwidth}
+ \begin{center}
+ \begin{tikzpicture}[scale=2.5]
+\draw (0,0) -- (1,0) -- node[right]{10} (.5,0.866) -- cycle;
+\draw[dashed] (0.5,0) -- (0.5,.866);
+\node at (0.5,0.15) {$h=5\sqrt{3}$};  
+\end{tikzpicture}
+ \end{center}
+ \end{minipage}\hfill
+ \begin{minipage}{.65\textwidth}
+Halle el área del triángulo equilátero de la figura, cuya altura es $h=5\sqrt{3}$ 
+ \end{minipage}\noanswer
+ \item Calcule el área superficial de un tetraedro cuya arista mide 7 cm.\noanswer
+ \item Calcula el volumen y el área superficial de un ortoedro cuyas dimensiones son 4 cm, 8 cm y 3 cm.\noanswer
+ \item \begin{minipage}{.55\textwidth} 
+ Calcule el área superficial de un tetraedro cuya arista mide 14 cm. Calcule
+ \end{minipage}\hfill
+ \begin{minipage}{.4\textwidth}
+ \begin{tikzpicture}[scale=1.5]
+\draw (0,0) -- (.5,-.43) --  (1,0) --node[right]{14} (.5,.866) -- cycle;
+\draw (0.5,-.43)  --   (0.5,.866);
+\draw[dashed](0,0)--(1,0); 
+\end{tikzpicture}
+ \end{minipage}
+\noanswer
+ 
+ \end{enumerate}
+
+\end{document}
