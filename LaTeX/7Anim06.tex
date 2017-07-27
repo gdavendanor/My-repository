@@ -1,39 +1,45 @@
-\documentclass[10pt,twoside]{article}
+\documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{amssymb}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,latexsym}
 \usepackage[spanish,es-noshorthands]{babel}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{graphicx,hyperref}
 \usepackage{tikz,pgf}
+\usepackage{marvosym}
 \usepackage{multicol}
-\usepackage{subfig}
-\usepackage[papersize={6.5in,8.5in},width=5.5in,height=7in]{geometry}
+\usepackage{fancyhdr}
+\usepackage[papersize={6.5in,8.5in},left=.75cm,right=.75cm,top=1.5cm,bottom=1.25cm]{geometry}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\fancyhead[LE]{\includegraphics[height=12pt]{Images/logo-colegio.png} Álgebra $8^{\circ}$}
-\fancyhead[RE]{}
-\fancyhead[RO]{\textit{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}}
-\fancyhead[LO]{}
+\fancyhead[LE]{Colegio Arborizadora Baja}
+\fancyhead[RE]{PEI:``Hacia una cultura para el desarrollo sostenible''}
+\fancyfoot[RO]{}
+\fancyhead[LO]{\url{www.autistici.org/mathgerman}}
+\fancyfoot[RE]{Nit 830024976-8, Código DANE 11100103084-8}
+\fancyfoot[LE]{\Email gavendanor@colarborizadorabaja.edu.co}
+\fancyhead[RO]{\Email cedarborizadoraba19@redp.edu.co}
 
-\author{Germ\'an Avenda\~no Ram\'irez, Lic. U.D., M.Sc. U.N.}
+\author{Germ\'an Avenda\~no Ram\'irez~\thanks{Lic. Mat. U.D., M.Sc. U.N.}}
 \title{\begin{minipage}{.2\textwidth}
 \includegraphics[height=1.75cm]{Images/logo-colegio.png}\end{minipage}
 \begin{minipage}{.55\textwidth}
 \begin{center}
-Animaplano 06, 7$^{\circ}$  \\
-Álgebra $8^{\circ}$
+Animaplano 06\\
+Matemáticas $7^{\circ}$
 \end{center}
 \end{minipage}\hfill
 \begin{minipage}{.2\textwidth}
 \includegraphics[height=1.75cm]{Images/logo-sed.png} 
 \end{minipage}}
 \date{}
+\thispagestyle{plain}
 \begin{document}
 \maketitle
-Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{2.5cm}}
+Nombre: \hrulefill Curso: \underline{703} Fecha: \underline{\hspace*{2.5cm}}\\
+
+\fbox{\fbox{\parbox{5.5in}{\centering
+\textit{Respuesta que requiera procedimiento y éste no se muestre, no será válida. Puede usar una hoja anexa a éste cuestionario para hacer los procedimientos respectivos}}}}
 \section{Cuestionario}
 \begin{enumerate}
   \item Exprese como número decimal el número romano LXXXV
@@ -180,7 +186,7 @@ Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{
  \fill (8,-9) circle (0.2ex);
  \fill (9,-9) circle (0.2ex);
  \fill (10,-9) node[right]{100} circle (0.2ex);
- %\draw  (5,-8)--(4,-8)--(5,-9)--(6,-9)--(5,-)--(5,-6)--(6,-5)--(7,-5)--(9,-7)--(9,-9)--(6,-9)--(6,-7)--(7,-6)--(8,-6)--(8,-3)--(5,0)--(4,-3)--(4,-8)--(2,-7)--(1,-6)--(1,-4)--(2,-2)--(3,-1)--(5,0)--(6,0)--(8,-1)--(9,-2)--(10,-4)--(10,-6)--(9,-7);
+ \draw (5,-8)--(4,-8)--(5,-9)--(6,-9)--(5,-8)--(5,-6)--(6,-5)--(7,-5)--(9,-7)--(9,-9)--(6,-9)--(6,-7)--(7,-6)--(8,-6)--(8,-3)--(5,0)--(4,-3)--(4,-8)--(2,-7)--(1,-6)--(1,-4)--(2,-2)--(3,-1)--(5,0)--(6,0)--(8,-1)--(9,-2)--(10,-4)--(10,-6)--(9,-7);
 \end{tikzpicture}
  \end{center}
 \end{document}
