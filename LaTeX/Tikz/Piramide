@@ -1,0 +1,17 @@
+﻿\begin{tikzpicture}
+\draw (-1,0) rectangle node {287} (1,1);
+\draw (-2,-1) rectangle node {158} (0,0);
+\draw ((0,-1) rectangle node {129} (2,0);
+\draw (-3,-2) rectangle node {94}(-1,-1);
+\draw (-1,-2) rectangle node {\hspace{24pt}$_1$} (1,-1);
+\draw (1,-2) rectangle node {\hspace{24pt}$_2$} (3,-1);
+\draw (-4,-3) rectangle node {\hspace{24pt}$_3$} (-2,-2);
+\draw (-2,-3) rectangle node {\hspace{24pt}$_4$} (0,-2);
+\draw (0,-3) rectangle node {27} (2,-2);
+\draw (2,-3) rectangle node {38} (4,-2);
+\draw (-5,-4) rectangle node {38} (-3,-3);
+\draw (-3,-4) rectangle node {\hspace{24pt}$_6$} (-1,-3);
+\draw (-1,-4) rectangle node {\hspace{24pt}$_7$} (1,-3);
+\draw (1,-4) rectangle node {9} (3,-3);
+\draw (3,-4) rectangle node {\hspace{24pt}$_5$} (5,-3);
+\end{tikzpicture}
