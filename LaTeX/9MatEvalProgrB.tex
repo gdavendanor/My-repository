@@ -1,0 +1,61 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={6.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{multicol}
+\usepackage{printsudoku}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $9^{\circ}$}
+\ExamName{`Progresiones'}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Halle los dos términos siguientes en las siguientes sucesiones:
+ \begin{enumerate}
+ \begin{multicols}{2}
+ \item 5, 9, 13, 17, 21, \underline{\hspace*{12pt}}, \underline{\hspace*{12pt}}
+ \item 12, 8, 4, 0, \underline{\hspace*{12pt}}, \underline{\hspace*{12pt}}
+ \item $1$, $\frac{3}{8}$, $\frac{5}{27}$, $\frac{7}{81}$, \underline{\hspace*{12pt}}, \underline{\hspace*{12pt}} 
+  \item 0, 3, 8, 15, 24, \underline{\hspace*{12pt}}, \underline{\hspace*{12pt}}
+ \end{multicols}
+ \end{enumerate}
+ \item Determine si las siguientes sucesiones son progresiones y las que lo sean, indique si son aritméticas o geométricas. Halle el término n-ésimo para las que sean progresiones.
+ \begin{enumerate}
+ \item --2, 6, 14, 22, 30, \ldots \noanswer
+ \item 1, 2, 4, 8, \ldots \noanswer
+ \item 4, 1, $\frac{1}{4}$, $\frac{1}{16}$, \ldots \noanswer
+ \item --1, 2, 7, 14, 23, \ldots \noanswer
+ \end{enumerate}
+ \item Halle los siete primeros términos de las progresiones cuyo término n-ésimo es:
+ \begin{enumerate}
+ \item $a_{n}=3n-7$\noanswer[0.25in]
+ \item $a_{n}=8(\frac{1}{2})^{n-1}$ \noanswer[0.25in]
+ \end{enumerate}
+ \newpage
+ \item Sabiendo que la suma de $n$ términos en una progresión aritmética es: $S_{n}=\dfrac{(a_{1}+a_{n})n}{2}$, halle la suma de los 100 primeros números pares.\noanswer
+ \item Se deja caer una pelota desde una altura de 12 metros. Cada vez que rebota en el suelo alcanza una altura igual a los 2/3 de la altura anterior. Construye la sucesión que nos da la altura alcanzada tras los sucesivos rebotes. ¿Qué tipo de sucesión es? Halla el término general.\noanswer
+ \end{enumerate}
+ \paragraph*{Punto extra-bonificación:} Solucione el siguiente sudoku
+ \cluefont{\Large}
+\cellsize{1.5\baselineskip}
+ \renewcommand*{\puzzlefile}{se5.sud}
+\begin{center}
+\begin{minipage}{0.55\linewidth}\begin{center}
+SE5 (easy) \\
+\sudoku{se5.sud}
+\end{center}\end{minipage}
+\end{center}
+\end{document}
