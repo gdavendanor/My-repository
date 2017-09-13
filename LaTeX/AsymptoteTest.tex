@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage[pdftex]{graphicx}
+\usepackage{asymptote}
+\begin{document}
+Hello.  
+I like to make pics with Asymptote like this one:
+\begin{figure}[h]
+  \begin{asy}
+    include graph;
+    size(1inch);
+    filldraw(circle((0,0),1),yellow,black);
+    fill(circle((-.3,.4),.1),black);
+    fill(circle((.3,.4),.1),black);
+    draw(arc((0,0),.5,-140,-40));
+  \end{asy}
+\end{figure}
+\par It makes me happy, 
+since I can still type my normal LaTeX stuff around it: 
+\(\int_0^{\pi}{\sin{x}}\,dx=2\)
+\end{document}
