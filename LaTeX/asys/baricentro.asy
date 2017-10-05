@@ -1,5 +1,5 @@
 settings.outformat = "pdf";
-size(0,150);
+size(3cm);
 pair A,B,C,X,Y,Z; 
 A = (0,0);
 B = (1,0);
