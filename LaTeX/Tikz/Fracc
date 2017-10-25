@@ -1,0 +1,5 @@
+﻿\begin{tikzpicture}
+ \draw[fill=gray](0,0)  rectangle  (.5,.5) rectangle (0,1) (.5,0) rectangle (1,.5) rectangle (.5,1)(1,.5) rectangle (1.5,1);
+ \draw (1,0) --(2,0)--(2,1)--(1.5,1)--(1.5,0);
+\draw (1.5,.5)--(2,.5);
+\end{tikzpicture}
