@@ -1,0 +1,112 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={5.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{pgf,tikz}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $9^{\circ}$}
+\ExamName{`Nivelación Función afín'}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+\begin{minipage}{.45\textwidth}
+\item  Ubique en el plano cartesiano los puntos $A(-3,5)$, $B(4,5)$, $C(4,-4)$ correspondientes a los vértices de un rectángulo. Encuentre las coordenadas del cuarto vértice $D$ y ubíquelo también en el plano. Haga el dibujo del rectángulo y especifique en qué cuadrante se encuentra cada uno de los vértices.
+\end{minipage}
+\begin{minipage}{.4\textwidth}
+ \begin{tikzpicture}[scale=.4]
+\draw[dotted,style=help lines] (-6,-6) grid (6,6);
+\draw[->] (-6,0)--(6,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-6)--(0,6)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
+\end{minipage}
+\noanswer
+\begin{minipage}{.4\textwidth}
+ \begin{tikzpicture}[scale=.4]
+\draw[dotted,style=help lines] (-6,-6) grid (6,6);
+\draw[->] (-6,0)--(6,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-6)--(0,6)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\fill (3,5) node[right] {A} circle [radius=.75ex];
+\fill (0,-3) node[above right] {B} circle [radius=.75ex];
+\fill (-4,0) node[above right] {C} circle [radius=.75ex];
+\fill (-5,-2) node[below left] {D} circle [radius=.75ex];
+\fill (4,-5) node[below right] {E} circle [radius=.75ex];
+\end{tikzpicture}
+\end{minipage}
+\begin{minipage}{.45\textwidth}
+\item Encuentre las coordenadas de los puntos que se muestran en la gráfica y determine en qué cuadrante(s) se encuentran
+\end{minipage}\noanswer
+\newpage
+\begin{minipage}{.3\textwidth}
+\item Haga la gráfica de la función afín cuya ecuación es: \[y=2x-1\]. Para ello puede hacer una tabla de valores. Así mismo verifique si los puntos (4,13) y (--3,--7) pertenecen a la recta.
+\end{minipage}
+\begin{minipage}{.4\textwidth}
+ \begin{tikzpicture}[scale=.4]
+\draw[dotted,style=help lines] (-6,-6) grid (6,6);
+\draw[->] (-6,0)--(6,0) node[right] {$x$};
+\foreach \x in {1} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[<->](0,-6)--(0,6)node[left]{$y$};
+\foreach \y in {1} \draw[shift={(0,\y)},color=black] (2pt,0)--(-2pt,0) node[left]{\footnotesize $\y$};
+\end{tikzpicture}
+\end{minipage}
+\begin{minipage}{.3\textwidth}
+\begin{tabular}{|c|c|c|}
+\hline 
+$x$ & $y$ & $(x,y)$ \\ 
+\hline 
+$-2$ &  &  \\ 
+\hline 
+$-1$ &  &  \\ 
+\hline 
+0 &  &  \\ 
+\hline 
+1 &  &  \\ 
+\hline 
+2 &  &  \\ 
+\hline 
+\end{tabular} 
+\end{minipage}\noanswer
+
+\begin{minipage}{.4\textwidth}
+\item La posición de una partícula, que se mueve con rapidez uniforme con respecto a un punto de referencia está dada por la ecuación \[x=3+16t\], donde $t$ es el tiempo medido en segundos y $x$ la posición medida en metros.
+\begin{enumerate}
+\item Encuentre la posición (en metros) de la partícula luego de transcurridos 2 segundos \noanswer
+\item Haga la gráfica de la ecuación y estime en que instante la posición es 80 m.\noanswer
+\item En qué instante $t$ la posición de la partícula es de 50 m. respecto al punto de referencia?\noanswer
+\end{enumerate}
+\end{minipage}
+\begin{minipage}{.5\textwidth}
+\usetikzlibrary{arrows}
+\definecolor{qqqqff}{rgb}{0.33,0.33,0.33}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45,x=1.0cm,y=0.1cm]
+\draw [dotted,style=help lines,xstep=1cm,ystep=10.0cm] (-0.25,-4) grid (6.17,93.74);
+\draw[->,color=black] (-0.26,0) -- (6.17,0)node[right]{$t$(s)};
+\foreach \x in {1,2,3,4,5,6}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0,-5.48) -- (0,93.74)node[left]{$x$(m)};
+\foreach \y in {10,20,30,40,50,60,70,80,90}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt) node[left] {\footnotesize $\y$};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-0.2,-4) rectangle (6.17,93.74);
+\end{tikzpicture} 
+\end{minipage}
+ \end{enumerate}
+
+\end{document}
