@@ -1,0 +1,10 @@
+/* File unicodetex not found. */
+
+import graph; size(7.02cm); real lsf=0.5; pen dps=linewidth(0.7)+fontsize(10); defaultpen(dps); pen ds=black; real xmin=-0.47,xmax=6.55,ymin=-29.14,ymax=532.85; 
+pen cqcqcq=rgb(0.75,0.75,0.75); 
+/*grid*/ real gx=1,gy=100; add(scale(gx,gy)*shift(floor(xmin/gx),floor(ymin/gy))*grid(ceil(xmax-xmin)+1,ceil(ymax-ymin)+1,linewidth(0.7)+cqcqcq+linetype("2 2"))); 
+Label laxis; laxis.p=fontsize(10); 
+xaxis(xmin,xmax,Ticks(laxis,Step=1,Size=2,NoZero),Arrows(6),above=true); yaxis(ymin,ymax,Ticks(laxis,Step=100,Size=2,NoZero),Arrows(6),above=true); 
+
+
+clip((xmin,ymin)--(xmin,ymax)--(xmax,ymax)--(xmax,ymin)--cycle); 

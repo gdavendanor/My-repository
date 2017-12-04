@@ -1,0 +1,52 @@
+\documentclass[letterpaper,fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={5.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $7^{\circ}$}
+\ExamName{Nivelación 2017}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Determine qué números enteros corresponden a cada situación
+ \begin{enumerate}
+ \item El miércoles, la temperatura fue de 24 grados sobre cero. El miércoles fue de 2 grados bajo cero.\noanswer
+ \item \emph{Edificio Empire State:} El edificio Empire State tiene una altura total, incluyendo la antena iluminada en su parte más alta, de 1454 pies. Los cimientos tienen una profundidad de 55 pies bajo el nivel del suelo.\noanswer
+ \end{enumerate}
+ \item Ubique sobre la recta numérica el número $\dfrac{10}{3}$
+\begin{center}
+ \begin{tikzpicture}
+ \draw[->](-0.25,0)--(5.25,0);
+ \foreach \x in {0,1,2,3,4,5} \draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+ \end{tikzpicture}
+\end{center}
+\item Convierta a notación decimal. Haga la operación al frente.
+\begin{enumerate}
+\item $\dfrac{5}{6}$\noanswer
+\item $-8\frac{7}{25}$\noanswer
+\end{enumerate}
+\newpage
+\item Use $<$, $>$ en \tikz \draw (0,0) rectangle (.5,.5); según el caso. Justifique su respuesta al frente
+\begin{enumerate}
+\item $-14.5$ \tikz \draw (0,0) rectangle (.4,.4); 0.011\noanswer[36pt]
+\item $-12\frac{5}{8}$ \tikz \draw (0,0) rectangle (.4,.4); $-6\dfrac{3}{8}$\noanswer[36pt]
+\end{enumerate}
+\item Ordene de menor a mayor \[-8\frac{7}{8}, 7, -5, |-6|, 4, |3|, -8\frac{5}{8}, -100, 0, 1^{7}, \dfrac{14}{4}, -\dfrac{67}{8}\]\noanswer[1in]
+\item Un recipiente para hacer un postre se llena con $1\frac{1}{4}$ tazas de harina y una recipiente para hacer una torta, se llena con $1\frac{2}{3}$ de tazas de harina. ¿Cuántas tazas de harina se necesitan para llenar los dos recipientes?\noanswer
+ \end{enumerate}
+
+\end{document}

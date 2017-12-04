@@ -1,0 +1,80 @@
+\documentclass[fleqn]{article}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage[utf8]{inputenc} 
+\usepackage[papersize={5.5in,8.5in},left=1cm, right=1cm, top=1.5cm, bottom=1.7cm]{geometry}
+\usepackage{mathexam}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz,pgf}
+
+\ExamClass{\includegraphics[height=16pt]{Images/logo-sed.png} Matemáticas $9^{\circ}$}
+\ExamName{Nivelación 2017}
+\ExamHead{\includegraphics[height=16pt]{Images/logo-colegio.png} IEDAB}
+\newcommand{\LineaNombre}{%
+\par
+\vspace{\baselineskip}
+Nombre:\hrulefill \; Curso: \underline{\hspace*{48pt}} \; Fecha: \underline{\hspace*{2.5cm}} \relax
+\par}
+\let\ds\displaystyle
+
+\begin{document}
+\ExamInstrBox{
+Respuesta sin justificar mediante procedimiento no será tenida en cuenta en la calificación. Escriba sus respuestas en el espacio indicado. Tiene 45 minutos para contestar esta prueba.}
+\LineaNombre
+\begin{enumerate}
+ \item Evalúe la expresión numérica:
+ \begin{enumerate}
+ \item \label{ej01} $4^{-3}=$\noanswer[12pt]
+ \item \label{ej02} $\left(\dfrac{3^{-1}}{3^{2}}\right)^{-1}=$\noanswer[12pt]
+ \end{enumerate}
+ \item Use la propiedad distributiva para simplificar la expresión \[3\sqrt{45}-2\sqrt{20}-\sqrt{80}=\]\noanswer[24pt]
+ \item Si la luz del sol tarda aproximadamente 8 minutos y 19 segundos en viajar del sol a la tierra, y la velocidad de la luz $c$ en el vacío es de aproximadamente $c=300\,000$ km/s, calcule la distancia en km del sol a la tierra. Exprese el resultado en notación científica.\noanswer
+ \newpage
+ \item \label{ej63} Una empresa de mudanzas de apartamentos cobra de acuerdo a la ecuación $c=75h+150$, donde $c$ representa el dinero en dólares y $h$ representa el número de horas para hacer el trasteo. 
+\begin{enumerate}
+\item Complete la tabla
+
+\begin{center}
+ \begin{tabular}{c|cccc}
+\hline 
+$h$ & 1 & 2 & 3 & 4 \\ 
+\hline 
+$c$ &  &  &  &  \\ 
+\hline 
+\end{tabular}
+ \end{center} 
+\item Haciendo que el eje horizontal sea $h$ y el eje vertical $c$, grafique la ecuación $c=75h+150$ para valores no negativos de $h$
+\begin{center}
+\usetikzlibrary{arrows}
+\definecolor{cqcqcq}{rgb}{0.75,0.75,0.75}
+\begin{tikzpicture}[line cap=round,line join=round,>=triangle 45]
+\draw [dotted,xstep=1.0cm,ystep=1.0cm] (0,0) grid (4,6);
+\draw[->,color=black] (-0.25,0) -- (4.25,0) node[right]{$h$};
+\foreach \x in {,1,2,3,4}
+\draw[shift={(\x,0)},color=black] (0pt,2pt) -- (0pt,-2pt) node[below] {\footnotesize $\x$};
+\draw[->,color=black] (0,-.5) -- (0,6.25)node[left]{$c$};
+\foreach \y in {1,2,3,4,5,6}
+\draw[shift={(0,\y)},color=black] (2pt,0pt) -- (-2pt,0pt);
+\node[left] at (0,1){75};
+\draw[color=black] (0pt,-10pt) node[right] {\footnotesize $0$};
+\clip(-0.47,-.5) rectangle (4.25,6.25);
+\end{tikzpicture}
+\end{center}
+\item Use la gráfica para aproximar los valores de $c$ cuando $h=1.5$ y 3.5\noanswer
+\end{enumerate}
+\begin{minipage}{.5\textwidth}
+\item Encuentre el área de la figura 
+\end{minipage}
+\begin{minipage}{.45\textwidth}
+\begin{tikzpicture}
+\draw (0,0) --(3,0)--(1.5,2)--cycle;
+\draw[<-] (0,-.1)--(1.1,-.1);
+\node at (1.5,-.1){6cm};
+\draw[->]  (1.9,-.1) --(3,-.1);
+\draw[dotted] (1.5,0)--node{4cm}(1.5,2);
+\end{tikzpicture}
+\end{minipage}
+\noanswer
+ \end{enumerate}
+
+\end{document}
