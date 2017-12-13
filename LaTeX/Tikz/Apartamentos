@@ -1,5 +1,5 @@
-\begin{tikzpicture}[scale=2]
-\shadedraw (0,0) rectangle (6,2);
+﻿\begin{tikzpicture}[scale=2]
+\shadedraw[ball color=gray!10] (0,0) rectangle (6,2);
 \draw (3,0)--(3,0.6);
 \draw (3,1.4)--(3,2.0);
 \draw (3.4,1)--(6,1);
