@@ -1,0 +1,25 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-noshorthands]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{babel,arrows,calc}
+\begin{document}
+\begin{tikzpicture}
+\def\t{50};
+%\def\tr{(\t*pi)/180};
+%\clip(-.1,-.1)rectangle(.5,.3);
+\draw[gray!50,very thin,step=.25] (-2,-2) grid (2,2);
+\draw [>=latex,->](-1.5,0)--(1.5,0)node [right]{\tiny $x$};
+\draw [>=latex, ->](0,-1.5)--(0,1.5)node[above]{\tiny $f(x)$};
+\draw (0,0) circle[radius=1];
+%\draw (0,0) ellipse[x radius=2, y radius=1];
+%\draw (0,0) rectangle (2,2);
+%\draw (0,0) --(3,0) --(1.5,1.5) --cycle;
+\draw (.3,0) arc[start angle=0, end angle=\t,radius=.3];
+\draw[densely dashed,thin,gray] (0,0) --(\t:1);
+\draw[line width=.75pt,red] (0,0)++(\t:1)--+(0,-{sin(\t)});
+\draw[thick,blue] (0,0)--({cos(\t)},0);
+\shade[ball color=cyan](0,0)--(.3,0) arc[start angle=0, end angle=\t,radius=.3]--cycle;
+\end{tikzpicture}
+\end{document}
