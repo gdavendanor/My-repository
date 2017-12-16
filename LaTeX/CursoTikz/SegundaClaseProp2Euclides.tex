@@ -1,0 +1,26 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-noshorthands]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{babel,through,intersections,backgrounds,calc}
+\begin{document}
+\begin{tikzpicture}[
+remark/.style={line width=1.125pt,opacity=.5}
+]
+\coordinate[label=left:$A$] (A) at (0,0);
+\coordinate[label=right:$B$] (B) at (1.25,.15);
+\coordinate[label=above:$C$] (C) at (2,2.15);
+\coordinate[label=above:$D$] (D) at ($(A)!.5!(B)!{2*sin(60)}!90:(B)$);
+\draw (A) --(B)--(C);
+\node[name path=H,label=135:$H$,draw,circle through=(C)] at (B){};
+
+\draw[name path=D-F](D)--($(D)!4!(B)$)coordinate[label=below:$F$](F);
+\draw[name path=D-E] (D) --($(D)!3.5!(A)$) coordinate[label=below:$E$](E);
+\path[name intersections={of=H and D-F,by={[label=left:$G$]G}}];
+\node[name path=K,label=left:$K$,draw,circle through=(G)]at(D){};
+\path[name intersections={of=K and D-E,by={[label=below:$L$]L}}];
+\draw[remark,cyan](B)--(C);
+\draw[remark,magenta](A)--(L);
+\end{tikzpicture}
+\end{document} 
