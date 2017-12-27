@@ -1,0 +1,56 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{positioning,calc,arrows,babel}
+
+\begin{document}
+\begin{tikzpicture}
+\tikzset{
+	general/.style={
+	text width = 2.5cm,
+	align=center,
+	draw, rectangle, rounded corners=4pt,
+	minimum size=1.5cm
+},
+nivelpadres/.style={
+general,
+fill=blue!50,
+},
+connection/.style={
+>=stealth,
+->,
+thin
+},
+nivelestudiantes/.style={
+general,fill=red!50!yellow
+},
+niveldocentes/.style={
+general,fill=yellow!50
+},
+}
+
+\node[general,fill=green!50!black,font=\bf] (gobierno) at (0,0) {Gobierno Escolar};
+\node[general,fill=green!50!yellow,font=\bf] (estamentos) [below = of gobierno] {Estamentos};
+\node[nivelestudiantes] (estudiantes) [below = of estamentos]{Estudiantes};
+\node[niveldocentes] (docentes)[below right = of estamentos]{Docentes};
+\node[nivelpadres] (padres)[below left = of estamentos]{Padres/madres de familia};
+
+\node[niveldocentes](consejoacadem)[below=of docentes]{Consejo académico};
+\node[nivelestudiantes] (consejoestudiantil)[below=of estudiantes] {Consejo estudiantil};
+\node[nivelpadres] (consejopadres)[below = of padres] {\small Consejo de padres};
+\node[general,fill=red!50] (directivo)[below=of consejoestudiantil]{Consejo directivo};
+\node[inner sep=0pt] (P) at ($(docentes)+(0,-1.75)$){};
+\draw[connection] (gobierno.south) -- (estamentos.north);
+\draw[connection](estamentos.west)-|(padres.north);
+\draw[connection] (estamentos.south)--(estudiantes.north);
+\draw (estamentos.east)-|(docentes.north);
+\draw[connection] (padres) -- (consejopadres);
+\draw[connection] (estudiantes) -- (consejoestudiantil);
+\draw[connection] (docentes) -- (consejoacadem);
+\draw[connection] (padres.east)--(directivo.west);
+\draw[connection] (consejoestudiantil)--(directivo);
+\draw[connection] (docentes.west)--(directivo.east);
+\end{tikzpicture}
+\end{document}
