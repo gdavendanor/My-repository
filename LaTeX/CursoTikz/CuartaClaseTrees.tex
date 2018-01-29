@@ -1,0 +1,23 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{trees,calc}
+
+\begin{document}
+\begin{tikzpicture}[grow cyclic,
+level 1/.style ={level distance=1cm,sibling angle=60},
+level 2 /.style={level distance=.8cm,sibling angle=45},
+level 3/.style={level distance =.2cm,sibling angle=35}
+]
+\node at (0,0){texto}
+child foreach \i in {1,2,3}{
+node[fill=white,inner sep=2pt]{\tiny{\i}}
+child foreach \j in {1,2,3}{
+child foreach \k in {1,2,3}{node[inner sep=0pt] {\tiny{\k}}}
+}
+};
+
+\end{tikzpicture}
+\end{document}

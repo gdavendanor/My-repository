@@ -1,0 +1,13 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+%\usepackage[spanish]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{datavisualization}
+
+\begin{document}
+\begin{tikzpicture}
+\datavisualization[scientific axes,visualize as scatter]
+data[headline={x,y},read from file="datos.csv"];
+\end{tikzpicture}
+\end{document}

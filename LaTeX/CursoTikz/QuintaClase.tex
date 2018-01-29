@@ -1,0 +1,24 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{datavisualization.formats.functions}
+
+\begin{document}
+\begin{tikzpicture}
+\datavisualization[school book axes, all axes = {grid}, visualize as smooth line/.list = {sin,cos},
+style sheet = vary hue,
+sin = {label in legend = {text=$\sin(x)$}},
+cos = {label in legend = {text=$\cos(x)$}}
+]
+data[set=sin,format=function]{
+var x : interval[0:2*pi] samples 100;
+func y = sin(\value x r);
+}
+data[set=cos,format=function]{
+var x : interval[0:2*pi] samples 100;
+func y = cos(\value x r);
+};
+\end{tikzpicture}
+\end{document}

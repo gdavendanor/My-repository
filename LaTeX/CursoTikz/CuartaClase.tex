@@ -1,0 +1,31 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{mindmap,calc,backgrounds,trees}
+
+\begin{document}
+\begin{tikzpicture}[mindmap,concept color=black,text=white,
+every annotation/.style={fill=red!25}
+]
+\node[concept]{Concepto Principal}%concepto raiz
+child[grow=315]{
+node[concept](PC){Primer concepto}[clockwise from=0]
+child{node[concept](C221){concepto 2.2.1}
+child{node[concept]{concepto 2.2.2}}
+}
+child[grow=235,concept color=blue]{
+node[concept](CH){concepto hermano}[clockwise from=-60]
+child[concept color=orange]{node[concept](C121){concepto 1.2.1}}
+child[concept color=green!60!black]{node[concept]{concepto 1.2.2}}
+}};
+
+\node[annotation,left,align=center] at ($(CH)+(-1,0)$){esto es un comentario};
+
+\begin{pgfonlayer}{background}
+\draw[concept connection](PC) edge (CH);
+\draw[concept connection](C121) edge (C221);
+\end{pgfonlayer}
+\end{tikzpicture}
+\end{document}
