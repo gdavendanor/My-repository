@@ -1,10 +1,11 @@
 \documentclass{standalone}
 \usepackage[utf8]{inputenc}
 \usepackage[spanish,es-noshorthands]{babel}
-
+%\usepackage{lipsum}
 \usepackage{tikz}
 \usetikzlibrary{babel,arrows,calc}
 \begin{document}
+%\lipsum[1]
 \begin{tikzpicture}
 \def\t{50};
 %\def\tr{(\t*pi)/180};
@@ -22,4 +23,5 @@
 \draw[thick,blue] (0,0)--({cos(\t)},0);
 \shade[ball color=cyan](0,0)--(.3,0) arc[start angle=0, end angle=\t,radius=.3]--cycle;
 \end{tikzpicture}
+%\lipsum[2]
 \end{document}

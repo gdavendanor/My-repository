@@ -7,8 +7,31 @@
 \begin{document}
 \begin{tikzpicture}
 \coordinate[label=left:$A$](A)at(0,0);
+<<<<<<< HEAD
 \coordinate[label=right:$B$](B) at (3,-1);
 \draw (A)--(B);
 \draw (
+=======
+\coordinate[label=right:$B$](B) at (3.2,-1);
+\draw[red,name path=A-B] (A)--(B);
+\coordinate[label=left:$C$] (C) at (1.5,.1);
+\coordinate[label=right:$D$] (D) at (3.25,-.35);
+\draw[blue] (C)--(D);
+\node[draw,circle through=(C),help lines,name path=$c_1$,label=left:$c_1$] at (A){};
+\node[draw,circle through=(A),help lines,name path=$c_2$,label=right:$c_2$] at (C){};
+\path[name intersections={of=$c_1$ and $c_2$}];
+\coordinate[label=above:{\textcolor{magenta}{$E$}}](E) at (intersection-1);
+\draw[green](A)--(C)--(E)--cycle;
+\node[draw,circle through=(D),help lines,color=brown,name path=$c_3$,label=above:$c_3$] at (C){};
+\draw[name path=E-F](E)--($(E)!2.5!(C)$)coordinate[label=below:$F$](F);
+\path[name intersections={of=E-F and $c_3$,by={[label=right:$G$]G}}];
+\node[name path=$c_4$,label=left:$c_4$,draw,help lines,circle through=(G)]at(E){};
+\draw[name path=E-H](E)--($(E)!2.5!(A)$)coordinate[label=below:$H$](H);
+\path[name intersections={of=E-H and $c_4$,by={[label=right:$I$]I}}];
+\draw[magenta](A)--(I);
+\node[draw,circle through=(I),help lines,color=pink,name path=$c_5$,label=right:\textcolor{pink}{$c_5$}]at(A){};
+\path[name intersections={of=A-B and $c_5$,by={[label=right:$J$]J}}];
+\draw[blue,thick](A)--(J);
+>>>>>>> 6630d4d178dc8785738a524c1e8675ef11cfbe34
 \end{tikzpicture}
 \end{document}

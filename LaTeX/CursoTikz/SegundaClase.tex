@@ -1,0 +1,33 @@
+\documentclass{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-noshorthands]{babel}
+
+\usepackage{tikz}
+\usetikzlibrary{babel,through,intersections,backgrounds,calc}
+\begin{document}
+\begin{tikzpicture}
+\coordinate[label=left:{\textcolor{blue}{$A$}}] (A) at (0,0);
+\coordinate[label=right:{\textcolor{blue}{$B$}}](B) at (1.15,.75);
+
+\draw[blue] (A)--(B); 
+
+\node (D) [name path=D,draw,circle through=(B),label=left:{$D$}] at (A) {};
+\node (E) [name path=E,draw,circle through=(A),label=right:$E$] at (B){};
+
+\path[name intersections={of=D and E}];
+\coordinate[label=above:{\textcolor{red}{$C$}}](C) at (intersection-1);
+\draw[red](A)--(C)--(B);
+\foreach \point in {A,B,C}
+\fill[black,opacity=.5](\point) circle[radius=1.5pt];
+\begin{pgfonlayer}{background}
+\fill[orange] (A)--(B)--(C) --cycle;
+\end{pgfonlayer}
+
+\node[below,text width=10cm,align=justify] at (.5,-1.5){
+\small\textbf{Proposición 1:}\par
+\emph{Construir un \textcolor{orange}{triángulo equilátero} sobre un \textcolor{blue}{segmento de recta} dado.}
+\par\vskip2em
+Sea \textcolor{blue}{AB} un segmento de recta, construyendo...
+};
+\end{tikzpicture}
+\end{document} 
