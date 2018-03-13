@@ -51,15 +51,16 @@ En la figura de arriba, ABCD y CEFG son cuadrados. Si el área de CEFG es 36, ¿
 \choice[!]{18}
 \end{question}
 \begin{question}
-Observa los siguientes triángulos; 
-Sabiendo que los triángulos son semejantes y la medida de sus lados son proporcionales, entonces el valor de $a$ es:
+Observa los siguientes triángulos; Sabiendo que los triángulos son semejantes y la medida de sus lados son proporcionales, entonces el valor de $a$ es:
 \begin{center}
-\begin{tikzpicture}
+\begin{tikzpicture}[scale=1]
 \draw (0,0)--(5,0)--(0,1)--cycle;
 \draw[|-] (0,-.25) -- (2.15,-.25);
 \draw[-|] (2.85,-.25)--(5,-.25);
 \node (15) at (2.5,-.25) {$15\mu$};
-\draw[|-|] (-.25,0)--node[left]{$1\mu$} (-.25,1);
+\draw[|-|] (-.25,0)--node[left]{$5\mu$} (-.25,1);
+\draw (6,0)--node[below]{$3\mu$}(7,0)--(6,.2) --cycle;
+\node[left]at (6,.1){$a$};
 \end{tikzpicture}
 \end{center}
 \choice[!]{1}
