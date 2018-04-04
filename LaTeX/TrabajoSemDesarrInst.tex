@@ -1,0 +1,105 @@
+\documentclass[10pt,letterpaper,addpoints]{exam}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-noshorthands]{babel}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage[centering,total={7.5in,9.75in}]{geometry}
+\printanswers
+\begin{document}
+\title{\begin{minipage}{.2\textwidth}
+        \includegraphics[height=1.75cm]{Images/logo-colegio.png}
+       \end{minipage}
+\begin{minipage}{.55\textwidth}
+ \begin{center}
+Preguntas tipo Icfes \\Matemáticas $11^{\circ}$
+\end{center}
+\end{minipage}
+\begin{minipage}{.2\textwidth}
+\includegraphics[height=1.75cm]{Images/logo-sed.png} 
+\end{minipage}
+}
+\author{Germ\'{a}n Avendaño Ram\'{i}rez\\Lic. Matemáticas U.D., M.Sc. U.N.}
+\date{}
+\maketitle
+%\begin{center}
+%\fbox{\fbox{\parbox{5.5in}{\centering
+%Instrucciones}}}
+%\end{center}
+\vspace{0.1in}
+%\makebox[\textwidth]{Nombres: \hrulefill, curso:\underline{\hspace{48pt}}, fecha:\underline{\hspace{3cm}}}
+\begin{questions}
+\question
+El caudal ($Q$) se define como el volumen de algún líquido que pasa por un conducto en un determinado tiempo
+\[Q=\dfrac{V}{t}\]
+Donde $V$ es el volumen del líquido y $t$ es el tiempo que tarda en pasar.
+De acuerdo con esto, una unidad de medida del caudal de líquido puede ser
+
+\begin{oneparchoices}
+\choice $\dfrac{m^{3}}{litro}$
+\choice $\dfrac{km}{hora}$
+\choice $\dfrac{litro}{dm}$
+\CorrectChoice $\dfrac{cm^{3}}{seg}$
+\end{oneparchoices}
+\question En la figura se representa el plano del primer piso de un edificio, conformado por cuatro apartamentos de igual forma y medida que comparten un espacio común de forma cuadrada donde se encuentra una escalera.
+\begin{center}
+\begin{tikzpicture}[scale=1.9]
+\shadedraw (0,0) rectangle (6,2);
+\draw (3,0)--(3,0.6);
+\draw (3,1.4)--(3,2.0);
+\draw (3.4,1)--(6,1);
+\draw (0,1)--(2.6,1);
+\filldraw[fill=white] (2.6,0.6) rectangle node {Escalera} (3.4,1.4);
+\node (Ap3) at (1.5,.5) {Apartamento 3};
+\node (Ap1) at (1.5,1.5) {Apartamento 1};
+\node (Ap2) at (4.5,1.5) {Apartamento 2};
+\node (Ap4) at (4.5,.5) {Apartamento 4};
+\node (x) at (6.2,1.5) {$x$};
+\draw[|-|] (6.1,1)--(6.1,2);
+\draw[|-|] (3,2.1)--(6,2.1);
+\node (y) at (4.5,2.2) {$y$};
+\draw[|-|] (2.6,.5)--(3.4,.5);
+\node (x-2) at (3,0.4) {$x-2$};
+\end{tikzpicture}
+\end{center}
+¿Cuál de las siguientes expresiones representa el área total de los 4 apartamentos (área sombreada)?
+
+\begin{oneparchoices}
+\choice $4xy-x+2$
+\CorrectChoice $4xy-(x-2)^{2}$
+\choice $2xy-(x-2)^{2}$
+\choice $2xy-x+2$
+\end{oneparchoices}
+\question
+Si $a$, $b$ y $c$ son números primos diferentes y $n=\dfrac{a^{-1}b^{-3}}{a^{-2}b^{-4}c^{-2}}$, es correcto afirmar que
+\begin{choices}
+\begin{multicols}{2}
+ \CorrectChoice $n$ es entero
+ \choice $n$ es primo
+ \choice $n$ es un racional negativo
+ \choice $n$ es irracional
+\end{multicols}
+\end{choices}
+\question Un almacén distribuye computadores de dos marcas (1 y 2). Durante el mes de diciembre uno de sus vendedores vendió 60 computadores. Por cada tres computadores de la marca 1 vendió dos de la marca 2. Si recibió una comisión de \$10\,000 por cada computador de la marca 1 y una comisión de \$20\,000 por cada computador de la marca 2, la comisión total que recibió en el mes de diciembre fue
+
+\begin{oneparchoices}
+  \choice \$60\,000
+  \choice \$120\,000
+  \CorrectChoice \$840\,000
+  \choice \$720\,000
+\end{oneparchoices}
+%Pregunta
+%\begin{oneparchoices}
+%\choice[1] Nunca
+%\end{oneparchoices}
+%\answerline
+\end{questions}
+%cuadro de puntajes
+%\begin{center}
+%\gradetable[h][pages]
+%\end{center}
+\end{document}
