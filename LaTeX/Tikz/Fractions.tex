@@ -1,4 +1,7 @@
 \documentclass[tikz, border=5]{standalone}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
 \newcount\tikzfractiondenominator
 \newcount\tikzfractionnumerator
 \def\tikzfractionempty{}
@@ -75,7 +78,7 @@
 \foreach \numerator/\denominator [count=\y]  in {1/1, 2/4, 13/9}{
 \tikzset{shift=(270:\y*2)}
 \pic {fraction={style=triangles, fraction={\numerator/\denominator}}};
-\node at (-1,0)  {$\frac{\numerator}{\denominator}$};
+\node at (-1,0)  {$\frac{\square}{\denominator}$};
 }
 \end{tikzpicture}
 \end{document}
