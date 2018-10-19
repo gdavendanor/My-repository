@@ -6,4 +6,3 @@ barplot(df$refrescos, main="Consumo", xlab="Meses", ylab="Refrescos", names.arg=
 pdf(file="refrescosgraf.pdf")
 barplot(df$refrescos, main="Consumo", xlab="Meses", ylab="Refrescos", names.arg=c("Abr", "May", "Jun", "Jul", "Agos", "Sept"))
 dev.off()
-
