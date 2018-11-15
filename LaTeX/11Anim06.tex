@@ -40,7 +40,19 @@ Nombre: \hrulefill Curso: \underline{\hspace*{44pt}} Fecha: \underline{\hspace*{
 
 Resuelva 1--3 teniendo en cuenta la siguiente información
 \begin{center}
-\includegraphics[scale=.5]{Images/Captura041115-05:04:01.png} 
+\begin{tikzpicture}[scale=2]
+\draw (0,0)--(0,1);
+\draw (1,0)--(1,1);
+\draw (0.5,0) ellipse (.5 and .15);
+\draw (.5,1) ellipse (.5 and .15);
+\draw[dashed] (0.5,0)--node[right]{$h$} (.5,1);
+\draw[dashed] (0,0) --node[below] {$r$} (1,0);
+\draw[dashed] (0,1)--(1,1);
+\draw (2.5,0) ellipse (.5 and .15);
+\draw (2,0)--(2.5,1);
+\draw (3,0)--(2.5,1);
+\end{tikzpicture}
+
 \end{center}
 El gráfico representa tres tanques para almacenar agua con la misma medida de radio y con la misma altura para el cono y el cilindro; además la altura equivale al doble del radio (\emph{Recuerde que el volumen de un cilindro es $V_{c}=\pi\cdot r^{2}h$, el volumen del cono es $V_{cono}=\frac{1}{3}\pi\cdot r^{2}h$, y, el volumen de la esfera es $V_{e}=\frac{4}{3}\pi r^{3}$})
 \begin{enumerate}
@@ -63,10 +75,65 @@ El gráfico representa tres tanques para almacenar agua con la misma medida de r
 \item Una esfera que duplica su radio (\textbf{74})
 \end{enumerate}
 Analiza las siguentes secuencias y en cada una escribe el número de puntos de la figura solicitada
-\item \includegraphics[scale=.75]{CursoTikz/serie.pdf} en $F_19$
-\item \includegraphics[scale=.75]{Images/serie2.pdf} en F6
-\item \includegraphics[scale=.75]{Images/Captura-041115-05:19:23.png} en F17
-\item \includegraphics[scale=.75]{Images/Captura-041115-05:20:28.png} en F31
+\item 
+\begin{tikzpicture}[scale=.9]
+\foreach \x in {0,0.5}
+\foreach \y in {0,0.5} \fill[black] (\x,\y) circle (3pt);
+\node[below] at (0.25,-.25) {F1};
+\fill[black] (0.25,.25) circle (3pt);
+\foreach \x in {1.5,2}
+\foreach \y in {0,0.5,1,1.5}\fill[black] (\x,\y) circle (3pt);
+\fill[black] (1.75,.25) circle (3pt) (1.75,1.25) circle (3pt);
+\node[below] at (1.75,-.25) {F2};
+\foreach \x in {3,3.5}
+\foreach \y in {0,0.5,1,1.5} \fill[black] (\x,\y) circle (3pt);
+\foreach \x in {4,4.5}
+\foreach \y in {0,.5} \fill[black] (\x,\y) circle (3pt);
+\foreach \x in {3.25,4.25}
+\fill[black] (\x,0.25) circle (3pt);
+\node[below] at (3.75,-.25){F3};
+\fill[black] (3.25,1.25) circle (3pt);
+\foreach \x in {5.5,6,6.5,7}
+\foreach \y in {0,0.5,1,1.5} \fill[black] (\x,\y) circle (3pt);
+\foreach \x in {5.75,6.75}
+\foreach \y in {.25,1.25} \fill[black] (\x,\y) circle (3pt);
+\node[below] at (6.25,-0.25) {F4};
+\end{tikzpicture} \hfill en F19
+\item 
+\begin{tikzpicture}[scale=.9]
+\foreach \x in {0,0.5} \fill[black] (\x,.5) circle (3pt);
+\node[below] at (0.25,0.25) {F1};
+\foreach \x in {1.5,2} \foreach \y in {.5,1} 
+\fill[black] (\x,\y) circle (3pt);
+\node[below] at (1.75,0.25) {F2};
+\foreach \x in {3,3.5,4,4.5}
+\foreach \y in {0.5,1} \fill[black] (\x,\y) circle (3pt); \node[below] at (3.75,0.25) {F3};
+\foreach \x in {5.5,6,6.5,7} \foreach \y in {0.5,1,1.5,2}
+\fill[black] (\x,\y) circle (3pt);
+\node[below] at (6.25,0.25) {F4};
+\end{tikzpicture} \hfill en F6
+\item 
+\begin{tikzpicture}[scale=.9]
+\foreach \x in {0,0.5}
+\foreach \y in {0,.5} \fill[black] (\x,\y) circle (3pt) node[below] at (0.25,-0.25) {F1};
+\foreach \x in {1.5,2}
+\foreach \y in {0,0.5,1} \fill[black] (\x,\y) circle (3pt) node[below] at (1.75,-0.25) {F2};
+\fill[black] (1.5,1.5) circle (3pt);
+\foreach \x in {3,3.5,4}
+\foreach \y in {0,0.5,1} \fill[black] (\x,\y) circle (3pt) node[below] at (3.5,-.25){F3};
+\fill[black] (3,1.5) circle (3pt);
+\foreach \x in {5,5.5,6,6.5}
+\foreach \y in {0,0.5,1} \fill[black] (\x,\y) circle (3pt) node[below] at (5.75,-.25){F4};
+\end{tikzpicture} \hfill en F17
+\item 
+\begin{tikzpicture}[scale=.9]
+\foreach \x in {0,.5} \fill[black] (\x,0) circle (3pt) node[below] at (0.25,-.25) {F1};
+\foreach \x in {1.5,2} \foreach \y in {0,.5}
+\filldraw[black] (\x,\y) circle (3pt) node[below] at (1.75,-.25){F2};
+\foreach \x in {3,3.5,4} \foreach \y in {0,.5}
+\fill[black] (\x,\y) circle (3pt) node[below] at (3.5,-.25){F3};
+\foreach \x in {5,5.5,6,6.5} \foreach \y in {0,.5} \fill[black] (\x,\y) circle (3pt) node[below] at (5.75,-.25){F4};
+\end{tikzpicture} \hfill en F31
 
 Resuelva cada una de las siguientes situaciones
 \item En una miscelánea por comprar 30 cuadernos obsequian uno. Si cada cuaderno cuesta \$500, ¿cuántos cuadernos se adquieren con \$45\,000?
