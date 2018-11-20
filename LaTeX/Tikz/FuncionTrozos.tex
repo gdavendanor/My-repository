@@ -1,0 +1,12 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\begin{document}
+\pgfplotsset{my style/.append style={axis x line=middle, axis y line=
+middle, xlabel={$x$}, ylabel={$y$}, axis equal }}
+\begin{tikzpicture}
+\begin{axis}[my style]
+\addplot[domain=-7:1] {-x-2};
+\addplot[domain=1:7] {x};
+\end{axis}
+\end{tikzpicture}
+\end{document}
