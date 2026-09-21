@@ -1,0 +1,10 @@
+﻿Mostrar conflictos leves de horario-primaria-v02.fet
+Generado con FET 7.8.5 el 4/5/26 13:19
+
+Número de restricciones leves incumplidas: 0
+Total de conflictos leves: 0
+
+Soft conflicts list (in descending order):
+
+
+Fin de archivo.

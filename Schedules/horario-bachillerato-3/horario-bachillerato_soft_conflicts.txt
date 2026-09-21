@@ -1,0 +1,12 @@
+﻿Mostrar conflictos leves de horario-bachillerato.fet
+Generado con FET 7.8.5 el 29/4/26 16:02
+
+Número de restricciones leves incumplidas: 2
+Total de conflictos leves: 1.9
+
+Soft conflicts list (in descending order):
+
+Restricción de tiempo, mínimo de días entre actividades, incorrecta: actividad con id =48 (    1/3 - Indira H. - Aritm. - 603) en conflicto con la actividad con id =47 (2/3 -     Indira H. - Aritm. - 603), inicia 1 días demasiado cerca, en los días Mié y Jue, aumento del factor de conflicto=0.95.
+Restricción de tiempo, mínimo de días entre actividades, incorrecta: actividad con id =446 (    2/4 - Mónica R. - Mat. - 1103) en conflicto con la actividad con id =445 (2/4 -     Mónica R. - Mat. - 1103), inicia 1 días demasiado cerca, en los días Mié y Mar, aumento del factor de conflicto=0.95.
+
+Fin de archivo.

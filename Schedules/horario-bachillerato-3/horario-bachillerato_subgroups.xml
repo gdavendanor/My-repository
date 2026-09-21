@@ -1,0 +1,4447 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="601 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="486"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="486"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="531"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="531"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="517"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="553"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="588"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="588"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="69"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="69"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="145"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="145"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="487"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="487"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="747"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="747"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="530"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="530"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="516"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="516"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="587"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="587"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="70"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="70"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="2"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="2"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="736"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="736"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="723"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="190"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="602 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="737"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="737"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="589"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="589"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="494"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="494"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="533"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="533"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="518"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="518"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="3"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="3"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="462"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="462"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="191"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="724"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="493"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="493"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="748"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="748"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="519"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="554"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(105)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="146"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="146"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="590"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="590"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="463"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="463"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="532"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="532"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="603 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="520"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="520"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="635"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="635"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="534"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="534"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="495"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="495"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="4"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="4"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="192"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="725"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="147"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="147"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="521"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="779"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Geom./Est."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="48"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="577"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(105)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="496"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="496"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="634"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="634"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="47"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="47"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="749"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="749"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="535"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="535"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="738"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="738"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="604 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="537"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="537"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="750"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="750"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="148"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="148"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="637"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="637"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="739"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="739"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="498"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="498"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="50"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="50"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="726"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="523"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="5"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="5"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="636"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="636"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="497"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="497"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="536"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="536"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="49"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="49"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="522"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="522"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="193"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="578"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="605 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="693"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="693"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="689"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Geom./Est."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="688"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="777"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="777"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="391"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="391"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="603"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="603"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="751"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="751"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="492"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="492"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="474"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="474"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="690"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="778"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="604"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="604"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="567"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="567"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="687"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="687"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="538"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="538"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="602"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="715"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="491"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="491"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="701 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="478"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="478"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="623"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="623"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="563"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="686"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="194"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="642"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="555"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="555"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="52"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="52"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="280"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="280"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="761"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="761"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="673"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="673"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="556"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="556"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="622"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="622"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="477"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="477"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="181"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="181"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="388"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="388"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="51"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="51"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="702 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="389"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="389"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="281"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="281"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="54"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="54"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="557"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="557"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="784"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="784"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="625"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="625"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="783"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="783"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="182"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="182"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="526"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(105)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="619"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="624"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="624"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="762"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="762"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="195"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="564"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="53"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="53"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="558"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="558"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="525"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="525"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="703 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="29"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="29"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="100"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="100"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="626"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="626"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="620"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="456"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Geom./Est."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="707"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="707"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="708"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="565"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="627"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="627"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="559"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="559"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="196"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="30"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="763"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="763"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="390"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="390"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="734"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="734"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="282"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="282"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="101"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="101"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="560"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="560"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="704 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="704"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="704"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="562"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="562"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="32"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="710"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="697"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Geom./Est."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="197"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="721"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="721"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="735"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="735"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="709"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="709"></Activity>
+        <Teacher name="Emilce C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="776"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="169"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="561"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="561"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="283"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="283"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="31"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="31"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Aritm."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="720"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="720"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="222"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="566"></Activity>
+        <Teacher name="Gustavo S."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="764"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="764"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="683"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="683"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="801 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="383"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="383"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="676"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="676"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="379"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="379"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="6"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="6"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="542"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="542"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="674"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="674"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="382"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="382"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="378"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="378"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="638"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="638"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="541"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="541"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="740"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="740"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="170"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="198"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="675"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="675"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="639"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="639"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="549"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="646"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="802 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="677"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="677"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="544"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="544"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="550"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(105)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="647"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="481"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="481"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="741"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="741"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="385"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="385"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="640"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="640"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(108)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="39"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="39"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="171"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="199"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="7"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="7"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="480"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="480"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="543"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="543"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="641"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="641"></Activity>
+        <Teacher name="Óscar P."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="40"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="40"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="384"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="384"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="803 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="546"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="546"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="8"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="8"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="246"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="172"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="167"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="167"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="387"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="387"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="483"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="483"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="42"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="42"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="545"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="545"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="630"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="630"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="386"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="386"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="551"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="200"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="742"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="742"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="631"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="631"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="482"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="482"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="41"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="41"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="804 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="706"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="706"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="632"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="632"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="694"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="694"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="696"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="696"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="484"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="484"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="552"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(315)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="205"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="633"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="633"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="705"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="705"></Activity>
+        <Teacher name="Yeimy P."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="547"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="547"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="485"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="485"></Activity>
+        <Teacher name="Diva B."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="728"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="728"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="695"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="695"></Activity>
+        <Teacher name="Jaime A."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="548"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="548"></Activity>
+        <Teacher name="Andrés C."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="743"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="743"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="729"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="722"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="901 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="465"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="465"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="712"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="711"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="570"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="570"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="33"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="33"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="755"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="755"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="716"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="716"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="506"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="506"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="691"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="202"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="288"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="288"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="569"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="569"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(302)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="34"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="34"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="717"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="717"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="730"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="730"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="464"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="464"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="270"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="507"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="902 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="572"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="572"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="756"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="756"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="593"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="593"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="467"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="467"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="289"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="289"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="35"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="35"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="731"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="731"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="571"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="571"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="504"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="504"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="594"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="594"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="568"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="568"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="466"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="466"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="203"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="245"></Activity>
+        <Teacher name="Emmanuel S."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(308)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="36"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="36"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="505"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="692"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="903 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="37"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="37"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="308"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="308"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Fis./Quím."></Subject>
+        <Room name="(311)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="733"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="129"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="574"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="574"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="732"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="732"></Activity>
+        <Teacher name="Jhorman P."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="757"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="757"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="592"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="592"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="38"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="38"></Activity>
+        <Teacher name="Indira H."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(304)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="703"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="272"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="204"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="780"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="128"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="128"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="781"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="781"></Activity>
+        <Teacher name="Angela G."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="573"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="573"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(313)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="591"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="591"></Activity>
+        <Teacher name="Willy B."></Teacher>
+        <Subject name="Soc."></Subject>
+        <Room name="(305)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="290"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="290"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1001 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="765"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="765"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="770"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="303"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="470"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="470"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="744"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="744"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="315"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="315"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="64"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="64"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="471"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="206"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="395"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="599"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="607"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="607"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="302"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="302"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="539"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="773"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="241"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="241"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="63"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="63"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="394"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="394"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="316"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="316"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1002 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="66"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="66"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="207"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="774"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="396"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="396"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="318"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="318"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="304"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="304"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="680"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="680"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="600"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="771"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="242"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="242"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="745"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="745"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="681"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="540"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="65"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="65"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="397"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="305"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="317"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="317"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="766"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="766"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="608"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="608"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1003 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="320"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="320"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="699"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="699"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="306"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="306"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="398"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="398"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="243"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="243"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="746"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="746"></Activity>
+        <Teacher name="Danilo M."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="772"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Tecn."></Subject>
+        <Room name="(104)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="700"></Activity>
+        <Teacher name="Javier V."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(312)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="767"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="767"></Activity>
+        <Teacher name="Mauricio R"></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_2"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="67"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="67"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(112)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="319"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="319"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="775"></Activity>
+        <Teacher name="Edgar C."></Teacher>
+        <Subject name="Inf."></Subject>
+        <Room name="(111)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="713"></Activity>
+        <Teacher name="Andrés R."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(107)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="307"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="399"></Activity>
+        <Teacher name="Lina M."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(314)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="609"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="609"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="208"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="601"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="68"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="68"></Activity>
+        <Teacher name="Johana C."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(106)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1101 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="508"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="508"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="595"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="583"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="598"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="598"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="98"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="98"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="400"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="400"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="309"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="309"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="752"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="752"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="442"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="442"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="297"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="297"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="509"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="99"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="238"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="238"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="310"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="580"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="758"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="758"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="441"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="441"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="296"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="296"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1102 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="443"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="443"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="510"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="510"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="753"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="753"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="718"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="718"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="87"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="581"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="298"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="298"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="584"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="596"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="511"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="312"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="759"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="759"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="239"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="239"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="86"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="86"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="444"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="444"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="299"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="299"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="311"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="311"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="401"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="401"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+  <Subgroup name="1103 Subgrupo automático">
+    <Day name="Lun">
+      <Hour name="12:35-13:30">
+        <Activity id="301"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="301"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="314"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="597"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="Rel."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="88"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="88"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mar">
+      <Hour name="12:35-13:30">
+        <Activity id="512"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="512"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="445"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="445"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="719"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="719"></Activity>
+        <Teacher name="Mauricio M."></Teacher>
+        <Subject name="C. Pol."></Subject>
+        <Room name="(306)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Mié">
+      <Hour name="12:35-13:30">
+        <Activity id="446"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="446"></Activity>
+        <Teacher name="Mónica R."></Teacher>
+        <Subject name="Mat."></Subject>
+        <Room name="(303)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="300"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="300"></Activity>
+        <Teacher name="Miguel G."></Teacher>
+        <Subject name="Fis."></Subject>
+        <Room name="(103)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="313"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="313"></Activity>
+        <Teacher name="Neisa M."></Teacher>
+        <Subject name="Quim."></Subject>
+        <Room name="(102)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Jue">
+      <Hour name="12:35-13:30">
+        <Activity id="89"></Activity>
+        <Teacher name="Milton R."></Teacher>
+        <Subject name="Cast."></Subject>
+        <Room name="(310)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="585"></Activity>
+        <Teacher name="Wilmer R."></Teacher>
+        <Subject name="Ética"></Subject>
+        <Room name="(309)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="754"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="754"></Activity>
+        <Teacher name="Claudia P."></Teacher>
+        <Subject name="Art."></Subject>
+        <Room name="(101)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="582"></Activity>
+        <Teacher name="Jennyfer G."></Teacher>
+        <Subject name="Biol."></Subject>
+        <Room name="(105)"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="513"></Activity>
+        <Teacher name="Carlos C."></Teacher>
+        <Subject name="Ing."></Subject>
+        <Room name="(307)"></Room>
+      </Hour>
+    </Day>
+    <Day name="Vie">
+      <Hour name="12:35-13:30">
+        <Activity id="402"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="13:30-14:25">
+        <Activity id="402"></Activity>
+        <Teacher name="Claudio G."></Teacher>
+        <Subject name="Tecn./Inf."></Subject>
+        <Room name="(110)"></Room>
+      </Hour>
+      <Hour name="14:25-15:15">
+        <Activity id="240"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="15:15-16:10">
+        <Activity id="240"></Activity>
+        <Teacher name="Yonatan V."></Teacher>
+        <Subject name="Filo."></Subject>
+        <Room name="(214)"></Room>
+      </Hour>
+      <Hour name="16:10-16:40">
+      </Hour>
+      <Hour name="16:40-17:30">
+        <Activity id="760"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+      <Hour name="17:30-18:20">
+        <Activity id="760"></Activity>
+        <Teacher name="Edilberto M."></Teacher>
+        <Subject name="Edu. Fis."></Subject>
+        <Room name="Cancha_1"></Room>
+      </Hour>
+    </Day>
+  </Subgroup>
+</Students_Timetable>

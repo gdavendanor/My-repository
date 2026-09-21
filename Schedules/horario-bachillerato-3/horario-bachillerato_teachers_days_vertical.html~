@@ -1,0 +1,2197 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+  <head>
+    <title>Colegio Alfonso Reyes Echandía IED</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" media="all" href="horario-bachillerato_stylesheet.css" type="text/css" />
+  </head>
+  <body id="top">
+    <table>
+      <tr align="left" valign="top">
+        <th>Nombre de institución:</th>
+        <td>Colegio Alfonso Reyes Echandía IED</td>
+      </tr>
+    </table>
+    <table>
+      <tr align="left" valign="top">
+        <th>Comentarios:</th>
+        <td>2026 Horario de Bachillerato V02</td>
+      </tr>
+    </table>
+    <p><strong>Tabla de contenido</strong></p>
+    <ul>
+      <li><a href="#table_1">Jaime A.</a></li>
+      <li><a href="#table_2">Diva B.</a></li>
+      <li><a href="#table_3">Willy B.</a></li>
+      <li><a href="#table_4">Edgar C.</a></li>
+      <li><a href="#table_5">Emilce C.</a></li>
+      <li><a href="#table_6">Andrés C.</a></li>
+      <li><a href="#table_7">Carlos C.</a></li>
+      <li><a href="#table_8">Johana C.</a></li>
+      <li><a href="#table_9">Miguel G.</a></li>
+      <li><a href="#table_10">Jennyfer G.</a></li>
+      <li><a href="#table_11">Claudio G.</a></li>
+      <li><a href="#table_12">Angela G.</a></li>
+      <li><a href="#table_13">Indira H.</a></li>
+      <li><a href="#table_14">Mauricio M.</a></li>
+      <li><a href="#table_15">Neisa M.</a></li>
+      <li><a href="#table_16">Danilo M.</a></li>
+      <li><a href="#table_17">Lina M.</a></li>
+      <li><a href="#table_18">Edilberto M.</a></li>
+      <li><a href="#table_19">Óscar P.</a></li>
+      <li><a href="#table_20">Yeimy P.</a></li>
+      <li><a href="#table_21">Claudia P.</a></li>
+      <li><a href="#table_22">Jhorman P.</a></li>
+      <li><a href="#table_23">Andrés R.</a></li>
+      <li><a href="#table_24">Mónica R.</a></li>
+      <li><a href="#table_25">Wilmer R.</a></li>
+      <li><a href="#table_26">Mauricio R</a></li>
+      <li><a href="#table_27">Milton R.</a></li>
+      <li><a href="#table_28">Emmanuel S.</a></li>
+      <li><a href="#table_29">Gustavo S.</a></li>
+      <li><a href="#table_30">Javier V.</a></li>
+      <li><a href="#table_31">Yonatan V.</a></li>
+    </ul>
+    <p>&nbsp;</p>
+    <table id="table_1" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Jaime A.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">703<br />Aritm.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>704<br />Aritm.<br />(302)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">804<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">801<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">803<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+          <td colspan="2">802<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>703<br />Aritm.<br />(302)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">704<br />Aritm.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">804<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">801<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+          <td colspan="2">802<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">803<br />Mat.<br />(302)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_2" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Diva B.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">601<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">801<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">802<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td colspan="2">804<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">803<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">601<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td colspan="2">801<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">804<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td colspan="2">802<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">803<br />Cast.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_3" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Willy B.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">602<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">902<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">601<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">901<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">903<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>903<br />Rel.<br />(305)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">902<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td colspan="2">601<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">901<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">602<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td colspan="2">903<br />Soc.<br />(305)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>901<br />Rel.<br />(305)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_4" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Edgar C.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">602<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+          <td>1001<br />Tecn.<br />(104)<br /></td>
+          <td>1002<br />Inf.<br />(111)<br /></td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">604<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">704<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>1003<br />Tecn.<br />(104)<br /></td>
+          <td>1002<br />Tecn.<br />(104)<br /></td>
+          <td colspan="2">702<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>1003<br />Inf.<br />(111)<br /></td>
+          <td>1001<br />Inf.<br />(111)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">703<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">701<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+          <td colspan="2">601<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">603<br />Tecn.<br />(104)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_5" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Emilce C.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">603<br />Ing.<br />(106)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>605<br />Ing.<br />(104)<br /></td>
+          <td>-X-</td>
+          <td>601<br />Ing.<br />(307)<br /></td>
+          <td>704<br />Ing.<br />(104)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">602<br />Ing.<br />(312)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">704<br />Ing.<br />(107)<br /></td>
+          <!-- span -->
+          <td>603<br />Ing.<br />(306)<br /></td>
+          <td>604<br />Ing.<br />(307)<br /></td>
+          <td>-X-</td>
+          <td>702<br />Ing.<br />(105)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">601<br />Ing.<br />(304)<br /></td>
+          <!-- span -->
+          <td>602<br />Ing.<br />(306)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">605<br />Ing.<br />(315)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">604<br />Ing.<br />(112)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">702<br />Ing.<br />(112)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_6" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Andrés C.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">803<br />Biol.<br />(214)<br /></td>
+          <!-- span -->
+          <td colspan="2">802<br />Biol.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>802<br />Fis./Quím.<br />(105)<br /></td>
+          <td>601<br />Fis./Quím.<br />(309)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">801<br />Biol.<br />(304)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>804<br />Fis./Quím.<br />(315)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">803<br />Biol.<br />(310)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">804<br />Biol.<br />(104)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">801<br />Biol.<br />(303)<br /></td>
+          <!-- span -->
+          <td>803<br />Fis./Quím.<br />(314)<br /></td>
+          <td>602<br />Fis./Quím.<br />(105)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">802<br />Biol.<br />(313)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">804<br />Biol.<br />(307)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>801<br />Fis./Quím.<br />(311)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_7" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Carlos C.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1101<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td colspan="2">1102<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>903<br />Ing.<br />(307)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1103<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td colspan="2">703<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">901<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td>1102<br />Ing.<br />(307)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">902<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>1101<br />Ing.<br />(307)<br /></td>
+          <td>---</td>
+          <td colspan="2">903<br />Ing.<br />(307)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>1103<br />Ing.<br />(307)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>902<br />Ing.<br />(307)<br /></td>
+          <td>901<br />Ing.<br />(307)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_8" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Johana C.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1002<br />Mat.<br />(306)<br /></td>
+          <!-- span -->
+          <td>605<br />Geom./Est.<br />(303)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">601<br />Mat.<br />(305)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1001<br />Mat.<br />(310)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">602<br />Mat.<br />(103)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>603<br />Geom./Est.<br />(106)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1003<br />Mat.<br />(112)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">1002<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">601<br />Mat.<br />(311)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1001<br />Mat.<br />(312)<br /></td>
+          <!-- span -->
+          <td colspan="2">602<br />Mat.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1003<br />Mat.<br />(106)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_9" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Miguel G.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1103<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+          <td>901<br />Fis.<br />(103)<br /></td>
+          <td>1001<br />Fis.<br />(103)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1003<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>---</td>
+          <td>---</td>
+          <td colspan="2">1002<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1102<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">1103<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1101<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">1001<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>1003<br />Fis.<br />(103)<br /></td>
+          <td>1002<br />Fis.<br />(103)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1102<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">1101<br />Fis.<br />(103)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_10" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Jennyfer G.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">902<br />Biol.<br />(308)<br /></td>
+          <!-- span -->
+          <td colspan="2">903<br />Fis./Quím.<br />(311)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">901<br />Biol.<br />(106)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">903<br />Biol.<br />(103)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>1102<br />Biol.<br />(309)<br /></td>
+          <td>-X-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">902<br />Biol.<br />(308)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>605<br />Fis./Quím.<br />(315)<br /></td>
+          <td>603<br />Fis./Quím.<br />(105)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">901<br />Biol.<br />(302)<br /></td>
+          <!-- span -->
+          <td colspan="2">902<br />Fis./Quím.<br />(103)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>1103<br />Biol.<br />(105)<br /></td>
+          <td>1101<br />Biol.<br />(102)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">903<br />Biol.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>604<br />Fis./Quím.<br />(305)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_11" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Claudio G.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">702<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">604<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">605<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td colspan="2">1101<br />Tecn./Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">601<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">603<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">703<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">602<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1103<br />Tecn./Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td colspan="2">701<br />Inf.<br />(110)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1102<br />Tecn./Inf.<br />(110)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_12" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Angela G.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">704<br />Cast.<br />(108)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>701<br />Ing.<br />(112)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">702<br />Cast.<br />(302)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>703<br />Ing.<br />(307)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">701<br />Ing.<br />(303)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>---</td>
+          <td>---</td>
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">903<br />Cast.<br />(112)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">704<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_13" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Indira H.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">903<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">605<br />Aritm.<br />(304)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">901<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">902<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">604<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td colspan="2">903<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>603<br />Aritm.<br />(304)<br /></td>
+          <td>605<br />Aritm.<br />(304)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">901<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">603<br />Aritm.<br />(304)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">604<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td colspan="2">902<br />Mat.<br />(304)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_14" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Mauricio M.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>1101<br />Rel.<br />(306)<br /></td>
+          <td>1103<br />Rel.<br />(306)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1101<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1102<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+          <td colspan="2">605<br />Soc.<br />(306)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1103<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>1002<br />Rel.<br />(306)<br /></td>
+          <td>1102<br />Rel.<br />(306)<br /></td>
+          <td>---</td>
+          <td>1001<br />Rel.<br />(306)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1001<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">605<br />Soc.<br />(306)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1003<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>1003<br />Rel.<br />(306)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1002<br />C. Pol.<br />(306)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_15" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Neisa M.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1003<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td>1103<br />Quim.<br />(102)<br /></td>
+          <td>901<br />Quim.<br />(102)<br /></td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1002<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td colspan="2">1001<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1101<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>---</td>
+          <td>1102<br />Quim.<br />(102)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">1103<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">1003<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>1101<br />Quim.<br />(102)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1002<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td colspan="2">1102<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1001<br />Quim.<br />(102)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_16" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Danilo M.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">702<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1001<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td colspan="2">802<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1003<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">701<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">1002<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">704<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td colspan="2">801<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">803<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">703<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td colspan="2">804<br />Art.<br />(106)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_17" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Lina M.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">801<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">1002<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1003<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td colspan="2">803<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">802<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">801<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td>1001<br />Ing.<br />(314)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">803<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>1002<br />Ing.<br />(314)<br /></td>
+          <td>1003<br />Ing.<br />(314)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">1001<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">802<br />Ing.<br />(314)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_18" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Edilberto M.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">605<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td colspan="2">902<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">901<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">903<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">701<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1102<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">703<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td colspan="2">702<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">1101<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td colspan="2">704<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1103<br />Edu. Fis.<br />Cancha_1<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_19" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Óscar P.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">603<br />Soc.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>802<br />Rel.<br />(315)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">604<br />Soc.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>603<br />Rel.<br />(107)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">802<br />Soc.<br />(108)<br /></td>
+          <!-- span -->
+          <td>604<br />Rel.<br />(112)<br /></td>
+          <td>602<br />Rel.<br />(112)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">801<br />Soc.<br />(311)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">604<br />Soc.<br />(112)<br /></td>
+          <!-- span -->
+          <td colspan="2">603<br />Soc.<br />(102)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">802<br />Soc.<br />(311)<br /></td>
+          <!-- span -->
+          <td colspan="2">801<br />Soc.<br />(307)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>601<br />Rel.<br />(315)<br /></td>
+          <td>801<br />Rel.<br />(308)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_20" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Yeimy P.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">804<br />Ing.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">602<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">603<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">604<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">605<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+          <td colspan="2">804<br />Ing.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">602<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">603<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+          <td colspan="2">604<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">605<br />Cast.<br />(313)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_21" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Claudia P.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">604<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1102<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">902<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">605<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">1101<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td colspan="2">601<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">901<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">602<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td colspan="2">1103<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">603<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">903<br />Art.<br />(101)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_22" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Jhorman P.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">802<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td colspan="2">801<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>903<br />Inf.<br />(111)<br /></td>
+          <td>803<br />Inf.<br />(111)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">803<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td colspan="2">903<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">902<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td>901<br />Inf.<br />(111)<br /></td>
+          <td>704<br />Inf.<br />(110)<br /></td>
+          <td>-X-</td>
+          <td>802<br />Inf.<br />(110)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">804<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>801<br />Inf.<br />(111)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">901<br />Tecn.<br />(112)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>804<br />Inf.<br />(111)<br /></td>
+          <td>902<br />Inf.<br />(111)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_23" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Andrés R.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">604<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+          <td colspan="2">601<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">603<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">602<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>704<br />Inf.<br />(107)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">601<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>---</td>
+          <td>1002<br />Biol.<br />(107)<br /></td>
+          <td>1001<br />Biol.<br />(107)<br /></td>
+          <td>1003<br />Biol.<br />(107)<br /></td>
+          <td>-X-</td>
+          <td colspan="2">604<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">605<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+          <td colspan="2">603<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">602<br />Biol.<br />(107)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_24" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Mónica R.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1102<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">702<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>704<br />Geom./Est.<br />(303)<br /></td>
+          <td>703<br />Geom./Est.<br />(303)<br /></td>
+          <td colspan="2">1103<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">701<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">1103<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td colspan="2">1101<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">1102<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">702<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td colspan="2">1101<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">701<br />Mat.<br />(303)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_25" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Wilmer R.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>1002<br />Ética<br />(309)<br /></td>
+          <td>1101<br />Ética<br />(309)<br /></td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>701<br />Ética<br />(309)<br /></td>
+          <td>704<br />Ética<br />(309)<br /></td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>603<br />Ética<br />(309)<br /></td>
+          <td>804<br />Ética<br />(309)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>1102<br />Ética<br />(309)<br /></td>
+          <td>1001<br />Ética<br />(309)<br /></td>
+          <td>602<br />Ética<br />(309)<br /></td>
+          <td>901<br />Ética<br />(309)<br /></td>
+          <td>-X-</td>
+          <td>703<br />Ética<br />(309)<br /></td>
+          <td>802<br />Ética<br />(309)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>903<br />Ética<br />(309)<br /></td>
+          <td>1103<br />Ética<br />(309)<br /></td>
+          <td>---</td>
+          <td>803<br />Ética<br />(309)<br /></td>
+          <td>-X-</td>
+          <td>702<br />Ética<br />(309)<br /></td>
+          <td>801<br />Ética<br />(309)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>902<br />Ética<br />(309)<br /></td>
+          <td>---</td>
+          <td>1003<br />Ética<br />(309)<br /></td>
+          <td>605<br />Ética<br />(309)<br /></td>
+          <td>-X-</td>
+          <td>604<br />Ética<br />(309)<br /></td>
+          <td>601<br />Ética<br />(309)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_26" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Mauricio R</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">1001<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td colspan="2">803<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">804<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">801<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td colspan="2">603<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">602<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">1003<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">604<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">802<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">601<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td colspan="2">1002<br />Edu. Fis.<br />Cancha_2<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_27" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Milton R.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">701<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td colspan="2">703<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1103<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">1101<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td>1102<br />Cast.<br />(310)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">702<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>903<br />Cast.<br />(310)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>1103<br />Cast.<br />(310)<br /></td>
+          <td>1101<br />Cast.<br />(310)<br /></td>
+          <td colspan="2">1102<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">701<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">703<br />Cast.<br />(310)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_28" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Emmanuel S.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">701<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">703<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>703<br />Rel.<br />(308)<br /></td>
+          <td>701<br />Rel.<br />(308)<br /></td>
+          <td colspan="2">704<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">702<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">703<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>702<br />Rel.<br />(308)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">702<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+          <td colspan="2">701<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">704<br />Soc.<br />(308)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>704<br />Rel.<br />(308)<br /></td>
+          <td>902<br />Rel.<br />(308)<br /></td>
+          <td>605<br />Rel.<br />(308)<br /></td>
+          <td>---</td>
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_29" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Gustavo S.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">704<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>701<br />Fis./Quím.<br />(108)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">702<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td colspan="2">701<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>703<br />Fis./Quím.<br />(108)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">703<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">704<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">701<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td colspan="2">605<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>702<br />Fis./Quím.<br />(108)<br /></td>
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>---</td>
+          <td>704<br />Fis./Quím.<br />(108)<br /></td>
+          <td colspan="2">702<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">703<br />Biol.<br />(108)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_30" border="1" class="even_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Javier V.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td colspan="2">901<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+          <td colspan="2">1003<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1001<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td colspan="2">902<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+          <td>---</td>
+          <td>---</td>
+          <td>-X-</td>
+          <td colspan="2">1002<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td>1001<br />Cast.<br />(312)<br /></td>
+          <td>1003<br />Cast.<br />(312)<br /></td>
+          <td colspan="2">605<br />Tecn.<br />(312)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td>1002<br />Cast.<br />(312)<br /></td>
+          <td>903<br />Cast.<br />(312)<br /></td>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td>-X-</td>
+          <td colspan="2">902<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">901<br />Cast.<br />(312)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>-x-</td>
+          <td>-x-</td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+    <table id="table_31" border="1" class="odd_table">
+      <caption><span class="institution">Colegio Alfonso Reyes Echandía IED</span><br /><span class="name">Yonatan V.</span></caption>
+      <thead>
+        <tr>
+          <td></td>
+          <th class="xAxis">12:35-13:30</th>
+          <th class="xAxis">13:30-14:25</th>
+          <th class="xAxis">14:25-15:15</th>
+          <th class="xAxis">15:15-16:10</th>
+          <th class="xAxis">16:10-16:40</th>
+          <th class="xAxis">16:40-17:30</th>
+          <th class="xAxis">17:30-18:20</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th class="yAxis">Lun</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">804<br />Soc.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>803<br />Rel.<br />(214)<br /></td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mar</th>
+          <td>-x-</td>
+          <td>-x-</td>
+          <td colspan="2">1003<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>---</td>
+        </tr>
+        <tr>
+          <th class="yAxis">Mié</th>
+          <td colspan="2">804<br />Soc.<br />(214)<br /></td>
+          <!-- span -->
+          <td colspan="2">1002<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">803<br />Soc.<br />(214)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Jue</th>
+          <td colspan="2">1102<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+          <td colspan="2">1101<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td colspan="2">1001<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+        </tr>
+        <tr>
+          <th class="yAxis">Vie</th>
+          <td colspan="2">803<br />Soc.<br />(214)<br /></td>
+          <!-- span -->
+          <td colspan="2">1103<br />Filo.<br />(214)<br /></td>
+          <!-- span -->
+          <td>-X-</td>
+          <td>---</td>
+          <td>804<br />Rel.<br />(214)<br /></td>
+        </tr>
+        <tr class="foot"><td></td><td colspan="7">Horario generado con FET 7.8.5 el 29/4/26 16:02</td></tr>
+      </tbody>
+    </table>
+    <p class="back"><a href="#top">Volver al principio</a></p>
+  </body>
+</html>
